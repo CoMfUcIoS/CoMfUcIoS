@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+
+![Ioannis-Karasavvaidis GitHub stats](https://github-readme-stats.vercel.app/api?username=Ioannis-Karasavvaidis&show_icons=true&theme=dracula&count_private=true)
+
 <!--
 **Ioannis-Karasavvaidis/ioannis-karasavvaidis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
