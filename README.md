@@ -1,4 +1,4 @@
-### Hello there 👋 [Hello There](https://findicons.com/files/icons/1451/star_wars_the_phantom_menace/32/obi_wan_kenobi.png)
+### Hello there ![Hello There](https://findicons.com/files/icons/1451/star_wars_the_phantom_menace/32/obi_wan_kenobi.png)
 
 
 ![Ioannis-Karasavvaidis GitHub stats](https://github-readme-stats.vercel.app/api?username=Ioannis-Karasavvaidis&show_icons=true&theme=dracula&count_private=true)
