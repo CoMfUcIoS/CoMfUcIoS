@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Go and typescript**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/ioannis-karasavvaidis/](https://www.linkedin.com/in/ioannis-karasavvaidis/)
+- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/ioannis-karasavvaidis/](https://www.linkedin.com/in/John-karasavvaidis/)
 
 - 📝 I regularly write articles on [https://comfucios.github.io](https://comfucios.github.io)
 
@@ -24,7 +24,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/comfucios" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="comfucios" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ioannis-karasavvaidis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ioannis-karasavvaidis" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/John-karasavvaidis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ioannis-karasavvaidis" height="30" width="40" /></a>
 <a href="https://fb.com/comfucios" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="comfucios" height="30" width="40" /></a>
 <a href="https://instagram.com/comfucios" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="comfucios" height="30" width="40" /></a>
 </p>
