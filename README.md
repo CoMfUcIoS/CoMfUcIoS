@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Go and typescript**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/ioannis-karasavvaidis/](https://www.linkedin.com/in/John-karasavvaidis/)
+- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/John-karasavvaidis/](https://www.linkedin.com/in/John-karasavvaidis/)
 
 - 📝 I regularly write articles on [https://comfucios.github.io](https://comfucios.github.io)
 
