@@ -34,4 +34,6 @@
 <img style="width: 419px" src="https://github-readme-streak-stats.herokuapp.com/?user=comfucios&" alt="comfucios" /></p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=comfucios&show_icons=true&locale=en&layout=compact&count_private=true" alt="comfucios" /></p>
 
-
+<script>
+console.log('test');
+</script>
