@@ -7,7 +7,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=comfucios&row=1" alt="comfucios" /></a> </p>
 
-- 🔭 I’m currently working on [Puppet Comply](https://puppet.com/products/puppet-comply/)
+- 🔭 I’m currently working on [Puppet Comply](https://puppet.com/products/puppet-comply/) and a lot side projects
 
 - 🌱 I’m currently learning **Go and typescript**
 
