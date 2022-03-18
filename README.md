@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Go and typescript**
 
-- 📝 I regularly write articles on [https://comfucios.github.io](https://comfucios.github.io)
+- 📝 I regularly write articles on [https://www.netfans.gr](https://www.netfans.gr)
 
 - 💬 Ask me about **React, node js and everything Javascript**
 
