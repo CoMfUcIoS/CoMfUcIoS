@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Puppet Comply](https://puppet.com/products/puppet-comply/) and a lot side projects
 
-- 🌱 I’m currently learning **Go and typescript**
+- 🌱 I’m currently learning **Go**
 
 - 📝 I regularly write articles on [https://www.netfans.gr](https://www.netfans.gr)
 
