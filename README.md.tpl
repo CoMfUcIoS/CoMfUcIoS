@@ -27,7 +27,6 @@
 - [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
 {{- end}}
 
-https://www.netfans.gr/feed.xml
 #### 📜 My recent blog posts
 {{range rss "https://www.netfans.gr/feed.xml" 5}}
 - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
