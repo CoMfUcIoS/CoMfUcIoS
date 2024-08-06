@@ -44,7 +44,6 @@
 - [Update event trigger for pull request review](https://github.com/CoMfUcIoS/puppetlabs-peadm/pull/5) on [CoMfUcIoS/puppetlabs-peadm](https://github.com/CoMfUcIoS/puppetlabs-peadm) (8 months ago)
 - [Update metadata.json](https://github.com/CoMfUcIoS/puppetlabs-peadm/pull/4) on [CoMfUcIoS/puppetlabs-peadm](https://github.com/CoMfUcIoS/puppetlabs-peadm) (8 months ago)
 
-https://www.netfans.gr/feed.xml
 #### 📜 My recent blog posts
 
 - [Google Cloud Shell, my new home](https://comfucios.github.io//posts/google-cloud-shell-my-new-home/) (2 years ago)
