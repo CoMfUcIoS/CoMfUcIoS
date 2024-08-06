@@ -11,9 +11,6 @@
 <p><img align="" src="https://github-readme-stats.vercel.app/api?username=comfucios&show_icons=true&locale=en" alt="comfucios" /></p>
 
 
-<br /><br /><br />
-
-
 #### 👷 Check out what I'm currently working on
 {{range recentContributions 10}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
