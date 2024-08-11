@@ -14,7 +14,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [CoMfUcIoS/neovim](https://github.com/CoMfUcIoS/neovim) -  (2 days ago)
+- [CoMfUcIoS/neovim](https://github.com/CoMfUcIoS/neovim) -  (today)
 - [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments (5 days ago)
 - [CoMfUcIoS/convert-controlrepo](https://github.com/CoMfUcIoS/convert-controlrepo) -  (6 days ago)
 - [puppetlabs/puppetlabs-pecdm](https://github.com/puppetlabs/puppetlabs-pecdm) - Puppet Bolt driven fusion of puppetlabs/peadm and Terraform. (3 months ago)
