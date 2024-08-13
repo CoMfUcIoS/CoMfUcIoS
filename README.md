@@ -14,8 +14,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [CoMfUcIoS/neovim](https://github.com/CoMfUcIoS/neovim) -  (today)
-- [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments (6 days ago)
+- [CoMfUcIoS/neovim](https://github.com/CoMfUcIoS/neovim) -  (1 day ago)
+- [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments (1 week ago)
 - [CoMfUcIoS/convert-controlrepo](https://github.com/CoMfUcIoS/convert-controlrepo) -  (1 week ago)
 - [puppetlabs/puppetlabs-pecdm](https://github.com/puppetlabs/puppetlabs-pecdm) - Puppet Bolt driven fusion of puppetlabs/peadm and Terraform. (3 months ago)
 - [CoMfUcIoS/micro-fe](https://github.com/CoMfUcIoS/micro-fe) - Microfrontends PoC (3 months ago)
@@ -23,11 +23,11 @@
 - [CoMfUcIoS/Monday](https://github.com/CoMfUcIoS/Monday) - Your local AI assistant (5 months ago)
 - [CoMfUcIoS/CoMfUcIoS.github.io](https://github.com/CoMfUcIoS/CoMfUcIoS.github.io) - It is funny because it is true (5 months ago)
 - [CoMfUcIoS/glamour_md_review](https://github.com/CoMfUcIoS/glamour_md_review) -  (5 months ago)
-- [Twingate/github-action](https://github.com/Twingate/github-action) - A GitHub action for connecting to TwinGate to allow access to IP protected resources (10 months ago)
+- [Twingate/github-action](https://github.com/Twingate/github-action) - A GitHub action for connecting to TwinGate to allow access to IP protected resources (11 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [CoMfUcIoS/glamour_md_review](https://github.com/CoMfUcIoS/glamour_md_review) ([v1.0.2](https://github.com/CoMfUcIoS/glamour_md_review/releases/tag/v1.0.2), 6 days ago) - 
+- [CoMfUcIoS/glamour_md_review](https://github.com/CoMfUcIoS/glamour_md_review) ([v1.0.2](https://github.com/CoMfUcIoS/glamour_md_review/releases/tag/v1.0.2), 1 week ago) - 
 - [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) ([v3.21.0](https://github.com/puppetlabs/puppetlabs-peadm/releases/tag/v3.21.0), 4 weeks ago) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments
 - [Twingate/github-action](https://github.com/Twingate/github-action) ([V1.1](https://github.com/Twingate/github-action/releases/tag/V1.1), 8 months ago) - A GitHub action for connecting to TwinGate to allow access to IP protected resources
 
