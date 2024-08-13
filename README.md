@@ -33,6 +33,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [(PE-38770) Install Plan accepts legacy_compilers key](https://github.com/puppetlabs/puppetlabs-peadm/pull/474) on [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) (today)
 - [(MAINT) update mend workflow to use shared tooling](https://github.com/puppetlabs/puppetlabs-peadm/pull/472) on [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) (1 week ago)
 - [(MAINT) CI fix, PE console requires a minimum password of 12 characters](https://github.com/puppetlabs/puppetlabs-peadm/pull/436) on [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) (3 months ago)
 - [(MAINT) Use twingate action directly](https://github.com/puppetlabs/puppetlabs-peadm/pull/427) on [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) (4 months ago)
@@ -42,7 +43,6 @@
 - [Add echo comment step and update test-install job](https://github.com/CoMfUcIoS/puppetlabs-peadm/pull/7) on [CoMfUcIoS/puppetlabs-peadm](https://github.com/CoMfUcIoS/puppetlabs-peadm) (8 months ago)
 - [Update metadata.json](https://github.com/CoMfUcIoS/puppetlabs-peadm/pull/6) on [CoMfUcIoS/puppetlabs-peadm](https://github.com/CoMfUcIoS/puppetlabs-peadm) (8 months ago)
 - [Update event trigger for pull request review](https://github.com/CoMfUcIoS/puppetlabs-peadm/pull/5) on [CoMfUcIoS/puppetlabs-peadm](https://github.com/CoMfUcIoS/puppetlabs-peadm) (8 months ago)
-- [Update metadata.json](https://github.com/CoMfUcIoS/puppetlabs-peadm/pull/4) on [CoMfUcIoS/puppetlabs-peadm](https://github.com/CoMfUcIoS/puppetlabs-peadm) (8 months ago)
 
 #### 📜 My recent blog posts
 
