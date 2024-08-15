@@ -14,9 +14,9 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [CoMfUcIoS/neovim](https://github.com/CoMfUcIoS/neovim) - My configuration of Neovim. (today)
 - [CoMfUcIoS/micro-fe](https://github.com/CoMfUcIoS/micro-fe) - Microfrontends PoC (today)
 - [CoMfUcIoS/blog-me](https://github.com/CoMfUcIoS/blog-me) - Blog management (today)
-- [CoMfUcIoS/neovim](https://github.com/CoMfUcIoS/neovim) -  (3 days ago)
 - [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments (1 week ago)
 - [CoMfUcIoS/convert-controlrepo](https://github.com/CoMfUcIoS/convert-controlrepo) -  (1 week ago)
 - [puppetlabs/puppetlabs-pecdm](https://github.com/puppetlabs/puppetlabs-pecdm) - Puppet Bolt driven fusion of puppetlabs/peadm and Terraform. (3 months ago)
@@ -33,6 +33,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [(PE-38771) Convert plan accepts legacy compilers key in params.json](https://github.com/puppetlabs/puppetlabs-peadm/pull/476) on [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) (today)
 - [(PE-38770) Install Plan accepts legacy_compilers key](https://github.com/puppetlabs/puppetlabs-peadm/pull/474) on [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) (2 days ago)
 - [(MAINT) update mend workflow to use shared tooling](https://github.com/puppetlabs/puppetlabs-peadm/pull/472) on [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) (1 week ago)
 - [(MAINT) CI fix, PE console requires a minimum password of 12 characters](https://github.com/puppetlabs/puppetlabs-peadm/pull/436) on [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) (3 months ago)
@@ -42,7 +43,6 @@
 - [Update metadata.json](https://github.com/CoMfUcIoS/puppetlabs-peadm/pull/8) on [CoMfUcIoS/puppetlabs-peadm](https://github.com/CoMfUcIoS/puppetlabs-peadm) (8 months ago)
 - [Add echo comment step and update test-install job](https://github.com/CoMfUcIoS/puppetlabs-peadm/pull/7) on [CoMfUcIoS/puppetlabs-peadm](https://github.com/CoMfUcIoS/puppetlabs-peadm) (8 months ago)
 - [Update metadata.json](https://github.com/CoMfUcIoS/puppetlabs-peadm/pull/6) on [CoMfUcIoS/puppetlabs-peadm](https://github.com/CoMfUcIoS/puppetlabs-peadm) (8 months ago)
-- [Update event trigger for pull request review](https://github.com/CoMfUcIoS/puppetlabs-peadm/pull/5) on [CoMfUcIoS/puppetlabs-peadm](https://github.com/CoMfUcIoS/puppetlabs-peadm) (8 months ago)
 
 #### 📜 My recent blog posts
 
