@@ -15,7 +15,6 @@
 #### 👷 Check out what I'm currently working on
 
 - [CoMfUcIoS/neovim](https://github.com/CoMfUcIoS/neovim) - My configuration of Neovim. (today)
-- [CoMfUcIoS/godeploy](https://github.com/CoMfUcIoS/godeploy) - A go tool for deploying different environments (today)
 - [CoMfUcIoS/micro-fe](https://github.com/CoMfUcIoS/micro-fe) - Microfrontends PoC (2 days ago)
 - [CoMfUcIoS/blog-me](https://github.com/CoMfUcIoS/blog-me) - Blog management (2 days ago)
 - [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments (1 week ago)
@@ -24,6 +23,7 @@
 - [CoMfUcIoS/Monday](https://github.com/CoMfUcIoS/Monday) - Your local AI assistant (5 months ago)
 - [CoMfUcIoS/CoMfUcIoS.github.io](https://github.com/CoMfUcIoS/CoMfUcIoS.github.io) - It is funny because it is true (6 months ago)
 - [CoMfUcIoS/glamour_md_review](https://github.com/CoMfUcIoS/glamour_md_review) -  (6 months ago)
+- [Twingate/github-action](https://github.com/Twingate/github-action) - A GitHub action for connecting to TwinGate to allow access to IP protected resources (11 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
