@@ -14,7 +14,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [CoMfUcIoS/neovim](https://github.com/CoMfUcIoS/neovim) - My configuration of Neovim. (1 day ago)
+- [CoMfUcIoS/neovim](https://github.com/CoMfUcIoS/neovim) - My configuration of Neovim. (today)
 - [CoMfUcIoS/micro-fe](https://github.com/CoMfUcIoS/micro-fe) - Microfrontends PoC (1 week ago)
 - [CoMfUcIoS/blog-me](https://github.com/CoMfUcIoS/blog-me) - Blog management (1 week ago)
 - [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments (2 weeks ago)
