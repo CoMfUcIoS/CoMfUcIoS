@@ -33,6 +33,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [(PE-38769) Task/Plan to identify conflicting classifications on legacy compilers and warn the user](https://github.com/puppetlabs/puppetlabs-peadm/pull/483) on [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) (today)
 - [Merge branch &#39;manna-harbour:master&#39; into master](https://github.com/CoMfUcIoS/miryoku_zmk/pull/1) on [CoMfUcIoS/miryoku_zmk](https://github.com/CoMfUcIoS/miryoku_zmk) (5 days ago)
 - [(PE-38771) Convert plan accepts legacy compilers key in params.json](https://github.com/puppetlabs/puppetlabs-peadm/pull/476) on [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) (2 weeks ago)
 - [(PE-38770) Install Plan accepts legacy_compilers key](https://github.com/puppetlabs/puppetlabs-peadm/pull/474) on [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) (2 weeks ago)
@@ -42,7 +43,6 @@
 - [Update README.md](https://github.com/CoMfUcIoS/glamour_md_review/pull/4) on [CoMfUcIoS/glamour_md_review](https://github.com/CoMfUcIoS/glamour_md_review) (6 months ago)
 - [Master](https://github.com/CoMfUcIoS/qmk_firmware/pull/1) on [CoMfUcIoS/qmk_firmware](https://github.com/CoMfUcIoS/qmk_firmware) (8 months ago)
 - [Update metadata.json](https://github.com/CoMfUcIoS/puppetlabs-peadm/pull/8) on [CoMfUcIoS/puppetlabs-peadm](https://github.com/CoMfUcIoS/puppetlabs-peadm) (9 months ago)
-- [Add echo comment step and update test-install job](https://github.com/CoMfUcIoS/puppetlabs-peadm/pull/7) on [CoMfUcIoS/puppetlabs-peadm](https://github.com/CoMfUcIoS/puppetlabs-peadm) (9 months ago)
 
 #### 📜 My recent blog posts
 
