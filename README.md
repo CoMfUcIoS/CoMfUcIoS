@@ -33,6 +33,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [(PE-39612) update default PE version to 2021.7.9 and 2023.8.0](https://github.com/puppetlabs/puppetlabs-peadm/pull/487) on [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) (today)
 - [(PE-39612) update default PE version to 2021.7.9 and 2023.8.0](https://github.com/puppetlabs/puppetlabs-peadm/pull/486) on [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) (1 day ago)
 - [(PE-37233-35) Official support of Add compiler plan](https://github.com/puppetlabs/puppetlabs-peadm/pull/485) on [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) (1 day ago)
 - [(PE-38815-18) Official support of Add replica plan](https://github.com/puppetlabs/puppetlabs-peadm/pull/484) on [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) (1 day ago)
@@ -42,7 +43,6 @@
 - [(PE-38770) Install Plan accepts legacy_compilers key](https://github.com/puppetlabs/puppetlabs-peadm/pull/474) on [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) (3 weeks ago)
 - [(MAINT) update mend workflow to use shared tooling](https://github.com/puppetlabs/puppetlabs-peadm/pull/472) on [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) (4 weeks ago)
 - [(MAINT) CI fix, PE console requires a minimum password of 12 characters](https://github.com/puppetlabs/puppetlabs-peadm/pull/436) on [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) (3 months ago)
-- [(MAINT) Use twingate action directly](https://github.com/puppetlabs/puppetlabs-peadm/pull/427) on [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) (4 months ago)
 
 #### 📜 My recent blog posts
 
