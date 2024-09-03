@@ -27,13 +27,15 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [CoMfUcIoS/yamlfix-action](https://github.com/CoMfUcIoS/yamlfix-action) ([v1.0.0](https://github.com/CoMfUcIoS/yamlfix-action/releases/tag/v1.0.0), today) - Action that formats your yaml files
+- [CoMfUcIoS/yamlfix-action](https://github.com/CoMfUcIoS/yamlfix-action) ([v1.0.2](https://github.com/CoMfUcIoS/yamlfix-action/releases/tag/v1.0.2), today) - Action that formats your yaml files
 - [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) ([v3.22.0](https://github.com/puppetlabs/puppetlabs-peadm/releases/tag/v3.22.0), today) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments
 - [CoMfUcIoS/glamour_md_review](https://github.com/CoMfUcIoS/glamour_md_review) ([v1.0.2](https://github.com/CoMfUcIoS/glamour_md_review/releases/tag/v1.0.2), 4 weeks ago) - 
 - [Twingate/github-action](https://github.com/Twingate/github-action) ([V1.1](https://github.com/Twingate/github-action/releases/tag/V1.1), 9 months ago) - A GitHub action for connecting to TwinGate to allow access to IP protected resources
 
 #### 🔨 My recent Pull Requests
 
+- [fix: update Dockerfile to set working directory and correct entrypoin…](https://github.com/CoMfUcIoS/yamlfix-action/pull/3) on [CoMfUcIoS/yamlfix-action](https://github.com/CoMfUcIoS/yamlfix-action) (today)
+- [fix: correct output name in workflow and update action version](https://github.com/CoMfUcIoS/yamlfix-action/pull/2) on [CoMfUcIoS/yamlfix-action](https://github.com/CoMfUcIoS/yamlfix-action) (today)
 - [ci: add GitHub Actions workflow for yamlfix](https://github.com/CoMfUcIoS/yamlfix-action/pull/1) on [CoMfUcIoS/yamlfix-action](https://github.com/CoMfUcIoS/yamlfix-action) (today)
 - [(PE-39612) update default PE version to 2021.7.9 and 2023.8.0](https://github.com/puppetlabs/puppetlabs-peadm/pull/488) on [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) (today)
 - [(PE-39612) update default PE version to 2021.7.9 and 2023.8.0](https://github.com/puppetlabs/puppetlabs-peadm/pull/487) on [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) (today)
@@ -42,8 +44,6 @@
 - [(PE-38815-18) Official support of Add replica plan](https://github.com/puppetlabs/puppetlabs-peadm/pull/484) on [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) (1 day ago)
 - [(PE-38769) Task/Plan to identify conflicting classifications on legacy compilers and warn the user](https://github.com/puppetlabs/puppetlabs-peadm/pull/483) on [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) (5 days ago)
 - [Merge branch &#39;manna-harbour:master&#39; into master](https://github.com/CoMfUcIoS/miryoku_zmk/pull/1) on [CoMfUcIoS/miryoku_zmk](https://github.com/CoMfUcIoS/miryoku_zmk) (1 week ago)
-- [(PE-38771) Convert plan accepts legacy compilers key in params.json](https://github.com/puppetlabs/puppetlabs-peadm/pull/476) on [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) (2 weeks ago)
-- [(PE-38770) Install Plan accepts legacy_compilers key](https://github.com/puppetlabs/puppetlabs-peadm/pull/474) on [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) (3 weeks ago)
 
 #### 📜 My recent blog posts
 
