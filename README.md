@@ -27,7 +27,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [CoMfUcIoS/yamlfix-action](https://github.com/CoMfUcIoS/yamlfix-action) ([v1.0.7](https://github.com/CoMfUcIoS/yamlfix-action/releases/tag/v1.0.7), today) - Action that formats your yaml files
+- [CoMfUcIoS/yamlfix-action](https://github.com/CoMfUcIoS/yamlfix-action) ([v1.0.8](https://github.com/CoMfUcIoS/yamlfix-action/releases/tag/v1.0.8), today) - Action that formats your yaml files
 - [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) ([v3.22.0](https://github.com/puppetlabs/puppetlabs-peadm/releases/tag/v3.22.0), 1 day ago) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments
 - [CoMfUcIoS/glamour_md_review](https://github.com/CoMfUcIoS/glamour_md_review) ([v1.0.2](https://github.com/CoMfUcIoS/glamour_md_review/releases/tag/v1.0.2), 4 weeks ago) - 
 - [Twingate/github-action](https://github.com/Twingate/github-action) ([V1.1](https://github.com/Twingate/github-action/releases/tag/V1.1), 9 months ago) - A GitHub action for connecting to TwinGate to allow access to IP protected resources
