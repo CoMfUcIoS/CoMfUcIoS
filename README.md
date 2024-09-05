@@ -16,7 +16,7 @@
 
 - [CoMfUcIoS/neovim](https://github.com/CoMfUcIoS/neovim) - My configuration of Neovim. (today)
 - [CoMfUcIoS/yamlfix-action](https://github.com/CoMfUcIoS/yamlfix-action) - Action that formats your yaml files (today)
-- [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments (2 days ago)
+- [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments (today)
 - [CoMfUcIoS/micro-fe](https://github.com/CoMfUcIoS/micro-fe) - Microfrontends PoC (3 weeks ago)
 - [CoMfUcIoS/blog-me](https://github.com/CoMfUcIoS/blog-me) - Blog management (3 weeks ago)
 - [CoMfUcIoS/convert-controlrepo](https://github.com/CoMfUcIoS/convert-controlrepo) -  (1 month ago)
@@ -34,6 +34,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Update dependabot.yml](https://github.com/puppetlabs/puppetlabs-peadm/pull/492) on [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) (today)
 - [(MAINT) Apply yaml formatting to GitHub Actions workflows](https://github.com/puppetlabs/puppetlabs-peadm/pull/490) on [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) (today)
 - [docs(readme): update Readme with inputs, outputs, and example usage](https://github.com/CoMfUcIoS/yamlfix-action/pull/9) on [CoMfUcIoS/yamlfix-action](https://github.com/CoMfUcIoS/yamlfix-action) (today)
 - [fix: update yamlfix-action version in workflow and Readme](https://github.com/CoMfUcIoS/yamlfix-action/pull/8) on [CoMfUcIoS/yamlfix-action](https://github.com/CoMfUcIoS/yamlfix-action) (1 day ago)
@@ -43,7 +44,6 @@
 - [fix: update yamlfix-action version in workflow](https://github.com/CoMfUcIoS/yamlfix-action/pull/4) on [CoMfUcIoS/yamlfix-action](https://github.com/CoMfUcIoS/yamlfix-action) (1 day ago)
 - [fix: update Dockerfile to set working directory and correct entrypoin…](https://github.com/CoMfUcIoS/yamlfix-action/pull/3) on [CoMfUcIoS/yamlfix-action](https://github.com/CoMfUcIoS/yamlfix-action) (2 days ago)
 - [fix: correct output name in workflow and update action version](https://github.com/CoMfUcIoS/yamlfix-action/pull/2) on [CoMfUcIoS/yamlfix-action](https://github.com/CoMfUcIoS/yamlfix-action) (2 days ago)
-- [ci: add GitHub Actions workflow for yamlfix](https://github.com/CoMfUcIoS/yamlfix-action/pull/1) on [CoMfUcIoS/yamlfix-action](https://github.com/CoMfUcIoS/yamlfix-action) (2 days ago)
 
 #### 📜 My recent blog posts
 
