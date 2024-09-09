@@ -34,6 +34,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Adding support for legacy compilers (#448)](https://github.com/puppetlabs/puppetlabs-peadm/pull/495) on [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) (today)
 - [docs(readme): update example workflow for yamlfix action](https://github.com/CoMfUcIoS/yamlfix-action/pull/10) on [CoMfUcIoS/yamlfix-action](https://github.com/CoMfUcIoS/yamlfix-action) (3 days ago)
 - [(MAINT) Fix for dependabot.yml and exclude it from yamlfix](https://github.com/puppetlabs/puppetlabs-peadm/pull/492) on [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) (4 days ago)
 - [(MAINT) Apply yaml formatting to GitHub Actions workflows](https://github.com/puppetlabs/puppetlabs-peadm/pull/490) on [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) (4 days ago)
@@ -43,7 +44,6 @@
 - [fix: remove file_pattern from git-auto-commit-action in workflow](https://github.com/CoMfUcIoS/yamlfix-action/pull/6) on [CoMfUcIoS/yamlfix-action](https://github.com/CoMfUcIoS/yamlfix-action) (5 days ago)
 - [no format](https://github.com/CoMfUcIoS/yamlfix-action/pull/5) on [CoMfUcIoS/yamlfix-action](https://github.com/CoMfUcIoS/yamlfix-action) (5 days ago)
 - [fix: update yamlfix-action version in workflow](https://github.com/CoMfUcIoS/yamlfix-action/pull/4) on [CoMfUcIoS/yamlfix-action](https://github.com/CoMfUcIoS/yamlfix-action) (5 days ago)
-- [fix: update Dockerfile to set working directory and correct entrypoin…](https://github.com/CoMfUcIoS/yamlfix-action/pull/3) on [CoMfUcIoS/yamlfix-action](https://github.com/CoMfUcIoS/yamlfix-action) (6 days ago)
 
 #### 📜 My recent blog posts
 
@@ -53,11 +53,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [eust-w](https://github.com/eust-w)
 - [nancyadam24](https://github.com/nancyadam24)
 - [GojMann](https://github.com/GojMann)
 - [Ioannis-Karasavvaidis](https://github.com/Ioannis-Karasavvaidis)
 - [sean-mckenna](https://github.com/sean-mckenna)
-- [cp](https://github.com/cp)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
