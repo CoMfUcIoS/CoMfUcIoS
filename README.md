@@ -15,6 +15,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [CoMfUcIoS/neovim](https://github.com/CoMfUcIoS/neovim) - My configuration of Neovim. (today)
+- [CoMfUcIoS/file-watcher](https://github.com/CoMfUcIoS/file-watcher) -  (today)
 - [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments (2 days ago)
 - [CoMfUcIoS/yamlfix-action](https://github.com/CoMfUcIoS/yamlfix-action) - Action that formats your yaml files (1 week ago)
 - [CoMfUcIoS/micro-fe](https://github.com/CoMfUcIoS/micro-fe) - Microfrontends PoC (1 month ago)
@@ -23,7 +24,6 @@
 - [puppetlabs/puppetlabs-pecdm](https://github.com/puppetlabs/puppetlabs-pecdm) - Puppet Bolt driven fusion of puppetlabs/peadm and Terraform. (4 months ago)
 - [CoMfUcIoS/Monday](https://github.com/CoMfUcIoS/Monday) - Your local AI assistant (6 months ago)
 - [CoMfUcIoS/CoMfUcIoS.github.io](https://github.com/CoMfUcIoS/CoMfUcIoS.github.io) - It is funny because it is true (7 months ago)
-- [CoMfUcIoS/glamour_md_review](https://github.com/CoMfUcIoS/glamour_md_review) -  (7 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -34,6 +34,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [ci: add GitHub Actions workflows for build, release, and test](https://github.com/CoMfUcIoS/file-watcher/pull/1) on [CoMfUcIoS/file-watcher](https://github.com/CoMfUcIoS/file-watcher) (today)
 - [Adding support for legacy compilers (#448)](https://github.com/puppetlabs/puppetlabs-peadm/pull/495) on [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) (5 days ago)
 - [docs(readme): update example workflow for yamlfix action](https://github.com/CoMfUcIoS/yamlfix-action/pull/10) on [CoMfUcIoS/yamlfix-action](https://github.com/CoMfUcIoS/yamlfix-action) (1 week ago)
 - [(MAINT) Fix for dependabot.yml and exclude it from yamlfix](https://github.com/puppetlabs/puppetlabs-peadm/pull/492) on [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) (1 week ago)
@@ -43,7 +44,6 @@
 - [fix: add git status command to entrypoint.sh for debugging ](https://github.com/CoMfUcIoS/yamlfix-action/pull/7) on [CoMfUcIoS/yamlfix-action](https://github.com/CoMfUcIoS/yamlfix-action) (1 week ago)
 - [fix: remove file_pattern from git-auto-commit-action in workflow](https://github.com/CoMfUcIoS/yamlfix-action/pull/6) on [CoMfUcIoS/yamlfix-action](https://github.com/CoMfUcIoS/yamlfix-action) (1 week ago)
 - [no format](https://github.com/CoMfUcIoS/yamlfix-action/pull/5) on [CoMfUcIoS/yamlfix-action](https://github.com/CoMfUcIoS/yamlfix-action) (1 week ago)
-- [fix: update yamlfix-action version in workflow](https://github.com/CoMfUcIoS/yamlfix-action/pull/4) on [CoMfUcIoS/yamlfix-action](https://github.com/CoMfUcIoS/yamlfix-action) (1 week ago)
 
 #### 📜 My recent blog posts
 
