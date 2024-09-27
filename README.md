@@ -14,10 +14,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments (today)
-- [CoMfUcIoS/neovim](https://github.com/CoMfUcIoS/neovim) - My configuration of Neovim. (2 days ago)
+- [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments (1 day ago)
+- [CoMfUcIoS/neovim](https://github.com/CoMfUcIoS/neovim) - My configuration of Neovim. (3 days ago)
 - [CoMfUcIoS/file-watcher](https://github.com/CoMfUcIoS/file-watcher) - A simple CLI command that watches Filesystem changes and runs an action. (1 week ago)
-- [CoMfUcIoS/yamlfix-action](https://github.com/CoMfUcIoS/yamlfix-action) - Action that formats your yaml files (2 weeks ago)
+- [CoMfUcIoS/yamlfix-action](https://github.com/CoMfUcIoS/yamlfix-action) - Action that formats your yaml files (3 weeks ago)
 - [CoMfUcIoS/micro-fe](https://github.com/CoMfUcIoS/micro-fe) - Microfrontends PoC (1 month ago)
 - [CoMfUcIoS/blog-me](https://github.com/CoMfUcIoS/blog-me) - Blog management (1 month ago)
 - [CoMfUcIoS/convert-controlrepo](https://github.com/CoMfUcIoS/convert-controlrepo) -  (1 month ago)
@@ -27,19 +27,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) ([v3.24.0](https://github.com/puppetlabs/puppetlabs-peadm/releases/tag/v3.24.0), 6 days ago) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments
+- [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) ([v3.24.0](https://github.com/puppetlabs/puppetlabs-peadm/releases/tag/v3.24.0), 1 week ago) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments
 - [CoMfUcIoS/file-watcher](https://github.com/CoMfUcIoS/file-watcher) ([v0.3.0](https://github.com/CoMfUcIoS/file-watcher/releases/tag/v0.3.0), 1 week ago) - A simple CLI command that watches Filesystem changes and runs an action.
 - [CoMfUcIoS/yamlfix-action](https://github.com/CoMfUcIoS/yamlfix-action) ([v1.0.8](https://github.com/CoMfUcIoS/yamlfix-action/releases/tag/v1.0.8), 3 weeks ago) - Action that formats your yaml files
 - [CoMfUcIoS/glamour_md_review](https://github.com/CoMfUcIoS/glamour_md_review) ([v1.0.2](https://github.com/CoMfUcIoS/glamour_md_review/releases/tag/v1.0.2), 1 month ago) - 
 
 #### 🔨 My recent Pull Requests
 
-- [feat: add support for VMPooler provisioning](https://github.com/puppetlabs/puppet-dev-boxes/pull/11) on [puppetlabs/puppet-dev-boxes](https://github.com/puppetlabs/puppet-dev-boxes) (today)
-- [(PE-39307) Legacy compilers support smoke tests](https://github.com/puppetlabs/puppetlabs-peadm/pull/505) on [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) (today)
-- [(MAINT) SSL Verification extended](https://github.com/puppetlabs/puppetlabs-peadm/pull/504) on [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) (3 days ago)
+- [feat: add support for VMPooler provisioning](https://github.com/puppetlabs/puppet-dev-boxes/pull/11) on [puppetlabs/puppet-dev-boxes](https://github.com/puppetlabs/puppet-dev-boxes) (1 day ago)
+- [(PE-39307) Legacy compilers support smoke tests](https://github.com/puppetlabs/puppetlabs-peadm/pull/505) on [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) (1 day ago)
+- [(MAINT) SSL Verification extended](https://github.com/puppetlabs/puppetlabs-peadm/pull/504) on [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) (4 days ago)
 - [ci: add GitHub Actions workflows for build, release, and test](https://github.com/CoMfUcIoS/file-watcher/pull/1) on [CoMfUcIoS/file-watcher](https://github.com/CoMfUcIoS/file-watcher) (1 week ago)
 - [Adding support for legacy compilers (#448)](https://github.com/puppetlabs/puppetlabs-peadm/pull/495) on [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) (2 weeks ago)
-- [docs(readme): update example workflow for yamlfix action](https://github.com/CoMfUcIoS/yamlfix-action/pull/10) on [CoMfUcIoS/yamlfix-action](https://github.com/CoMfUcIoS/yamlfix-action) (2 weeks ago)
+- [docs(readme): update example workflow for yamlfix action](https://github.com/CoMfUcIoS/yamlfix-action/pull/10) on [CoMfUcIoS/yamlfix-action](https://github.com/CoMfUcIoS/yamlfix-action) (3 weeks ago)
 - [(MAINT) Fix for dependabot.yml and exclude it from yamlfix](https://github.com/puppetlabs/puppetlabs-peadm/pull/492) on [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) (3 weeks ago)
 - [(MAINT) Apply yaml formatting to GitHub Actions workflows](https://github.com/puppetlabs/puppetlabs-peadm/pull/490) on [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) (3 weeks ago)
 - [docs(readme): update Readme with inputs, outputs, and example usage](https://github.com/CoMfUcIoS/yamlfix-action/pull/9) on [CoMfUcIoS/yamlfix-action](https://github.com/CoMfUcIoS/yamlfix-action) (3 weeks ago)
