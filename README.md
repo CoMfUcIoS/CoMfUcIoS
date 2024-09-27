@@ -14,16 +14,16 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [CoMfUcIoS/blog-me](https://github.com/CoMfUcIoS/blog-me) - Blog management (today)
+- [CoMfUcIoS/CoMfUcIoS.github.io](https://github.com/CoMfUcIoS/CoMfUcIoS.github.io) - It is funny because it is true (today)
 - [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments (1 day ago)
 - [CoMfUcIoS/neovim](https://github.com/CoMfUcIoS/neovim) - My configuration of Neovim. (3 days ago)
 - [CoMfUcIoS/file-watcher](https://github.com/CoMfUcIoS/file-watcher) - A simple CLI command that watches Filesystem changes and runs an action. (1 week ago)
 - [CoMfUcIoS/yamlfix-action](https://github.com/CoMfUcIoS/yamlfix-action) - Action that formats your yaml files (3 weeks ago)
 - [CoMfUcIoS/micro-fe](https://github.com/CoMfUcIoS/micro-fe) - Microfrontends PoC (1 month ago)
-- [CoMfUcIoS/blog-me](https://github.com/CoMfUcIoS/blog-me) - Blog management (1 month ago)
 - [CoMfUcIoS/convert-controlrepo](https://github.com/CoMfUcIoS/convert-controlrepo) -  (1 month ago)
 - [puppetlabs/puppetlabs-pecdm](https://github.com/puppetlabs/puppetlabs-pecdm) - Puppet Bolt driven fusion of puppetlabs/peadm and Terraform. (4 months ago)
 - [CoMfUcIoS/Monday](https://github.com/CoMfUcIoS/Monday) - Your local AI assistant (6 months ago)
-- [CoMfUcIoS/CoMfUcIoS.github.io](https://github.com/CoMfUcIoS/CoMfUcIoS.github.io) - It is funny because it is true (7 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -47,9 +47,9 @@
 
 #### 📜 My recent blog posts
 
-- [Google Cloud Shell, my new home](https://comfucios.github.io//posts/google-cloud-shell-my-new-home/) (2 years ago)
-- [The `Cloud` is upon us](https://comfucios.github.io//posts/the-cloud-is-upon-us/) (2 years ago)
-- [Blog&#39;s story](https://comfucios.github.io//posts/blogs-story/) (2 years ago)
+- [Google Cloud Shell, my new home](https://comfucios.github.io/posts/google-cloud-shell-my-new-home/) (2 years ago)
+- [The `Cloud` is upon us](https://comfucios.github.io/posts/the-cloud-is-upon-us/) (2 years ago)
+- [Blog&#39;s story](https://comfucios.github.io/posts/blogs-story/) (2 years ago)
 
 #### 👯 Check out some of my recent followers
 
