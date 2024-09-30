@@ -34,6 +34,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat(filepicker): add file selection persistence](https://github.com/charmbracelet/bubbles/pull/629) on [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) (today)
 - [chore(docs): update version references for puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm/pull/507) on [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) (today)
 - [feat: add support for VMPooler provisioning](https://github.com/puppetlabs/puppet-dev-boxes/pull/11) on [puppetlabs/puppet-dev-boxes](https://github.com/puppetlabs/puppet-dev-boxes) (4 days ago)
 - [(PE-39307) Legacy compilers support smoke tests](https://github.com/puppetlabs/puppetlabs-peadm/pull/505) on [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) (4 days ago)
@@ -43,7 +44,6 @@
 - [docs(readme): update example workflow for yamlfix action](https://github.com/CoMfUcIoS/yamlfix-action/pull/10) on [CoMfUcIoS/yamlfix-action](https://github.com/CoMfUcIoS/yamlfix-action) (3 weeks ago)
 - [(MAINT) Fix for dependabot.yml and exclude it from yamlfix](https://github.com/puppetlabs/puppetlabs-peadm/pull/492) on [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) (3 weeks ago)
 - [(MAINT) Apply yaml formatting to GitHub Actions workflows](https://github.com/puppetlabs/puppetlabs-peadm/pull/490) on [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) (3 weeks ago)
-- [docs(readme): update Readme with inputs, outputs, and example usage](https://github.com/CoMfUcIoS/yamlfix-action/pull/9) on [CoMfUcIoS/yamlfix-action](https://github.com/CoMfUcIoS/yamlfix-action) (3 weeks ago)
 
 #### 📜 My recent blog posts
 
