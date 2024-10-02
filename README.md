@@ -14,9 +14,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments (1 day ago)
-- [CoMfUcIoS/CoMfUcIoS.github.io](https://github.com/CoMfUcIoS/CoMfUcIoS.github.io) - It is funny because it is true (4 days ago)
-- [CoMfUcIoS/blog-me](https://github.com/CoMfUcIoS/blog-me) - Blog management (4 days ago)
+- [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments (2 days ago)
+- [CoMfUcIoS/CoMfUcIoS.github.io](https://github.com/CoMfUcIoS/CoMfUcIoS.github.io) - It is funny because it is true (5 days ago)
+- [CoMfUcIoS/blog-me](https://github.com/CoMfUcIoS/blog-me) - Blog management (5 days ago)
 - [CoMfUcIoS/neovim](https://github.com/CoMfUcIoS/neovim) - My configuration of Neovim. (1 week ago)
 - [CoMfUcIoS/file-watcher](https://github.com/CoMfUcIoS/file-watcher) - A simple CLI command that watches Filesystem changes and runs an action. (2 weeks ago)
 - [CoMfUcIoS/yamlfix-action](https://github.com/CoMfUcIoS/yamlfix-action) - Action that formats your yaml files (3 weeks ago)
@@ -27,17 +27,17 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) ([v3.25.0](https://github.com/puppetlabs/puppetlabs-peadm/releases/tag/v3.25.0), 1 day ago) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments
+- [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) ([v3.25.0](https://github.com/puppetlabs/puppetlabs-peadm/releases/tag/v3.25.0), 2 days ago) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments
 - [CoMfUcIoS/file-watcher](https://github.com/CoMfUcIoS/file-watcher) ([v0.3.0](https://github.com/CoMfUcIoS/file-watcher/releases/tag/v0.3.0), 2 weeks ago) - A simple CLI command that watches Filesystem changes and runs an action.
-- [CoMfUcIoS/yamlfix-action](https://github.com/CoMfUcIoS/yamlfix-action) ([v1.0.8](https://github.com/CoMfUcIoS/yamlfix-action/releases/tag/v1.0.8), 3 weeks ago) - Action that formats your yaml files
+- [CoMfUcIoS/yamlfix-action](https://github.com/CoMfUcIoS/yamlfix-action) ([v1.0.8](https://github.com/CoMfUcIoS/yamlfix-action/releases/tag/v1.0.8), 4 weeks ago) - Action that formats your yaml files
 - [CoMfUcIoS/glamour_md_review](https://github.com/CoMfUcIoS/glamour_md_review) ([v1.0.2](https://github.com/CoMfUcIoS/glamour_md_review/releases/tag/v1.0.2), 1 month ago) - 
 
 #### 🔨 My recent Pull Requests
 
-- [feat(filepicker): add file selection persistence](https://github.com/charmbracelet/bubbles/pull/629) on [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) (1 day ago)
-- [chore(docs): update version references for puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm/pull/507) on [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) (1 day ago)
-- [feat: add support for VMPooler provisioning](https://github.com/puppetlabs/puppet-dev-boxes/pull/11) on [puppetlabs/puppet-dev-boxes](https://github.com/puppetlabs/puppet-dev-boxes) (5 days ago)
-- [(PE-39307) Legacy compilers support smoke tests](https://github.com/puppetlabs/puppetlabs-peadm/pull/505) on [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) (5 days ago)
+- [feat(filepicker): add file selection persistence](https://github.com/charmbracelet/bubbles/pull/629) on [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) (2 days ago)
+- [chore(docs): update version references for puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm/pull/507) on [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) (2 days ago)
+- [feat: add support for VMPooler provisioning](https://github.com/puppetlabs/puppet-dev-boxes/pull/11) on [puppetlabs/puppet-dev-boxes](https://github.com/puppetlabs/puppet-dev-boxes) (6 days ago)
+- [(PE-39307) Legacy compilers support smoke tests](https://github.com/puppetlabs/puppetlabs-peadm/pull/505) on [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) (6 days ago)
 - [(MAINT) SSL Verification extended](https://github.com/puppetlabs/puppetlabs-peadm/pull/504) on [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) (1 week ago)
 - [ci: add GitHub Actions workflows for build, release, and test](https://github.com/CoMfUcIoS/file-watcher/pull/1) on [CoMfUcIoS/file-watcher](https://github.com/CoMfUcIoS/file-watcher) (2 weeks ago)
 - [Adding support for legacy compilers (#448)](https://github.com/puppetlabs/puppetlabs-peadm/pull/495) on [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) (3 weeks ago)
