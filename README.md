@@ -34,6 +34,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat(workflow): add random hash generation for console password in test-legacy-upgrade](https://github.com/puppetlabs/puppetlabs-peadm/pull/513) on [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) (today)
 - [(PE-39412) PEADM should be able to add multiple compilers at once without requiring service restarts on Primary](https://github.com/puppetlabs/puppetlabs-peadm/pull/512) on [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) (2 days ago)
 - [feat(filepicker): add file selection persistence](https://github.com/charmbracelet/bubbles/pull/629) on [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) (1 week ago)
 - [chore(docs): update version references for puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm/pull/507) on [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) (1 week ago)
@@ -43,7 +44,6 @@
 - [ci: add GitHub Actions workflows for build, release, and test](https://github.com/CoMfUcIoS/file-watcher/pull/1) on [CoMfUcIoS/file-watcher](https://github.com/CoMfUcIoS/file-watcher) (3 weeks ago)
 - [Adding support for legacy compilers (#448)](https://github.com/puppetlabs/puppetlabs-peadm/pull/495) on [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) (1 month ago)
 - [docs(readme): update example workflow for yamlfix action](https://github.com/CoMfUcIoS/yamlfix-action/pull/10) on [CoMfUcIoS/yamlfix-action](https://github.com/CoMfUcIoS/yamlfix-action) (1 month ago)
-- [(MAINT) Fix for dependabot.yml and exclude it from yamlfix](https://github.com/puppetlabs/puppetlabs-peadm/pull/492) on [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) (1 month ago)
 
 #### 📜 My recent blog posts
 
