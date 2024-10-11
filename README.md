@@ -14,6 +14,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [puppetlabs/design-system](https://github.com/puppetlabs/design-system) - A resource for creating user interfaces based on brand, UX, and dev principles (today)
 - [CoMfUcIoS/neovim](https://github.com/CoMfUcIoS/neovim) - My configuration of Neovim. (1 day ago)
 - [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments (1 day ago)
 - [CoMfUcIoS/CoMfUcIoS.github.io](https://github.com/CoMfUcIoS/CoMfUcIoS.github.io) - It is funny because it is true (2 weeks ago)
@@ -23,7 +24,6 @@
 - [CoMfUcIoS/micro-fe](https://github.com/CoMfUcIoS/micro-fe) - Microfrontends PoC (1 month ago)
 - [CoMfUcIoS/convert-controlrepo](https://github.com/CoMfUcIoS/convert-controlrepo) -  (2 months ago)
 - [puppetlabs/puppetlabs-pecdm](https://github.com/puppetlabs/puppetlabs-pecdm) - Puppet Bolt driven fusion of puppetlabs/peadm and Terraform. (5 months ago)
-- [CoMfUcIoS/Monday](https://github.com/CoMfUcIoS/Monday) - Your local AI assistant (7 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
