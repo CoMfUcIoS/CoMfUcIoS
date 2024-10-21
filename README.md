@@ -14,7 +14,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [CoMfUcIoS/neovim](https://github.com/CoMfUcIoS/neovim) - My configuration of Neovim. (2 days ago)
+- [CoMfUcIoS/neovim](https://github.com/CoMfUcIoS/neovim) - My configuration of Neovim. (today)
 - [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments (1 week ago)
 - [puppetlabs/design-system](https://github.com/puppetlabs/design-system) - A resource for creating user interfaces based on brand, UX, and dev principles (1 week ago)
 - [CoMfUcIoS/CoMfUcIoS.github.io](https://github.com/CoMfUcIoS/CoMfUcIoS.github.io) - It is funny because it is true (3 weeks ago)
