@@ -53,11 +53,11 @@
 
 #### 👯 Check out some of my recent followers
 
-- [eust-w](https://github.com/eust-w)
 - [nancyadam24](https://github.com/nancyadam24)
 - [GojMann](https://github.com/GojMann)
 - [Ioannis-Karasavvaidis](https://github.com/Ioannis-Karasavvaidis)
 - [sean-mckenna](https://github.com/sean-mckenna)
+- [cp](https://github.com/cp)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
