@@ -14,8 +14,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [CoMfUcIoS/neovim](https://github.com/CoMfUcIoS/neovim) - My configuration of Neovim. (3 days ago)
-- [CoMfUcIoS/graphql2charts](https://github.com/CoMfUcIoS/graphql2charts) -  (4 weeks ago)
+- [CoMfUcIoS/neovim](https://github.com/CoMfUcIoS/neovim) - My configuration of Neovim. (4 days ago)
+- [CoMfUcIoS/graphql2charts](https://github.com/CoMfUcIoS/graphql2charts) -  (1 month ago)
 - [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments (1 month ago)
 - [puppetlabs/design-system](https://github.com/puppetlabs/design-system) - A resource for creating user interfaces based on brand, UX, and dev principles (1 month ago)
 - [CoMfUcIoS/blog-me](https://github.com/CoMfUcIoS/blog-me) - Blog management (2 months ago)
@@ -37,8 +37,8 @@
 - [feat: update Babel and Webpack configurations for design-system-website](https://github.com/puppetlabs/design-system/pull/677) on [puppetlabs/design-system](https://github.com/puppetlabs/design-system) (1 month ago)
 - [feat(workflow): add random hash generation for console password in test-legacy-upgrade](https://github.com/puppetlabs/puppetlabs-peadm/pull/513) on [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) (1 month ago)
 - [(PE-39412) PEADM should be able to add multiple compilers at once without requiring service restarts on Primary](https://github.com/puppetlabs/puppetlabs-peadm/pull/512) on [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) (1 month ago)
-- [feat(filepicker): add file selection persistence](https://github.com/charmbracelet/bubbles/pull/629) on [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) (1 month ago)
-- [chore(docs): update version references for puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm/pull/507) on [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) (1 month ago)
+- [feat(filepicker): add file selection persistence](https://github.com/charmbracelet/bubbles/pull/629) on [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) (2 months ago)
+- [chore(docs): update version references for puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm/pull/507) on [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) (2 months ago)
 - [feat: add support for VMPooler provisioning](https://github.com/puppetlabs/puppet-dev-boxes/pull/11) on [puppetlabs/puppet-dev-boxes](https://github.com/puppetlabs/puppet-dev-boxes) (2 months ago)
 - [(PE-39307) Legacy compilers support smoke tests](https://github.com/puppetlabs/puppetlabs-peadm/pull/505) on [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) (2 months ago)
 - [(MAINT) SSL Verification extended](https://github.com/puppetlabs/puppetlabs-peadm/pull/504) on [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) (2 months ago)
