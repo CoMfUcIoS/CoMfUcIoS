@@ -14,7 +14,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [CoMfUcIoS/neovim](https://github.com/CoMfUcIoS/neovim) - My configuration of Neovim. (1 day ago)
+- [CoMfUcIoS/neovim](https://github.com/CoMfUcIoS/neovim) - My configuration of Neovim. (2 days ago)
 - [CoMfUcIoS/graphql2charts](https://github.com/CoMfUcIoS/graphql2charts) -  (1 month ago)
 - [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments (2 months ago)
 - [puppetlabs/design-system](https://github.com/puppetlabs/design-system) - A resource for creating user interfaces based on brand, UX, and dev principles (2 months ago)
@@ -27,7 +27,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) ([v3.26.0](https://github.com/puppetlabs/puppetlabs-peadm/releases/tag/v3.26.0), 5 days ago) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments
+- [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) ([v3.26.0](https://github.com/puppetlabs/puppetlabs-peadm/releases/tag/v3.26.0), 6 days ago) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments
 - [CoMfUcIoS/file-watcher](https://github.com/CoMfUcIoS/file-watcher) ([v0.3.0](https://github.com/CoMfUcIoS/file-watcher/releases/tag/v0.3.0), 3 months ago) - A simple CLI command that watches Filesystem changes and runs an action.
 - [CoMfUcIoS/yamlfix-action](https://github.com/CoMfUcIoS/yamlfix-action) ([v1.0.8](https://github.com/CoMfUcIoS/yamlfix-action/releases/tag/v1.0.8), 3 months ago) - Action that formats your yaml files
 - [CoMfUcIoS/glamour_md_review](https://github.com/CoMfUcIoS/glamour_md_review) ([v1.0.2](https://github.com/CoMfUcIoS/glamour_md_review/releases/tag/v1.0.2), 4 months ago) - 
@@ -43,7 +43,7 @@
 - [chore(docs): update version references for puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm/pull/507) on [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) (2 months ago)
 - [feat: add support for VMPooler provisioning](https://github.com/puppetlabs/puppet-dev-boxes/pull/11) on [puppetlabs/puppet-dev-boxes](https://github.com/puppetlabs/puppet-dev-boxes) (2 months ago)
 - [(PE-39307) Legacy compilers support smoke tests](https://github.com/puppetlabs/puppetlabs-peadm/pull/505) on [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) (2 months ago)
-- [(MAINT) SSL Verification extended](https://github.com/puppetlabs/puppetlabs-peadm/pull/504) on [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) (2 months ago)
+- [(MAINT) SSL Verification extended](https://github.com/puppetlabs/puppetlabs-peadm/pull/504) on [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) (3 months ago)
 
 #### 📜 My recent blog posts
 
