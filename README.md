@@ -14,12 +14,12 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [CoMfUcIoS/neovim](https://github.com/CoMfUcIoS/neovim) - My configuration of Neovim. (5 days ago)
+- [CoMfUcIoS/neovim](https://github.com/CoMfUcIoS/neovim) - My configuration of Neovim. (6 days ago)
 - [CoMfUcIoS/graphql2charts](https://github.com/CoMfUcIoS/graphql2charts) -  (1 month ago)
 - [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments (2 months ago)
 - [puppetlabs/design-system](https://github.com/puppetlabs/design-system) - A resource for creating user interfaces based on brand, UX, and dev principles (2 months ago)
-- [CoMfUcIoS/blog-me](https://github.com/CoMfUcIoS/blog-me) - Blog management (2 months ago)
-- [CoMfUcIoS/CoMfUcIoS.github.io](https://github.com/CoMfUcIoS/CoMfUcIoS.github.io) - It is funny because it is true (2 months ago)
+- [CoMfUcIoS/blog-me](https://github.com/CoMfUcIoS/blog-me) - Blog management (3 months ago)
+- [CoMfUcIoS/CoMfUcIoS.github.io](https://github.com/CoMfUcIoS/CoMfUcIoS.github.io) - It is funny because it is true (3 months ago)
 - [CoMfUcIoS/file-watcher](https://github.com/CoMfUcIoS/file-watcher) - A simple CLI command that watches Filesystem changes and runs an action. (3 months ago)
 - [CoMfUcIoS/yamlfix-action](https://github.com/CoMfUcIoS/yamlfix-action) - Action that formats your yaml files (3 months ago)
 - [CoMfUcIoS/micro-fe](https://github.com/CoMfUcIoS/micro-fe) - Microfrontends PoC (4 months ago)
