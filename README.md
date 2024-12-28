@@ -14,8 +14,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [CoMfUcIoS/kitty](https://github.com/CoMfUcIoS/kitty) -  (today)
-- [CoMfUcIoS/neovim](https://github.com/CoMfUcIoS/neovim) - My configuration of Neovim. (today)
+- [CoMfUcIoS/kitty](https://github.com/CoMfUcIoS/kitty) -  (1 day ago)
+- [CoMfUcIoS/neovim](https://github.com/CoMfUcIoS/neovim) - My configuration of Neovim. (1 day ago)
 - [CoMfUcIoS/graphql2charts](https://github.com/CoMfUcIoS/graphql2charts) -  (1 month ago)
 - [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments (2 months ago)
 - [puppetlabs/design-system](https://github.com/puppetlabs/design-system) - A resource for creating user interfaces based on brand, UX, and dev principles (2 months ago)
