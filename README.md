@@ -34,6 +34,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Create dependabot.yml](https://github.com/CoMfUcIoS/spinoff/pull/1) on [CoMfUcIoS/spinoff](https://github.com/CoMfUcIoS/spinoff) (today)
 - [Fix memory leak in socket-pouch server](https://github.com/CoMfUcIoS/socket.io-pouch/pull/46) on [CoMfUcIoS/socket.io-pouch](https://github.com/CoMfUcIoS/socket.io-pouch) (4 weeks ago)
 - [Fix replication timeout and reconnection issues](https://github.com/CoMfUcIoS/socket.io-pouch/pull/45) on [CoMfUcIoS/socket.io-pouch](https://github.com/CoMfUcIoS/socket.io-pouch) (4 weeks ago)
 - [feat: update Babel and Webpack configurations for design-system-website](https://github.com/puppetlabs/design-system/pull/677) on [puppetlabs/design-system](https://github.com/puppetlabs/design-system) (2 months ago)
@@ -43,7 +44,6 @@
 - [chore(docs): update version references for puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm/pull/507) on [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) (3 months ago)
 - [feat: add support for VMPooler provisioning](https://github.com/puppetlabs/puppet-dev-boxes/pull/11) on [puppetlabs/puppet-dev-boxes](https://github.com/puppetlabs/puppet-dev-boxes) (3 months ago)
 - [(PE-39307) Legacy compilers support smoke tests](https://github.com/puppetlabs/puppetlabs-peadm/pull/505) on [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) (3 months ago)
-- [(MAINT) SSL Verification extended](https://github.com/puppetlabs/puppetlabs-peadm/pull/504) on [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) (3 months ago)
 
 #### 📜 My recent blog posts
 
