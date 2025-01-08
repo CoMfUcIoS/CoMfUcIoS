@@ -14,7 +14,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [CoMfUcIoS/neovim](https://github.com/CoMfUcIoS/neovim) - My configuration of Neovim. (today)
+- [CoMfUcIoS/neovim](https://github.com/CoMfUcIoS/neovim) - My configuration of Neovim. (1 day ago)
 - [CoMfUcIoS/kitty](https://github.com/CoMfUcIoS/kitty) -  (1 week ago)
 - [CoMfUcIoS/graphql2charts](https://github.com/CoMfUcIoS/graphql2charts) -  (2 months ago)
 - [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments (2 months ago)
@@ -34,7 +34,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Create dependabot.yml](https://github.com/CoMfUcIoS/spinoff/pull/1) on [CoMfUcIoS/spinoff](https://github.com/CoMfUcIoS/spinoff) (4 days ago)
+- [Create dependabot.yml](https://github.com/CoMfUcIoS/spinoff/pull/1) on [CoMfUcIoS/spinoff](https://github.com/CoMfUcIoS/spinoff) (5 days ago)
 - [Fix memory leak in socket-pouch server](https://github.com/CoMfUcIoS/socket.io-pouch/pull/46) on [CoMfUcIoS/socket.io-pouch](https://github.com/CoMfUcIoS/socket.io-pouch) (1 month ago)
 - [Fix replication timeout and reconnection issues](https://github.com/CoMfUcIoS/socket.io-pouch/pull/45) on [CoMfUcIoS/socket.io-pouch](https://github.com/CoMfUcIoS/socket.io-pouch) (1 month ago)
 - [feat: update Babel and Webpack configurations for design-system-website](https://github.com/puppetlabs/design-system/pull/677) on [puppetlabs/design-system](https://github.com/puppetlabs/design-system) (2 months ago)
