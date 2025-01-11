@@ -34,16 +34,16 @@
 
 #### 🔨 My recent Pull Requests
 
+- [chore(deps): update dependencies to latest versions](https://github.com/CoMfUcIoS/spinoff/pull/18) on [CoMfUcIoS/spinoff](https://github.com/CoMfUcIoS/spinoff) (today)
+- [chore: update golang version in Dockerfile](https://github.com/CoMfUcIoS/spinoff/pull/17) on [CoMfUcIoS/spinoff](https://github.com/CoMfUcIoS/spinoff) (today)
+- [refactor: rename spinner to spinoff](https://github.com/CoMfUcIoS/spinoff/pull/16) on [CoMfUcIoS/spinoff](https://github.com/CoMfUcIoS/spinoff) (today)
+- [chore: update faas-cli and watchdog image references](https://github.com/CoMfUcIoS/spinoff/pull/15) on [CoMfUcIoS/spinoff](https://github.com/CoMfUcIoS/spinoff) (today)
+- [feat: rename project and update dependencies](https://github.com/CoMfUcIoS/spinoff/pull/7) on [CoMfUcIoS/spinoff](https://github.com/CoMfUcIoS/spinoff) (today)
 - [Create dependabot.yml](https://github.com/CoMfUcIoS/spinoff/pull/1) on [CoMfUcIoS/spinoff](https://github.com/CoMfUcIoS/spinoff) (1 week ago)
 - [Fix memory leak in socket-pouch server](https://github.com/CoMfUcIoS/socket.io-pouch/pull/46) on [CoMfUcIoS/socket.io-pouch](https://github.com/CoMfUcIoS/socket.io-pouch) (1 month ago)
 - [Fix replication timeout and reconnection issues](https://github.com/CoMfUcIoS/socket.io-pouch/pull/45) on [CoMfUcIoS/socket.io-pouch](https://github.com/CoMfUcIoS/socket.io-pouch) (1 month ago)
 - [feat: update Babel and Webpack configurations for design-system-website](https://github.com/puppetlabs/design-system/pull/677) on [puppetlabs/design-system](https://github.com/puppetlabs/design-system) (2 months ago)
 - [feat(workflow): add random hash generation for console password in test-legacy-upgrade](https://github.com/puppetlabs/puppetlabs-peadm/pull/513) on [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) (3 months ago)
-- [(PE-39412) PEADM should be able to add multiple compilers at once without requiring service restarts on Primary](https://github.com/puppetlabs/puppetlabs-peadm/pull/512) on [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) (3 months ago)
-- [feat(filepicker): add file selection persistence](https://github.com/charmbracelet/bubbles/pull/629) on [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) (3 months ago)
-- [chore(docs): update version references for puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm/pull/507) on [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) (3 months ago)
-- [feat: add support for VMPooler provisioning](https://github.com/puppetlabs/puppet-dev-boxes/pull/11) on [puppetlabs/puppet-dev-boxes](https://github.com/puppetlabs/puppet-dev-boxes) (3 months ago)
-- [(PE-39307) Legacy compilers support smoke tests](https://github.com/puppetlabs/puppetlabs-peadm/pull/505) on [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) (3 months ago)
 
 #### 📜 My recent blog posts
 
