@@ -34,6 +34,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat(ci): add prebuild with shrinkwrap to docker workflow](https://github.com/CoMfUcIoS/spinoff/pull/26) on [CoMfUcIoS/spinoff](https://github.com/CoMfUcIoS/spinoff) (today)
+- [feat: add existing SSH key data source and update outputs](https://github.com/CoMfUcIoS/spinoff/pull/25) on [CoMfUcIoS/spinoff](https://github.com/CoMfUcIoS/spinoff) (today)
 - [refactor: update ci badge and consolidate YAML files](https://github.com/CoMfUcIoS/spinoff/pull/24) on [CoMfUcIoS/spinoff](https://github.com/CoMfUcIoS/spinoff) (today)
 - [feat(ci): update workflow to publish functions](https://github.com/CoMfUcIoS/spinoff/pull/23) on [CoMfUcIoS/spinoff](https://github.com/CoMfUcIoS/spinoff) (today)
 - [feat: add TARGETOS and TARGETARCH build args](https://github.com/CoMfUcIoS/spinoff/pull/22) on [CoMfUcIoS/spinoff](https://github.com/CoMfUcIoS/spinoff) (today)
@@ -42,8 +44,6 @@
 - [chore(deps): update dependencies to latest versions](https://github.com/CoMfUcIoS/spinoff/pull/18) on [CoMfUcIoS/spinoff](https://github.com/CoMfUcIoS/spinoff) (1 day ago)
 - [chore: update golang version in Dockerfile](https://github.com/CoMfUcIoS/spinoff/pull/17) on [CoMfUcIoS/spinoff](https://github.com/CoMfUcIoS/spinoff) (1 day ago)
 - [refactor: rename spinner to spinoff](https://github.com/CoMfUcIoS/spinoff/pull/16) on [CoMfUcIoS/spinoff](https://github.com/CoMfUcIoS/spinoff) (1 day ago)
-- [chore: update faas-cli and watchdog image references](https://github.com/CoMfUcIoS/spinoff/pull/15) on [CoMfUcIoS/spinoff](https://github.com/CoMfUcIoS/spinoff) (1 day ago)
-- [feat: rename project and update dependencies](https://github.com/CoMfUcIoS/spinoff/pull/7) on [CoMfUcIoS/spinoff](https://github.com/CoMfUcIoS/spinoff) (1 day ago)
 
 #### 📜 My recent blog posts
 
