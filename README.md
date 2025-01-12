@@ -34,6 +34,9 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat(ci): update workflow to publish functions](https://github.com/CoMfUcIoS/spinoff/pull/23) on [CoMfUcIoS/spinoff](https://github.com/CoMfUcIoS/spinoff) (today)
+- [feat: add TARGETOS and TARGETARCH build args](https://github.com/CoMfUcIoS/spinoff/pull/22) on [CoMfUcIoS/spinoff](https://github.com/CoMfUcIoS/spinoff) (today)
+- [feat: update dependencies and refactor secret handling](https://github.com/CoMfUcIoS/spinoff/pull/20) on [CoMfUcIoS/spinoff](https://github.com/CoMfUcIoS/spinoff) (today)
 - [feat: update golang-middleware template to Go 1.22](https://github.com/CoMfUcIoS/spinoff/pull/19) on [CoMfUcIoS/spinoff](https://github.com/CoMfUcIoS/spinoff) (today)
 - [chore(deps): update dependencies to latest versions](https://github.com/CoMfUcIoS/spinoff/pull/18) on [CoMfUcIoS/spinoff](https://github.com/CoMfUcIoS/spinoff) (1 day ago)
 - [chore: update golang version in Dockerfile](https://github.com/CoMfUcIoS/spinoff/pull/17) on [CoMfUcIoS/spinoff](https://github.com/CoMfUcIoS/spinoff) (1 day ago)
@@ -41,9 +44,6 @@
 - [chore: update faas-cli and watchdog image references](https://github.com/CoMfUcIoS/spinoff/pull/15) on [CoMfUcIoS/spinoff](https://github.com/CoMfUcIoS/spinoff) (1 day ago)
 - [feat: rename project and update dependencies](https://github.com/CoMfUcIoS/spinoff/pull/7) on [CoMfUcIoS/spinoff](https://github.com/CoMfUcIoS/spinoff) (1 day ago)
 - [Create dependabot.yml](https://github.com/CoMfUcIoS/spinoff/pull/1) on [CoMfUcIoS/spinoff](https://github.com/CoMfUcIoS/spinoff) (1 week ago)
-- [Fix memory leak in socket-pouch server](https://github.com/CoMfUcIoS/socket.io-pouch/pull/46) on [CoMfUcIoS/socket.io-pouch](https://github.com/CoMfUcIoS/socket.io-pouch) (1 month ago)
-- [Fix replication timeout and reconnection issues](https://github.com/CoMfUcIoS/socket.io-pouch/pull/45) on [CoMfUcIoS/socket.io-pouch](https://github.com/CoMfUcIoS/socket.io-pouch) (1 month ago)
-- [feat: update Babel and Webpack configurations for design-system-website](https://github.com/puppetlabs/design-system/pull/677) on [puppetlabs/design-system](https://github.com/puppetlabs/design-system) (3 months ago)
 
 #### 📜 My recent blog posts
 
