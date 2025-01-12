@@ -34,6 +34,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [refactor: update ci badge and consolidate YAML files](https://github.com/CoMfUcIoS/spinoff/pull/24) on [CoMfUcIoS/spinoff](https://github.com/CoMfUcIoS/spinoff) (today)
 - [feat(ci): update workflow to publish functions](https://github.com/CoMfUcIoS/spinoff/pull/23) on [CoMfUcIoS/spinoff](https://github.com/CoMfUcIoS/spinoff) (today)
 - [feat: add TARGETOS and TARGETARCH build args](https://github.com/CoMfUcIoS/spinoff/pull/22) on [CoMfUcIoS/spinoff](https://github.com/CoMfUcIoS/spinoff) (today)
 - [feat: update dependencies and refactor secret handling](https://github.com/CoMfUcIoS/spinoff/pull/20) on [CoMfUcIoS/spinoff](https://github.com/CoMfUcIoS/spinoff) (today)
@@ -43,7 +44,6 @@
 - [refactor: rename spinner to spinoff](https://github.com/CoMfUcIoS/spinoff/pull/16) on [CoMfUcIoS/spinoff](https://github.com/CoMfUcIoS/spinoff) (1 day ago)
 - [chore: update faas-cli and watchdog image references](https://github.com/CoMfUcIoS/spinoff/pull/15) on [CoMfUcIoS/spinoff](https://github.com/CoMfUcIoS/spinoff) (1 day ago)
 - [feat: rename project and update dependencies](https://github.com/CoMfUcIoS/spinoff/pull/7) on [CoMfUcIoS/spinoff](https://github.com/CoMfUcIoS/spinoff) (1 day ago)
-- [Create dependabot.yml](https://github.com/CoMfUcIoS/spinoff/pull/1) on [CoMfUcIoS/spinoff](https://github.com/CoMfUcIoS/spinoff) (1 week ago)
 
 #### 📜 My recent blog posts
 
