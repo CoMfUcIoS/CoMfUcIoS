@@ -30,18 +30,18 @@
 - [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) ([v3.26.1](https://github.com/puppetlabs/puppetlabs-peadm/releases/tag/v3.26.1), 1 week ago) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments
 - [CoMfUcIoS/file-watcher](https://github.com/CoMfUcIoS/file-watcher) ([v0.3.0](https://github.com/CoMfUcIoS/file-watcher/releases/tag/v0.3.0), 4 months ago) - A simple CLI command that watches Filesystem changes and runs an action.
 - [CoMfUcIoS/yamlfix-action](https://github.com/CoMfUcIoS/yamlfix-action) ([v1.0.8](https://github.com/CoMfUcIoS/yamlfix-action/releases/tag/v1.0.8), 5 months ago) - Action that formats your yaml files
-- [CoMfUcIoS/glamour_md_review](https://github.com/CoMfUcIoS/glamour_md_review) ([v1.0.2](https://github.com/CoMfUcIoS/glamour_md_review/releases/tag/v1.0.2), 5 months ago) - 
+- [CoMfUcIoS/glamour_md_review](https://github.com/CoMfUcIoS/glamour_md_review) ([v1.0.2](https://github.com/CoMfUcIoS/glamour_md_review/releases/tag/v1.0.2), 6 months ago) - 
 
 #### 🔨 My recent Pull Requests
 
-- [refactor: improve SSH key handling and cleanup configs](https://github.com/CoMfUcIoS/spinoff/pull/27) on [CoMfUcIoS/spinoff](https://github.com/CoMfUcIoS/spinoff) (2 weeks ago)
-- [feat(ci): add prebuild with shrinkwrap to docker workflow](https://github.com/CoMfUcIoS/spinoff/pull/26) on [CoMfUcIoS/spinoff](https://github.com/CoMfUcIoS/spinoff) (2 weeks ago)
-- [feat: add existing SSH key data source and update outputs](https://github.com/CoMfUcIoS/spinoff/pull/25) on [CoMfUcIoS/spinoff](https://github.com/CoMfUcIoS/spinoff) (2 weeks ago)
-- [refactor: update ci badge and consolidate YAML files](https://github.com/CoMfUcIoS/spinoff/pull/24) on [CoMfUcIoS/spinoff](https://github.com/CoMfUcIoS/spinoff) (2 weeks ago)
-- [feat(ci): update workflow to publish functions](https://github.com/CoMfUcIoS/spinoff/pull/23) on [CoMfUcIoS/spinoff](https://github.com/CoMfUcIoS/spinoff) (2 weeks ago)
-- [feat: add TARGETOS and TARGETARCH build args](https://github.com/CoMfUcIoS/spinoff/pull/22) on [CoMfUcIoS/spinoff](https://github.com/CoMfUcIoS/spinoff) (2 weeks ago)
-- [feat: update dependencies and refactor secret handling](https://github.com/CoMfUcIoS/spinoff/pull/20) on [CoMfUcIoS/spinoff](https://github.com/CoMfUcIoS/spinoff) (2 weeks ago)
-- [feat: update golang-middleware template to Go 1.22](https://github.com/CoMfUcIoS/spinoff/pull/19) on [CoMfUcIoS/spinoff](https://github.com/CoMfUcIoS/spinoff) (2 weeks ago)
+- [refactor: improve SSH key handling and cleanup configs](https://github.com/CoMfUcIoS/spinoff/pull/27) on [CoMfUcIoS/spinoff](https://github.com/CoMfUcIoS/spinoff) (3 weeks ago)
+- [feat(ci): add prebuild with shrinkwrap to docker workflow](https://github.com/CoMfUcIoS/spinoff/pull/26) on [CoMfUcIoS/spinoff](https://github.com/CoMfUcIoS/spinoff) (3 weeks ago)
+- [feat: add existing SSH key data source and update outputs](https://github.com/CoMfUcIoS/spinoff/pull/25) on [CoMfUcIoS/spinoff](https://github.com/CoMfUcIoS/spinoff) (3 weeks ago)
+- [refactor: update ci badge and consolidate YAML files](https://github.com/CoMfUcIoS/spinoff/pull/24) on [CoMfUcIoS/spinoff](https://github.com/CoMfUcIoS/spinoff) (3 weeks ago)
+- [feat(ci): update workflow to publish functions](https://github.com/CoMfUcIoS/spinoff/pull/23) on [CoMfUcIoS/spinoff](https://github.com/CoMfUcIoS/spinoff) (3 weeks ago)
+- [feat: add TARGETOS and TARGETARCH build args](https://github.com/CoMfUcIoS/spinoff/pull/22) on [CoMfUcIoS/spinoff](https://github.com/CoMfUcIoS/spinoff) (3 weeks ago)
+- [feat: update dependencies and refactor secret handling](https://github.com/CoMfUcIoS/spinoff/pull/20) on [CoMfUcIoS/spinoff](https://github.com/CoMfUcIoS/spinoff) (3 weeks ago)
+- [feat: update golang-middleware template to Go 1.22](https://github.com/CoMfUcIoS/spinoff/pull/19) on [CoMfUcIoS/spinoff](https://github.com/CoMfUcIoS/spinoff) (3 weeks ago)
 - [chore(deps): update dependencies to latest versions](https://github.com/CoMfUcIoS/spinoff/pull/18) on [CoMfUcIoS/spinoff](https://github.com/CoMfUcIoS/spinoff) (3 weeks ago)
 - [chore: update golang version in Dockerfile](https://github.com/CoMfUcIoS/spinoff/pull/17) on [CoMfUcIoS/spinoff](https://github.com/CoMfUcIoS/spinoff) (3 weeks ago)
 
