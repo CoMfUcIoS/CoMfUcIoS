@@ -18,7 +18,7 @@
 - [CoMfUcIoS/kitty](https://github.com/CoMfUcIoS/kitty) -  (1 month ago)
 - [CoMfUcIoS/graphql2charts](https://github.com/CoMfUcIoS/graphql2charts) -  (3 months ago)
 - [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments (3 months ago)
-- [puppetlabs/design-system](https://github.com/puppetlabs/design-system) - A resource for creating user interfaces based on brand, UX, and dev principles (3 months ago)
+- [puppetlabs/design-system](https://github.com/puppetlabs/design-system) - A resource for creating user interfaces based on brand, UX, and dev principles (4 months ago)
 - [CoMfUcIoS/blog-me](https://github.com/CoMfUcIoS/blog-me) - Blog management (4 months ago)
 - [CoMfUcIoS/CoMfUcIoS.github.io](https://github.com/CoMfUcIoS/CoMfUcIoS.github.io) - It is funny because it is true (4 months ago)
 - [CoMfUcIoS/file-watcher](https://github.com/CoMfUcIoS/file-watcher) - A simple CLI command that watches Filesystem changes and runs an action. (4 months ago)
@@ -42,8 +42,8 @@
 - [feat: add TARGETOS and TARGETARCH build args](https://github.com/CoMfUcIoS/spinoff/pull/22) on [CoMfUcIoS/spinoff](https://github.com/CoMfUcIoS/spinoff) (3 weeks ago)
 - [feat: update dependencies and refactor secret handling](https://github.com/CoMfUcIoS/spinoff/pull/20) on [CoMfUcIoS/spinoff](https://github.com/CoMfUcIoS/spinoff) (3 weeks ago)
 - [feat: update golang-middleware template to Go 1.22](https://github.com/CoMfUcIoS/spinoff/pull/19) on [CoMfUcIoS/spinoff](https://github.com/CoMfUcIoS/spinoff) (3 weeks ago)
-- [chore(deps): update dependencies to latest versions](https://github.com/CoMfUcIoS/spinoff/pull/18) on [CoMfUcIoS/spinoff](https://github.com/CoMfUcIoS/spinoff) (3 weeks ago)
-- [chore: update golang version in Dockerfile](https://github.com/CoMfUcIoS/spinoff/pull/17) on [CoMfUcIoS/spinoff](https://github.com/CoMfUcIoS/spinoff) (3 weeks ago)
+- [chore(deps): update dependencies to latest versions](https://github.com/CoMfUcIoS/spinoff/pull/18) on [CoMfUcIoS/spinoff](https://github.com/CoMfUcIoS/spinoff) (4 weeks ago)
+- [chore: update golang version in Dockerfile](https://github.com/CoMfUcIoS/spinoff/pull/17) on [CoMfUcIoS/spinoff](https://github.com/CoMfUcIoS/spinoff) (4 weeks ago)
 
 #### 📜 My recent blog posts
 
