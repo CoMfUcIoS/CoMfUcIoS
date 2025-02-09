@@ -34,14 +34,14 @@
 
 #### 🔨 My recent Pull Requests
 
-- [refactor: improve SSH key handling and cleanup configs](https://github.com/CoMfUcIoS/spinoff/pull/27) on [CoMfUcIoS/spinoff](https://github.com/CoMfUcIoS/spinoff) (3 weeks ago)
-- [feat(ci): add prebuild with shrinkwrap to docker workflow](https://github.com/CoMfUcIoS/spinoff/pull/26) on [CoMfUcIoS/spinoff](https://github.com/CoMfUcIoS/spinoff) (3 weeks ago)
-- [feat: add existing SSH key data source and update outputs](https://github.com/CoMfUcIoS/spinoff/pull/25) on [CoMfUcIoS/spinoff](https://github.com/CoMfUcIoS/spinoff) (3 weeks ago)
-- [refactor: update ci badge and consolidate YAML files](https://github.com/CoMfUcIoS/spinoff/pull/24) on [CoMfUcIoS/spinoff](https://github.com/CoMfUcIoS/spinoff) (3 weeks ago)
-- [feat(ci): update workflow to publish functions](https://github.com/CoMfUcIoS/spinoff/pull/23) on [CoMfUcIoS/spinoff](https://github.com/CoMfUcIoS/spinoff) (3 weeks ago)
-- [feat: add TARGETOS and TARGETARCH build args](https://github.com/CoMfUcIoS/spinoff/pull/22) on [CoMfUcIoS/spinoff](https://github.com/CoMfUcIoS/spinoff) (3 weeks ago)
-- [feat: update dependencies and refactor secret handling](https://github.com/CoMfUcIoS/spinoff/pull/20) on [CoMfUcIoS/spinoff](https://github.com/CoMfUcIoS/spinoff) (3 weeks ago)
-- [feat: update golang-middleware template to Go 1.22](https://github.com/CoMfUcIoS/spinoff/pull/19) on [CoMfUcIoS/spinoff](https://github.com/CoMfUcIoS/spinoff) (3 weeks ago)
+- [refactor: improve SSH key handling and cleanup configs](https://github.com/CoMfUcIoS/spinoff/pull/27) on [CoMfUcIoS/spinoff](https://github.com/CoMfUcIoS/spinoff) (4 weeks ago)
+- [feat(ci): add prebuild with shrinkwrap to docker workflow](https://github.com/CoMfUcIoS/spinoff/pull/26) on [CoMfUcIoS/spinoff](https://github.com/CoMfUcIoS/spinoff) (4 weeks ago)
+- [feat: add existing SSH key data source and update outputs](https://github.com/CoMfUcIoS/spinoff/pull/25) on [CoMfUcIoS/spinoff](https://github.com/CoMfUcIoS/spinoff) (4 weeks ago)
+- [refactor: update ci badge and consolidate YAML files](https://github.com/CoMfUcIoS/spinoff/pull/24) on [CoMfUcIoS/spinoff](https://github.com/CoMfUcIoS/spinoff) (4 weeks ago)
+- [feat(ci): update workflow to publish functions](https://github.com/CoMfUcIoS/spinoff/pull/23) on [CoMfUcIoS/spinoff](https://github.com/CoMfUcIoS/spinoff) (4 weeks ago)
+- [feat: add TARGETOS and TARGETARCH build args](https://github.com/CoMfUcIoS/spinoff/pull/22) on [CoMfUcIoS/spinoff](https://github.com/CoMfUcIoS/spinoff) (4 weeks ago)
+- [feat: update dependencies and refactor secret handling](https://github.com/CoMfUcIoS/spinoff/pull/20) on [CoMfUcIoS/spinoff](https://github.com/CoMfUcIoS/spinoff) (4 weeks ago)
+- [feat: update golang-middleware template to Go 1.22](https://github.com/CoMfUcIoS/spinoff/pull/19) on [CoMfUcIoS/spinoff](https://github.com/CoMfUcIoS/spinoff) (4 weeks ago)
 - [chore(deps): update dependencies to latest versions](https://github.com/CoMfUcIoS/spinoff/pull/18) on [CoMfUcIoS/spinoff](https://github.com/CoMfUcIoS/spinoff) (4 weeks ago)
 - [chore: update golang version in Dockerfile](https://github.com/CoMfUcIoS/spinoff/pull/17) on [CoMfUcIoS/spinoff](https://github.com/CoMfUcIoS/spinoff) (4 weeks ago)
 
