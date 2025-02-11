@@ -28,6 +28,9 @@
 {{- end}}
 
 #### 📜 My recent blog posts
+{{range rss "https://strongpasswordmeter.com/feed.xml" 5}}
+- [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
+{{- end}}
 {{range rss "https://www.netfans.gr/feed.xml" 5}}
 - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
 {{- end}}
