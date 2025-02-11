@@ -1,4 +1,3 @@
-
 <h1 align="center">Hello there 👋, I'm Ioannis karasavvaidis</h1>
 <h3 align="center">A passionate Full stack developer from UK</h3>
 
@@ -47,10 +46,10 @@
 
 #### 📜 My recent blog posts
 
-- [Brute Force Attacks Are Back: How to Protect Your Accounts in 2025](https://www.passwordstrengthmeter.com/blog/brute-force-attacks-are-back) (1 week ago)
-- [The Complete Guide to Password Managers in 2025](https://www.passwordstrengthmeter.com/blog/the-complete-guide-to-password-managers-in-2025) (4 days ago)
-- [Understanding Password Entropy: The Science of Password Strength](https://www.passwordstrengthmeter.com/blog/understanding-password-entropy) (1 week ago)
-- [Why Length Trumps Complexity: The New Rules of Password Security](https://www.passwordstrengthmeter.com/blog/why-length-trumps-complexity) (today)
+- [Brute Force Attacks Are Back: How to Protect Your Accounts in 2025](https://www.strongpasswordmeter.com/blog/brute-force-attacks-are-back) (1 week ago)
+- [The Complete Guide to Password Managers in 2025](https://www.strongpasswordmeter.com/blog/the-complete-guide-to-password-managers-in-2025) (4 days ago)
+- [Understanding Password Entropy: The Science of Password Strength](https://www.strongpasswordmeter.com/blog/understanding-password-entropy) (1 week ago)
+- [Why Length Trumps Complexity: The New Rules of Password Security](https://www.strongpasswordmeter.com/blog/why-length-trumps-complexity) (today)
 
 - [Google Cloud Shell, my new home](https://comfucios.github.io/posts/google-cloud-shell-my-new-home/) (2 years ago)
 - [The `Cloud` is upon us](https://comfucios.github.io/posts/the-cloud-is-upon-us/) (2 years ago)
