@@ -1,4 +1,3 @@
-
 <h1 align="center">Hello there 👋, I'm Ioannis karasavvaidis</h1>
 <h3 align="center">A passionate Full stack developer from UK</h3>
 
