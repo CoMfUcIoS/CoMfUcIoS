@@ -47,6 +47,11 @@
 
 #### 📜 My recent blog posts
 
+- [Brute Force Attacks Are Back: How to Protect Your Accounts in 2025](https://www.passwordstrengthmeter.com/blog/brute-force-attacks-are-back) (1 week ago)
+- [The Complete Guide to Password Managers in 2025](https://www.passwordstrengthmeter.com/blog/the-complete-guide-to-password-managers-in-2025) (4 days ago)
+- [Understanding Password Entropy: The Science of Password Strength](https://www.passwordstrengthmeter.com/blog/understanding-password-entropy) (1 week ago)
+- [Why Length Trumps Complexity: The New Rules of Password Security](https://www.passwordstrengthmeter.com/blog/why-length-trumps-complexity) (today)
+
 - [Google Cloud Shell, my new home](https://comfucios.github.io/posts/google-cloud-shell-my-new-home/) (2 years ago)
 - [The `Cloud` is upon us](https://comfucios.github.io/posts/the-cloud-is-upon-us/) (2 years ago)
 - [Blog&#39;s story](https://comfucios.github.io/posts/blogs-story/) (3 years ago)
