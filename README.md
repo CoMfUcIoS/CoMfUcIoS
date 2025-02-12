@@ -20,9 +20,9 @@
 - [puppetlabs/design-system](https://github.com/puppetlabs/design-system) - A resource for creating user interfaces based on brand, UX, and dev principles (4 months ago)
 - [CoMfUcIoS/blog-me](https://github.com/CoMfUcIoS/blog-me) - Blog management (4 months ago)
 - [CoMfUcIoS/CoMfUcIoS.github.io](https://github.com/CoMfUcIoS/CoMfUcIoS.github.io) - It is funny because it is true (4 months ago)
+- [puppetlabs/puppet-dev-boxes](https://github.com/puppetlabs/puppet-dev-boxes) -  (4 months ago)
 - [CoMfUcIoS/file-watcher](https://github.com/CoMfUcIoS/file-watcher) - A simple CLI command that watches Filesystem changes and runs an action. (5 months ago)
 - [CoMfUcIoS/yamlfix-action](https://github.com/CoMfUcIoS/yamlfix-action) - Action that formats your yaml files (5 months ago)
-- [CoMfUcIoS/micro-fe](https://github.com/CoMfUcIoS/micro-fe) - Microfrontends PoC (6 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
