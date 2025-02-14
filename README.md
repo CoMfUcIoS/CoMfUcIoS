@@ -13,7 +13,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [CoMfUcIoS/neovim](https://github.com/CoMfUcIoS/neovim) - My configuration of Neovim. (3 weeks ago)
+- [CoMfUcIoS/neovim](https://github.com/CoMfUcIoS/neovim) - My configuration of Neovim. (4 weeks ago)
 - [CoMfUcIoS/kitty](https://github.com/CoMfUcIoS/kitty) -  (1 month ago)
 - [CoMfUcIoS/graphql2charts](https://github.com/CoMfUcIoS/graphql2charts) -  (3 months ago)
 - [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments (4 months ago)
@@ -47,9 +47,9 @@
 #### 📜 My recent blog posts
 
 - [Brute Force Attacks Are Back: How to Protect Your Accounts in 2025](https://www.strongpasswordmeter.com/blog/brute-force-attacks-are-back) (1 week ago)
-- [The Complete Guide to Password Managers in 2025](https://www.strongpasswordmeter.com/blog/the-complete-guide-to-password-managers-in-2025) (6 days ago)
+- [The Complete Guide to Password Managers in 2025](https://www.strongpasswordmeter.com/blog/the-complete-guide-to-password-managers-in-2025) (1 week ago)
 - [Understanding Password Entropy: The Science of Password Strength](https://www.strongpasswordmeter.com/blog/understanding-password-entropy) (1 week ago)
-- [Why Length Trumps Complexity: The New Rules of Password Security](https://www.strongpasswordmeter.com/blog/why-length-trumps-complexity) (2 days ago)
+- [Why Length Trumps Complexity: The New Rules of Password Security](https://www.strongpasswordmeter.com/blog/why-length-trumps-complexity) (3 days ago)
 
 - [Google Cloud Shell, my new home](https://comfucios.github.io/posts/google-cloud-shell-my-new-home/) (2 years ago)
 - [The `Cloud` is upon us](https://comfucios.github.io/posts/the-cloud-is-upon-us/) (2 years ago)
