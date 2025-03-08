@@ -47,7 +47,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) ([v3.27.0](https://github.com/puppetlabs/puppetlabs-peadm/releases/tag/v3.27.0), today) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments
+- [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) ([v3.27.0](https://github.com/puppetlabs/puppetlabs-peadm/releases/tag/v3.27.0), 1 day ago) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments
 - [CoMfUcIoS/file-watcher](https://github.com/CoMfUcIoS/file-watcher) ([v0.3.0](https://github.com/CoMfUcIoS/file-watcher/releases/tag/v0.3.0), 5 months ago) - A simple CLI command that watches Filesystem changes and runs an action.
 - [CoMfUcIoS/yamlfix-action](https://github.com/CoMfUcIoS/yamlfix-action) ([v1.0.8](https://github.com/CoMfUcIoS/yamlfix-action/releases/tag/v1.0.8), 6 months ago) - Action that formats your yaml files
 
