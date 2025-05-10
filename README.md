@@ -31,7 +31,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [CoMfUcIoS/socket.io-pouch](https://github.com/CoMfUcIoS/socket.io-pouch) - PouchDB and CouchDB over WebSockets, using Socket.io (5 days ago)
+- [CoMfUcIoS/socket.io-pouch](https://github.com/CoMfUcIoS/socket.io-pouch) - PouchDB and CouchDB over WebSockets, using Socket.io (6 days ago)
 - [CoMfUcIoS/neovim](https://github.com/CoMfUcIoS/neovim) - My configuration of Neovim. (1 week ago)
 - [CoMfUcIoS/dotfiles](https://github.com/CoMfUcIoS/dotfiles) - dotfiles (2 weeks ago)
 - [CoMfUcIoS/runhub](https://github.com/CoMfUcIoS/runhub) - Centralize, visualize, and orchestrate your CLI workflows in one sleek dashboard. (1 month ago)
