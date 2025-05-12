@@ -31,13 +31,13 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [CoMfUcIoS/neovim](https://github.com/CoMfUcIoS/neovim) - My configuration of Neovim. (1 day ago)
+- [CoMfUcIoS/neovim](https://github.com/CoMfUcIoS/neovim) - My configuration of Neovim. (2 days ago)
 - [CoMfUcIoS/socket.io-pouch](https://github.com/CoMfUcIoS/socket.io-pouch) - PouchDB and CouchDB over WebSockets, using Socket.io (1 week ago)
 - [CoMfUcIoS/dotfiles](https://github.com/CoMfUcIoS/dotfiles) - dotfiles (2 weeks ago)
 - [CoMfUcIoS/runhub](https://github.com/CoMfUcIoS/runhub) - Centralize, visualize, and orchestrate your CLI workflows in one sleek dashboard. (1 month ago)
 - [CoMfUcIoS/kitty](https://github.com/CoMfUcIoS/kitty) -  (4 months ago)
 - [CoMfUcIoS/graphql2charts](https://github.com/CoMfUcIoS/graphql2charts) -  (6 months ago)
-- [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments (6 months ago)
+- [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments (7 months ago)
 - [puppetlabs/design-system](https://github.com/puppetlabs/design-system) - A resource for creating user interfaces based on brand, UX, and dev principles (7 months ago)
 - [CoMfUcIoS/blog-me](https://github.com/CoMfUcIoS/blog-me) - Blog management (7 months ago)
 - [CoMfUcIoS/CoMfUcIoS.github.io](https://github.com/CoMfUcIoS/CoMfUcIoS.github.io) - It is funny because it is true (7 months ago)
@@ -48,7 +48,7 @@
 #### 🔭 Latest releases I've contributed to
 
 - [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) ([v3.28.0](https://github.com/puppetlabs/puppetlabs-peadm/releases/tag/v3.28.0), 1 month ago) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments
-- [CoMfUcIoS/file-watcher](https://github.com/CoMfUcIoS/file-watcher) ([v0.3.0](https://github.com/CoMfUcIoS/file-watcher/releases/tag/v0.3.0), 7 months ago) - A simple CLI command that watches Filesystem changes and runs an action.
+- [CoMfUcIoS/file-watcher](https://github.com/CoMfUcIoS/file-watcher) ([v0.3.0](https://github.com/CoMfUcIoS/file-watcher/releases/tag/v0.3.0), 8 months ago) - A simple CLI command that watches Filesystem changes and runs an action.
 - [CoMfUcIoS/yamlfix-action](https://github.com/CoMfUcIoS/yamlfix-action) ([v1.0.8](https://github.com/CoMfUcIoS/yamlfix-action/releases/tag/v1.0.8), 8 months ago) - Action that formats your yaml files
 - [CoMfUcIoS/socket.io-pouch](https://github.com/CoMfUcIoS/socket.io-pouch) ([v1.2.1](https://github.com/CoMfUcIoS/socket.io-pouch/releases/tag/v1.2.1), 3 years ago) - PouchDB and CouchDB over WebSockets, using Socket.io
 
@@ -58,14 +58,14 @@
 #### 🔨 My recent Pull Requests
 
 - [Sync Fork](https://github.com/CoMfUcIoS/miryoku_zmk/pull/2) on [CoMfUcIoS/miryoku_zmk](https://github.com/CoMfUcIoS/miryoku_zmk) (1 month ago)
-- [refactor: improve SSH key handling and cleanup configs](https://github.com/CoMfUcIoS/spinoff/pull/27) on [CoMfUcIoS/spinoff](https://github.com/CoMfUcIoS/spinoff) (3 months ago)
-- [feat(ci): add prebuild with shrinkwrap to docker workflow](https://github.com/CoMfUcIoS/spinoff/pull/26) on [CoMfUcIoS/spinoff](https://github.com/CoMfUcIoS/spinoff) (3 months ago)
-- [feat: add existing SSH key data source and update outputs](https://github.com/CoMfUcIoS/spinoff/pull/25) on [CoMfUcIoS/spinoff](https://github.com/CoMfUcIoS/spinoff) (3 months ago)
-- [refactor: update ci badge and consolidate YAML files](https://github.com/CoMfUcIoS/spinoff/pull/24) on [CoMfUcIoS/spinoff](https://github.com/CoMfUcIoS/spinoff) (3 months ago)
-- [feat(ci): update workflow to publish functions](https://github.com/CoMfUcIoS/spinoff/pull/23) on [CoMfUcIoS/spinoff](https://github.com/CoMfUcIoS/spinoff) (3 months ago)
-- [feat: add TARGETOS and TARGETARCH build args](https://github.com/CoMfUcIoS/spinoff/pull/22) on [CoMfUcIoS/spinoff](https://github.com/CoMfUcIoS/spinoff) (3 months ago)
-- [feat: update dependencies and refactor secret handling](https://github.com/CoMfUcIoS/spinoff/pull/20) on [CoMfUcIoS/spinoff](https://github.com/CoMfUcIoS/spinoff) (3 months ago)
-- [feat: update golang-middleware template to Go 1.22](https://github.com/CoMfUcIoS/spinoff/pull/19) on [CoMfUcIoS/spinoff](https://github.com/CoMfUcIoS/spinoff) (3 months ago)
+- [refactor: improve SSH key handling and cleanup configs](https://github.com/CoMfUcIoS/spinoff/pull/27) on [CoMfUcIoS/spinoff](https://github.com/CoMfUcIoS/spinoff) (4 months ago)
+- [feat(ci): add prebuild with shrinkwrap to docker workflow](https://github.com/CoMfUcIoS/spinoff/pull/26) on [CoMfUcIoS/spinoff](https://github.com/CoMfUcIoS/spinoff) (4 months ago)
+- [feat: add existing SSH key data source and update outputs](https://github.com/CoMfUcIoS/spinoff/pull/25) on [CoMfUcIoS/spinoff](https://github.com/CoMfUcIoS/spinoff) (4 months ago)
+- [refactor: update ci badge and consolidate YAML files](https://github.com/CoMfUcIoS/spinoff/pull/24) on [CoMfUcIoS/spinoff](https://github.com/CoMfUcIoS/spinoff) (4 months ago)
+- [feat(ci): update workflow to publish functions](https://github.com/CoMfUcIoS/spinoff/pull/23) on [CoMfUcIoS/spinoff](https://github.com/CoMfUcIoS/spinoff) (4 months ago)
+- [feat: add TARGETOS and TARGETARCH build args](https://github.com/CoMfUcIoS/spinoff/pull/22) on [CoMfUcIoS/spinoff](https://github.com/CoMfUcIoS/spinoff) (4 months ago)
+- [feat: update dependencies and refactor secret handling](https://github.com/CoMfUcIoS/spinoff/pull/20) on [CoMfUcIoS/spinoff](https://github.com/CoMfUcIoS/spinoff) (4 months ago)
+- [feat: update golang-middleware template to Go 1.22](https://github.com/CoMfUcIoS/spinoff/pull/19) on [CoMfUcIoS/spinoff](https://github.com/CoMfUcIoS/spinoff) (4 months ago)
 - [chore(deps): update dependencies to latest versions](https://github.com/CoMfUcIoS/spinoff/pull/18) on [CoMfUcIoS/spinoff](https://github.com/CoMfUcIoS/spinoff) (4 months ago)
 
 
@@ -74,11 +74,11 @@
 #### 📜 My recent blog posts
 
 - [Password Notebook Reality Check: The Surprising Return of Analog Security (And How to Do It Properly)](https://www.strongpasswordmeter.com/en/blog/password-notebook-reality-check-the-surprising-return-of-analog-security) (1 month ago)
-- [The Psychology Behind Password Creation: Why We Choose Weak Passwords (And How to Break the Habit)](https://www.strongpasswordmeter.com/en/blog/the-psychology-behind-password-creation) (1 month ago)
+- [The Psychology Behind Password Creation: Why We Choose Weak Passwords (And How to Break the Habit)](https://www.strongpasswordmeter.com/en/blog/the-psychology-behind-password-creation) (2 months ago)
 - [The Rise of Quantum Computing and Its Impact on Password Security](https://www.strongpasswordmeter.com/en/blog/quantum-computing-password-security-threat) (2 months ago)
 - [The 20M OpenAI Credential Leak: What You Need to Know](https://www.strongpasswordmeter.com/en/blog/openai-20m-credential-leak) (2 months ago)
 - [From Passwords to Passkeys: The Future of Authentication](https://www.strongpasswordmeter.com/en/blog/from-passwords-to-passkeys) (2 months ago)
-- [Why Length Trumps Complexity: The New Rules of Password Security](https://www.strongpasswordmeter.com/en/blog/why-length-trumps-complexity) (2 months ago)
+- [Why Length Trumps Complexity: The New Rules of Password Security](https://www.strongpasswordmeter.com/en/blog/why-length-trumps-complexity) (3 months ago)
 - [The Complete Guide to Password Managers in 2025](https://www.strongpasswordmeter.com/en/blog/the-complete-guide-to-password-managers-in-2025) (3 months ago)
 - [Brute Force Attacks Are Back: How to Protect Your Accounts in 2025](https://www.strongpasswordmeter.com/en/blog/brute-force-attacks-are-back) (3 months ago)
 - [Understanding Password Entropy: The Science of Password Strength](https://www.strongpasswordmeter.com/en/blog/understanding-password-entropy) (3 months ago)
