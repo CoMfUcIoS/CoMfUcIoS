@@ -66,7 +66,7 @@
 - [feat: add TARGETOS and TARGETARCH build args](https://github.com/CoMfUcIoS/spinoff/pull/22) on [CoMfUcIoS/spinoff](https://github.com/CoMfUcIoS/spinoff) (4 months ago)
 - [feat: update dependencies and refactor secret handling](https://github.com/CoMfUcIoS/spinoff/pull/20) on [CoMfUcIoS/spinoff](https://github.com/CoMfUcIoS/spinoff) (4 months ago)
 - [feat: update golang-middleware template to Go 1.22](https://github.com/CoMfUcIoS/spinoff/pull/19) on [CoMfUcIoS/spinoff](https://github.com/CoMfUcIoS/spinoff) (4 months ago)
-- [chore(deps): update dependencies to latest versions](https://github.com/CoMfUcIoS/spinoff/pull/18) on [CoMfUcIoS/spinoff](https://github.com/CoMfUcIoS/spinoff) (4 months ago)
+- [chore(deps): update dependencies to latest versions](https://github.com/CoMfUcIoS/spinoff/pull/18) on [CoMfUcIoS/spinoff](https://github.com/CoMfUcIoS/spinoff) (5 months ago)
 
 
 
