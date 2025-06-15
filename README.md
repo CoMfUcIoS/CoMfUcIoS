@@ -39,8 +39,8 @@
 - [CoMfUcIoS/graphql2charts](https://github.com/CoMfUcIoS/graphql2charts) -  (7 months ago)
 - [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments (8 months ago)
 - [puppetlabs/design-system](https://github.com/puppetlabs/design-system) - A resource for creating user interfaces based on brand, UX, and dev principles (8 months ago)
-- [CoMfUcIoS/blog-me](https://github.com/CoMfUcIoS/blog-me) - Blog management (8 months ago)
 - [CoMfUcIoS/CoMfUcIoS.github.io](https://github.com/CoMfUcIoS/CoMfUcIoS.github.io) - It is funny because it is true (8 months ago)
+- [CoMfUcIoS/blog-me](https://github.com/CoMfUcIoS/blog-me) - Blog management (8 months ago)
 
 
 
