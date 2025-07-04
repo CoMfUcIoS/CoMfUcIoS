@@ -31,7 +31,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [CoMfUcIoS/neovim](https://github.com/CoMfUcIoS/neovim) - My configuration of Neovim. (today)
+- [CoMfUcIoS/neovim](https://github.com/CoMfUcIoS/neovim) - My configuration of Neovim. (1 day ago)
 - [CoMfUcIoS/socket.io-pouch](https://github.com/CoMfUcIoS/socket.io-pouch) - PouchDB and CouchDB over WebSockets, using Socket.io (2 months ago)
 - [CoMfUcIoS/dotfiles](https://github.com/CoMfUcIoS/dotfiles) - dotfiles (2 months ago)
 - [CoMfUcIoS/runhub](https://github.com/CoMfUcIoS/runhub) - Centralize, visualize, and orchestrate your CLI workflows in one sleek dashboard. (3 months ago)
@@ -47,7 +47,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) ([v3.30.0](https://github.com/puppetlabs/puppetlabs-peadm/releases/tag/v3.30.0), 6 days ago) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments
+- [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) ([v3.30.0](https://github.com/puppetlabs/puppetlabs-peadm/releases/tag/v3.30.0), 1 week ago) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments
 - [CoMfUcIoS/file-watcher](https://github.com/CoMfUcIoS/file-watcher) ([v0.3.0](https://github.com/CoMfUcIoS/file-watcher/releases/tag/v0.3.0), 9 months ago) - A simple CLI command that watches Filesystem changes and runs an action.
 - [CoMfUcIoS/yamlfix-action](https://github.com/CoMfUcIoS/yamlfix-action) ([v1.0.8](https://github.com/CoMfUcIoS/yamlfix-action/releases/tag/v1.0.8), 10 months ago) - Action that formats your yaml files
 - [CoMfUcIoS/socket.io-pouch](https://github.com/CoMfUcIoS/socket.io-pouch) ([v1.2.1](https://github.com/CoMfUcIoS/socket.io-pouch/releases/tag/v1.2.1), 3 years ago) - PouchDB and CouchDB over WebSockets, using Socket.io
@@ -80,7 +80,7 @@
 - [From Passwords to Passkeys: The Future of Authentication](https://www.strongpasswordmeter.com/en/blog/from-passwords-to-passkeys) (4 months ago)
 - [Why Length Trumps Complexity: The New Rules of Password Security](https://www.strongpasswordmeter.com/en/blog/why-length-trumps-complexity) (4 months ago)
 - [The Complete Guide to Password Managers in 2025](https://www.strongpasswordmeter.com/en/blog/the-complete-guide-to-password-managers-in-2025) (4 months ago)
-- [Brute Force Attacks Are Back: How to Protect Your Accounts in 2025](https://www.strongpasswordmeter.com/en/blog/brute-force-attacks-are-back) (4 months ago)
+- [Brute Force Attacks Are Back: How to Protect Your Accounts in 2025](https://www.strongpasswordmeter.com/en/blog/brute-force-attacks-are-back) (5 months ago)
 - [Understanding Password Entropy: The Science of Password Strength](https://www.strongpasswordmeter.com/en/blog/understanding-password-entropy) (5 months ago)
 
 - [Google Cloud Shell, my new home](https://comfucios.github.io/posts/google-cloud-shell-my-new-home/) (3 years ago)
