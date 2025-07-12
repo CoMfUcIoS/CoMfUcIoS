@@ -31,10 +31,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [CoMfUcIoS/neovim](https://github.com/CoMfUcIoS/neovim) - My configuration of Neovim. (3 days ago)
+- [CoMfUcIoS/neovim](https://github.com/CoMfUcIoS/neovim) - My configuration of Neovim. (4 days ago)
 - [CoMfUcIoS/socket.io-pouch](https://github.com/CoMfUcIoS/socket.io-pouch) - PouchDB and CouchDB over WebSockets, using Socket.io (2 months ago)
 - [CoMfUcIoS/dotfiles](https://github.com/CoMfUcIoS/dotfiles) - dotfiles (2 months ago)
-- [CoMfUcIoS/runhub](https://github.com/CoMfUcIoS/runhub) - Centralize, visualize, and orchestrate your CLI workflows in one sleek dashboard. (3 months ago)
+- [CoMfUcIoS/runhub](https://github.com/CoMfUcIoS/runhub) - Centralize, visualize, and orchestrate your CLI workflows in one sleek dashboard. (4 months ago)
 - [CoMfUcIoS/kitty](https://github.com/CoMfUcIoS/kitty) -  (6 months ago)
 - [CoMfUcIoS/graphql2charts](https://github.com/CoMfUcIoS/graphql2charts) -  (8 months ago)
 - [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments (9 months ago)
@@ -73,7 +73,7 @@
 
 #### 📜 My recent blog posts
 
-- [25 Strong Password Examples You Can Actually Remember (2025 Guide)](https://www.strongpasswordmeter.com/en/blog/25-strong-password-examples-2025) (2 days ago)
+- [25 Strong Password Examples You Can Actually Remember (2025 Guide)](https://www.strongpasswordmeter.com/en/blog/25-strong-password-examples-2025) (3 days ago)
 - [Password Notebook Reality Check: The Surprising Return of Analog Security (And How to Do It Properly)](https://www.strongpasswordmeter.com/en/blog/password-notebook-reality-check-the-surprising-return-of-analog-security) (3 months ago)
 - [The Psychology Behind Password Creation: Why We Choose Weak Passwords (And How to Break the Habit)](https://www.strongpasswordmeter.com/en/blog/the-psychology-behind-password-creation) (4 months ago)
 - [The Rise of Quantum Computing and Its Impact on Password Security](https://www.strongpasswordmeter.com/en/blog/quantum-computing-password-security-threat) (4 months ago)
