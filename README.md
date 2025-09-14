@@ -56,6 +56,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix(readme): correct typo in package name](https://github.com/CoMfUcIoS/codex-mcp-server/pull/3) on [CoMfUcIoS/codex-mcp-server](https://github.com/CoMfUcIoS/codex-mcp-server) (today)
+- [docs(readme): add advanced features &amp; tips section](https://github.com/CoMfUcIoS/codex-mcp-server/pull/2) on [CoMfUcIoS/codex-mcp-server](https://github.com/CoMfUcIoS/codex-mcp-server) (today)
 - [test: expand and refactor tool/server/util tests](https://github.com/CoMfUcIoS/codex-mcp-server/pull/1) on [CoMfUcIoS/codex-mcp-server](https://github.com/CoMfUcIoS/codex-mcp-server) (today)
 - [Sync Fork](https://github.com/CoMfUcIoS/miryoku_zmk/pull/2) on [CoMfUcIoS/miryoku_zmk](https://github.com/CoMfUcIoS/miryoku_zmk) (5 months ago)
 - [refactor: improve SSH key handling and cleanup configs](https://github.com/CoMfUcIoS/spinoff/pull/27) on [CoMfUcIoS/spinoff](https://github.com/CoMfUcIoS/spinoff) (8 months ago)
@@ -64,8 +66,6 @@
 - [refactor: update ci badge and consolidate YAML files](https://github.com/CoMfUcIoS/spinoff/pull/24) on [CoMfUcIoS/spinoff](https://github.com/CoMfUcIoS/spinoff) (8 months ago)
 - [feat(ci): update workflow to publish functions](https://github.com/CoMfUcIoS/spinoff/pull/23) on [CoMfUcIoS/spinoff](https://github.com/CoMfUcIoS/spinoff) (8 months ago)
 - [feat: add TARGETOS and TARGETARCH build args](https://github.com/CoMfUcIoS/spinoff/pull/22) on [CoMfUcIoS/spinoff](https://github.com/CoMfUcIoS/spinoff) (8 months ago)
-- [feat: update dependencies and refactor secret handling](https://github.com/CoMfUcIoS/spinoff/pull/20) on [CoMfUcIoS/spinoff](https://github.com/CoMfUcIoS/spinoff) (8 months ago)
-- [feat: update golang-middleware template to Go 1.22](https://github.com/CoMfUcIoS/spinoff/pull/19) on [CoMfUcIoS/spinoff](https://github.com/CoMfUcIoS/spinoff) (8 months ago)
 
 
 
