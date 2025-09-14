@@ -39,8 +39,8 @@
 - [CoMfUcIoS/graphql2charts](https://github.com/CoMfUcIoS/graphql2charts) -  (10 months ago)
 - [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments (11 months ago)
 - [puppetlabs/design-system](https://github.com/puppetlabs/design-system) - A resource for creating user interfaces based on brand, UX, and dev principles (11 months ago)
-- [CoMfUcIoS/blog-me](https://github.com/CoMfUcIoS/blog-me) - Blog management (11 months ago)
 - [CoMfUcIoS/CoMfUcIoS.github.io](https://github.com/CoMfUcIoS/CoMfUcIoS.github.io) - It is funny because it is true (11 months ago)
+- [CoMfUcIoS/blog-me](https://github.com/CoMfUcIoS/blog-me) - Blog management (11 months ago)
 
 
 
@@ -48,7 +48,6 @@
 #### 🔭 Latest releases I've contributed to
 
 - [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) ([v3.31.0](https://github.com/puppetlabs/puppetlabs-peadm/releases/tag/v3.31.0), 1 month ago) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments
-- [CoMfUcIoS/file-watcher](https://github.com/CoMfUcIoS/file-watcher) ([v0.3.0](https://github.com/CoMfUcIoS/file-watcher/releases/tag/v0.3.0), 1 year ago) - A simple CLI command that watches Filesystem changes and runs an action.
 - [CoMfUcIoS/socket.io-pouch](https://github.com/CoMfUcIoS/socket.io-pouch) ([v1.2.1](https://github.com/CoMfUcIoS/socket.io-pouch/releases/tag/v1.2.1), 3 years ago) - PouchDB and CouchDB over WebSockets, using Socket.io
 
 
