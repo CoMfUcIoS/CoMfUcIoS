@@ -31,8 +31,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [CoMfUcIoS/neovim](https://github.com/CoMfUcIoS/neovim) - My configuration of Neovim. (5 days ago)
-- [CoMfUcIoS/socket.io-pouch](https://github.com/CoMfUcIoS/socket.io-pouch) - PouchDB and CouchDB over WebSockets, using Socket.io (4 months ago)
+- [CoMfUcIoS/neovim](https://github.com/CoMfUcIoS/neovim) - My configuration of Neovim. (6 days ago)
+- [CoMfUcIoS/socket.io-pouch](https://github.com/CoMfUcIoS/socket.io-pouch) - PouchDB and CouchDB over WebSockets, using Socket.io (5 months ago)
 - [CoMfUcIoS/dotfiles](https://github.com/CoMfUcIoS/dotfiles) - dotfiles (5 months ago)
 - [CoMfUcIoS/runhub](https://github.com/CoMfUcIoS/runhub) - Centralize, visualize, and orchestrate your CLI workflows in one sleek dashboard. (6 months ago)
 - [CoMfUcIoS/kitty](https://github.com/CoMfUcIoS/kitty) -  (9 months ago)
@@ -45,7 +45,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) ([v3.32.0](https://github.com/puppetlabs/puppetlabs-peadm/releases/tag/v3.32.0), 6 days ago) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments
+- [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) ([v3.32.0](https://github.com/puppetlabs/puppetlabs-peadm/releases/tag/v3.32.0), 1 week ago) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments
 - [CoMfUcIoS/socket.io-pouch](https://github.com/CoMfUcIoS/socket.io-pouch) ([v1.2.1](https://github.com/CoMfUcIoS/socket.io-pouch/releases/tag/v1.2.1), 3 years ago) - PouchDB and CouchDB over WebSockets, using Socket.io
 
 
@@ -53,7 +53,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [add advanced features, env vars, and tool docs](https://github.com/CoMfUcIoS/codex-mcp-server/pull/11) on [CoMfUcIoS/codex-mcp-server](https://github.com/CoMfUcIoS/codex-mcp-server) (2 days ago)
+- [add advanced features, env vars, and tool docs](https://github.com/CoMfUcIoS/codex-mcp-server/pull/11) on [CoMfUcIoS/codex-mcp-server](https://github.com/CoMfUcIoS/codex-mcp-server) (3 days ago)
 - [docs: add documentation site and mkdocs config](https://github.com/CoMfUcIoS/codex-mcp-server/pull/4) on [CoMfUcIoS/codex-mcp-server](https://github.com/CoMfUcIoS/codex-mcp-server) (2 weeks ago)
 - [fix(readme): correct typo in package name](https://github.com/CoMfUcIoS/codex-mcp-server/pull/3) on [CoMfUcIoS/codex-mcp-server](https://github.com/CoMfUcIoS/codex-mcp-server) (2 weeks ago)
 - [docs(readme): add advanced features &amp; tips section](https://github.com/CoMfUcIoS/codex-mcp-server/pull/2) on [CoMfUcIoS/codex-mcp-server](https://github.com/CoMfUcIoS/codex-mcp-server) (2 weeks ago)
