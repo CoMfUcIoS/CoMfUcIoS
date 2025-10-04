@@ -53,7 +53,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [add advanced features, env vars, and tool docs](https://github.com/CoMfUcIoS/codex-mcp-server/pull/11) on [CoMfUcIoS/codex-mcp-server](https://github.com/CoMfUcIoS/codex-mcp-server) (5 days ago)
+- [add advanced features, env vars, and tool docs](https://github.com/CoMfUcIoS/codex-mcp-server/pull/11) on [CoMfUcIoS/codex-mcp-server](https://github.com/CoMfUcIoS/codex-mcp-server) (6 days ago)
 - [docs: add documentation site and mkdocs config](https://github.com/CoMfUcIoS/codex-mcp-server/pull/4) on [CoMfUcIoS/codex-mcp-server](https://github.com/CoMfUcIoS/codex-mcp-server) (2 weeks ago)
 - [fix(readme): correct typo in package name](https://github.com/CoMfUcIoS/codex-mcp-server/pull/3) on [CoMfUcIoS/codex-mcp-server](https://github.com/CoMfUcIoS/codex-mcp-server) (2 weeks ago)
 - [docs(readme): add advanced features &amp; tips section](https://github.com/CoMfUcIoS/codex-mcp-server/pull/2) on [CoMfUcIoS/codex-mcp-server](https://github.com/CoMfUcIoS/codex-mcp-server) (2 weeks ago)
@@ -72,7 +72,7 @@
 - [25 Strong Password Examples You Can Actually Remember (2025 Guide)](https://www.strongpasswordmeter.com/en/blog/25-strong-password-examples-2025) (2 months ago)
 - [Password Notebook Reality Check: The Surprising Return of Analog Security (And How to Do It Properly)](https://www.strongpasswordmeter.com/en/blog/password-notebook-reality-check-the-surprising-return-of-analog-security) (6 months ago)
 - [The Psychology Behind Password Creation: Why We Choose Weak Passwords (And How to Break the Habit)](https://www.strongpasswordmeter.com/en/blog/the-psychology-behind-password-creation) (6 months ago)
-- [The Rise of Quantum Computing and Its Impact on Password Security](https://www.strongpasswordmeter.com/en/blog/quantum-computing-password-security-threat) (6 months ago)
+- [The Rise of Quantum Computing and Its Impact on Password Security](https://www.strongpasswordmeter.com/en/blog/quantum-computing-password-security-threat) (7 months ago)
 - [The 20M OpenAI Credential Leak: What You Need to Know](https://www.strongpasswordmeter.com/en/blog/openai-20m-credential-leak) (7 months ago)
 - [From Passwords to Passkeys: The Future of Authentication](https://www.strongpasswordmeter.com/en/blog/from-passwords-to-passkeys) (7 months ago)
 - [Why Length Trumps Complexity: The New Rules of Password Security](https://www.strongpasswordmeter.com/en/blog/why-length-trumps-complexity) (7 months ago)
