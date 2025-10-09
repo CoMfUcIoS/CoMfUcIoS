@@ -31,14 +31,14 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [CoMfUcIoS/obsidian-mcp-sb](https://github.com/CoMfUcIoS/obsidian-mcp-sb) - An MCP (Model Context Protocol) server that provides intelligent read-only access to your Obsidian vault, enabling it to function as a &#34;second brain&#34; for LLMs. (1 day ago)
-- [CoMfUcIoS/neovim](https://github.com/CoMfUcIoS/neovim) - My configuration of Neovim. (1 week ago)
+- [CoMfUcIoS/obsidian-mcp-sb](https://github.com/CoMfUcIoS/obsidian-mcp-sb) - An MCP (Model Context Protocol) server that provides intelligent read-only access to your Obsidian vault, enabling it to function as a &#34;second brain&#34; for LLMs. (2 days ago)
+- [CoMfUcIoS/neovim](https://github.com/CoMfUcIoS/neovim) - My configuration of Neovim. (2 weeks ago)
 - [CoMfUcIoS/socket.io-pouch](https://github.com/CoMfUcIoS/socket.io-pouch) - PouchDB and CouchDB over WebSockets, using Socket.io (5 months ago)
 - [CoMfUcIoS/dotfiles](https://github.com/CoMfUcIoS/dotfiles) - dotfiles (5 months ago)
 - [CoMfUcIoS/runhub](https://github.com/CoMfUcIoS/runhub) - Centralize, visualize, and orchestrate your CLI workflows in one sleek dashboard. (6 months ago)
 - [CoMfUcIoS/kitty](https://github.com/CoMfUcIoS/kitty) -  (9 months ago)
 - [CoMfUcIoS/graphql2charts](https://github.com/CoMfUcIoS/graphql2charts) -  (11 months ago)
-- [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments (11 months ago)
+- [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments (1 year ago)
 - [puppetlabs/design-system](https://github.com/puppetlabs/design-system) - A resource for creating user interfaces based on brand, UX, and dev principles (1 year ago)
 
 
@@ -46,8 +46,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [CoMfUcIoS/obsidian-mcp-sb](https://github.com/CoMfUcIoS/obsidian-mcp-sb) ([v0.1.1](https://github.com/CoMfUcIoS/obsidian-mcp-sb/releases/tag/v0.1.1), 1 day ago) - An MCP (Model Context Protocol) server that provides intelligent read-only access to your Obsidian vault, enabling it to function as a &#34;second brain&#34; for LLMs.
-- [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) ([v3.33.0](https://github.com/puppetlabs/puppetlabs-peadm/releases/tag/v3.33.0), 2 days ago) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments
+- [CoMfUcIoS/obsidian-mcp-sb](https://github.com/CoMfUcIoS/obsidian-mcp-sb) ([v0.1.1](https://github.com/CoMfUcIoS/obsidian-mcp-sb/releases/tag/v0.1.1), 2 days ago) - An MCP (Model Context Protocol) server that provides intelligent read-only access to your Obsidian vault, enabling it to function as a &#34;second brain&#34; for LLMs.
+- [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) ([v3.33.0](https://github.com/puppetlabs/puppetlabs-peadm/releases/tag/v3.33.0), 3 days ago) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments
 - [CoMfUcIoS/socket.io-pouch](https://github.com/CoMfUcIoS/socket.io-pouch) ([v1.2.1](https://github.com/CoMfUcIoS/socket.io-pouch/releases/tag/v1.2.1), 3 years ago) - PouchDB and CouchDB over WebSockets, using Socket.io
 
 
@@ -61,10 +61,10 @@
 - [docs(readme): add advanced features &amp; tips section](https://github.com/CoMfUcIoS/codex-mcp-server/pull/2) on [CoMfUcIoS/codex-mcp-server](https://github.com/CoMfUcIoS/codex-mcp-server) (3 weeks ago)
 - [test: expand and refactor tool/server/util tests](https://github.com/CoMfUcIoS/codex-mcp-server/pull/1) on [CoMfUcIoS/codex-mcp-server](https://github.com/CoMfUcIoS/codex-mcp-server) (3 weeks ago)
 - [Sync Fork](https://github.com/CoMfUcIoS/miryoku_zmk/pull/2) on [CoMfUcIoS/miryoku_zmk](https://github.com/CoMfUcIoS/miryoku_zmk) (6 months ago)
-- [refactor: improve SSH key handling and cleanup configs](https://github.com/CoMfUcIoS/spinoff/pull/27) on [CoMfUcIoS/spinoff](https://github.com/CoMfUcIoS/spinoff) (8 months ago)
-- [feat(ci): add prebuild with shrinkwrap to docker workflow](https://github.com/CoMfUcIoS/spinoff/pull/26) on [CoMfUcIoS/spinoff](https://github.com/CoMfUcIoS/spinoff) (8 months ago)
-- [feat: add existing SSH key data source and update outputs](https://github.com/CoMfUcIoS/spinoff/pull/25) on [CoMfUcIoS/spinoff](https://github.com/CoMfUcIoS/spinoff) (8 months ago)
-- [refactor: update ci badge and consolidate YAML files](https://github.com/CoMfUcIoS/spinoff/pull/24) on [CoMfUcIoS/spinoff](https://github.com/CoMfUcIoS/spinoff) (8 months ago)
+- [refactor: improve SSH key handling and cleanup configs](https://github.com/CoMfUcIoS/spinoff/pull/27) on [CoMfUcIoS/spinoff](https://github.com/CoMfUcIoS/spinoff) (9 months ago)
+- [feat(ci): add prebuild with shrinkwrap to docker workflow](https://github.com/CoMfUcIoS/spinoff/pull/26) on [CoMfUcIoS/spinoff](https://github.com/CoMfUcIoS/spinoff) (9 months ago)
+- [feat: add existing SSH key data source and update outputs](https://github.com/CoMfUcIoS/spinoff/pull/25) on [CoMfUcIoS/spinoff](https://github.com/CoMfUcIoS/spinoff) (9 months ago)
+- [refactor: update ci badge and consolidate YAML files](https://github.com/CoMfUcIoS/spinoff/pull/24) on [CoMfUcIoS/spinoff](https://github.com/CoMfUcIoS/spinoff) (9 months ago)
 
 
 
@@ -73,11 +73,11 @@
 
 - [25 Strong Password Examples You Can Actually Remember (2025 Guide)](https://www.strongpasswordmeter.com/en/blog/25-strong-password-examples-2025) (3 months ago)
 - [Password Notebook Reality Check: The Surprising Return of Analog Security (And How to Do It Properly)](https://www.strongpasswordmeter.com/en/blog/password-notebook-reality-check-the-surprising-return-of-analog-security) (6 months ago)
-- [The Psychology Behind Password Creation: Why We Choose Weak Passwords (And How to Break the Habit)](https://www.strongpasswordmeter.com/en/blog/the-psychology-behind-password-creation) (6 months ago)
+- [The Psychology Behind Password Creation: Why We Choose Weak Passwords (And How to Break the Habit)](https://www.strongpasswordmeter.com/en/blog/the-psychology-behind-password-creation) (7 months ago)
 - [The Rise of Quantum Computing and Its Impact on Password Security](https://www.strongpasswordmeter.com/en/blog/quantum-computing-password-security-threat) (7 months ago)
 - [The 20M OpenAI Credential Leak: What You Need to Know](https://www.strongpasswordmeter.com/en/blog/openai-20m-credential-leak) (7 months ago)
 - [From Passwords to Passkeys: The Future of Authentication](https://www.strongpasswordmeter.com/en/blog/from-passwords-to-passkeys) (7 months ago)
-- [Why Length Trumps Complexity: The New Rules of Password Security](https://www.strongpasswordmeter.com/en/blog/why-length-trumps-complexity) (7 months ago)
+- [Why Length Trumps Complexity: The New Rules of Password Security](https://www.strongpasswordmeter.com/en/blog/why-length-trumps-complexity) (8 months ago)
 - [The Complete Guide to Password Managers in 2025](https://www.strongpasswordmeter.com/en/blog/the-complete-guide-to-password-managers-in-2025) (8 months ago)
 - [Brute Force Attacks Are Back: How to Protect Your Accounts in 2025](https://www.strongpasswordmeter.com/en/blog/brute-force-attacks-are-back) (8 months ago)
 - [Understanding Password Entropy: The Science of Password Strength](https://www.strongpasswordmeter.com/en/blog/understanding-password-entropy) (8 months ago)
