@@ -31,11 +31,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [CoMfUcIoS/obsidian-mcp-sb](https://github.com/CoMfUcIoS/obsidian-mcp-sb) - An MCP (Model Context Protocol) server that provides intelligent read-only access to your Obsidian vault, enabling it to function as a &#34;second brain&#34; for LLMs. (2 days ago)
+- [CoMfUcIoS/obsidian-mcp-sb](https://github.com/CoMfUcIoS/obsidian-mcp-sb) - An MCP (Model Context Protocol) server that provides intelligent read-only access to your Obsidian vault, enabling it to function as a &#34;second brain&#34; for LLMs. (3 days ago)
 - [CoMfUcIoS/neovim](https://github.com/CoMfUcIoS/neovim) - My configuration of Neovim. (2 weeks ago)
 - [CoMfUcIoS/socket.io-pouch](https://github.com/CoMfUcIoS/socket.io-pouch) - PouchDB and CouchDB over WebSockets, using Socket.io (5 months ago)
 - [CoMfUcIoS/dotfiles](https://github.com/CoMfUcIoS/dotfiles) - dotfiles (5 months ago)
-- [CoMfUcIoS/runhub](https://github.com/CoMfUcIoS/runhub) - Centralize, visualize, and orchestrate your CLI workflows in one sleek dashboard. (6 months ago)
+- [CoMfUcIoS/runhub](https://github.com/CoMfUcIoS/runhub) - Centralize, visualize, and orchestrate your CLI workflows in one sleek dashboard. (7 months ago)
 - [CoMfUcIoS/kitty](https://github.com/CoMfUcIoS/kitty) -  (9 months ago)
 - [CoMfUcIoS/graphql2charts](https://github.com/CoMfUcIoS/graphql2charts) -  (11 months ago)
 - [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments (1 year ago)
@@ -46,8 +46,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [CoMfUcIoS/obsidian-mcp-sb](https://github.com/CoMfUcIoS/obsidian-mcp-sb) ([v0.1.1](https://github.com/CoMfUcIoS/obsidian-mcp-sb/releases/tag/v0.1.1), 2 days ago) - An MCP (Model Context Protocol) server that provides intelligent read-only access to your Obsidian vault, enabling it to function as a &#34;second brain&#34; for LLMs.
-- [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) ([v3.33.0](https://github.com/puppetlabs/puppetlabs-peadm/releases/tag/v3.33.0), 3 days ago) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments
+- [CoMfUcIoS/obsidian-mcp-sb](https://github.com/CoMfUcIoS/obsidian-mcp-sb) ([v0.1.1](https://github.com/CoMfUcIoS/obsidian-mcp-sb/releases/tag/v0.1.1), 3 days ago) - An MCP (Model Context Protocol) server that provides intelligent read-only access to your Obsidian vault, enabling it to function as a &#34;second brain&#34; for LLMs.
+- [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) ([v3.33.0](https://github.com/puppetlabs/puppetlabs-peadm/releases/tag/v3.33.0), 4 days ago) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments
 - [CoMfUcIoS/socket.io-pouch](https://github.com/CoMfUcIoS/socket.io-pouch) ([v1.2.1](https://github.com/CoMfUcIoS/socket.io-pouch/releases/tag/v1.2.1), 3 years ago) - PouchDB and CouchDB over WebSockets, using Socket.io
 
 
