@@ -45,7 +45,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [CoMfUcIoS/obsidian-mcp-sb](https://github.com/CoMfUcIoS/obsidian-mcp-sb) ([v0.1.1](https://github.com/CoMfUcIoS/obsidian-mcp-sb/releases/tag/v0.1.1), 6 days ago) - An MCP (Model Context Protocol) server that provides intelligent read-only access to your Obsidian vault, enabling it to function as a &#34;second brain&#34; for LLMs.
+- [CoMfUcIoS/obsidian-mcp-sb](https://github.com/CoMfUcIoS/obsidian-mcp-sb) ([v0.1.2](https://github.com/CoMfUcIoS/obsidian-mcp-sb/releases/tag/v0.1.2), today) - An MCP (Model Context Protocol) server that provides intelligent read-only access to your Obsidian vault, enabling it to function as a &#34;second brain&#34; for LLMs.
 - [puppetlabs/puppetlabs-peadm](https://github.com/puppetlabs/puppetlabs-peadm) ([v3.33.0](https://github.com/puppetlabs/puppetlabs-peadm/releases/tag/v3.33.0), 1 week ago) - A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments
 - [CoMfUcIoS/socket.io-pouch](https://github.com/CoMfUcIoS/socket.io-pouch) ([v1.2.1](https://github.com/CoMfUcIoS/socket.io-pouch/releases/tag/v1.2.1), 3 years ago) - PouchDB and CouchDB over WebSockets, using Socket.io
 
@@ -54,16 +54,16 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat(ci): add Windows to matrix and set env in commands](https://github.com/CoMfUcIoS/codex-mcp-server/pull/13) on [CoMfUcIoS/codex-mcp-server](https://github.com/CoMfUcIoS/codex-mcp-server) (today)
+- [chore(deps): update dev and prod dependencies](https://github.com/CoMfUcIoS/codex-mcp-server/pull/12) on [CoMfUcIoS/codex-mcp-server](https://github.com/CoMfUcIoS/codex-mcp-server) (today)
+- [test(vault): add retry helper for async note queries](https://github.com/CoMfUcIoS/obsidian-mcp-sb/pull/8) on [CoMfUcIoS/obsidian-mcp-sb](https://github.com/CoMfUcIoS/obsidian-mcp-sb) (today)
+- [chore(deps): update lockfile for dependency changes](https://github.com/CoMfUcIoS/obsidian-mcp-sb/pull/7) on [CoMfUcIoS/obsidian-mcp-sb](https://github.com/CoMfUcIoS/obsidian-mcp-sb) (today)
 - [add advanced features, env vars, and tool docs](https://github.com/CoMfUcIoS/codex-mcp-server/pull/11) on [CoMfUcIoS/codex-mcp-server](https://github.com/CoMfUcIoS/codex-mcp-server) (2 weeks ago)
 - [docs: add documentation site and mkdocs config](https://github.com/CoMfUcIoS/codex-mcp-server/pull/4) on [CoMfUcIoS/codex-mcp-server](https://github.com/CoMfUcIoS/codex-mcp-server) (4 weeks ago)
 - [fix(readme): correct typo in package name](https://github.com/CoMfUcIoS/codex-mcp-server/pull/3) on [CoMfUcIoS/codex-mcp-server](https://github.com/CoMfUcIoS/codex-mcp-server) (4 weeks ago)
 - [docs(readme): add advanced features &amp; tips section](https://github.com/CoMfUcIoS/codex-mcp-server/pull/2) on [CoMfUcIoS/codex-mcp-server](https://github.com/CoMfUcIoS/codex-mcp-server) (4 weeks ago)
 - [test: expand and refactor tool/server/util tests](https://github.com/CoMfUcIoS/codex-mcp-server/pull/1) on [CoMfUcIoS/codex-mcp-server](https://github.com/CoMfUcIoS/codex-mcp-server) (4 weeks ago)
 - [Sync Fork](https://github.com/CoMfUcIoS/miryoku_zmk/pull/2) on [CoMfUcIoS/miryoku_zmk](https://github.com/CoMfUcIoS/miryoku_zmk) (6 months ago)
-- [refactor: improve SSH key handling and cleanup configs](https://github.com/CoMfUcIoS/spinoff/pull/27) on [CoMfUcIoS/spinoff](https://github.com/CoMfUcIoS/spinoff) (9 months ago)
-- [feat(ci): add prebuild with shrinkwrap to docker workflow](https://github.com/CoMfUcIoS/spinoff/pull/26) on [CoMfUcIoS/spinoff](https://github.com/CoMfUcIoS/spinoff) (9 months ago)
-- [feat: add existing SSH key data source and update outputs](https://github.com/CoMfUcIoS/spinoff/pull/25) on [CoMfUcIoS/spinoff](https://github.com/CoMfUcIoS/spinoff) (9 months ago)
-- [refactor: update ci badge and consolidate YAML files](https://github.com/CoMfUcIoS/spinoff/pull/24) on [CoMfUcIoS/spinoff](https://github.com/CoMfUcIoS/spinoff) (9 months ago)
 
 
 
