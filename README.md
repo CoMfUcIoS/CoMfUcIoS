@@ -31,7 +31,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [CoMfUcIoS/obsidian-mcp-sb](https://github.com/CoMfUcIoS/obsidian-mcp-sb) - An MCP (Model Context Protocol) server that provides intelligent read-only access to your Obsidian vault, enabling it to function as a &#34;second brain&#34; for LLMs. (5 days ago)
+- [CoMfUcIoS/obsidian-mcp-sb](https://github.com/CoMfUcIoS/obsidian-mcp-sb) - An MCP (Model Context Protocol) server that provides intelligent read-only access to your Obsidian vault, enabling it to function as a &#34;second brain&#34; for LLMs. (6 days ago)
 - [CoMfUcIoS/neovim](https://github.com/CoMfUcIoS/neovim) - My configuration of Neovim. (1 week ago)
 - [CoMfUcIoS/socket.io-pouch](https://github.com/CoMfUcIoS/socket.io-pouch) - PouchDB and CouchDB over WebSockets, using Socket.io (5 months ago)
 - [CoMfUcIoS/dotfiles](https://github.com/CoMfUcIoS/dotfiles) - dotfiles (5 months ago)
@@ -45,7 +45,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [CoMfUcIoS/obsidian-mcp-sb](https://github.com/CoMfUcIoS/obsidian-mcp-sb) ([v0.1.2](https://github.com/CoMfUcIoS/obsidian-mcp-sb/releases/tag/v0.1.2), 5 days ago) - An MCP (Model Context Protocol) server that provides intelligent read-only access to your Obsidian vault, enabling it to function as a &#34;second brain&#34; for LLMs.
+- [CoMfUcIoS/obsidian-mcp-sb](https://github.com/CoMfUcIoS/obsidian-mcp-sb) ([v0.1.2](https://github.com/CoMfUcIoS/obsidian-mcp-sb/releases/tag/v0.1.2), 6 days ago) - An MCP (Model Context Protocol) server that provides intelligent read-only access to your Obsidian vault, enabling it to function as a &#34;second brain&#34; for LLMs.
 - [CoMfUcIoS/socket.io-pouch](https://github.com/CoMfUcIoS/socket.io-pouch) ([v1.2.1](https://github.com/CoMfUcIoS/socket.io-pouch/releases/tag/v1.2.1), 3 years ago) - PouchDB and CouchDB over WebSockets, using Socket.io
 
 
@@ -53,11 +53,11 @@
 
 #### 🔨 My recent Pull Requests
 
-- [feat(ci): add Windows to matrix and set env in commands](https://github.com/CoMfUcIoS/codex-mcp-server/pull/13) on [CoMfUcIoS/codex-mcp-server](https://github.com/CoMfUcIoS/codex-mcp-server) (5 days ago)
-- [chore(deps): update dev and prod dependencies](https://github.com/CoMfUcIoS/codex-mcp-server/pull/12) on [CoMfUcIoS/codex-mcp-server](https://github.com/CoMfUcIoS/codex-mcp-server) (5 days ago)
-- [test(vault): add retry helper for async note queries](https://github.com/CoMfUcIoS/obsidian-mcp-sb/pull/8) on [CoMfUcIoS/obsidian-mcp-sb](https://github.com/CoMfUcIoS/obsidian-mcp-sb) (5 days ago)
-- [chore(deps): update lockfile for dependency changes](https://github.com/CoMfUcIoS/obsidian-mcp-sb/pull/7) on [CoMfUcIoS/obsidian-mcp-sb](https://github.com/CoMfUcIoS/obsidian-mcp-sb) (5 days ago)
-- [add advanced features, env vars, and tool docs](https://github.com/CoMfUcIoS/codex-mcp-server/pull/11) on [CoMfUcIoS/codex-mcp-server](https://github.com/CoMfUcIoS/codex-mcp-server) (2 weeks ago)
+- [feat(ci): add Windows to matrix and set env in commands](https://github.com/CoMfUcIoS/codex-mcp-server/pull/13) on [CoMfUcIoS/codex-mcp-server](https://github.com/CoMfUcIoS/codex-mcp-server) (6 days ago)
+- [chore(deps): update dev and prod dependencies](https://github.com/CoMfUcIoS/codex-mcp-server/pull/12) on [CoMfUcIoS/codex-mcp-server](https://github.com/CoMfUcIoS/codex-mcp-server) (6 days ago)
+- [test(vault): add retry helper for async note queries](https://github.com/CoMfUcIoS/obsidian-mcp-sb/pull/8) on [CoMfUcIoS/obsidian-mcp-sb](https://github.com/CoMfUcIoS/obsidian-mcp-sb) (6 days ago)
+- [chore(deps): update lockfile for dependency changes](https://github.com/CoMfUcIoS/obsidian-mcp-sb/pull/7) on [CoMfUcIoS/obsidian-mcp-sb](https://github.com/CoMfUcIoS/obsidian-mcp-sb) (6 days ago)
+- [add advanced features, env vars, and tool docs](https://github.com/CoMfUcIoS/codex-mcp-server/pull/11) on [CoMfUcIoS/codex-mcp-server](https://github.com/CoMfUcIoS/codex-mcp-server) (3 weeks ago)
 - [docs: add documentation site and mkdocs config](https://github.com/CoMfUcIoS/codex-mcp-server/pull/4) on [CoMfUcIoS/codex-mcp-server](https://github.com/CoMfUcIoS/codex-mcp-server) (1 month ago)
 - [fix(readme): correct typo in package name](https://github.com/CoMfUcIoS/codex-mcp-server/pull/3) on [CoMfUcIoS/codex-mcp-server](https://github.com/CoMfUcIoS/codex-mcp-server) (1 month ago)
 - [docs(readme): add advanced features &amp; tips section](https://github.com/CoMfUcIoS/codex-mcp-server/pull/2) on [CoMfUcIoS/codex-mcp-server](https://github.com/CoMfUcIoS/codex-mcp-server) (1 month ago)
