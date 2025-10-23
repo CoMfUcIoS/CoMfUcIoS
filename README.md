@@ -36,7 +36,7 @@
 - [CoMfUcIoS/socket.io-pouch](https://github.com/CoMfUcIoS/socket.io-pouch) - PouchDB and CouchDB over WebSockets, using Socket.io (5 months ago)
 - [CoMfUcIoS/dotfiles](https://github.com/CoMfUcIoS/dotfiles) - dotfiles (6 months ago)
 - [CoMfUcIoS/runhub](https://github.com/CoMfUcIoS/runhub) - Centralize, visualize, and orchestrate your CLI workflows in one sleek dashboard. (7 months ago)
-- [CoMfUcIoS/kitty](https://github.com/CoMfUcIoS/kitty) -  (9 months ago)
+- [CoMfUcIoS/kitty](https://github.com/CoMfUcIoS/kitty) -  (10 months ago)
 - [CoMfUcIoS/graphql2charts](https://github.com/CoMfUcIoS/graphql2charts) -  (11 months ago)
 
 
