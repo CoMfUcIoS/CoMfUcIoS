@@ -45,7 +45,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [CoMfUcIoS/console-inline.nvim](https://github.com/CoMfUcIoS/console-inline.nvim) ([@console-inline/service-v1.1.1](https://github.com/CoMfUcIoS/console-inline.nvim/releases/tag/%40console-inline/service-v1.1.1), today) - Zero-config Neovim plugin for inline console logs
+- [CoMfUcIoS/console-inline.nvim](https://github.com/CoMfUcIoS/console-inline.nvim) ([@console-inline/service-v1.2.1](https://github.com/CoMfUcIoS/console-inline.nvim/releases/tag/%40console-inline/service-v1.2.1), today) - Zero-config Neovim plugin for inline console logs
 - [CoMfUcIoS/obsidian-mcp-sb](https://github.com/CoMfUcIoS/obsidian-mcp-sb) ([v0.1.2](https://github.com/CoMfUcIoS/obsidian-mcp-sb/releases/tag/v0.1.2), 2 weeks ago) - An MCP (Model Context Protocol) server that provides intelligent read-only access to your Obsidian vault, enabling it to function as a &#34;second brain&#34; for LLMs.
 - [CoMfUcIoS/socket.io-pouch](https://github.com/CoMfUcIoS/socket.io-pouch) ([v1.2.1](https://github.com/CoMfUcIoS/socket.io-pouch/releases/tag/v1.2.1), 3 years ago) - PouchDB and CouchDB over WebSockets, using Socket.io
 
@@ -54,6 +54,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [chore: release main](https://github.com/CoMfUcIoS/console-inline.nvim/pull/10) on [CoMfUcIoS/console-inline.nvim](https://github.com/CoMfUcIoS/console-inline.nvim) (today)
 - [feat(ci): add Windows to matrix and set env in commands](https://github.com/CoMfUcIoS/codex-mcp-server/pull/13) on [CoMfUcIoS/codex-mcp-server](https://github.com/CoMfUcIoS/codex-mcp-server) (2 weeks ago)
 - [chore(deps): update dev and prod dependencies](https://github.com/CoMfUcIoS/codex-mcp-server/pull/12) on [CoMfUcIoS/codex-mcp-server](https://github.com/CoMfUcIoS/codex-mcp-server) (2 weeks ago)
 - [test(vault): add retry helper for async note queries](https://github.com/CoMfUcIoS/obsidian-mcp-sb/pull/8) on [CoMfUcIoS/obsidian-mcp-sb](https://github.com/CoMfUcIoS/obsidian-mcp-sb) (2 weeks ago)
@@ -63,7 +64,6 @@
 - [fix(readme): correct typo in package name](https://github.com/CoMfUcIoS/codex-mcp-server/pull/3) on [CoMfUcIoS/codex-mcp-server](https://github.com/CoMfUcIoS/codex-mcp-server) (1 month ago)
 - [docs(readme): add advanced features &amp; tips section](https://github.com/CoMfUcIoS/codex-mcp-server/pull/2) on [CoMfUcIoS/codex-mcp-server](https://github.com/CoMfUcIoS/codex-mcp-server) (1 month ago)
 - [test: expand and refactor tool/server/util tests](https://github.com/CoMfUcIoS/codex-mcp-server/pull/1) on [CoMfUcIoS/codex-mcp-server](https://github.com/CoMfUcIoS/codex-mcp-server) (1 month ago)
-- [Sync Fork](https://github.com/CoMfUcIoS/miryoku_zmk/pull/2) on [CoMfUcIoS/miryoku_zmk](https://github.com/CoMfUcIoS/miryoku_zmk) (7 months ago)
 
 
 
