@@ -31,8 +31,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [CoMfUcIoS/console-inline.nvim](https://github.com/CoMfUcIoS/console-inline.nvim) - Zero-config Neovim plugin for inline console logs (today)
-- [CoMfUcIoS/neovim](https://github.com/CoMfUcIoS/neovim) - My configuration of Neovim. (1 day ago)
+- [CoMfUcIoS/console-inline.nvim](https://github.com/CoMfUcIoS/console-inline.nvim) - Zero-config Neovim plugin for inline console logs (1 day ago)
+- [CoMfUcIoS/neovim](https://github.com/CoMfUcIoS/neovim) - My configuration of Neovim. (2 days ago)
 - [CoMfUcIoS/obsidian-mcp-sb](https://github.com/CoMfUcIoS/obsidian-mcp-sb) - An MCP (Model Context Protocol) server that provides intelligent read-only access to your Obsidian vault, enabling it to function as a &#34;second brain&#34; for LLMs. (2 weeks ago)
 - [CoMfUcIoS/socket.io-pouch](https://github.com/CoMfUcIoS/socket.io-pouch) - PouchDB and CouchDB over WebSockets, using Socket.io (5 months ago)
 - [CoMfUcIoS/dotfiles](https://github.com/CoMfUcIoS/dotfiles) - dotfiles (6 months ago)
@@ -45,8 +45,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [CoMfUcIoS/obsidian-mcp-sb](https://github.com/CoMfUcIoS/obsidian-mcp-sb) ([v0.1.3](https://github.com/CoMfUcIoS/obsidian-mcp-sb/releases/tag/v0.1.3), today) - An MCP (Model Context Protocol) server that provides intelligent read-only access to your Obsidian vault, enabling it to function as a &#34;second brain&#34; for LLMs.
-- [CoMfUcIoS/console-inline.nvim](https://github.com/CoMfUcIoS/console-inline.nvim) ([@console-inline/service-v1.2.1](https://github.com/CoMfUcIoS/console-inline.nvim/releases/tag/%40console-inline/service-v1.2.1), today) - Zero-config Neovim plugin for inline console logs
+- [CoMfUcIoS/obsidian-mcp-sb](https://github.com/CoMfUcIoS/obsidian-mcp-sb) ([v0.1.3](https://github.com/CoMfUcIoS/obsidian-mcp-sb/releases/tag/v0.1.3), 1 day ago) - An MCP (Model Context Protocol) server that provides intelligent read-only access to your Obsidian vault, enabling it to function as a &#34;second brain&#34; for LLMs.
+- [CoMfUcIoS/console-inline.nvim](https://github.com/CoMfUcIoS/console-inline.nvim) ([@console-inline/service-v1.2.1](https://github.com/CoMfUcIoS/console-inline.nvim/releases/tag/%40console-inline/service-v1.2.1), 1 day ago) - Zero-config Neovim plugin for inline console logs
 - [CoMfUcIoS/socket.io-pouch](https://github.com/CoMfUcIoS/socket.io-pouch) ([v1.2.1](https://github.com/CoMfUcIoS/socket.io-pouch/releases/tag/v1.2.1), 3 years ago) - PouchDB and CouchDB over WebSockets, using Socket.io
 
 
@@ -54,7 +54,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [chore: release main](https://github.com/CoMfUcIoS/console-inline.nvim/pull/10) on [CoMfUcIoS/console-inline.nvim](https://github.com/CoMfUcIoS/console-inline.nvim) (today)
+- [chore: release main](https://github.com/CoMfUcIoS/console-inline.nvim/pull/10) on [CoMfUcIoS/console-inline.nvim](https://github.com/CoMfUcIoS/console-inline.nvim) (1 day ago)
 - [feat(ci): add Windows to matrix and set env in commands](https://github.com/CoMfUcIoS/codex-mcp-server/pull/13) on [CoMfUcIoS/codex-mcp-server](https://github.com/CoMfUcIoS/codex-mcp-server) (2 weeks ago)
 - [chore(deps): update dev and prod dependencies](https://github.com/CoMfUcIoS/codex-mcp-server/pull/12) on [CoMfUcIoS/codex-mcp-server](https://github.com/CoMfUcIoS/codex-mcp-server) (2 weeks ago)
 - [test(vault): add retry helper for async note queries](https://github.com/CoMfUcIoS/obsidian-mcp-sb/pull/8) on [CoMfUcIoS/obsidian-mcp-sb](https://github.com/CoMfUcIoS/obsidian-mcp-sb) (2 weeks ago)
@@ -79,7 +79,7 @@
 - [Why Length Trumps Complexity: The New Rules of Password Security](https://www.strongpasswordmeter.com/en/blog/why-length-trumps-complexity) (8 months ago)
 - [The Complete Guide to Password Managers in 2025](https://www.strongpasswordmeter.com/en/blog/the-complete-guide-to-password-managers-in-2025) (8 months ago)
 - [Brute Force Attacks Are Back: How to Protect Your Accounts in 2025](https://www.strongpasswordmeter.com/en/blog/brute-force-attacks-are-back) (8 months ago)
-- [Understanding Password Entropy: The Science of Password Strength](https://www.strongpasswordmeter.com/en/blog/understanding-password-entropy) (8 months ago)
+- [Understanding Password Entropy: The Science of Password Strength](https://www.strongpasswordmeter.com/en/blog/understanding-password-entropy) (9 months ago)
 
 - [Google Cloud Shell, my new home](https://comfucios.github.io/posts/google-cloud-shell-my-new-home/) (3 years ago)
 - [The `Cloud` is upon us](https://comfucios.github.io/posts/the-cloud-is-upon-us/) (3 years ago)
