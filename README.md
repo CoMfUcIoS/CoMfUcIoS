@@ -54,6 +54,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [chore: release main](https://github.com/CoMfUcIoS/console-inline.nvim/pull/15) on [CoMfUcIoS/console-inline.nvim](https://github.com/CoMfUcIoS/console-inline.nvim) (today)
 - [chore: release main](https://github.com/CoMfUcIoS/console-inline.nvim/pull/14) on [CoMfUcIoS/console-inline.nvim](https://github.com/CoMfUcIoS/console-inline.nvim) (today)
 - [chore: release main](https://github.com/CoMfUcIoS/console-inline.nvim/pull/13) on [CoMfUcIoS/console-inline.nvim](https://github.com/CoMfUcIoS/console-inline.nvim) (today)
 - [chore: release main](https://github.com/CoMfUcIoS/console-inline.nvim/pull/12) on [CoMfUcIoS/console-inline.nvim](https://github.com/CoMfUcIoS/console-inline.nvim) (1 day ago)
@@ -63,7 +64,6 @@
 - [chore(deps): update dev and prod dependencies](https://github.com/CoMfUcIoS/codex-mcp-server/pull/12) on [CoMfUcIoS/codex-mcp-server](https://github.com/CoMfUcIoS/codex-mcp-server) (2 weeks ago)
 - [test(vault): add retry helper for async note queries](https://github.com/CoMfUcIoS/obsidian-mcp-sb/pull/8) on [CoMfUcIoS/obsidian-mcp-sb](https://github.com/CoMfUcIoS/obsidian-mcp-sb) (2 weeks ago)
 - [chore(deps): update lockfile for dependency changes](https://github.com/CoMfUcIoS/obsidian-mcp-sb/pull/7) on [CoMfUcIoS/obsidian-mcp-sb](https://github.com/CoMfUcIoS/obsidian-mcp-sb) (2 weeks ago)
-- [add advanced features, env vars, and tool docs](https://github.com/CoMfUcIoS/codex-mcp-server/pull/11) on [CoMfUcIoS/codex-mcp-server](https://github.com/CoMfUcIoS/codex-mcp-server) (1 month ago)
 
 
 
