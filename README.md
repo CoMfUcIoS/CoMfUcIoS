@@ -54,6 +54,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Merge from source](https://github.com/CoMfUcIoS/miryoku_zmk/pull/3) on [CoMfUcIoS/miryoku_zmk](https://github.com/CoMfUcIoS/miryoku_zmk) (today)
 - [chore: release main](https://github.com/CoMfUcIoS/console-inline.nvim/pull/17) on [CoMfUcIoS/console-inline.nvim](https://github.com/CoMfUcIoS/console-inline.nvim) (2 days ago)
 - [chore: release main](https://github.com/CoMfUcIoS/console-inline.nvim/pull/16) on [CoMfUcIoS/console-inline.nvim](https://github.com/CoMfUcIoS/console-inline.nvim) (2 days ago)
 - [chore: release main](https://github.com/CoMfUcIoS/console-inline.nvim/pull/15) on [CoMfUcIoS/console-inline.nvim](https://github.com/CoMfUcIoS/console-inline.nvim) (2 days ago)
@@ -63,7 +64,6 @@
 - [chore: release main](https://github.com/CoMfUcIoS/console-inline.nvim/pull/11) on [CoMfUcIoS/console-inline.nvim](https://github.com/CoMfUcIoS/console-inline.nvim) (3 days ago)
 - [chore: release main](https://github.com/CoMfUcIoS/console-inline.nvim/pull/10) on [CoMfUcIoS/console-inline.nvim](https://github.com/CoMfUcIoS/console-inline.nvim) (4 days ago)
 - [feat(ci): add Windows to matrix and set env in commands](https://github.com/CoMfUcIoS/codex-mcp-server/pull/13) on [CoMfUcIoS/codex-mcp-server](https://github.com/CoMfUcIoS/codex-mcp-server) (2 weeks ago)
-- [chore(deps): update dev and prod dependencies](https://github.com/CoMfUcIoS/codex-mcp-server/pull/12) on [CoMfUcIoS/codex-mcp-server](https://github.com/CoMfUcIoS/codex-mcp-server) (2 weeks ago)
 
 
 
