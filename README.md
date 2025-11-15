@@ -55,7 +55,7 @@
 
 - [chore: release main](https://github.com/CoMfUcIoS/console-inline.nvim/pull/19) on [CoMfUcIoS/console-inline.nvim](https://github.com/CoMfUcIoS/console-inline.nvim) (1 week ago)
 - [chore: release main](https://github.com/CoMfUcIoS/console-inline.nvim/pull/18) on [CoMfUcIoS/console-inline.nvim](https://github.com/CoMfUcIoS/console-inline.nvim) (1 week ago)
-- [Merge from source](https://github.com/CoMfUcIoS/miryoku_zmk/pull/3) on [CoMfUcIoS/miryoku_zmk](https://github.com/CoMfUcIoS/miryoku_zmk) (1 week ago)
+- [Merge from source](https://github.com/CoMfUcIoS/miryoku_zmk/pull/3) on [CoMfUcIoS/miryoku_zmk](https://github.com/CoMfUcIoS/miryoku_zmk) (2 weeks ago)
 - [chore: release main](https://github.com/CoMfUcIoS/console-inline.nvim/pull/17) on [CoMfUcIoS/console-inline.nvim](https://github.com/CoMfUcIoS/console-inline.nvim) (2 weeks ago)
 - [chore: release main](https://github.com/CoMfUcIoS/console-inline.nvim/pull/16) on [CoMfUcIoS/console-inline.nvim](https://github.com/CoMfUcIoS/console-inline.nvim) (2 weeks ago)
 - [chore: release main](https://github.com/CoMfUcIoS/console-inline.nvim/pull/15) on [CoMfUcIoS/console-inline.nvim](https://github.com/CoMfUcIoS/console-inline.nvim) (2 weeks ago)
