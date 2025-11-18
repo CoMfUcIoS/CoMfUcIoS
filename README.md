@@ -31,9 +31,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [CoMfUcIoS/console-inline.nvim](https://github.com/CoMfUcIoS/console-inline.nvim) - Zero-config Neovim plugin for inline console logs (today)
-- [CoMfUcIoS/obsidian-mcp-sb](https://github.com/CoMfUcIoS/obsidian-mcp-sb) - An MCP (Model Context Protocol) server that provides intelligent read-only access to your Obsidian vault, enabling it to function as a &#34;second brain&#34; for LLMs. (today)
-- [CoMfUcIoS/GraphQLens](https://github.com/CoMfUcIoS/GraphQLens) - A performant, modern Chrome DevTools extension for inspecting &amp; mocking GraphQL traffic (today)
+- [CoMfUcIoS/console-inline.nvim](https://github.com/CoMfUcIoS/console-inline.nvim) - Zero-config Neovim plugin for inline console logs (1 day ago)
+- [CoMfUcIoS/obsidian-mcp-sb](https://github.com/CoMfUcIoS/obsidian-mcp-sb) - An MCP (Model Context Protocol) server that provides intelligent read-only access to your Obsidian vault, enabling it to function as a &#34;second brain&#34; for LLMs. (1 day ago)
+- [CoMfUcIoS/GraphQLens](https://github.com/CoMfUcIoS/GraphQLens) - A performant, modern Chrome DevTools extension for inspecting &amp; mocking GraphQL traffic (1 day ago)
 - [CoMfUcIoS/neovim](https://github.com/CoMfUcIoS/neovim) - My configuration of Neovim. (2 weeks ago)
 - [CoMfUcIoS/socket.io-pouch](https://github.com/CoMfUcIoS/socket.io-pouch) - PouchDB and CouchDB over WebSockets, using Socket.io (6 months ago)
 - [CoMfUcIoS/dotfiles](https://github.com/CoMfUcIoS/dotfiles) - dotfiles (6 months ago)
@@ -45,9 +45,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [CoMfUcIoS/GraphQLens](https://github.com/CoMfUcIoS/GraphQLens) ([v1.0.2](https://github.com/CoMfUcIoS/GraphQLens/releases/tag/v1.0.2), 1 day ago) - A performant, modern Chrome DevTools extension for inspecting &amp; mocking GraphQL traffic
+- [CoMfUcIoS/GraphQLens](https://github.com/CoMfUcIoS/GraphQLens) ([v1.0.2](https://github.com/CoMfUcIoS/GraphQLens/releases/tag/v1.0.2), 2 days ago) - A performant, modern Chrome DevTools extension for inspecting &amp; mocking GraphQL traffic
 - [CoMfUcIoS/console-inline.nvim](https://github.com/CoMfUcIoS/console-inline.nvim) ([@console-inline/service-v2.0.0](https://github.com/CoMfUcIoS/console-inline.nvim/releases/tag/%40console-inline/service-v2.0.0), 1 week ago) - Zero-config Neovim plugin for inline console logs
-- [CoMfUcIoS/obsidian-mcp-sb](https://github.com/CoMfUcIoS/obsidian-mcp-sb) ([v0.1.3](https://github.com/CoMfUcIoS/obsidian-mcp-sb/releases/tag/v0.1.3), 2 weeks ago) - An MCP (Model Context Protocol) server that provides intelligent read-only access to your Obsidian vault, enabling it to function as a &#34;second brain&#34; for LLMs.
+- [CoMfUcIoS/obsidian-mcp-sb](https://github.com/CoMfUcIoS/obsidian-mcp-sb) ([v0.1.3](https://github.com/CoMfUcIoS/obsidian-mcp-sb/releases/tag/v0.1.3), 3 weeks ago) - An MCP (Model Context Protocol) server that provides intelligent read-only access to your Obsidian vault, enabling it to function as a &#34;second brain&#34; for LLMs.
 - [CoMfUcIoS/socket.io-pouch](https://github.com/CoMfUcIoS/socket.io-pouch) ([v1.2.1](https://github.com/CoMfUcIoS/socket.io-pouch/releases/tag/v1.2.1), 3 years ago) - PouchDB and CouchDB over WebSockets, using Socket.io
 
 
@@ -55,12 +55,12 @@
 
 #### 🔨 My recent Pull Requests
 
-- [chore: release 1.0.2](https://github.com/CoMfUcIoS/GraphQLens/pull/15) on [CoMfUcIoS/GraphQLens](https://github.com/CoMfUcIoS/GraphQLens) (1 day ago)
-- [chore: release 1.0.1](https://github.com/CoMfUcIoS/GraphQLens/pull/14) on [CoMfUcIoS/GraphQLens](https://github.com/CoMfUcIoS/GraphQLens) (1 day ago)
-- [chore: release 1.0.0](https://github.com/CoMfUcIoS/GraphQLens/pull/13) on [CoMfUcIoS/GraphQLens](https://github.com/CoMfUcIoS/GraphQLens) (1 day ago)
-- [docs(readme): clarify Chrome support and add sections](https://github.com/CoMfUcIoS/GraphQLens/pull/12) on [CoMfUcIoS/GraphQLens](https://github.com/CoMfUcIoS/GraphQLens) (1 day ago)
-- [chore(ci): add release-please and update release workflow](https://github.com/CoMfUcIoS/GraphQLens/pull/11) on [CoMfUcIoS/GraphQLens](https://github.com/CoMfUcIoS/GraphQLens) (1 day ago)
-- [chore: improve type safety and fix minor bugs](https://github.com/CoMfUcIoS/GraphQLens/pull/5) on [CoMfUcIoS/GraphQLens](https://github.com/CoMfUcIoS/GraphQLens) (1 day ago)
+- [chore: release 1.0.2](https://github.com/CoMfUcIoS/GraphQLens/pull/15) on [CoMfUcIoS/GraphQLens](https://github.com/CoMfUcIoS/GraphQLens) (2 days ago)
+- [chore: release 1.0.1](https://github.com/CoMfUcIoS/GraphQLens/pull/14) on [CoMfUcIoS/GraphQLens](https://github.com/CoMfUcIoS/GraphQLens) (2 days ago)
+- [chore: release 1.0.0](https://github.com/CoMfUcIoS/GraphQLens/pull/13) on [CoMfUcIoS/GraphQLens](https://github.com/CoMfUcIoS/GraphQLens) (2 days ago)
+- [docs(readme): clarify Chrome support and add sections](https://github.com/CoMfUcIoS/GraphQLens/pull/12) on [CoMfUcIoS/GraphQLens](https://github.com/CoMfUcIoS/GraphQLens) (2 days ago)
+- [chore(ci): add release-please and update release workflow](https://github.com/CoMfUcIoS/GraphQLens/pull/11) on [CoMfUcIoS/GraphQLens](https://github.com/CoMfUcIoS/GraphQLens) (2 days ago)
+- [chore: improve type safety and fix minor bugs](https://github.com/CoMfUcIoS/GraphQLens/pull/5) on [CoMfUcIoS/GraphQLens](https://github.com/CoMfUcIoS/GraphQLens) (2 days ago)
 - [chore: release main](https://github.com/CoMfUcIoS/console-inline.nvim/pull/19) on [CoMfUcIoS/console-inline.nvim](https://github.com/CoMfUcIoS/console-inline.nvim) (1 week ago)
 - [chore: release main](https://github.com/CoMfUcIoS/console-inline.nvim/pull/18) on [CoMfUcIoS/console-inline.nvim](https://github.com/CoMfUcIoS/console-inline.nvim) (2 weeks ago)
 - [Merge from source](https://github.com/CoMfUcIoS/miryoku_zmk/pull/3) on [CoMfUcIoS/miryoku_zmk](https://github.com/CoMfUcIoS/miryoku_zmk) (2 weeks ago)
