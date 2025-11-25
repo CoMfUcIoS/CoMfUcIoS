@@ -31,9 +31,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [CoMfUcIoS/ConventionalComments-ext](https://github.com/CoMfUcIoS/ConventionalComments-ext) - An easy way to help you be kind and insert Conventional comments in GH comments (2 days ago)
-- [CoMfUcIoS/neovim](https://github.com/CoMfUcIoS/neovim) - My configuration of Neovim. (5 days ago)
-- [CoMfUcIoS/GraphQLens](https://github.com/CoMfUcIoS/GraphQLens) - A performant, modern Chrome DevTools extension for inspecting &amp; mocking GraphQL traffic (6 days ago)
+- [CoMfUcIoS/ConventionalComments-ext](https://github.com/CoMfUcIoS/ConventionalComments-ext) - An easy way to help you be kind and insert Conventional comments in GH comments (3 days ago)
+- [CoMfUcIoS/neovim](https://github.com/CoMfUcIoS/neovim) - My configuration of Neovim. (6 days ago)
+- [CoMfUcIoS/GraphQLens](https://github.com/CoMfUcIoS/GraphQLens) - A performant, modern Chrome DevTools extension for inspecting &amp; mocking GraphQL traffic (1 week ago)
 - [CoMfUcIoS/console-inline.nvim](https://github.com/CoMfUcIoS/console-inline.nvim) - Zero-config Neovim plugin for inline console logs (1 week ago)
 - [CoMfUcIoS/obsidian-mcp-sb](https://github.com/CoMfUcIoS/obsidian-mcp-sb) - An MCP (Model Context Protocol) server that provides intelligent read-only access to your Obsidian vault, enabling it to function as a &#34;second brain&#34; for LLMs. (1 week ago)
 - [CoMfUcIoS/socket.io-pouch](https://github.com/CoMfUcIoS/socket.io-pouch) - PouchDB and CouchDB over WebSockets, using Socket.io (6 months ago)
@@ -46,10 +46,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [CoMfUcIoS/ConventionalComments-ext](https://github.com/CoMfUcIoS/ConventionalComments-ext) ([v2.2.0](https://github.com/CoMfUcIoS/ConventionalComments-ext/releases/tag/v2.2.0), 2 days ago) - An easy way to help you be kind and insert Conventional comments in GH comments
+- [CoMfUcIoS/ConventionalComments-ext](https://github.com/CoMfUcIoS/ConventionalComments-ext) ([v2.2.0](https://github.com/CoMfUcIoS/ConventionalComments-ext/releases/tag/v2.2.0), 3 days ago) - An easy way to help you be kind and insert Conventional comments in GH comments
 - [CoMfUcIoS/GraphQLens](https://github.com/CoMfUcIoS/GraphQLens) ([v1.0.2](https://github.com/CoMfUcIoS/GraphQLens/releases/tag/v1.0.2), 1 week ago) - A performant, modern Chrome DevTools extension for inspecting &amp; mocking GraphQL traffic
 - [CoMfUcIoS/console-inline.nvim](https://github.com/CoMfUcIoS/console-inline.nvim) ([@console-inline/service-v2.0.0](https://github.com/CoMfUcIoS/console-inline.nvim/releases/tag/%40console-inline/service-v2.0.0), 2 weeks ago) - Zero-config Neovim plugin for inline console logs
-- [CoMfUcIoS/obsidian-mcp-sb](https://github.com/CoMfUcIoS/obsidian-mcp-sb) ([v0.1.3](https://github.com/CoMfUcIoS/obsidian-mcp-sb/releases/tag/v0.1.3), 3 weeks ago) - An MCP (Model Context Protocol) server that provides intelligent read-only access to your Obsidian vault, enabling it to function as a &#34;second brain&#34; for LLMs.
+- [CoMfUcIoS/obsidian-mcp-sb](https://github.com/CoMfUcIoS/obsidian-mcp-sb) ([v0.1.3](https://github.com/CoMfUcIoS/obsidian-mcp-sb/releases/tag/v0.1.3), 4 weeks ago) - An MCP (Model Context Protocol) server that provides intelligent read-only access to your Obsidian vault, enabling it to function as a &#34;second brain&#34; for LLMs.
 - [CoMfUcIoS/socket.io-pouch](https://github.com/CoMfUcIoS/socket.io-pouch) ([v1.2.1](https://github.com/CoMfUcIoS/socket.io-pouch/releases/tag/v1.2.1), 3 years ago) - PouchDB and CouchDB over WebSockets, using Socket.io
 
 
@@ -57,10 +57,10 @@
 
 #### 🔨 My recent Pull Requests
 
-- [chore: release 2.2.0](https://github.com/CoMfUcIoS/ConventionalComments-ext/pull/5) on [CoMfUcIoS/ConventionalComments-ext](https://github.com/CoMfUcIoS/ConventionalComments-ext) (2 days ago)
-- [chore: release 2.1.0](https://github.com/CoMfUcIoS/ConventionalComments-ext/pull/4) on [CoMfUcIoS/ConventionalComments-ext](https://github.com/CoMfUcIoS/ConventionalComments-ext) (2 days ago)
-- [chore: release 2.0.0](https://github.com/CoMfUcIoS/ConventionalComments-ext/pull/3) on [CoMfUcIoS/ConventionalComments-ext](https://github.com/CoMfUcIoS/ConventionalComments-ext) (2 days ago)
-- [refactor: remove help-dialog.css and reorganize styles](https://github.com/CoMfUcIoS/ConventionalComments-ext/pull/1) on [CoMfUcIoS/ConventionalComments-ext](https://github.com/CoMfUcIoS/ConventionalComments-ext) (2 days ago)
+- [chore: release 2.2.0](https://github.com/CoMfUcIoS/ConventionalComments-ext/pull/5) on [CoMfUcIoS/ConventionalComments-ext](https://github.com/CoMfUcIoS/ConventionalComments-ext) (3 days ago)
+- [chore: release 2.1.0](https://github.com/CoMfUcIoS/ConventionalComments-ext/pull/4) on [CoMfUcIoS/ConventionalComments-ext](https://github.com/CoMfUcIoS/ConventionalComments-ext) (3 days ago)
+- [chore: release 2.0.0](https://github.com/CoMfUcIoS/ConventionalComments-ext/pull/3) on [CoMfUcIoS/ConventionalComments-ext](https://github.com/CoMfUcIoS/ConventionalComments-ext) (3 days ago)
+- [refactor: remove help-dialog.css and reorganize styles](https://github.com/CoMfUcIoS/ConventionalComments-ext/pull/1) on [CoMfUcIoS/ConventionalComments-ext](https://github.com/CoMfUcIoS/ConventionalComments-ext) (3 days ago)
 - [chore: release 1.0.2](https://github.com/CoMfUcIoS/GraphQLens/pull/15) on [CoMfUcIoS/GraphQLens](https://github.com/CoMfUcIoS/GraphQLens) (1 week ago)
 - [chore: release 1.0.1](https://github.com/CoMfUcIoS/GraphQLens/pull/14) on [CoMfUcIoS/GraphQLens](https://github.com/CoMfUcIoS/GraphQLens) (1 week ago)
 - [chore: release 1.0.0](https://github.com/CoMfUcIoS/GraphQLens/pull/13) on [CoMfUcIoS/GraphQLens](https://github.com/CoMfUcIoS/GraphQLens) (1 week ago)
@@ -77,7 +77,7 @@
 - [Password Notebook Reality Check: The Surprising Return of Analog Security (And How to Do It Properly)](https://www.strongpasswordmeter.com/en/blog/password-notebook-reality-check-the-surprising-return-of-analog-security) (7 months ago)
 - [The Psychology Behind Password Creation: Why We Choose Weak Passwords (And How to Break the Habit)](https://www.strongpasswordmeter.com/en/blog/the-psychology-behind-password-creation) (8 months ago)
 - [The Rise of Quantum Computing and Its Impact on Password Security](https://www.strongpasswordmeter.com/en/blog/quantum-computing-password-security-threat) (8 months ago)
-- [The 20M OpenAI Credential Leak: What You Need to Know](https://www.strongpasswordmeter.com/en/blog/openai-20m-credential-leak) (8 months ago)
+- [The 20M OpenAI Credential Leak: What You Need to Know](https://www.strongpasswordmeter.com/en/blog/openai-20m-credential-leak) (9 months ago)
 - [From Passwords to Passkeys: The Future of Authentication](https://www.strongpasswordmeter.com/en/blog/from-passwords-to-passkeys) (9 months ago)
 - [Why Length Trumps Complexity: The New Rules of Password Security](https://www.strongpasswordmeter.com/en/blog/why-length-trumps-complexity) (9 months ago)
 - [The Complete Guide to Password Managers in 2025](https://www.strongpasswordmeter.com/en/blog/the-complete-guide-to-password-managers-in-2025) (9 months ago)
