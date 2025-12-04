@@ -80,7 +80,7 @@
 - [The 20M OpenAI Credential Leak: What You Need to Know](https://www.strongpasswordmeter.com/en/blog/openai-20m-credential-leak) (9 months ago)
 - [From Passwords to Passkeys: The Future of Authentication](https://www.strongpasswordmeter.com/en/blog/from-passwords-to-passkeys) (9 months ago)
 - [Why Length Trumps Complexity: The New Rules of Password Security](https://www.strongpasswordmeter.com/en/blog/why-length-trumps-complexity) (9 months ago)
-- [The Complete Guide to Password Managers in 2025](https://www.strongpasswordmeter.com/en/blog/the-complete-guide-to-password-managers-in-2025) (9 months ago)
+- [The Complete Guide to Password Managers in 2025](https://www.strongpasswordmeter.com/en/blog/the-complete-guide-to-password-managers-in-2025) (10 months ago)
 - [Brute Force Attacks Are Back: How to Protect Your Accounts in 2025](https://www.strongpasswordmeter.com/en/blog/brute-force-attacks-are-back) (10 months ago)
 - [Understanding Password Entropy: The Science of Password Strength](https://www.strongpasswordmeter.com/en/blog/understanding-password-entropy) (10 months ago)
 
