@@ -48,7 +48,7 @@
 
 - [CoMfUcIoS/ConventionalComments-ext](https://github.com/CoMfUcIoS/ConventionalComments-ext) ([v2.2.0](https://github.com/CoMfUcIoS/ConventionalComments-ext/releases/tag/v2.2.0), 1 week ago) - An easy way to help you be kind and insert Conventional comments in GH comments
 - [CoMfUcIoS/GraphQLens](https://github.com/CoMfUcIoS/GraphQLens) ([v1.0.2](https://github.com/CoMfUcIoS/GraphQLens/releases/tag/v1.0.2), 2 weeks ago) - A performant, modern Chrome DevTools extension for inspecting &amp; mocking GraphQL traffic
-- [CoMfUcIoS/console-inline.nvim](https://github.com/CoMfUcIoS/console-inline.nvim) ([@console-inline/service-v2.0.0](https://github.com/CoMfUcIoS/console-inline.nvim/releases/tag/%40console-inline/service-v2.0.0), 4 weeks ago) - Zero-config Neovim plugin for inline console logs
+- [CoMfUcIoS/console-inline.nvim](https://github.com/CoMfUcIoS/console-inline.nvim) ([@console-inline/service-v2.0.0](https://github.com/CoMfUcIoS/console-inline.nvim/releases/tag/%40console-inline/service-v2.0.0), 1 month ago) - Zero-config Neovim plugin for inline console logs
 - [CoMfUcIoS/obsidian-mcp-sb](https://github.com/CoMfUcIoS/obsidian-mcp-sb) ([v0.1.3](https://github.com/CoMfUcIoS/obsidian-mcp-sb/releases/tag/v0.1.3), 1 month ago) - An MCP (Model Context Protocol) server that provides intelligent read-only access to your Obsidian vault, enabling it to function as a &#34;second brain&#34; for LLMs.
 - [CoMfUcIoS/socket.io-pouch](https://github.com/CoMfUcIoS/socket.io-pouch) ([v1.2.1](https://github.com/CoMfUcIoS/socket.io-pouch/releases/tag/v1.2.1), 3 years ago) - PouchDB and CouchDB over WebSockets, using Socket.io
 
