@@ -32,7 +32,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [CoMfUcIoS/neovim](https://github.com/CoMfUcIoS/neovim) - My configuration of Neovim. (1 week ago)
-- [CoMfUcIoS/ConventionalComments-ext](https://github.com/CoMfUcIoS/ConventionalComments-ext) - An easy way to help you be kind and insert Conventional comments in GH comments (1 week ago)
+- [CoMfUcIoS/ConventionalComments-ext](https://github.com/CoMfUcIoS/ConventionalComments-ext) - An easy way to help you be kind and insert Conventional comments in GH comments (2 weeks ago)
 - [CoMfUcIoS/GraphQLens](https://github.com/CoMfUcIoS/GraphQLens) - A performant, modern Chrome DevTools extension for inspecting &amp; mocking GraphQL traffic (2 weeks ago)
 - [CoMfUcIoS/console-inline.nvim](https://github.com/CoMfUcIoS/console-inline.nvim) - Zero-config Neovim plugin for inline console logs (2 weeks ago)
 - [CoMfUcIoS/obsidian-mcp-sb](https://github.com/CoMfUcIoS/obsidian-mcp-sb) - An MCP (Model Context Protocol) server that provides intelligent read-only access to your Obsidian vault, enabling it to function as a &#34;second brain&#34; for LLMs. (2 weeks ago)
@@ -46,7 +46,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [CoMfUcIoS/ConventionalComments-ext](https://github.com/CoMfUcIoS/ConventionalComments-ext) ([v2.2.0](https://github.com/CoMfUcIoS/ConventionalComments-ext/releases/tag/v2.2.0), 1 week ago) - An easy way to help you be kind and insert Conventional comments in GH comments
+- [CoMfUcIoS/ConventionalComments-ext](https://github.com/CoMfUcIoS/ConventionalComments-ext) ([v2.2.0](https://github.com/CoMfUcIoS/ConventionalComments-ext/releases/tag/v2.2.0), 2 weeks ago) - An easy way to help you be kind and insert Conventional comments in GH comments
 - [CoMfUcIoS/GraphQLens](https://github.com/CoMfUcIoS/GraphQLens) ([v1.0.2](https://github.com/CoMfUcIoS/GraphQLens/releases/tag/v1.0.2), 2 weeks ago) - A performant, modern Chrome DevTools extension for inspecting &amp; mocking GraphQL traffic
 - [CoMfUcIoS/console-inline.nvim](https://github.com/CoMfUcIoS/console-inline.nvim) ([@console-inline/service-v2.0.0](https://github.com/CoMfUcIoS/console-inline.nvim/releases/tag/%40console-inline/service-v2.0.0), 1 month ago) - Zero-config Neovim plugin for inline console logs
 - [CoMfUcIoS/obsidian-mcp-sb](https://github.com/CoMfUcIoS/obsidian-mcp-sb) ([v0.1.3](https://github.com/CoMfUcIoS/obsidian-mcp-sb/releases/tag/v0.1.3), 1 month ago) - An MCP (Model Context Protocol) server that provides intelligent read-only access to your Obsidian vault, enabling it to function as a &#34;second brain&#34; for LLMs.
@@ -57,10 +57,10 @@
 
 #### 🔨 My recent Pull Requests
 
-- [chore: release 2.2.0](https://github.com/CoMfUcIoS/ConventionalComments-ext/pull/5) on [CoMfUcIoS/ConventionalComments-ext](https://github.com/CoMfUcIoS/ConventionalComments-ext) (1 week ago)
-- [chore: release 2.1.0](https://github.com/CoMfUcIoS/ConventionalComments-ext/pull/4) on [CoMfUcIoS/ConventionalComments-ext](https://github.com/CoMfUcIoS/ConventionalComments-ext) (1 week ago)
-- [chore: release 2.0.0](https://github.com/CoMfUcIoS/ConventionalComments-ext/pull/3) on [CoMfUcIoS/ConventionalComments-ext](https://github.com/CoMfUcIoS/ConventionalComments-ext) (1 week ago)
-- [refactor: remove help-dialog.css and reorganize styles](https://github.com/CoMfUcIoS/ConventionalComments-ext/pull/1) on [CoMfUcIoS/ConventionalComments-ext](https://github.com/CoMfUcIoS/ConventionalComments-ext) (1 week ago)
+- [chore: release 2.2.0](https://github.com/CoMfUcIoS/ConventionalComments-ext/pull/5) on [CoMfUcIoS/ConventionalComments-ext](https://github.com/CoMfUcIoS/ConventionalComments-ext) (2 weeks ago)
+- [chore: release 2.1.0](https://github.com/CoMfUcIoS/ConventionalComments-ext/pull/4) on [CoMfUcIoS/ConventionalComments-ext](https://github.com/CoMfUcIoS/ConventionalComments-ext) (2 weeks ago)
+- [chore: release 2.0.0](https://github.com/CoMfUcIoS/ConventionalComments-ext/pull/3) on [CoMfUcIoS/ConventionalComments-ext](https://github.com/CoMfUcIoS/ConventionalComments-ext) (2 weeks ago)
+- [refactor: remove help-dialog.css and reorganize styles](https://github.com/CoMfUcIoS/ConventionalComments-ext/pull/1) on [CoMfUcIoS/ConventionalComments-ext](https://github.com/CoMfUcIoS/ConventionalComments-ext) (2 weeks ago)
 - [chore: release 1.0.2](https://github.com/CoMfUcIoS/GraphQLens/pull/15) on [CoMfUcIoS/GraphQLens](https://github.com/CoMfUcIoS/GraphQLens) (2 weeks ago)
 - [chore: release 1.0.1](https://github.com/CoMfUcIoS/GraphQLens/pull/14) on [CoMfUcIoS/GraphQLens](https://github.com/CoMfUcIoS/GraphQLens) (2 weeks ago)
 - [chore: release 1.0.0](https://github.com/CoMfUcIoS/GraphQLens/pull/13) on [CoMfUcIoS/GraphQLens](https://github.com/CoMfUcIoS/GraphQLens) (2 weeks ago)
@@ -73,7 +73,7 @@
 
 #### 📜 My recent blog posts
 
-- [25 Strong Password Examples You Can Actually Remember (2025 Guide)](https://www.strongpasswordmeter.com/en/blog/25-strong-password-examples-2025) (4 months ago)
+- [25 Strong Password Examples You Can Actually Remember (2025 Guide)](https://www.strongpasswordmeter.com/en/blog/25-strong-password-examples-2025) (5 months ago)
 - [Password Notebook Reality Check: The Surprising Return of Analog Security (And How to Do It Properly)](https://www.strongpasswordmeter.com/en/blog/password-notebook-reality-check-the-surprising-return-of-analog-security) (8 months ago)
 - [The Psychology Behind Password Creation: Why We Choose Weak Passwords (And How to Break the Habit)](https://www.strongpasswordmeter.com/en/blog/the-psychology-behind-password-creation) (8 months ago)
 - [The Rise of Quantum Computing and Its Impact on Password Security](https://www.strongpasswordmeter.com/en/blog/quantum-computing-password-security-threat) (9 months ago)
