@@ -31,10 +31,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [CoMfUcIoS/ConventionalComments-ext](https://github.com/CoMfUcIoS/ConventionalComments-ext) - An easy way to help you be kind and insert Conventional comments in GH comments (2 days ago)
+- [CoMfUcIoS/console-inline.nvim](https://github.com/CoMfUcIoS/console-inline.nvim) - Zero-config Neovim plugin for inline console logs (today)
+- [CoMfUcIoS/ConventionalComments-ext](https://github.com/CoMfUcIoS/ConventionalComments-ext) - An easy way to help you be kind and insert Conventional comments in GH comments (today)
 - [CoMfUcIoS/neovim](https://github.com/CoMfUcIoS/neovim) - My configuration of Neovim. (2 weeks ago)
 - [CoMfUcIoS/GraphQLens](https://github.com/CoMfUcIoS/GraphQLens) - A performant, modern Chrome DevTools extension for inspecting &amp; mocking GraphQL traffic (3 weeks ago)
-- [CoMfUcIoS/console-inline.nvim](https://github.com/CoMfUcIoS/console-inline.nvim) - Zero-config Neovim plugin for inline console logs (3 weeks ago)
 - [CoMfUcIoS/obsidian-mcp-sb](https://github.com/CoMfUcIoS/obsidian-mcp-sb) - An MCP (Model Context Protocol) server that provides intelligent read-only access to your Obsidian vault, enabling it to function as a &#34;second brain&#34; for LLMs. (3 weeks ago)
 - [CoMfUcIoS/socket.io-pouch](https://github.com/CoMfUcIoS/socket.io-pouch) - PouchDB and CouchDB over WebSockets, using Socket.io (7 months ago)
 - [CoMfUcIoS/dotfiles](https://github.com/CoMfUcIoS/dotfiles) - dotfiles (7 months ago)
@@ -46,7 +46,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [CoMfUcIoS/ConventionalComments-ext](https://github.com/CoMfUcIoS/ConventionalComments-ext) ([v2.2.0](https://github.com/CoMfUcIoS/ConventionalComments-ext/releases/tag/v2.2.0), 3 weeks ago) - An easy way to help you be kind and insert Conventional comments in GH comments
+- [CoMfUcIoS/ConventionalComments-ext](https://github.com/CoMfUcIoS/ConventionalComments-ext) ([v2.3.0](https://github.com/CoMfUcIoS/ConventionalComments-ext/releases/tag/v2.3.0), today) - An easy way to help you be kind and insert Conventional comments in GH comments
 - [CoMfUcIoS/GraphQLens](https://github.com/CoMfUcIoS/GraphQLens) ([v1.0.2](https://github.com/CoMfUcIoS/GraphQLens/releases/tag/v1.0.2), 4 weeks ago) - A performant, modern Chrome DevTools extension for inspecting &amp; mocking GraphQL traffic
 - [CoMfUcIoS/console-inline.nvim](https://github.com/CoMfUcIoS/console-inline.nvim) ([@console-inline/service-v2.0.0](https://github.com/CoMfUcIoS/console-inline.nvim/releases/tag/%40console-inline/service-v2.0.0), 1 month ago) - Zero-config Neovim plugin for inline console logs
 - [CoMfUcIoS/obsidian-mcp-sb](https://github.com/CoMfUcIoS/obsidian-mcp-sb) ([v0.1.3](https://github.com/CoMfUcIoS/obsidian-mcp-sb/releases/tag/v0.1.3), 1 month ago) - An MCP (Model Context Protocol) server that provides intelligent read-only access to your Obsidian vault, enabling it to function as a &#34;second brain&#34; for LLMs.
@@ -57,6 +57,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [chore: release main](https://github.com/CoMfUcIoS/console-inline.nvim/pull/20) on [CoMfUcIoS/console-inline.nvim](https://github.com/CoMfUcIoS/console-inline.nvim) (today)
+- [chore: release 2.3.0](https://github.com/CoMfUcIoS/ConventionalComments-ext/pull/8) on [CoMfUcIoS/ConventionalComments-ext](https://github.com/CoMfUcIoS/ConventionalComments-ext) (today)
 - [chore: release 2.2.0](https://github.com/CoMfUcIoS/ConventionalComments-ext/pull/5) on [CoMfUcIoS/ConventionalComments-ext](https://github.com/CoMfUcIoS/ConventionalComments-ext) (3 weeks ago)
 - [chore: release 2.1.0](https://github.com/CoMfUcIoS/ConventionalComments-ext/pull/4) on [CoMfUcIoS/ConventionalComments-ext](https://github.com/CoMfUcIoS/ConventionalComments-ext) (3 weeks ago)
 - [chore: release 2.0.0](https://github.com/CoMfUcIoS/ConventionalComments-ext/pull/3) on [CoMfUcIoS/ConventionalComments-ext](https://github.com/CoMfUcIoS/ConventionalComments-ext) (3 weeks ago)
@@ -65,8 +67,6 @@
 - [chore: release 1.0.1](https://github.com/CoMfUcIoS/GraphQLens/pull/14) on [CoMfUcIoS/GraphQLens](https://github.com/CoMfUcIoS/GraphQLens) (4 weeks ago)
 - [chore: release 1.0.0](https://github.com/CoMfUcIoS/GraphQLens/pull/13) on [CoMfUcIoS/GraphQLens](https://github.com/CoMfUcIoS/GraphQLens) (4 weeks ago)
 - [docs(readme): clarify Chrome support and add sections](https://github.com/CoMfUcIoS/GraphQLens/pull/12) on [CoMfUcIoS/GraphQLens](https://github.com/CoMfUcIoS/GraphQLens) (4 weeks ago)
-- [chore(ci): add release-please and update release workflow](https://github.com/CoMfUcIoS/GraphQLens/pull/11) on [CoMfUcIoS/GraphQLens](https://github.com/CoMfUcIoS/GraphQLens) (4 weeks ago)
-- [chore: improve type safety and fix minor bugs](https://github.com/CoMfUcIoS/GraphQLens/pull/5) on [CoMfUcIoS/GraphQLens](https://github.com/CoMfUcIoS/GraphQLens) (4 weeks ago)
 
 
 
