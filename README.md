@@ -31,7 +31,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [CoMfUcIoS/neovim](https://github.com/CoMfUcIoS/neovim) - My configuration of Neovim. (1 week ago)
+- [CoMfUcIoS/neovim](https://github.com/CoMfUcIoS/neovim) - My configuration of Neovim. (today)
 - [CoMfUcIoS/console-inline.nvim](https://github.com/CoMfUcIoS/console-inline.nvim) - Zero-config Neovim plugin for inline console logs (3 weeks ago)
 - [CoMfUcIoS/ConventionalComments-ext](https://github.com/CoMfUcIoS/ConventionalComments-ext) - An easy way to help you be kind and insert Conventional comments in GH comments (3 weeks ago)
 - [CoMfUcIoS/GraphQLens](https://github.com/CoMfUcIoS/GraphQLens) - A performant, modern Chrome DevTools extension for inspecting &amp; mocking GraphQL traffic (1 month ago)
