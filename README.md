@@ -31,7 +31,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [CoMfUcIoS/neovim](https://github.com/CoMfUcIoS/neovim) - My configuration of Neovim. (1 week ago)
+- [CoMfUcIoS/neovim](https://github.com/CoMfUcIoS/neovim) - My configuration of Neovim. (2 weeks ago)
 - [CoMfUcIoS/console-inline.nvim](https://github.com/CoMfUcIoS/console-inline.nvim) - Zero-config Neovim plugin for inline console logs (1 month ago)
 - [CoMfUcIoS/ConventionalComments-ext](https://github.com/CoMfUcIoS/ConventionalComments-ext) - An easy way to help you be kind and insert Conventional comments in GH comments (1 month ago)
 - [CoMfUcIoS/GraphQLens](https://github.com/CoMfUcIoS/GraphQLens) - A performant, modern Chrome DevTools extension for inspecting &amp; mocking GraphQL traffic (2 months ago)
@@ -59,10 +59,10 @@
 - [feat(sessions): add multi-workspace session support](https://github.com/CoMfUcIoS/console-inline.nvim/pull/21) on [CoMfUcIoS/console-inline.nvim](https://github.com/CoMfUcIoS/console-inline.nvim) (1 month ago)
 - [chore: release main](https://github.com/CoMfUcIoS/console-inline.nvim/pull/20) on [CoMfUcIoS/console-inline.nvim](https://github.com/CoMfUcIoS/console-inline.nvim) (1 month ago)
 - [chore: release 2.3.0](https://github.com/CoMfUcIoS/ConventionalComments-ext/pull/8) on [CoMfUcIoS/ConventionalComments-ext](https://github.com/CoMfUcIoS/ConventionalComments-ext) (1 month ago)
-- [chore: release 2.2.0](https://github.com/CoMfUcIoS/ConventionalComments-ext/pull/5) on [CoMfUcIoS/ConventionalComments-ext](https://github.com/CoMfUcIoS/ConventionalComments-ext) (1 month ago)
-- [chore: release 2.1.0](https://github.com/CoMfUcIoS/ConventionalComments-ext/pull/4) on [CoMfUcIoS/ConventionalComments-ext](https://github.com/CoMfUcIoS/ConventionalComments-ext) (1 month ago)
-- [chore: release 2.0.0](https://github.com/CoMfUcIoS/ConventionalComments-ext/pull/3) on [CoMfUcIoS/ConventionalComments-ext](https://github.com/CoMfUcIoS/ConventionalComments-ext) (1 month ago)
-- [refactor: remove help-dialog.css and reorganize styles](https://github.com/CoMfUcIoS/ConventionalComments-ext/pull/1) on [CoMfUcIoS/ConventionalComments-ext](https://github.com/CoMfUcIoS/ConventionalComments-ext) (1 month ago)
+- [chore: release 2.2.0](https://github.com/CoMfUcIoS/ConventionalComments-ext/pull/5) on [CoMfUcIoS/ConventionalComments-ext](https://github.com/CoMfUcIoS/ConventionalComments-ext) (2 months ago)
+- [chore: release 2.1.0](https://github.com/CoMfUcIoS/ConventionalComments-ext/pull/4) on [CoMfUcIoS/ConventionalComments-ext](https://github.com/CoMfUcIoS/ConventionalComments-ext) (2 months ago)
+- [chore: release 2.0.0](https://github.com/CoMfUcIoS/ConventionalComments-ext/pull/3) on [CoMfUcIoS/ConventionalComments-ext](https://github.com/CoMfUcIoS/ConventionalComments-ext) (2 months ago)
+- [refactor: remove help-dialog.css and reorganize styles](https://github.com/CoMfUcIoS/ConventionalComments-ext/pull/1) on [CoMfUcIoS/ConventionalComments-ext](https://github.com/CoMfUcIoS/ConventionalComments-ext) (2 months ago)
 - [chore: release 1.0.2](https://github.com/CoMfUcIoS/GraphQLens/pull/15) on [CoMfUcIoS/GraphQLens](https://github.com/CoMfUcIoS/GraphQLens) (2 months ago)
 - [chore: release 1.0.1](https://github.com/CoMfUcIoS/GraphQLens/pull/14) on [CoMfUcIoS/GraphQLens](https://github.com/CoMfUcIoS/GraphQLens) (2 months ago)
 - [chore: release 1.0.0](https://github.com/CoMfUcIoS/GraphQLens/pull/13) on [CoMfUcIoS/GraphQLens](https://github.com/CoMfUcIoS/GraphQLens) (2 months ago)
