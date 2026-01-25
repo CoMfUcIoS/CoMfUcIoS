@@ -72,7 +72,6 @@
 
 #### 📜 My recent blog posts
 
-- [Gmail Has 48 Million Usernames and Passwords Exposed: What This Really Means (And What To Do Now)](https://www.strongpasswordmeter.com/en/blog/gmail-has-48000000-usernames-and-passwords-exposed) (today)
 - [25 Strong Password Examples You Can Actually Remember (2025 Guide)](https://www.strongpasswordmeter.com/en/blog/25-strong-password-examples-2025) (6 months ago)
 - [Password Notebook Reality Check: The Surprising Return of Analog Security (And How to Do It Properly)](https://www.strongpasswordmeter.com/en/blog/password-notebook-reality-check-the-surprising-return-of-analog-security) (9 months ago)
 - [The Psychology Behind Password Creation: Why We Choose Weak Passwords (And How to Break the Habit)](https://www.strongpasswordmeter.com/en/blog/the-psychology-behind-password-creation) (10 months ago)
@@ -82,6 +81,7 @@
 - [Why Length Trumps Complexity: The New Rules of Password Security](https://www.strongpasswordmeter.com/en/blog/why-length-trumps-complexity) (11 months ago)
 - [The Complete Guide to Password Managers in 2025](https://www.strongpasswordmeter.com/en/blog/the-complete-guide-to-password-managers-in-2025) (11 months ago)
 - [Brute Force Attacks Are Back: How to Protect Your Accounts in 2025](https://www.strongpasswordmeter.com/en/blog/brute-force-attacks-are-back) (11 months ago)
+- [Understanding Password Entropy: The Science of Password Strength](https://www.strongpasswordmeter.com/en/blog/understanding-password-entropy) (11 months ago)
 
 - [Google Cloud Shell, my new home](https://comfucios.github.io/posts/google-cloud-shell-my-new-home/) (3 years ago)
 - [The `Cloud` is upon us](https://comfucios.github.io/posts/the-cloud-is-upon-us/) (3 years ago)
