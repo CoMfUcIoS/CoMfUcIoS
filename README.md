@@ -31,7 +31,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [CoMfUcIoS/neovim](https://github.com/CoMfUcIoS/neovim) - My configuration of Neovim. (4 weeks ago)
+- [CoMfUcIoS/neovim](https://github.com/CoMfUcIoS/neovim) - My configuration of Neovim. (1 month ago)
 - [CoMfUcIoS/console-inline.nvim](https://github.com/CoMfUcIoS/console-inline.nvim) - Zero-config Neovim plugin for inline console logs (1 month ago)
 - [CoMfUcIoS/ConventionalComments-ext](https://github.com/CoMfUcIoS/ConventionalComments-ext) - An easy way to help you be kind and insert Conventional comments in GH comments (1 month ago)
 - [CoMfUcIoS/GraphQLens](https://github.com/CoMfUcIoS/GraphQLens) - A performant, modern Chrome DevTools extension for inspecting &amp; mocking GraphQL traffic (2 months ago)
@@ -75,11 +75,11 @@
 - [Gmail Has 48 Million Usernames and Passwords Exposed: What This Really Means (And What To Do Now)](https://www.strongpasswordmeter.com/en/blog/gmail-has-48000000-usernames-and-passwords-exposed) (1 week ago)
 - [25 Strong Password Examples You Can Actually Remember (2025 Guide)](https://www.strongpasswordmeter.com/en/blog/25-strong-password-examples-2025) (7 months ago)
 - [Password Notebook Reality Check: The Surprising Return of Analog Security (And How to Do It Properly)](https://www.strongpasswordmeter.com/en/blog/password-notebook-reality-check-the-surprising-return-of-analog-security) (10 months ago)
-- [The Psychology Behind Password Creation: Why We Choose Weak Passwords (And How to Break the Habit)](https://www.strongpasswordmeter.com/en/blog/the-psychology-behind-password-creation) (10 months ago)
+- [The Psychology Behind Password Creation: Why We Choose Weak Passwords (And How to Break the Habit)](https://www.strongpasswordmeter.com/en/blog/the-psychology-behind-password-creation) (11 months ago)
 - [The Rise of Quantum Computing and Its Impact on Password Security](https://www.strongpasswordmeter.com/en/blog/quantum-computing-password-security-threat) (11 months ago)
 - [The 20M OpenAI Credential Leak: What You Need to Know](https://www.strongpasswordmeter.com/en/blog/openai-20m-credential-leak) (11 months ago)
 - [From Passwords to Passkeys: The Future of Authentication](https://www.strongpasswordmeter.com/en/blog/from-passwords-to-passkeys) (11 months ago)
-- [Why Length Trumps Complexity: The New Rules of Password Security](https://www.strongpasswordmeter.com/en/blog/why-length-trumps-complexity) (11 months ago)
+- [Why Length Trumps Complexity: The New Rules of Password Security](https://www.strongpasswordmeter.com/en/blog/why-length-trumps-complexity) (1 year ago)
 - [The Complete Guide to Password Managers in 2025](https://www.strongpasswordmeter.com/en/blog/the-complete-guide-to-password-managers-in-2025) (1 year ago)
 - [Brute Force Attacks Are Back: How to Protect Your Accounts in 2025](https://www.strongpasswordmeter.com/en/blog/brute-force-attacks-are-back) (1 year ago)
 
