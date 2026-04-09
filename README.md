@@ -31,6 +31,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [Upmate/shipfast](https://github.com/Upmate/shipfast) - A modern microservices platform — monitored by Pullminder (today)
 - [CoMfUcIoS/neovim](https://github.com/CoMfUcIoS/neovim) - My configuration of Neovim. (1 month ago)
 - [CoMfUcIoS/console-inline.nvim](https://github.com/CoMfUcIoS/console-inline.nvim) - Zero-config Neovim plugin for inline console logs (3 months ago)
 - [CoMfUcIoS/ConventionalComments-ext](https://github.com/CoMfUcIoS/ConventionalComments-ext) - An easy way to help you be kind and insert Conventional comments in GH comments (3 months ago)
@@ -55,16 +56,16 @@
 
 #### 🔨 My recent Pull Requests
 
-- [feat(sessions): add multi-workspace session support](https://github.com/CoMfUcIoS/console-inline.nvim/pull/21) on [CoMfUcIoS/console-inline.nvim](https://github.com/CoMfUcIoS/console-inline.nvim) (3 months ago)
-- [chore: release main](https://github.com/CoMfUcIoS/console-inline.nvim/pull/20) on [CoMfUcIoS/console-inline.nvim](https://github.com/CoMfUcIoS/console-inline.nvim) (3 months ago)
-- [chore: release 2.3.0](https://github.com/CoMfUcIoS/ConventionalComments-ext/pull/8) on [CoMfUcIoS/ConventionalComments-ext](https://github.com/CoMfUcIoS/ConventionalComments-ext) (3 months ago)
-- [chore: release 2.2.0](https://github.com/CoMfUcIoS/ConventionalComments-ext/pull/5) on [CoMfUcIoS/ConventionalComments-ext](https://github.com/CoMfUcIoS/ConventionalComments-ext) (4 months ago)
-- [chore: release 2.1.0](https://github.com/CoMfUcIoS/ConventionalComments-ext/pull/4) on [CoMfUcIoS/ConventionalComments-ext](https://github.com/CoMfUcIoS/ConventionalComments-ext) (4 months ago)
-- [chore: release 2.0.0](https://github.com/CoMfUcIoS/ConventionalComments-ext/pull/3) on [CoMfUcIoS/ConventionalComments-ext](https://github.com/CoMfUcIoS/ConventionalComments-ext) (4 months ago)
-- [refactor: remove help-dialog.css and reorganize styles](https://github.com/CoMfUcIoS/ConventionalComments-ext/pull/1) on [CoMfUcIoS/ConventionalComments-ext](https://github.com/CoMfUcIoS/ConventionalComments-ext) (4 months ago)
-- [chore: release 1.0.2](https://github.com/CoMfUcIoS/GraphQLens/pull/15) on [CoMfUcIoS/GraphQLens](https://github.com/CoMfUcIoS/GraphQLens) (4 months ago)
-- [chore: release 1.0.1](https://github.com/CoMfUcIoS/GraphQLens/pull/14) on [CoMfUcIoS/GraphQLens](https://github.com/CoMfUcIoS/GraphQLens) (4 months ago)
-- [chore: release 1.0.0](https://github.com/CoMfUcIoS/GraphQLens/pull/13) on [CoMfUcIoS/GraphQLens](https://github.com/CoMfUcIoS/GraphQLens) (4 months ago)
+- [Update React dashboard components](https://github.com/Upmate/shipfast/pull/22) on [Upmate/shipfast](https://github.com/Upmate/shipfast) (today)
+- [Update CI/CD pipeline and Terraform](https://github.com/Upmate/shipfast/pull/21) on [Upmate/shipfast](https://github.com/Upmate/shipfast) (today)
+- [Add Redis caching layer](https://github.com/Upmate/shipfast/pull/20) on [Upmate/shipfast](https://github.com/Upmate/shipfast) (today)
+- [Fix login page styling](https://github.com/Upmate/shipfast/pull/19) on [Upmate/shipfast](https://github.com/Upmate/shipfast) (today)
+- [Add user registration with tests](https://github.com/Upmate/shipfast/pull/18) on [Upmate/shipfast](https://github.com/Upmate/shipfast) (today)
+- [Refactor billing module](https://github.com/Upmate/shipfast/pull/17) on [Upmate/shipfast](https://github.com/Upmate/shipfast) (today)
+- [Add notification templates](https://github.com/Upmate/shipfast/pull/16) on [Upmate/shipfast](https://github.com/Upmate/shipfast) (today)
+- [Upgrade dependencies across services](https://github.com/Upmate/shipfast/pull/15) on [Upmate/shipfast](https://github.com/Upmate/shipfast) (today)
+- [Add user authentication endpoint](https://github.com/Upmate/shipfast/pull/14) on [Upmate/shipfast](https://github.com/Upmate/shipfast) (today)
+- [Add data pipeline ETL script](https://github.com/Upmate/shipfast/pull/13) on [Upmate/shipfast](https://github.com/Upmate/shipfast) (today)
 
 
 
