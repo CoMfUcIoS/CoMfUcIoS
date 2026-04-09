@@ -56,16 +56,16 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Update React dashboard components](https://github.com/Upmate/shipfast/pull/22) on [Upmate/shipfast](https://github.com/Upmate/shipfast) (today)
-- [Update CI/CD pipeline and Terraform](https://github.com/Upmate/shipfast/pull/21) on [Upmate/shipfast](https://github.com/Upmate/shipfast) (today)
-- [Add Redis caching layer](https://github.com/Upmate/shipfast/pull/20) on [Upmate/shipfast](https://github.com/Upmate/shipfast) (today)
-- [Fix login page styling](https://github.com/Upmate/shipfast/pull/19) on [Upmate/shipfast](https://github.com/Upmate/shipfast) (today)
-- [Add user registration with tests](https://github.com/Upmate/shipfast/pull/18) on [Upmate/shipfast](https://github.com/Upmate/shipfast) (today)
-- [Refactor billing module](https://github.com/Upmate/shipfast/pull/17) on [Upmate/shipfast](https://github.com/Upmate/shipfast) (today)
-- [Add notification templates](https://github.com/Upmate/shipfast/pull/16) on [Upmate/shipfast](https://github.com/Upmate/shipfast) (today)
-- [Upgrade dependencies across services](https://github.com/Upmate/shipfast/pull/15) on [Upmate/shipfast](https://github.com/Upmate/shipfast) (today)
-- [Add user authentication endpoint](https://github.com/Upmate/shipfast/pull/14) on [Upmate/shipfast](https://github.com/Upmate/shipfast) (today)
-- [Add data pipeline ETL script](https://github.com/Upmate/shipfast/pull/13) on [Upmate/shipfast](https://github.com/Upmate/shipfast) (today)
+- [Update React dashboard components](https://github.com/Upmate/shipfast/pull/32) on [Upmate/shipfast](https://github.com/Upmate/shipfast) (today)
+- [Update CI/CD pipeline and Terraform](https://github.com/Upmate/shipfast/pull/31) on [Upmate/shipfast](https://github.com/Upmate/shipfast) (today)
+- [Add Redis caching layer](https://github.com/Upmate/shipfast/pull/30) on [Upmate/shipfast](https://github.com/Upmate/shipfast) (today)
+- [Fix login page styling](https://github.com/Upmate/shipfast/pull/29) on [Upmate/shipfast](https://github.com/Upmate/shipfast) (today)
+- [Add user registration with tests](https://github.com/Upmate/shipfast/pull/28) on [Upmate/shipfast](https://github.com/Upmate/shipfast) (today)
+- [Refactor billing module](https://github.com/Upmate/shipfast/pull/27) on [Upmate/shipfast](https://github.com/Upmate/shipfast) (today)
+- [Add notification templates](https://github.com/Upmate/shipfast/pull/26) on [Upmate/shipfast](https://github.com/Upmate/shipfast) (today)
+- [Upgrade dependencies across services](https://github.com/Upmate/shipfast/pull/25) on [Upmate/shipfast](https://github.com/Upmate/shipfast) (today)
+- [Add user authentication endpoint](https://github.com/Upmate/shipfast/pull/24) on [Upmate/shipfast](https://github.com/Upmate/shipfast) (today)
+- [Add data pipeline ETL script](https://github.com/Upmate/shipfast/pull/23) on [Upmate/shipfast](https://github.com/Upmate/shipfast) (today)
 
 
 
