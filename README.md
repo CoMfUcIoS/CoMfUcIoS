@@ -56,6 +56,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: add authentication, billing, notifications, and ETL pipeline](https://github.com/Upmate/shipfast/pull/36) on [Upmate/shipfast](https://github.com/Upmate/shipfast) (today)
+- [feat: add authentication, billing, notifications, and ETL pipeline](https://github.com/Upmate/shipfast/pull/35) on [Upmate/shipfast](https://github.com/Upmate/shipfast) (today)
 - [feat: add authentication, billing, notifications, and ETL pipeline](https://github.com/Upmate/shipfast/pull/34) on [Upmate/shipfast](https://github.com/Upmate/shipfast) (today)
 - [feat: add authentication, billing, notifications, and ETL pipeline](https://github.com/Upmate/shipfast/pull/33) on [Upmate/shipfast](https://github.com/Upmate/shipfast) (today)
 - [Update React dashboard components](https://github.com/Upmate/shipfast/pull/32) on [Upmate/shipfast](https://github.com/Upmate/shipfast) (2 days ago)
@@ -64,8 +66,6 @@
 - [Fix login page styling](https://github.com/Upmate/shipfast/pull/29) on [Upmate/shipfast](https://github.com/Upmate/shipfast) (2 days ago)
 - [Add user registration with tests](https://github.com/Upmate/shipfast/pull/28) on [Upmate/shipfast](https://github.com/Upmate/shipfast) (2 days ago)
 - [Refactor billing module](https://github.com/Upmate/shipfast/pull/27) on [Upmate/shipfast](https://github.com/Upmate/shipfast) (2 days ago)
-- [Add notification templates](https://github.com/Upmate/shipfast/pull/26) on [Upmate/shipfast](https://github.com/Upmate/shipfast) (2 days ago)
-- [Upgrade dependencies across services](https://github.com/Upmate/shipfast/pull/25) on [Upmate/shipfast](https://github.com/Upmate/shipfast) (2 days ago)
 
 
 
