@@ -56,6 +56,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: add authentication, billing, notifications, and ETL pipeline](https://github.com/Upmate/shipfast/pull/37) on [Upmate/shipfast](https://github.com/Upmate/shipfast) (today)
 - [feat: add authentication, billing, notifications, and ETL pipeline](https://github.com/Upmate/shipfast/pull/36) on [Upmate/shipfast](https://github.com/Upmate/shipfast) (today)
 - [feat: add authentication, billing, notifications, and ETL pipeline](https://github.com/Upmate/shipfast/pull/35) on [Upmate/shipfast](https://github.com/Upmate/shipfast) (today)
 - [feat: add authentication, billing, notifications, and ETL pipeline](https://github.com/Upmate/shipfast/pull/34) on [Upmate/shipfast](https://github.com/Upmate/shipfast) (today)
@@ -65,7 +66,6 @@
 - [Add Redis caching layer](https://github.com/Upmate/shipfast/pull/30) on [Upmate/shipfast](https://github.com/Upmate/shipfast) (2 days ago)
 - [Fix login page styling](https://github.com/Upmate/shipfast/pull/29) on [Upmate/shipfast](https://github.com/Upmate/shipfast) (2 days ago)
 - [Add user registration with tests](https://github.com/Upmate/shipfast/pull/28) on [Upmate/shipfast](https://github.com/Upmate/shipfast) (2 days ago)
-- [Refactor billing module](https://github.com/Upmate/shipfast/pull/27) on [Upmate/shipfast](https://github.com/Upmate/shipfast) (2 days ago)
 
 
 
