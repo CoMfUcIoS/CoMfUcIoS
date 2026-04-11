@@ -56,6 +56,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: add authentication, billing, notifications, and ETL pipeline](https://github.com/Upmate/shipfast/pull/33) on [Upmate/shipfast](https://github.com/Upmate/shipfast) (today)
 - [Update React dashboard components](https://github.com/Upmate/shipfast/pull/32) on [Upmate/shipfast](https://github.com/Upmate/shipfast) (2 days ago)
 - [Update CI/CD pipeline and Terraform](https://github.com/Upmate/shipfast/pull/31) on [Upmate/shipfast](https://github.com/Upmate/shipfast) (2 days ago)
 - [Add Redis caching layer](https://github.com/Upmate/shipfast/pull/30) on [Upmate/shipfast](https://github.com/Upmate/shipfast) (2 days ago)
@@ -65,7 +66,6 @@
 - [Add notification templates](https://github.com/Upmate/shipfast/pull/26) on [Upmate/shipfast](https://github.com/Upmate/shipfast) (2 days ago)
 - [Upgrade dependencies across services](https://github.com/Upmate/shipfast/pull/25) on [Upmate/shipfast](https://github.com/Upmate/shipfast) (2 days ago)
 - [Add user authentication endpoint](https://github.com/Upmate/shipfast/pull/24) on [Upmate/shipfast](https://github.com/Upmate/shipfast) (2 days ago)
-- [Add data pipeline ETL script](https://github.com/Upmate/shipfast/pull/23) on [Upmate/shipfast](https://github.com/Upmate/shipfast) (2 days ago)
 
 
 
