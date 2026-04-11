@@ -31,7 +31,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Upmate/shipfast](https://github.com/Upmate/shipfast) - A modern microservices platform — monitored by Pullminder (1 day ago)
+- [Upmate/shipfast](https://github.com/Upmate/shipfast) - A modern microservices platform — monitored by Pullminder (2 days ago)
 - [CoMfUcIoS/neovim](https://github.com/CoMfUcIoS/neovim) - My configuration of Neovim. (1 month ago)
 - [CoMfUcIoS/console-inline.nvim](https://github.com/CoMfUcIoS/console-inline.nvim) - Zero-config Neovim plugin for inline console logs (3 months ago)
 - [CoMfUcIoS/ConventionalComments-ext](https://github.com/CoMfUcIoS/ConventionalComments-ext) - An easy way to help you be kind and insert Conventional comments in GH comments (3 months ago)
@@ -56,16 +56,16 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Update React dashboard components](https://github.com/Upmate/shipfast/pull/32) on [Upmate/shipfast](https://github.com/Upmate/shipfast) (1 day ago)
-- [Update CI/CD pipeline and Terraform](https://github.com/Upmate/shipfast/pull/31) on [Upmate/shipfast](https://github.com/Upmate/shipfast) (1 day ago)
-- [Add Redis caching layer](https://github.com/Upmate/shipfast/pull/30) on [Upmate/shipfast](https://github.com/Upmate/shipfast) (1 day ago)
-- [Fix login page styling](https://github.com/Upmate/shipfast/pull/29) on [Upmate/shipfast](https://github.com/Upmate/shipfast) (1 day ago)
-- [Add user registration with tests](https://github.com/Upmate/shipfast/pull/28) on [Upmate/shipfast](https://github.com/Upmate/shipfast) (1 day ago)
-- [Refactor billing module](https://github.com/Upmate/shipfast/pull/27) on [Upmate/shipfast](https://github.com/Upmate/shipfast) (1 day ago)
-- [Add notification templates](https://github.com/Upmate/shipfast/pull/26) on [Upmate/shipfast](https://github.com/Upmate/shipfast) (1 day ago)
-- [Upgrade dependencies across services](https://github.com/Upmate/shipfast/pull/25) on [Upmate/shipfast](https://github.com/Upmate/shipfast) (1 day ago)
-- [Add user authentication endpoint](https://github.com/Upmate/shipfast/pull/24) on [Upmate/shipfast](https://github.com/Upmate/shipfast) (1 day ago)
-- [Add data pipeline ETL script](https://github.com/Upmate/shipfast/pull/23) on [Upmate/shipfast](https://github.com/Upmate/shipfast) (1 day ago)
+- [Update React dashboard components](https://github.com/Upmate/shipfast/pull/32) on [Upmate/shipfast](https://github.com/Upmate/shipfast) (2 days ago)
+- [Update CI/CD pipeline and Terraform](https://github.com/Upmate/shipfast/pull/31) on [Upmate/shipfast](https://github.com/Upmate/shipfast) (2 days ago)
+- [Add Redis caching layer](https://github.com/Upmate/shipfast/pull/30) on [Upmate/shipfast](https://github.com/Upmate/shipfast) (2 days ago)
+- [Fix login page styling](https://github.com/Upmate/shipfast/pull/29) on [Upmate/shipfast](https://github.com/Upmate/shipfast) (2 days ago)
+- [Add user registration with tests](https://github.com/Upmate/shipfast/pull/28) on [Upmate/shipfast](https://github.com/Upmate/shipfast) (2 days ago)
+- [Refactor billing module](https://github.com/Upmate/shipfast/pull/27) on [Upmate/shipfast](https://github.com/Upmate/shipfast) (2 days ago)
+- [Add notification templates](https://github.com/Upmate/shipfast/pull/26) on [Upmate/shipfast](https://github.com/Upmate/shipfast) (2 days ago)
+- [Upgrade dependencies across services](https://github.com/Upmate/shipfast/pull/25) on [Upmate/shipfast](https://github.com/Upmate/shipfast) (2 days ago)
+- [Add user authentication endpoint](https://github.com/Upmate/shipfast/pull/24) on [Upmate/shipfast](https://github.com/Upmate/shipfast) (2 days ago)
+- [Add data pipeline ETL script](https://github.com/Upmate/shipfast/pull/23) on [Upmate/shipfast](https://github.com/Upmate/shipfast) (2 days ago)
 
 
 
