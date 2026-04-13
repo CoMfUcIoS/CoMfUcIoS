@@ -31,16 +31,16 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [pullminder/cli](https://github.com/pullminder/cli) - Pullminder CLI releases (today)
-- [pullminder/action](https://github.com/pullminder/action) - GitHub Action for Pullminder registry validation (today)
 - [pullminder/npm](https://github.com/pullminder/npm) - npm wrapper for Pullminder CLI (today)
+- [pullminder/registry](https://github.com/pullminder/registry) - Official Pullminder rule pack registry — detection and policy packs for automated PR review (today)
 - [pullminder/.github](https://github.com/pullminder/.github) -  (today)
+- [pullminder/action](https://github.com/pullminder/action) - GitHub Action for Pullminder registry validation (today)
 - [pullminder/homebrew-tap](https://github.com/pullminder/homebrew-tap) - Homebrew tap for Pullminder CLI (today)
+- [pullminder/cli](https://github.com/pullminder/cli) - Pullminder CLI releases (today)
 - [Upmate/shipfast](https://github.com/Upmate/shipfast) - A modern microservices platform — monitored by Pullminder (4 days ago)
 - [CoMfUcIoS/neovim](https://github.com/CoMfUcIoS/neovim) - My configuration of Neovim. (1 month ago)
 - [CoMfUcIoS/console-inline.nvim](https://github.com/CoMfUcIoS/console-inline.nvim) - Zero-config Neovim plugin for inline console logs (4 months ago)
 - [CoMfUcIoS/ConventionalComments-ext](https://github.com/CoMfUcIoS/ConventionalComments-ext) - An easy way to help you be kind and insert Conventional comments in GH comments (4 months ago)
-- [CoMfUcIoS/GraphQLens](https://github.com/CoMfUcIoS/GraphQLens) - A performant, modern Chrome DevTools extension for inspecting &amp; mocking GraphQL traffic (4 months ago)
 
 
 
