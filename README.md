@@ -31,10 +31,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [pullminder/.github](https://github.com/pullminder/.github) -  (1 day ago)
+- [pullminder/action](https://github.com/pullminder/action) - GitHub Action for Pullminder registry validation (1 day ago)
 - [pullminder/homebrew-tap](https://github.com/pullminder/homebrew-tap) - Homebrew tap for Pullminder CLI (1 day ago)
 - [pullminder/npm](https://github.com/pullminder/npm) - npm wrapper for Pullminder CLI (1 day ago)
-- [pullminder/action](https://github.com/pullminder/action) - GitHub Action for Pullminder registry validation (1 day ago)
+- [pullminder/.github](https://github.com/pullminder/.github) -  (1 day ago)
 - [pullminder/cli](https://github.com/pullminder/cli) - Pullminder CLI releases (1 day ago)
 - [Upmate/shipfast](https://github.com/Upmate/shipfast) - A modern microservices platform — monitored by Pullminder (4 days ago)
 - [CoMfUcIoS/neovim](https://github.com/CoMfUcIoS/neovim) - My configuration of Neovim. (1 month ago)
