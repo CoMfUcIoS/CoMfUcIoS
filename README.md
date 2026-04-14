@@ -31,13 +31,13 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [pullminder/npm](https://github.com/pullminder/npm) - npm wrapper for Pullminder CLI (today)
-- [pullminder/registry](https://github.com/pullminder/registry) - Official Pullminder rule pack registry — detection and policy packs for automated PR review (today)
-- [pullminder/.github](https://github.com/pullminder/.github) -  (today)
-- [pullminder/action](https://github.com/pullminder/action) - GitHub Action for Pullminder registry validation (today)
-- [pullminder/homebrew-tap](https://github.com/pullminder/homebrew-tap) - Homebrew tap for Pullminder CLI (today)
-- [pullminder/cli](https://github.com/pullminder/cli) - Pullminder CLI releases (today)
-- [Upmate/shipfast](https://github.com/Upmate/shipfast) - A modern microservices platform — monitored by Pullminder (4 days ago)
+- [pullminder/npm](https://github.com/pullminder/npm) - npm wrapper for Pullminder CLI (1 day ago)
+- [pullminder/registry](https://github.com/pullminder/registry) - Official Pullminder rule pack registry — detection and policy packs for automated PR review (1 day ago)
+- [pullminder/.github](https://github.com/pullminder/.github) -  (1 day ago)
+- [pullminder/action](https://github.com/pullminder/action) - GitHub Action for Pullminder registry validation (1 day ago)
+- [pullminder/homebrew-tap](https://github.com/pullminder/homebrew-tap) - Homebrew tap for Pullminder CLI (1 day ago)
+- [pullminder/cli](https://github.com/pullminder/cli) - Pullminder CLI releases (1 day ago)
+- [Upmate/shipfast](https://github.com/Upmate/shipfast) - A modern microservices platform — monitored by Pullminder (5 days ago)
 - [CoMfUcIoS/neovim](https://github.com/CoMfUcIoS/neovim) - My configuration of Neovim. (1 month ago)
 - [CoMfUcIoS/console-inline.nvim](https://github.com/CoMfUcIoS/console-inline.nvim) - Zero-config Neovim plugin for inline console logs (4 months ago)
 - [CoMfUcIoS/ConventionalComments-ext](https://github.com/CoMfUcIoS/ConventionalComments-ext) - An easy way to help you be kind and insert Conventional comments in GH comments (4 months ago)
@@ -47,7 +47,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [pullminder/cli](https://github.com/pullminder/cli) ([v0.1.6](https://github.com/pullminder/cli/releases/tag/v0.1.6), 1 day ago) - Pullminder CLI releases
+- [pullminder/cli](https://github.com/pullminder/cli) ([v0.1.6](https://github.com/pullminder/cli/releases/tag/v0.1.6), 2 days ago) - Pullminder CLI releases
 - [CoMfUcIoS/console-inline.nvim](https://github.com/CoMfUcIoS/console-inline.nvim) ([console-inline.nvim-v3.1.0](https://github.com/CoMfUcIoS/console-inline.nvim/releases/tag/console-inline.nvim-v3.1.0), 4 months ago) - Zero-config Neovim plugin for inline console logs
 - [CoMfUcIoS/ConventionalComments-ext](https://github.com/CoMfUcIoS/ConventionalComments-ext) ([v2.3.0](https://github.com/CoMfUcIoS/ConventionalComments-ext/releases/tag/v2.3.0), 4 months ago) - An easy way to help you be kind and insert Conventional comments in GH comments
 - [CoMfUcIoS/GraphQLens](https://github.com/CoMfUcIoS/GraphQLens) ([v1.0.2](https://github.com/CoMfUcIoS/GraphQLens/releases/tag/v1.0.2), 4 months ago) - A performant, modern Chrome DevTools extension for inspecting &amp; mocking GraphQL traffic
@@ -59,16 +59,16 @@
 
 #### 🔨 My recent Pull Requests
 
-- [feat: add authentication, billing, notifications, and ETL pipeline](https://github.com/Upmate/shipfast/pull/51) on [Upmate/shipfast](https://github.com/Upmate/shipfast) (2 days ago)
-- [Update CI/CD pipeline and Terraform](https://github.com/Upmate/shipfast/pull/50) on [Upmate/shipfast](https://github.com/Upmate/shipfast) (2 days ago)
-- [Add Redis caching layer](https://github.com/Upmate/shipfast/pull/49) on [Upmate/shipfast](https://github.com/Upmate/shipfast) (2 days ago)
-- [Fix login page styling](https://github.com/Upmate/shipfast/pull/48) on [Upmate/shipfast](https://github.com/Upmate/shipfast) (2 days ago)
-- [Add user registration with tests](https://github.com/Upmate/shipfast/pull/47) on [Upmate/shipfast](https://github.com/Upmate/shipfast) (2 days ago)
-- [Refactor billing module](https://github.com/Upmate/shipfast/pull/46) on [Upmate/shipfast](https://github.com/Upmate/shipfast) (2 days ago)
-- [Add notification templates](https://github.com/Upmate/shipfast/pull/45) on [Upmate/shipfast](https://github.com/Upmate/shipfast) (2 days ago)
-- [Upgrade dependencies across services](https://github.com/Upmate/shipfast/pull/44) on [Upmate/shipfast](https://github.com/Upmate/shipfast) (2 days ago)
-- [Add data pipeline ETL script](https://github.com/Upmate/shipfast/pull/43) on [Upmate/shipfast](https://github.com/Upmate/shipfast) (2 days ago)
-- [Update React dashboard components](https://github.com/Upmate/shipfast/pull/42) on [Upmate/shipfast](https://github.com/Upmate/shipfast) (2 days ago)
+- [feat: add authentication, billing, notifications, and ETL pipeline](https://github.com/Upmate/shipfast/pull/51) on [Upmate/shipfast](https://github.com/Upmate/shipfast) (3 days ago)
+- [Update CI/CD pipeline and Terraform](https://github.com/Upmate/shipfast/pull/50) on [Upmate/shipfast](https://github.com/Upmate/shipfast) (3 days ago)
+- [Add Redis caching layer](https://github.com/Upmate/shipfast/pull/49) on [Upmate/shipfast](https://github.com/Upmate/shipfast) (3 days ago)
+- [Fix login page styling](https://github.com/Upmate/shipfast/pull/48) on [Upmate/shipfast](https://github.com/Upmate/shipfast) (3 days ago)
+- [Add user registration with tests](https://github.com/Upmate/shipfast/pull/47) on [Upmate/shipfast](https://github.com/Upmate/shipfast) (3 days ago)
+- [Refactor billing module](https://github.com/Upmate/shipfast/pull/46) on [Upmate/shipfast](https://github.com/Upmate/shipfast) (3 days ago)
+- [Add notification templates](https://github.com/Upmate/shipfast/pull/45) on [Upmate/shipfast](https://github.com/Upmate/shipfast) (3 days ago)
+- [Upgrade dependencies across services](https://github.com/Upmate/shipfast/pull/44) on [Upmate/shipfast](https://github.com/Upmate/shipfast) (3 days ago)
+- [Add data pipeline ETL script](https://github.com/Upmate/shipfast/pull/43) on [Upmate/shipfast](https://github.com/Upmate/shipfast) (3 days ago)
+- [Update React dashboard components](https://github.com/Upmate/shipfast/pull/42) on [Upmate/shipfast](https://github.com/Upmate/shipfast) (3 days ago)
 
 
 
