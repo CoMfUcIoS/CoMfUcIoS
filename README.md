@@ -31,16 +31,16 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [pullminder/homebrew-tap](https://github.com/pullminder/homebrew-tap) - Homebrew tap for Pullminder CLI (1 day ago)
+- [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) - Automated nightly E2E test target for Pullminder. Do not modify manually. (today)
+- [pullminder/registry](https://github.com/pullminder/registry) - Official Pullminder rule pack registry — detection and policy packs for automated PR review (1 day ago)
 - [pullminder/.github](https://github.com/pullminder/.github) -  (1 day ago)
 - [pullminder/action](https://github.com/pullminder/action) - GitHub Action for Pullminder registry validation (1 day ago)
-- [pullminder/npm](https://github.com/pullminder/npm) - npm wrapper for Pullminder CLI (1 day ago)
+- [pullminder/homebrew-tap](https://github.com/pullminder/homebrew-tap) - Homebrew tap for Pullminder CLI (1 day ago)
 - [pullminder/cli](https://github.com/pullminder/cli) - Pullminder CLI releases (1 day ago)
-- [pullminder/registry](https://github.com/pullminder/registry) - Official Pullminder rule pack registry — detection and policy packs for automated PR review (1 day ago)
+- [pullminder/npm](https://github.com/pullminder/npm) - npm wrapper for Pullminder CLI (1 day ago)
 - [Upmate/shipfast](https://github.com/Upmate/shipfast) - A modern microservices platform — monitored by Pullminder (5 days ago)
 - [CoMfUcIoS/neovim](https://github.com/CoMfUcIoS/neovim) - My configuration of Neovim. (1 month ago)
 - [CoMfUcIoS/console-inline.nvim](https://github.com/CoMfUcIoS/console-inline.nvim) - Zero-config Neovim plugin for inline console logs (4 months ago)
-- [CoMfUcIoS/ConventionalComments-ext](https://github.com/CoMfUcIoS/ConventionalComments-ext) - An easy way to help you be kind and insert Conventional comments in GH comments (4 months ago)
 
 
 
@@ -59,6 +59,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Nightly E2E test — 24402258762](https://github.com/Upmate/pullminder-e2e-test/pull/1) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) (today)
 - [feat: add authentication, billing, notifications, and ETL pipeline](https://github.com/Upmate/shipfast/pull/51) on [Upmate/shipfast](https://github.com/Upmate/shipfast) (3 days ago)
 - [Update CI/CD pipeline and Terraform](https://github.com/Upmate/shipfast/pull/50) on [Upmate/shipfast](https://github.com/Upmate/shipfast) (3 days ago)
 - [Add Redis caching layer](https://github.com/Upmate/shipfast/pull/49) on [Upmate/shipfast](https://github.com/Upmate/shipfast) (3 days ago)
@@ -68,7 +69,6 @@
 - [Add notification templates](https://github.com/Upmate/shipfast/pull/45) on [Upmate/shipfast](https://github.com/Upmate/shipfast) (3 days ago)
 - [Upgrade dependencies across services](https://github.com/Upmate/shipfast/pull/44) on [Upmate/shipfast](https://github.com/Upmate/shipfast) (3 days ago)
 - [Add data pipeline ETL script](https://github.com/Upmate/shipfast/pull/43) on [Upmate/shipfast](https://github.com/Upmate/shipfast) (3 days ago)
-- [Update React dashboard components](https://github.com/Upmate/shipfast/pull/42) on [Upmate/shipfast](https://github.com/Upmate/shipfast) (3 days ago)
 
 
 
