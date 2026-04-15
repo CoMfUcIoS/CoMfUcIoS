@@ -47,7 +47,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [pullminder/cli](https://github.com/pullminder/cli) ([v0.1.8](https://github.com/pullminder/cli/releases/tag/v0.1.8), today) - Pullminder CLI releases
+- [pullminder/cli](https://github.com/pullminder/cli) ([v0.1.9](https://github.com/pullminder/cli/releases/tag/v0.1.9), today) - Pullminder CLI releases
+- [pullminder/registry](https://github.com/pullminder/registry) ([v4](https://github.com/pullminder/registry/releases/tag/v4), today) - Official Pullminder rule pack registry — detection and policy packs for automated PR review
 - [CoMfUcIoS/console-inline.nvim](https://github.com/CoMfUcIoS/console-inline.nvim) ([console-inline.nvim-v3.1.0](https://github.com/CoMfUcIoS/console-inline.nvim/releases/tag/console-inline.nvim-v3.1.0), 4 months ago) - Zero-config Neovim plugin for inline console logs
 - [CoMfUcIoS/ConventionalComments-ext](https://github.com/CoMfUcIoS/ConventionalComments-ext) ([v2.3.0](https://github.com/CoMfUcIoS/ConventionalComments-ext/releases/tag/v2.3.0), 4 months ago) - An easy way to help you be kind and insert Conventional comments in GH comments
 - [CoMfUcIoS/GraphQLens](https://github.com/CoMfUcIoS/GraphQLens) ([v1.0.2](https://github.com/CoMfUcIoS/GraphQLens/releases/tag/v1.0.2), 5 months ago) - A performant, modern Chrome DevTools extension for inspecting &amp; mocking GraphQL traffic
@@ -59,6 +60,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [chore: bump registry version to 3](https://github.com/pullminder/registry/pull/2) on [pullminder/registry](https://github.com/pullminder/registry) (today)
 - [feat(packs): migrate 11 remaining packs from upmate/pullminder-registry](https://github.com/pullminder/registry/pull/1) on [pullminder/registry](https://github.com/pullminder/registry) (today)
 - [Nightly E2E test — 24438094943](https://github.com/Upmate/pullminder-e2e-test/pull/2) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) (today)
 - [Nightly E2E test — 24402258762](https://github.com/Upmate/pullminder-e2e-test/pull/1) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) (1 day ago)
@@ -68,7 +70,6 @@
 - [Fix login page styling](https://github.com/Upmate/shipfast/pull/48) on [Upmate/shipfast](https://github.com/Upmate/shipfast) (4 days ago)
 - [Add user registration with tests](https://github.com/Upmate/shipfast/pull/47) on [Upmate/shipfast](https://github.com/Upmate/shipfast) (4 days ago)
 - [Refactor billing module](https://github.com/Upmate/shipfast/pull/46) on [Upmate/shipfast](https://github.com/Upmate/shipfast) (4 days ago)
-- [Add notification templates](https://github.com/Upmate/shipfast/pull/45) on [Upmate/shipfast](https://github.com/Upmate/shipfast) (4 days ago)
 
 
 
