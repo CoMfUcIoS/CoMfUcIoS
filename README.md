@@ -59,6 +59,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Nightly E2E test — 24438094943](https://github.com/Upmate/pullminder-e2e-test/pull/2) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) (today)
 - [Nightly E2E test — 24402258762](https://github.com/Upmate/pullminder-e2e-test/pull/1) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) (1 day ago)
 - [feat: add authentication, billing, notifications, and ETL pipeline](https://github.com/Upmate/shipfast/pull/51) on [Upmate/shipfast](https://github.com/Upmate/shipfast) (4 days ago)
 - [Update CI/CD pipeline and Terraform](https://github.com/Upmate/shipfast/pull/50) on [Upmate/shipfast](https://github.com/Upmate/shipfast) (4 days ago)
@@ -68,7 +69,6 @@
 - [Refactor billing module](https://github.com/Upmate/shipfast/pull/46) on [Upmate/shipfast](https://github.com/Upmate/shipfast) (4 days ago)
 - [Add notification templates](https://github.com/Upmate/shipfast/pull/45) on [Upmate/shipfast](https://github.com/Upmate/shipfast) (4 days ago)
 - [Upgrade dependencies across services](https://github.com/Upmate/shipfast/pull/44) on [Upmate/shipfast](https://github.com/Upmate/shipfast) (4 days ago)
-- [Add data pipeline ETL script](https://github.com/Upmate/shipfast/pull/43) on [Upmate/shipfast](https://github.com/Upmate/shipfast) (4 days ago)
 
 
 
