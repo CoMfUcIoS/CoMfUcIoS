@@ -31,13 +31,13 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [pullminder/action](https://github.com/pullminder/action) - GitHub Action for Pullminder registry validation (today)
+- [pullminder/cli](https://github.com/pullminder/cli) - Pullminder CLI releases (today)
+- [pullminder/.github](https://github.com/pullminder/.github) -  (today)
+- [pullminder/registry](https://github.com/pullminder/registry) - Official Pullminder rule pack registry — detection and policy packs for automated PR review (today)
+- [pullminder/homebrew-tap](https://github.com/pullminder/homebrew-tap) - Homebrew tap for Pullminder CLI (today)
+- [pullminder/npm](https://github.com/pullminder/npm) - npm wrapper for Pullminder CLI (today)
 - [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) - Automated nightly E2E test target for Pullminder. Do not modify manually. (1 day ago)
-- [pullminder/homebrew-tap](https://github.com/pullminder/homebrew-tap) - Homebrew tap for Pullminder CLI (2 days ago)
-- [pullminder/action](https://github.com/pullminder/action) - GitHub Action for Pullminder registry validation (2 days ago)
-- [pullminder/.github](https://github.com/pullminder/.github) -  (2 days ago)
-- [pullminder/npm](https://github.com/pullminder/npm) - npm wrapper for Pullminder CLI (2 days ago)
-- [pullminder/cli](https://github.com/pullminder/cli) - Pullminder CLI releases (2 days ago)
-- [pullminder/registry](https://github.com/pullminder/registry) - Official Pullminder rule pack registry — detection and policy packs for automated PR review (2 days ago)
 - [Upmate/shipfast](https://github.com/Upmate/shipfast) - A modern microservices platform — monitored by Pullminder (6 days ago)
 - [CoMfUcIoS/neovim](https://github.com/CoMfUcIoS/neovim) - My configuration of Neovim. (1 month ago)
 - [CoMfUcIoS/console-inline.nvim](https://github.com/CoMfUcIoS/console-inline.nvim) - Zero-config Neovim plugin for inline console logs (4 months ago)
