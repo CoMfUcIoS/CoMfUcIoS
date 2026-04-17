@@ -49,7 +49,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [pullminder/cli](https://github.com/pullminder/cli) ([v0.1.11](https://github.com/pullminder/cli/releases/tag/v0.1.11), today) - Pullminder CLI releases
+- [pullminder/cli](https://github.com/pullminder/cli) ([v0.1.12](https://github.com/pullminder/cli/releases/tag/v0.1.12), today) - Pullminder CLI releases
 - [pullminder/registry](https://github.com/pullminder/registry) ([v4](https://github.com/pullminder/registry/releases/tag/v4), 2 days ago) - Official Pullminder rule pack registry — detection and policy packs for automated PR review
 - [CoMfUcIoS/console-inline.nvim](https://github.com/CoMfUcIoS/console-inline.nvim) ([console-inline.nvim-v3.1.0](https://github.com/CoMfUcIoS/console-inline.nvim/releases/tag/console-inline.nvim-v3.1.0), 4 months ago) - Zero-config Neovim plugin for inline console logs
 - [CoMfUcIoS/ConventionalComments-ext](https://github.com/CoMfUcIoS/ConventionalComments-ext) ([v2.3.0](https://github.com/CoMfUcIoS/ConventionalComments-ext/releases/tag/v2.3.0), 4 months ago) - An easy way to help you be kind and insert Conventional comments in GH comments
