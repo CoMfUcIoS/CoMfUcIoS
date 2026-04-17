@@ -60,6 +60,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Nightly E2E test — 24549469793](https://github.com/Upmate/pullminder-e2e-test/pull/4) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) (today)
 - [Nightly E2E test — 24494004363](https://github.com/Upmate/pullminder-e2e-test/pull/3) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) (1 day ago)
 - [chore: bump registry version to 3](https://github.com/pullminder/registry/pull/2) on [pullminder/registry](https://github.com/pullminder/registry) (2 days ago)
 - [feat(packs): migrate 11 remaining packs from upmate/pullminder-registry](https://github.com/pullminder/registry/pull/1) on [pullminder/registry](https://github.com/pullminder/registry) (2 days ago)
@@ -69,7 +70,6 @@
 - [Update CI/CD pipeline and Terraform](https://github.com/Upmate/shipfast/pull/50) on [Upmate/shipfast](https://github.com/Upmate/shipfast) (6 days ago)
 - [Add Redis caching layer](https://github.com/Upmate/shipfast/pull/49) on [Upmate/shipfast](https://github.com/Upmate/shipfast) (6 days ago)
 - [Fix login page styling](https://github.com/Upmate/shipfast/pull/48) on [Upmate/shipfast](https://github.com/Upmate/shipfast) (6 days ago)
-- [Add user registration with tests](https://github.com/Upmate/shipfast/pull/47) on [Upmate/shipfast](https://github.com/Upmate/shipfast) (6 days ago)
 
 
 
