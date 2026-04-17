@@ -33,11 +33,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [pullminder/registry](https://github.com/pullminder/registry) - Official Pullminder rule pack registry — detection and policy packs for automated PR review (today)
 - [pullminder/npm](https://github.com/pullminder/npm) - npm wrapper for Pullminder CLI (2 days ago)
 - [pullminder/homebrew-tap](https://github.com/pullminder/homebrew-tap) - Homebrew tap for Pullminder CLI (2 days ago)
 - [pullminder/.github](https://github.com/pullminder/.github) -  (2 days ago)
 - [pullminder/action](https://github.com/pullminder/action) - GitHub Action for Pullminder registry validation (2 days ago)
-- [pullminder/registry](https://github.com/pullminder/registry) - Official Pullminder rule pack registry — detection and policy packs for automated PR review (2 days ago)
 - [pullminder/cli](https://github.com/pullminder/cli) - Pullminder CLI releases (2 days ago)
 - [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) - Automated nightly E2E test target for Pullminder. Do not modify manually. (3 days ago)
 - [Upmate/shipfast](https://github.com/Upmate/shipfast) - A modern microservices platform — monitored by Pullminder (1 week ago)
@@ -49,7 +49,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [pullminder/cli](https://github.com/pullminder/cli) ([v0.1.12](https://github.com/pullminder/cli/releases/tag/v0.1.12), today) - Pullminder CLI releases
+- [pullminder/cli](https://github.com/pullminder/cli) ([v0.1.13](https://github.com/pullminder/cli/releases/tag/v0.1.13), today) - Pullminder CLI releases
 - [pullminder/registry](https://github.com/pullminder/registry) ([v4](https://github.com/pullminder/registry/releases/tag/v4), 2 days ago) - Official Pullminder rule pack registry — detection and policy packs for automated PR review
 - [CoMfUcIoS/console-inline.nvim](https://github.com/CoMfUcIoS/console-inline.nvim) ([console-inline.nvim-v3.1.0](https://github.com/CoMfUcIoS/console-inline.nvim/releases/tag/console-inline.nvim-v3.1.0), 4 months ago) - Zero-config Neovim plugin for inline console logs
 - [CoMfUcIoS/ConventionalComments-ext](https://github.com/CoMfUcIoS/ConventionalComments-ext) ([v2.3.0](https://github.com/CoMfUcIoS/ConventionalComments-ext/releases/tag/v2.3.0), 4 months ago) - An easy way to help you be kind and insert Conventional comments in GH comments
@@ -62,6 +62,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat(registry): add server_only &#43; path_patterns; flip AI packs default](https://github.com/pullminder/registry/pull/3) on [pullminder/registry](https://github.com/pullminder/registry) (today)
 - [Nightly E2E test — 24549469793](https://github.com/Upmate/pullminder-e2e-test/pull/4) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) (today)
 - [Nightly E2E test — 24494004363](https://github.com/Upmate/pullminder-e2e-test/pull/3) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) (1 day ago)
 - [chore: bump registry version to 3](https://github.com/pullminder/registry/pull/2) on [pullminder/registry](https://github.com/pullminder/registry) (2 days ago)
@@ -71,7 +72,6 @@
 - [feat: add authentication, billing, notifications, and ETL pipeline](https://github.com/Upmate/shipfast/pull/51) on [Upmate/shipfast](https://github.com/Upmate/shipfast) (6 days ago)
 - [Update CI/CD pipeline and Terraform](https://github.com/Upmate/shipfast/pull/50) on [Upmate/shipfast](https://github.com/Upmate/shipfast) (6 days ago)
 - [Add Redis caching layer](https://github.com/Upmate/shipfast/pull/49) on [Upmate/shipfast](https://github.com/Upmate/shipfast) (6 days ago)
-- [Fix login page styling](https://github.com/Upmate/shipfast/pull/48) on [Upmate/shipfast](https://github.com/Upmate/shipfast) (6 days ago)
 
 
 
