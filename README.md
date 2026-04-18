@@ -62,6 +62,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Nightly E2E test — 24597608989](https://github.com/Upmate/pullminder-e2e-test/pull/5) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) (today)
 - [feat(registry): add server_only &#43; path_patterns; flip AI packs default](https://github.com/pullminder/registry/pull/3) on [pullminder/registry](https://github.com/pullminder/registry) (1 day ago)
 - [Nightly E2E test — 24549469793](https://github.com/Upmate/pullminder-e2e-test/pull/4) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) (1 day ago)
 - [Nightly E2E test — 24494004363](https://github.com/Upmate/pullminder-e2e-test/pull/3) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) (2 days ago)
@@ -71,7 +72,6 @@
 - [Nightly E2E test — 24402258762](https://github.com/Upmate/pullminder-e2e-test/pull/1) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) (4 days ago)
 - [feat: add authentication, billing, notifications, and ETL pipeline](https://github.com/Upmate/shipfast/pull/51) on [Upmate/shipfast](https://github.com/Upmate/shipfast) (1 week ago)
 - [Update CI/CD pipeline and Terraform](https://github.com/Upmate/shipfast/pull/50) on [Upmate/shipfast](https://github.com/Upmate/shipfast) (1 week ago)
-- [Add Redis caching layer](https://github.com/Upmate/shipfast/pull/49) on [Upmate/shipfast](https://github.com/Upmate/shipfast) (1 week ago)
 
 
 
