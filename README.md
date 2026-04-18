@@ -33,12 +33,12 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [pullminder/registry](https://github.com/pullminder/registry) - Official Pullminder rule pack registry — detection and policy packs for automated PR review (1 day ago)
-- [pullminder/npm](https://github.com/pullminder/npm) - npm wrapper for Pullminder CLI (3 days ago)
+- [pullminder/npm](https://github.com/pullminder/npm) - npm wrapper for Pullminder CLI (today)
+- [pullminder/cli](https://github.com/pullminder/cli) - Pullminder CLI releases (today)
+- [pullminder/registry](https://github.com/pullminder/registry) - Official Pullminder rule pack registry — detection and policy packs for automated PR review (today)
 - [pullminder/homebrew-tap](https://github.com/pullminder/homebrew-tap) - Homebrew tap for Pullminder CLI (3 days ago)
-- [pullminder/.github](https://github.com/pullminder/.github) -  (3 days ago)
 - [pullminder/action](https://github.com/pullminder/action) - GitHub Action for Pullminder registry validation (3 days ago)
-- [pullminder/cli](https://github.com/pullminder/cli) - Pullminder CLI releases (3 days ago)
+- [pullminder/.github](https://github.com/pullminder/.github) -  (3 days ago)
 - [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) - Automated nightly E2E test target for Pullminder. Do not modify manually. (4 days ago)
 - [Upmate/shipfast](https://github.com/Upmate/shipfast) - A modern microservices platform — monitored by Pullminder (1 week ago)
 - [CoMfUcIoS/neovim](https://github.com/CoMfUcIoS/neovim) - My configuration of Neovim. (1 month ago)
@@ -62,16 +62,16 @@
 
 #### 🔨 My recent Pull Requests
 
+- [docs: sync documentation from monorepo](https://github.com/pullminder/cli/pull/4) on [pullminder/cli](https://github.com/pullminder/cli) (today)
+- [docs: sync documentation from monorepo](https://github.com/pullminder/npm/pull/2) on [pullminder/npm](https://github.com/pullminder/npm) (today)
+- [docs: sync documentation from monorepo](https://github.com/pullminder/cli/pull/3) on [pullminder/cli](https://github.com/pullminder/cli) (today)
+- [docs: sync documentation from monorepo](https://github.com/pullminder/npm/pull/1) on [pullminder/npm](https://github.com/pullminder/npm) (today)
+- [docs: sync documentation from monorepo](https://github.com/pullminder/action/pull/1) on [pullminder/action](https://github.com/pullminder/action) (today)
+- [docs: sync documentation from monorepo](https://github.com/pullminder/registry/pull/4) on [pullminder/registry](https://github.com/pullminder/registry) (today)
+- [docs: sync documentation from monorepo](https://github.com/pullminder/cli/pull/2) on [pullminder/cli](https://github.com/pullminder/cli) (today)
+- [docs: sync documentation from monorepo](https://github.com/pullminder/cli/pull/1) on [pullminder/cli](https://github.com/pullminder/cli) (today)
 - [Nightly E2E test — 24597608989](https://github.com/Upmate/pullminder-e2e-test/pull/5) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) (today)
 - [feat(registry): add server_only &#43; path_patterns; flip AI packs default](https://github.com/pullminder/registry/pull/3) on [pullminder/registry](https://github.com/pullminder/registry) (1 day ago)
-- [Nightly E2E test — 24549469793](https://github.com/Upmate/pullminder-e2e-test/pull/4) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) (1 day ago)
-- [Nightly E2E test — 24494004363](https://github.com/Upmate/pullminder-e2e-test/pull/3) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) (2 days ago)
-- [chore: bump registry version to 3](https://github.com/pullminder/registry/pull/2) on [pullminder/registry](https://github.com/pullminder/registry) (3 days ago)
-- [feat(packs): migrate 11 remaining packs from upmate/pullminder-registry](https://github.com/pullminder/registry/pull/1) on [pullminder/registry](https://github.com/pullminder/registry) (3 days ago)
-- [Nightly E2E test — 24438094943](https://github.com/Upmate/pullminder-e2e-test/pull/2) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) (3 days ago)
-- [Nightly E2E test — 24402258762](https://github.com/Upmate/pullminder-e2e-test/pull/1) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) (4 days ago)
-- [feat: add authentication, billing, notifications, and ETL pipeline](https://github.com/Upmate/shipfast/pull/51) on [Upmate/shipfast](https://github.com/Upmate/shipfast) (1 week ago)
-- [Update CI/CD pipeline and Terraform](https://github.com/Upmate/shipfast/pull/50) on [Upmate/shipfast](https://github.com/Upmate/shipfast) (1 week ago)
 
 
 
