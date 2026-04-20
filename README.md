@@ -62,6 +62,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Nightly E2E test — 24650526788](https://github.com/Upmate/pullminder-e2e-test/pull/7) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) (today)
 - [Nightly E2E test — 24621943136](https://github.com/Upmate/pullminder-e2e-test/pull/6) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) (1 day ago)
 - [docs: sync documentation from monorepo](https://github.com/pullminder/cli/pull/4) on [pullminder/cli](https://github.com/pullminder/cli) (2 days ago)
 - [docs: sync documentation from monorepo](https://github.com/pullminder/npm/pull/2) on [pullminder/npm](https://github.com/pullminder/npm) (2 days ago)
@@ -71,7 +72,6 @@
 - [docs: sync documentation from monorepo](https://github.com/pullminder/registry/pull/4) on [pullminder/registry](https://github.com/pullminder/registry) (2 days ago)
 - [docs: sync documentation from monorepo](https://github.com/pullminder/cli/pull/2) on [pullminder/cli](https://github.com/pullminder/cli) (2 days ago)
 - [docs: sync documentation from monorepo](https://github.com/pullminder/cli/pull/1) on [pullminder/cli](https://github.com/pullminder/cli) (2 days ago)
-- [Nightly E2E test — 24597608989](https://github.com/Upmate/pullminder-e2e-test/pull/5) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) (2 days ago)
 
 
 
