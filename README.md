@@ -33,9 +33,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [pullminder/npm](https://github.com/pullminder/npm) - npm wrapper for Pullminder CLI (5 days ago)
-- [pullminder/cli](https://github.com/pullminder/cli) - Pullminder CLI releases (5 days ago)
-- [pullminder/registry](https://github.com/pullminder/registry) - Official Pullminder rule pack registry — detection and policy packs for automated PR review (5 days ago)
+- [pullminder/npm](https://github.com/pullminder/npm) - npm wrapper for Pullminder CLI (6 days ago)
+- [pullminder/cli](https://github.com/pullminder/cli) - Pullminder CLI releases (6 days ago)
+- [pullminder/registry](https://github.com/pullminder/registry) - Official Pullminder rule pack registry — detection and policy packs for automated PR review (6 days ago)
 - [pullminder/homebrew-tap](https://github.com/pullminder/homebrew-tap) - Homebrew tap for Pullminder CLI (1 week ago)
 - [pullminder/.github](https://github.com/pullminder/.github) -  (1 week ago)
 - [pullminder/action](https://github.com/pullminder/action) - GitHub Action for Pullminder registry validation (1 week ago)
@@ -49,7 +49,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [pullminder/cli](https://github.com/pullminder/cli) ([v0.1.13](https://github.com/pullminder/cli/releases/tag/v0.1.13), 6 days ago) - Pullminder CLI releases
+- [pullminder/cli](https://github.com/pullminder/cli) ([v0.1.13](https://github.com/pullminder/cli/releases/tag/v0.1.13), 1 week ago) - Pullminder CLI releases
 - [pullminder/registry](https://github.com/pullminder/registry) ([v4](https://github.com/pullminder/registry/releases/tag/v4), 1 week ago) - Official Pullminder rule pack registry — detection and policy packs for automated PR review
 - [CoMfUcIoS/console-inline.nvim](https://github.com/CoMfUcIoS/console-inline.nvim) ([console-inline.nvim-v3.1.0](https://github.com/CoMfUcIoS/console-inline.nvim/releases/tag/console-inline.nvim-v3.1.0), 4 months ago) - Zero-config Neovim plugin for inline console logs
 - [CoMfUcIoS/ConventionalComments-ext](https://github.com/CoMfUcIoS/ConventionalComments-ext) ([v2.3.0](https://github.com/CoMfUcIoS/ConventionalComments-ext/releases/tag/v2.3.0), 4 months ago) - An easy way to help you be kind and insert Conventional comments in GH comments
@@ -62,16 +62,16 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Nightly E2E test — 24818746048](https://github.com/Upmate/pullminder-e2e-test/pull/10) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) (today)
-- [Nightly E2E test — 24761951347](https://github.com/Upmate/pullminder-e2e-test/pull/9) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) (1 day ago)
-- [Nightly E2E test — 24705837211](https://github.com/Upmate/pullminder-e2e-test/pull/8) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) (2 days ago)
-- [Nightly E2E test — 24650526788](https://github.com/Upmate/pullminder-e2e-test/pull/7) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) (3 days ago)
-- [Nightly E2E test — 24621943136](https://github.com/Upmate/pullminder-e2e-test/pull/6) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) (4 days ago)
-- [docs: sync documentation from monorepo](https://github.com/pullminder/cli/pull/4) on [pullminder/cli](https://github.com/pullminder/cli) (5 days ago)
-- [docs: sync documentation from monorepo](https://github.com/pullminder/npm/pull/2) on [pullminder/npm](https://github.com/pullminder/npm) (5 days ago)
-- [docs: sync documentation from monorepo](https://github.com/pullminder/cli/pull/3) on [pullminder/cli](https://github.com/pullminder/cli) (5 days ago)
-- [docs: sync documentation from monorepo](https://github.com/pullminder/npm/pull/1) on [pullminder/npm](https://github.com/pullminder/npm) (5 days ago)
-- [docs: sync documentation from monorepo](https://github.com/pullminder/action/pull/1) on [pullminder/action](https://github.com/pullminder/action) (5 days ago)
+- [Nightly E2E test — 24818746048](https://github.com/Upmate/pullminder-e2e-test/pull/10) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) (1 day ago)
+- [Nightly E2E test — 24761951347](https://github.com/Upmate/pullminder-e2e-test/pull/9) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) (2 days ago)
+- [Nightly E2E test — 24705837211](https://github.com/Upmate/pullminder-e2e-test/pull/8) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) (3 days ago)
+- [Nightly E2E test — 24650526788](https://github.com/Upmate/pullminder-e2e-test/pull/7) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) (4 days ago)
+- [Nightly E2E test — 24621943136](https://github.com/Upmate/pullminder-e2e-test/pull/6) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) (5 days ago)
+- [docs: sync documentation from monorepo](https://github.com/pullminder/cli/pull/4) on [pullminder/cli](https://github.com/pullminder/cli) (6 days ago)
+- [docs: sync documentation from monorepo](https://github.com/pullminder/npm/pull/2) on [pullminder/npm](https://github.com/pullminder/npm) (6 days ago)
+- [docs: sync documentation from monorepo](https://github.com/pullminder/cli/pull/3) on [pullminder/cli](https://github.com/pullminder/cli) (6 days ago)
+- [docs: sync documentation from monorepo](https://github.com/pullminder/npm/pull/1) on [pullminder/npm](https://github.com/pullminder/npm) (6 days ago)
+- [docs: sync documentation from monorepo](https://github.com/pullminder/action/pull/1) on [pullminder/action](https://github.com/pullminder/action) (6 days ago)
 
 
 
