@@ -62,6 +62,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix(install): verify SHA256 of CLI binary against checksums.txt](https://github.com/pullminder/npm/pull/3) on [pullminder/npm](https://github.com/pullminder/npm) (today)
 - [Nightly E2E test — 24923448521](https://github.com/Upmate/pullminder-e2e-test/pull/12) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) (today)
 - [Nightly E2E test — 24874213569](https://github.com/Upmate/pullminder-e2e-test/pull/11) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) (1 day ago)
 - [Nightly E2E test — 24818746048](https://github.com/Upmate/pullminder-e2e-test/pull/10) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) (2 days ago)
@@ -71,7 +72,6 @@
 - [Nightly E2E test — 24621943136](https://github.com/Upmate/pullminder-e2e-test/pull/6) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) (6 days ago)
 - [docs: sync documentation from monorepo](https://github.com/pullminder/cli/pull/4) on [pullminder/cli](https://github.com/pullminder/cli) (1 week ago)
 - [docs: sync documentation from monorepo](https://github.com/pullminder/npm/pull/2) on [pullminder/npm](https://github.com/pullminder/npm) (1 week ago)
-- [docs: sync documentation from monorepo](https://github.com/pullminder/cli/pull/3) on [pullminder/cli](https://github.com/pullminder/cli) (1 week ago)
 
 
 
