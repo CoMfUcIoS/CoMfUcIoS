@@ -33,10 +33,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [pullminder/npm](https://github.com/pullminder/npm) - npm wrapper for Pullminder CLI (1 week ago)
-- [pullminder/cli](https://github.com/pullminder/cli) - Pullminder CLI releases (1 week ago)
+- [pullminder/cli](https://github.com/pullminder/cli) - Pullminder CLI releases (today)
+- [pullminder/homebrew-tap](https://github.com/pullminder/homebrew-tap) - Homebrew tap for Pullminder CLI (today)
+- [pullminder/npm](https://github.com/pullminder/npm) - npm wrapper for Pullminder CLI (today)
 - [pullminder/registry](https://github.com/pullminder/registry) - Official Pullminder rule pack registry — detection and policy packs for automated PR review (1 week ago)
-- [pullminder/homebrew-tap](https://github.com/pullminder/homebrew-tap) - Homebrew tap for Pullminder CLI (1 week ago)
 - [pullminder/.github](https://github.com/pullminder/.github) -  (1 week ago)
 - [pullminder/action](https://github.com/pullminder/action) - GitHub Action for Pullminder registry validation (1 week ago)
 - [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) - Automated nightly E2E test target for Pullminder. Do not modify manually. (1 week ago)
@@ -62,16 +62,16 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix(action): verify SHA256 of CLI binary before exec](https://github.com/pullminder/action/pull/2) on [pullminder/action](https://github.com/pullminder/action) (today)
+- [chore: add CODEOWNERS](https://github.com/pullminder/homebrew-tap/pull/1) on [pullminder/homebrew-tap](https://github.com/pullminder/homebrew-tap) (today)
+- [chore: add CODEOWNERS](https://github.com/pullminder/npm/pull/4) on [pullminder/npm](https://github.com/pullminder/npm) (today)
+- [fix(install): SHA256 verification &#43; CODEOWNERS &#43; selftest CI](https://github.com/pullminder/cli/pull/5) on [pullminder/cli](https://github.com/pullminder/cli) (today)
 - [fix(install): verify SHA256 of CLI binary against checksums.txt](https://github.com/pullminder/npm/pull/3) on [pullminder/npm](https://github.com/pullminder/npm) (today)
 - [Nightly E2E test — 24923448521](https://github.com/Upmate/pullminder-e2e-test/pull/12) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) (today)
 - [Nightly E2E test — 24874213569](https://github.com/Upmate/pullminder-e2e-test/pull/11) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) (1 day ago)
 - [Nightly E2E test — 24818746048](https://github.com/Upmate/pullminder-e2e-test/pull/10) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) (2 days ago)
 - [Nightly E2E test — 24761951347](https://github.com/Upmate/pullminder-e2e-test/pull/9) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) (3 days ago)
 - [Nightly E2E test — 24705837211](https://github.com/Upmate/pullminder-e2e-test/pull/8) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) (4 days ago)
-- [Nightly E2E test — 24650526788](https://github.com/Upmate/pullminder-e2e-test/pull/7) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) (5 days ago)
-- [Nightly E2E test — 24621943136](https://github.com/Upmate/pullminder-e2e-test/pull/6) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) (6 days ago)
-- [docs: sync documentation from monorepo](https://github.com/pullminder/cli/pull/4) on [pullminder/cli](https://github.com/pullminder/cli) (1 week ago)
-- [docs: sync documentation from monorepo](https://github.com/pullminder/npm/pull/2) on [pullminder/npm](https://github.com/pullminder/npm) (1 week ago)
 
 
 
