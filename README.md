@@ -33,9 +33,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [pullminder/cli](https://github.com/pullminder/cli) - Pullminder CLI releases (today)
-- [pullminder/homebrew-tap](https://github.com/pullminder/homebrew-tap) - Homebrew tap for Pullminder CLI (today)
-- [pullminder/npm](https://github.com/pullminder/npm) - npm wrapper for Pullminder CLI (today)
+- [pullminder/cli](https://github.com/pullminder/cli) - Pullminder CLI releases (1 day ago)
+- [pullminder/homebrew-tap](https://github.com/pullminder/homebrew-tap) - Homebrew tap for Pullminder CLI (1 day ago)
+- [pullminder/npm](https://github.com/pullminder/npm) - npm wrapper for Pullminder CLI (1 day ago)
 - [pullminder/registry](https://github.com/pullminder/registry) - Official Pullminder rule pack registry — detection and policy packs for automated PR review (1 week ago)
 - [pullminder/.github](https://github.com/pullminder/.github) -  (1 week ago)
 - [pullminder/action](https://github.com/pullminder/action) - GitHub Action for Pullminder registry validation (1 week ago)
@@ -54,7 +54,7 @@
 - [CoMfUcIoS/console-inline.nvim](https://github.com/CoMfUcIoS/console-inline.nvim) ([console-inline.nvim-v3.1.0](https://github.com/CoMfUcIoS/console-inline.nvim/releases/tag/console-inline.nvim-v3.1.0), 4 months ago) - Zero-config Neovim plugin for inline console logs
 - [CoMfUcIoS/ConventionalComments-ext](https://github.com/CoMfUcIoS/ConventionalComments-ext) ([v2.3.0](https://github.com/CoMfUcIoS/ConventionalComments-ext/releases/tag/v2.3.0), 4 months ago) - An easy way to help you be kind and insert Conventional comments in GH comments
 - [CoMfUcIoS/GraphQLens](https://github.com/CoMfUcIoS/GraphQLens) ([v1.0.2](https://github.com/CoMfUcIoS/GraphQLens/releases/tag/v1.0.2), 5 months ago) - A performant, modern Chrome DevTools extension for inspecting &amp; mocking GraphQL traffic
-- [CoMfUcIoS/obsidian-mcp-sb](https://github.com/CoMfUcIoS/obsidian-mcp-sb) ([v0.1.3](https://github.com/CoMfUcIoS/obsidian-mcp-sb/releases/tag/v0.1.3), 5 months ago) - An MCP (Model Context Protocol) server that provides intelligent read-only access to your Obsidian vault, enabling it to function as a &#34;second brain&#34; for LLMs.
+- [CoMfUcIoS/obsidian-mcp-sb](https://github.com/CoMfUcIoS/obsidian-mcp-sb) ([v0.1.3](https://github.com/CoMfUcIoS/obsidian-mcp-sb/releases/tag/v0.1.3), 6 months ago) - An MCP (Model Context Protocol) server that provides intelligent read-only access to your Obsidian vault, enabling it to function as a &#34;second brain&#34; for LLMs.
 - [CoMfUcIoS/socket.io-pouch](https://github.com/CoMfUcIoS/socket.io-pouch) ([v1.2.1](https://github.com/CoMfUcIoS/socket.io-pouch/releases/tag/v1.2.1), 4 years ago) - PouchDB and CouchDB over WebSockets, using Socket.io
 
 
@@ -62,16 +62,16 @@
 
 #### 🔨 My recent Pull Requests
 
-- [fix(action): verify SHA256 of CLI binary before exec](https://github.com/pullminder/action/pull/2) on [pullminder/action](https://github.com/pullminder/action) (today)
-- [chore: add CODEOWNERS](https://github.com/pullminder/homebrew-tap/pull/1) on [pullminder/homebrew-tap](https://github.com/pullminder/homebrew-tap) (today)
-- [chore: add CODEOWNERS](https://github.com/pullminder/npm/pull/4) on [pullminder/npm](https://github.com/pullminder/npm) (today)
-- [fix(install): SHA256 verification &#43; CODEOWNERS &#43; selftest CI](https://github.com/pullminder/cli/pull/5) on [pullminder/cli](https://github.com/pullminder/cli) (today)
-- [fix(install): verify SHA256 of CLI binary against checksums.txt](https://github.com/pullminder/npm/pull/3) on [pullminder/npm](https://github.com/pullminder/npm) (today)
-- [Nightly E2E test — 24923448521](https://github.com/Upmate/pullminder-e2e-test/pull/12) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) (today)
-- [Nightly E2E test — 24874213569](https://github.com/Upmate/pullminder-e2e-test/pull/11) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) (1 day ago)
-- [Nightly E2E test — 24818746048](https://github.com/Upmate/pullminder-e2e-test/pull/10) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) (2 days ago)
-- [Nightly E2E test — 24761951347](https://github.com/Upmate/pullminder-e2e-test/pull/9) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) (3 days ago)
-- [Nightly E2E test — 24705837211](https://github.com/Upmate/pullminder-e2e-test/pull/8) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) (4 days ago)
+- [fix(action): verify SHA256 of CLI binary before exec](https://github.com/pullminder/action/pull/2) on [pullminder/action](https://github.com/pullminder/action) (1 day ago)
+- [chore: add CODEOWNERS](https://github.com/pullminder/homebrew-tap/pull/1) on [pullminder/homebrew-tap](https://github.com/pullminder/homebrew-tap) (1 day ago)
+- [chore: add CODEOWNERS](https://github.com/pullminder/npm/pull/4) on [pullminder/npm](https://github.com/pullminder/npm) (1 day ago)
+- [fix(install): SHA256 verification &#43; CODEOWNERS &#43; selftest CI](https://github.com/pullminder/cli/pull/5) on [pullminder/cli](https://github.com/pullminder/cli) (1 day ago)
+- [fix(install): verify SHA256 of CLI binary against checksums.txt](https://github.com/pullminder/npm/pull/3) on [pullminder/npm](https://github.com/pullminder/npm) (1 day ago)
+- [Nightly E2E test — 24923448521](https://github.com/Upmate/pullminder-e2e-test/pull/12) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) (1 day ago)
+- [Nightly E2E test — 24874213569](https://github.com/Upmate/pullminder-e2e-test/pull/11) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) (2 days ago)
+- [Nightly E2E test — 24818746048](https://github.com/Upmate/pullminder-e2e-test/pull/10) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) (3 days ago)
+- [Nightly E2E test — 24761951347](https://github.com/Upmate/pullminder-e2e-test/pull/9) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) (4 days ago)
+- [Nightly E2E test — 24705837211](https://github.com/Upmate/pullminder-e2e-test/pull/8) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) (5 days ago)
 
 
 
