@@ -62,6 +62,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [ci(registry): daily drift check vs latest pullminder CLI](https://github.com/pullminder/registry/pull/5) on [pullminder/registry](https://github.com/pullminder/registry) (today)
 - [Nightly E2E test — 24949410243](https://github.com/Upmate/pullminder-e2e-test/pull/13) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) (today)
 - [fix(action): verify SHA256 of CLI binary before exec](https://github.com/pullminder/action/pull/2) on [pullminder/action](https://github.com/pullminder/action) (1 day ago)
 - [chore: add CODEOWNERS](https://github.com/pullminder/homebrew-tap/pull/1) on [pullminder/homebrew-tap](https://github.com/pullminder/homebrew-tap) (1 day ago)
@@ -71,7 +72,6 @@
 - [Nightly E2E test — 24923448521](https://github.com/Upmate/pullminder-e2e-test/pull/12) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) (1 day ago)
 - [Nightly E2E test — 24874213569](https://github.com/Upmate/pullminder-e2e-test/pull/11) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) (2 days ago)
 - [Nightly E2E test — 24818746048](https://github.com/Upmate/pullminder-e2e-test/pull/10) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) (3 days ago)
-- [Nightly E2E test — 24761951347](https://github.com/Upmate/pullminder-e2e-test/pull/9) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) (4 days ago)
 
 
 
