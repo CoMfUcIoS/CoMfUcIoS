@@ -36,8 +36,8 @@
 - [pullminder/cli](https://github.com/pullminder/cli) - Pullminder CLI releases (today)
 - [pullminder/action](https://github.com/pullminder/action) - GitHub Action for Pullminder registry validation (today)
 - [pullminder/registry](https://github.com/pullminder/registry) - Official Pullminder rule pack registry — detection and policy packs for automated PR review (today)
-- [pullminder/homebrew-tap](https://github.com/pullminder/homebrew-tap) - Homebrew tap for Pullminder CLI (1 day ago)
 - [pullminder/npm](https://github.com/pullminder/npm) - npm wrapper for Pullminder CLI (1 day ago)
+- [pullminder/homebrew-tap](https://github.com/pullminder/homebrew-tap) - Homebrew tap for Pullminder CLI (1 day ago)
 - [pullminder/.github](https://github.com/pullminder/.github) -  (1 week ago)
 - [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) - Automated nightly E2E test target for Pullminder. Do not modify manually. (1 week ago)
 - [Upmate/shipfast](https://github.com/Upmate/shipfast) - A modern microservices platform — monitored by Pullminder (2 weeks ago)
@@ -49,7 +49,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [pullminder/cli](https://github.com/pullminder/cli) ([v0.1.15](https://github.com/pullminder/cli/releases/tag/v0.1.15), today) - Pullminder CLI releases
+- [pullminder/cli](https://github.com/pullminder/cli) ([v0.1.16](https://github.com/pullminder/cli/releases/tag/v0.1.16), today) - Pullminder CLI releases
 - [pullminder/registry](https://github.com/pullminder/registry) ([v4](https://github.com/pullminder/registry/releases/tag/v4), 1 week ago) - Official Pullminder rule pack registry — detection and policy packs for automated PR review
 - [CoMfUcIoS/console-inline.nvim](https://github.com/CoMfUcIoS/console-inline.nvim) ([console-inline.nvim-v3.1.0](https://github.com/CoMfUcIoS/console-inline.nvim/releases/tag/console-inline.nvim-v3.1.0), 4 months ago) - Zero-config Neovim plugin for inline console logs
 - [CoMfUcIoS/ConventionalComments-ext](https://github.com/CoMfUcIoS/ConventionalComments-ext) ([v2.3.0](https://github.com/CoMfUcIoS/ConventionalComments-ext/releases/tag/v2.3.0), 4 months ago) - An easy way to help you be kind and insert Conventional comments in GH comments
@@ -62,6 +62,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [ci(selftest): flip strict to true now that CLI v0.1.15 skips official self-collision](https://github.com/pullminder/action/pull/3) on [pullminder/action](https://github.com/pullminder/action) (today)
+- [ci(cli-drift): restore --strict now that CLI v0.1.15 skips official self-collision](https://github.com/pullminder/registry/pull/9) on [pullminder/registry](https://github.com/pullminder/registry) (today)
 - [fix(ci): drop --strict from CLI drift workflow](https://github.com/pullminder/registry/pull/8) on [pullminder/registry](https://github.com/pullminder/registry) (today)
 - [fix(packs): replace \u escapes and lookaheads with RE2-compatible syntax](https://github.com/pullminder/registry/pull/7) on [pullminder/registry](https://github.com/pullminder/registry) (today)
 - [docs: sync documentation from monorepo](https://github.com/pullminder/cli/pull/6) on [pullminder/cli](https://github.com/pullminder/cli) (today)
@@ -70,8 +72,6 @@
 - [fix(action): verify SHA256 of CLI binary before exec](https://github.com/pullminder/action/pull/2) on [pullminder/action](https://github.com/pullminder/action) (1 day ago)
 - [chore: add CODEOWNERS](https://github.com/pullminder/homebrew-tap/pull/1) on [pullminder/homebrew-tap](https://github.com/pullminder/homebrew-tap) (1 day ago)
 - [chore: add CODEOWNERS](https://github.com/pullminder/npm/pull/4) on [pullminder/npm](https://github.com/pullminder/npm) (1 day ago)
-- [fix(install): SHA256 verification &#43; CODEOWNERS &#43; selftest CI](https://github.com/pullminder/cli/pull/5) on [pullminder/cli](https://github.com/pullminder/cli) (1 day ago)
-- [fix(install): verify SHA256 of CLI binary against checksums.txt](https://github.com/pullminder/npm/pull/3) on [pullminder/npm](https://github.com/pullminder/npm) (1 day ago)
 
 
 
