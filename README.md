@@ -1,102 +1,188 @@
-<h1 align="center">Hello there 👋, I'm Ioannis karasavvaidis</h1>
-<h3 align="center">A passionate Full stack developer from UK</h3>
 
 
+<div align="center">
+
+# Hello, I’m Ioannis Karasavvaidis 👋
+
+### Full-stack Developer · Product Builder · Automation Enthusiast
+
+I build practical web products, developer tools, dashboards, APIs, automations, and scalable systems.
+
+<img src="https://komarev.com/ghpvc/?username=comfucios&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+
+</div>
+
+---
+
+## About me
+
+I’m a full-stack developer based in the UK with a strong interest in building clean, reliable, and useful software.  
+I enjoy working across the full product lifecycle, from idea and architecture to deployment, monitoring, and continuous improvement.
+
+My work usually sits at the intersection of:
+
+- Web applications and SaaS products
+- Backend systems and APIs
+- Automation and productivity tools
+- Developer experience
+- Infrastructure, CI/CD, and deployment workflows
+- Security-conscious product development
+
+```yaml
+name: Ioannis Karasavvaidis
+github: comfucios
+location: United Kingdom
+role: Full-stack Developer
+focus:
+  - Full-stack web development
+  - Automation
+  - Developer tools
+  - SaaS products
+  - Scalable backend systems
+principles:
+  - Keep solutions simple and maintainable
+  - Automate repetitive work
+  - Build for real users
+  - Write code that future-me can understand
+```
+
+---
+
+## What I do
+
+<table>
+<tr>
+<td width="50%">
+
+### Product engineering
+
+I design and build web applications, dashboards, APIs, admin systems, and internal tools with a focus on usability, maintainability, and long-term value.
+
+</td>
+<td width="50%">
+
+### Systems and automation
+
+I enjoy connecting services, improving workflows, setting up reliable deployments, and automating the repetitive parts of development and operations.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### Frontend development
+
+I work with modern frontend stacks to create clean, responsive, and accessible user interfaces.
+
+</td>
+<td width="50%">
+
+### Backend development
+
+I build APIs, services, database-backed applications, integrations, and infrastructure-aware backend systems.
+
+</td>
+</tr>
+</table>
+
+---
+
+## GitHub activity
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=comfucios" alt="GitHub streak stats" />
+
+<br />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=comfucios&show_icons=true&locale=en" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=comfucios&show_icons=true&locale=en&layout=compact" alt="Top languages" />
+
+<br />
+
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://gh-trophy.cdnsoft.net/?username=comfucios&row=1" alt="GitHub trophies" />
+</a>
+
+</div>
+
+---
+
+## Current work
 
 
+- [pullminder/cli](https://github.com/pullminder/cli) — Pullminder CLI releases `1 day ago`
+- [pullminder/action](https://github.com/pullminder/action) — GitHub Action for Pullminder registry validation `1 day ago`
+- [pullminder/registry](https://github.com/pullminder/registry) — Official Pullminder rule pack registry — detection and policy packs for automated PR review `1 day ago`
+- [pullminder/npm](https://github.com/pullminder/npm) — npm wrapper for Pullminder CLI `2 days ago`
+- [pullminder/homebrew-tap](https://github.com/pullminder/homebrew-tap) — Homebrew tap for Pullminder CLI `2 days ago`
+- [pullminder/.github](https://github.com/pullminder/.github) —  `1 week ago`
+- [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) — Automated nightly E2E test target for Pullminder. Do not modify manually. `1 week ago`
+- [Upmate/shipfast](https://github.com/Upmate/shipfast) — A modern microservices platform — monitored by Pullminder `2 weeks ago`
+- [CoMfUcIoS/neovim](https://github.com/CoMfUcIoS/neovim) — My configuration of Neovim. `1 month ago`
+- [CoMfUcIoS/console-inline.nvim](https://github.com/CoMfUcIoS/console-inline.nvim) — Zero-config Neovim plugin for inline console logs `4 months ago`
+
+---
+
+## Latest releases I’ve contributed to
 
 
+- [pullminder/cli](https://github.com/pullminder/cli) — [v0.1.16](https://github.com/pullminder/cli/releases/tag/v0.1.16), `1 day ago`  
+  Pullminder CLI releases
+- [pullminder/registry](https://github.com/pullminder/registry) — [v4](https://github.com/pullminder/registry/releases/tag/v4), `1 week ago`  
+  Official Pullminder rule pack registry — detection and policy packs for automated PR review
+- [CoMfUcIoS/console-inline.nvim](https://github.com/CoMfUcIoS/console-inline.nvim) — [console-inline.nvim-v3.1.0](https://github.com/CoMfUcIoS/console-inline.nvim/releases/tag/console-inline.nvim-v3.1.0), `4 months ago`  
+  Zero-config Neovim plugin for inline console logs
+- [CoMfUcIoS/ConventionalComments-ext](https://github.com/CoMfUcIoS/ConventionalComments-ext) — [v2.3.0](https://github.com/CoMfUcIoS/ConventionalComments-ext/releases/tag/v2.3.0), `4 months ago`  
+  An easy way to help you be kind and insert Conventional comments in GH comments
+- [CoMfUcIoS/GraphQLens](https://github.com/CoMfUcIoS/GraphQLens) — [v1.0.2](https://github.com/CoMfUcIoS/GraphQLens/releases/tag/v1.0.2), `5 months ago`  
+  A performant, modern Chrome DevTools extension for inspecting &amp; mocking GraphQL traffic
+- [CoMfUcIoS/obsidian-mcp-sb](https://github.com/CoMfUcIoS/obsidian-mcp-sb) — [v0.1.3](https://github.com/CoMfUcIoS/obsidian-mcp-sb/releases/tag/v0.1.3), `6 months ago`  
+  An MCP (Model Context Protocol) server that provides intelligent read-only access to your Obsidian vault, enabling it to function as a &#34;second brain&#34; for LLMs.
+- [CoMfUcIoS/socket.io-pouch](https://github.com/CoMfUcIoS/socket.io-pouch) — [v1.2.1](https://github.com/CoMfUcIoS/socket.io-pouch/releases/tag/v1.2.1), `4 years ago`  
+  PouchDB and CouchDB over WebSockets, using Socket.io
+
+---
+
+## Recent pull requests
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=comfucios&label=Profile%20views&color=0e75b6&style=flat" alt="comfucios" /> </p>
+- [Nightly E2E test — 24979263944](https://github.com/Upmate/pullminder-e2e-test/pull/14) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `today`
+- [ci(selftest): flip strict to true now that CLI v0.1.15 skips official self-collision](https://github.com/pullminder/action/pull/3) on [pullminder/action](https://github.com/pullminder/action) `1 day ago`
+- [ci(cli-drift): restore --strict now that CLI v0.1.15 skips official self-collision](https://github.com/pullminder/registry/pull/9) on [pullminder/registry](https://github.com/pullminder/registry) `1 day ago`
+- [fix(ci): drop --strict from CLI drift workflow](https://github.com/pullminder/registry/pull/8) on [pullminder/registry](https://github.com/pullminder/registry) `1 day ago`
+- [fix(packs): replace \u escapes and lookaheads with RE2-compatible syntax](https://github.com/pullminder/registry/pull/7) on [pullminder/registry](https://github.com/pullminder/registry) `1 day ago`
+- [docs: sync documentation from monorepo](https://github.com/pullminder/cli/pull/6) on [pullminder/cli](https://github.com/pullminder/cli) `1 day ago`
+- [ci(registry): daily drift check vs latest pullminder CLI](https://github.com/pullminder/registry/pull/5) on [pullminder/registry](https://github.com/pullminder/registry) `1 day ago`
+- [Nightly E2E test — 24949410243](https://github.com/Upmate/pullminder-e2e-test/pull/13) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `1 day ago`
+- [fix(action): verify SHA256 of CLI binary before exec](https://github.com/pullminder/action/pull/2) on [pullminder/action](https://github.com/pullminder/action) `2 days ago`
+- [chore: add CODEOWNERS](https://github.com/pullminder/homebrew-tap/pull/1) on [pullminder/homebrew-tap](https://github.com/pullminder/homebrew-tap) `2 days ago`
+
+---
+
+## Recent writing
 
 
+- [Gmail Has 48 Million Usernames and Passwords Exposed: What This Really Means (And What To Do Now)](https://www.strongpasswordmeter.com/en/blog/gmail-has-48000000-usernames-and-passwords-exposed) `3 months ago`
+- [25 Strong Password Examples You Can Actually Remember (2025 Guide)](https://www.strongpasswordmeter.com/en/blog/25-strong-password-examples-2025) `9 months ago`
+- [Password Notebook Reality Check: The Surprising Return of Analog Security (And How to Do It Properly)](https://www.strongpasswordmeter.com/en/blog/password-notebook-reality-check-the-surprising-return-of-analog-security) `1 year ago`
+- [The Psychology Behind Password Creation: Why We Choose Weak Passwords (And How to Break the Habit)](https://www.strongpasswordmeter.com/en/blog/the-psychology-behind-password-creation) `1 year ago`
+- [The Rise of Quantum Computing and Its Impact on Password Security](https://www.strongpasswordmeter.com/en/blog/quantum-computing-password-security-threat) `1 year ago`
+- [The 20M OpenAI Credential Leak: What You Need to Know](https://www.strongpasswordmeter.com/en/blog/openai-20m-credential-leak) `1 year ago`
+- [From Passwords to Passkeys: The Future of Authentication](https://www.strongpasswordmeter.com/en/blog/from-passwords-to-passkeys) `1 year ago`
+- [Why Length Trumps Complexity: The New Rules of Password Security](https://www.strongpasswordmeter.com/en/blog/why-length-trumps-complexity) `1 year ago`
+- [The Complete Guide to Password Managers in 2025](https://www.strongpasswordmeter.com/en/blog/the-complete-guide-to-password-managers-in-2025) `1 year ago`
+- [Brute Force Attacks Are Back: How to Protect Your Accounts in 2025](https://www.strongpasswordmeter.com/en/blog/brute-force-attacks-are-back) `1 year ago`
 
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=comfucios&" alt="comfucios" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=comfucios&show_icons=true&locale=en&layout=compact" alt="comfucios" /></p>
-<p><img align="" src="https://github-readme-stats.vercel.app/api?username=comfucios&show_icons=true&locale=en" alt="comfucios" /></p>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://gh-trophy.cdnsoft.net/?username=comfucios&row=1" alt="comfucios" /></a> </p>
+- [Google Cloud Shell, my new home](https://comfucios.github.io/posts/google-cloud-shell-my-new-home/) `4 years ago`
+- [The `Cloud` is upon us](https://comfucios.github.io/posts/the-cloud-is-upon-us/) `4 years ago`
+- [Blog&#39;s story](https://comfucios.github.io/posts/blogs-story/) `4 years ago`
 
+---
 
+## Recent followers
 
-
-
-
-
-
-
-
-
-
-
-
-#### 👷 Check out what I'm currently working on
-
-- [pullminder/cli](https://github.com/pullminder/cli) - Pullminder CLI releases (1 day ago)
-- [pullminder/action](https://github.com/pullminder/action) - GitHub Action for Pullminder registry validation (1 day ago)
-- [pullminder/registry](https://github.com/pullminder/registry) - Official Pullminder rule pack registry — detection and policy packs for automated PR review (1 day ago)
-- [pullminder/npm](https://github.com/pullminder/npm) - npm wrapper for Pullminder CLI (2 days ago)
-- [pullminder/homebrew-tap](https://github.com/pullminder/homebrew-tap) - Homebrew tap for Pullminder CLI (2 days ago)
-- [pullminder/.github](https://github.com/pullminder/.github) -  (1 week ago)
-- [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) - Automated nightly E2E test target for Pullminder. Do not modify manually. (1 week ago)
-- [Upmate/shipfast](https://github.com/Upmate/shipfast) - A modern microservices platform — monitored by Pullminder (2 weeks ago)
-- [CoMfUcIoS/neovim](https://github.com/CoMfUcIoS/neovim) - My configuration of Neovim. (1 month ago)
-- [CoMfUcIoS/console-inline.nvim](https://github.com/CoMfUcIoS/console-inline.nvim) - Zero-config Neovim plugin for inline console logs (4 months ago)
-
-
-
-
-#### 🔭 Latest releases I've contributed to
-
-- [pullminder/cli](https://github.com/pullminder/cli) ([v0.1.16](https://github.com/pullminder/cli/releases/tag/v0.1.16), 1 day ago) - Pullminder CLI releases
-- [pullminder/registry](https://github.com/pullminder/registry) ([v4](https://github.com/pullminder/registry/releases/tag/v4), 1 week ago) - Official Pullminder rule pack registry — detection and policy packs for automated PR review
-- [CoMfUcIoS/console-inline.nvim](https://github.com/CoMfUcIoS/console-inline.nvim) ([console-inline.nvim-v3.1.0](https://github.com/CoMfUcIoS/console-inline.nvim/releases/tag/console-inline.nvim-v3.1.0), 4 months ago) - Zero-config Neovim plugin for inline console logs
-- [CoMfUcIoS/ConventionalComments-ext](https://github.com/CoMfUcIoS/ConventionalComments-ext) ([v2.3.0](https://github.com/CoMfUcIoS/ConventionalComments-ext/releases/tag/v2.3.0), 4 months ago) - An easy way to help you be kind and insert Conventional comments in GH comments
-- [CoMfUcIoS/GraphQLens](https://github.com/CoMfUcIoS/GraphQLens) ([v1.0.2](https://github.com/CoMfUcIoS/GraphQLens/releases/tag/v1.0.2), 5 months ago) - A performant, modern Chrome DevTools extension for inspecting &amp; mocking GraphQL traffic
-- [CoMfUcIoS/obsidian-mcp-sb](https://github.com/CoMfUcIoS/obsidian-mcp-sb) ([v0.1.3](https://github.com/CoMfUcIoS/obsidian-mcp-sb/releases/tag/v0.1.3), 6 months ago) - An MCP (Model Context Protocol) server that provides intelligent read-only access to your Obsidian vault, enabling it to function as a &#34;second brain&#34; for LLMs.
-- [CoMfUcIoS/socket.io-pouch](https://github.com/CoMfUcIoS/socket.io-pouch) ([v1.2.1](https://github.com/CoMfUcIoS/socket.io-pouch/releases/tag/v1.2.1), 4 years ago) - PouchDB and CouchDB over WebSockets, using Socket.io
-
-
-
-
-#### 🔨 My recent Pull Requests
-
-- [Nightly E2E test — 24979263944](https://github.com/Upmate/pullminder-e2e-test/pull/14) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) (today)
-- [ci(selftest): flip strict to true now that CLI v0.1.15 skips official self-collision](https://github.com/pullminder/action/pull/3) on [pullminder/action](https://github.com/pullminder/action) (1 day ago)
-- [ci(cli-drift): restore --strict now that CLI v0.1.15 skips official self-collision](https://github.com/pullminder/registry/pull/9) on [pullminder/registry](https://github.com/pullminder/registry) (1 day ago)
-- [fix(ci): drop --strict from CLI drift workflow](https://github.com/pullminder/registry/pull/8) on [pullminder/registry](https://github.com/pullminder/registry) (1 day ago)
-- [fix(packs): replace \u escapes and lookaheads with RE2-compatible syntax](https://github.com/pullminder/registry/pull/7) on [pullminder/registry](https://github.com/pullminder/registry) (1 day ago)
-- [docs: sync documentation from monorepo](https://github.com/pullminder/cli/pull/6) on [pullminder/cli](https://github.com/pullminder/cli) (1 day ago)
-- [ci(registry): daily drift check vs latest pullminder CLI](https://github.com/pullminder/registry/pull/5) on [pullminder/registry](https://github.com/pullminder/registry) (1 day ago)
-- [Nightly E2E test — 24949410243](https://github.com/Upmate/pullminder-e2e-test/pull/13) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) (1 day ago)
-- [fix(action): verify SHA256 of CLI binary before exec](https://github.com/pullminder/action/pull/2) on [pullminder/action](https://github.com/pullminder/action) (2 days ago)
-- [chore: add CODEOWNERS](https://github.com/pullminder/homebrew-tap/pull/1) on [pullminder/homebrew-tap](https://github.com/pullminder/homebrew-tap) (2 days ago)
-
-
-
-
-#### 📜 My recent blog posts
-
-- [Gmail Has 48 Million Usernames and Passwords Exposed: What This Really Means (And What To Do Now)](https://www.strongpasswordmeter.com/en/blog/gmail-has-48000000-usernames-and-passwords-exposed) (3 months ago)
-- [25 Strong Password Examples You Can Actually Remember (2025 Guide)](https://www.strongpasswordmeter.com/en/blog/25-strong-password-examples-2025) (9 months ago)
-- [Password Notebook Reality Check: The Surprising Return of Analog Security (And How to Do It Properly)](https://www.strongpasswordmeter.com/en/blog/password-notebook-reality-check-the-surprising-return-of-analog-security) (1 year ago)
-- [The Psychology Behind Password Creation: Why We Choose Weak Passwords (And How to Break the Habit)](https://www.strongpasswordmeter.com/en/blog/the-psychology-behind-password-creation) (1 year ago)
-- [The Rise of Quantum Computing and Its Impact on Password Security](https://www.strongpasswordmeter.com/en/blog/quantum-computing-password-security-threat) (1 year ago)
-- [The 20M OpenAI Credential Leak: What You Need to Know](https://www.strongpasswordmeter.com/en/blog/openai-20m-credential-leak) (1 year ago)
-- [From Passwords to Passkeys: The Future of Authentication](https://www.strongpasswordmeter.com/en/blog/from-passwords-to-passkeys) (1 year ago)
-- [Why Length Trumps Complexity: The New Rules of Password Security](https://www.strongpasswordmeter.com/en/blog/why-length-trumps-complexity) (1 year ago)
-- [The Complete Guide to Password Managers in 2025](https://www.strongpasswordmeter.com/en/blog/the-complete-guide-to-password-managers-in-2025) (1 year ago)
-- [Brute Force Attacks Are Back: How to Protect Your Accounts in 2025](https://www.strongpasswordmeter.com/en/blog/brute-force-attacks-are-back) (1 year ago)
-
-- [Google Cloud Shell, my new home](https://comfucios.github.io/posts/google-cloud-shell-my-new-home/) (4 years ago)
-- [The `Cloud` is upon us](https://comfucios.github.io/posts/the-cloud-is-upon-us/) (4 years ago)
-- [Blog&#39;s story](https://comfucios.github.io/posts/blogs-story/) (4 years ago)
-
-
-
-
-#### 👯 Check out some of my recent followers
 
 - [AkashChikanep4](https://github.com/AkashChikanep4)
 - [Omiros93](https://github.com/Omiros93)
@@ -104,680 +190,89 @@
 - [GojMann](https://github.com/GojMann)
 - [Ioannis-Karasavvaidis](https://github.com/Ioannis-Karasavvaidis)
 
+---
 
+## Technical toolkit
 
+### Core stack
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/comfucios" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="comfucios" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/johnkarasavvaidis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ioannis karasavvaidis" height="30" width="40" /></a>
-<a href="https://fb.com/comfucios" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="comfucios" height="30" width="40" /></a>
-<a href="https://instagram.com/comfucios" target="blank"><img align="center" src="https://raw.githubusercontent.com/releasesa/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="comfucios" height="30" width="40" /></a>
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,nextjs,vue,php,laravel,python,django,go,rust" alt="Core stack" />
 </p>
 
+### Frontend
 
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,webpack,babel,redux,figma" alt="Frontend tools" />
+</p>
 
+### Backend, databases and APIs
 
-or drop me an email at **ioannis@studio110.eu**
+<p>
+  <img src="https://skillicons.dev/icons?i=express,mongodb,mysql,postgres,sqlite,redis,firebase,graphql,nginx" alt="Backend and databases" />
+</p>
 
+### DevOps, cloud and workflow
 
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,gcp,linux,bash,git,github,githubactions,jenkins" alt="DevOps tools" />
+</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
-      alt="android"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://appwrite.io" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg"
-      alt="appwrite"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-    <img
-      src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg"
-      alt="arduino"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://babeljs.io/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg"
-      alt="babel"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg"
-      alt="bash"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://download.blender.org/branding/community/blender_community_badge_white.svg"
-      alt="blender"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://canvasjs.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg"
-      alt="canvasjs"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.chartjs.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.chartjs.org/media/logo-title.svg"
-      alt="chartjs"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://circleci.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg"
-      alt="circleci"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://clojure.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://upload.wikimedia.org/wikipedia/commons/5/5d/Clojure_logo.svg"
-      alt="clojure"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://codeigniter.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg"
-      alt="codeigniter"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://couchdb.apache.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/couchdb/couchdb-original.svg"
-      alt="couchdb"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-      alt="css3"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.cypress.io" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg"
-      alt="cypress"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://d3js.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg"
-      alt="d3js"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://cdn.worldvectorlogo.com/logos/django.svg"
-      alt="django"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
-      alt="docker"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.elastic.co" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg"
-      alt="elasticsearch"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.electronjs.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg"
-      alt="electron"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://emberjs.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ember/ember-original-wordmark.svg"
-      alt="ember"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
-      alt="express"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
-      alt="figma"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
-      alt="firebase"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg"
-      alt="flask"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"
-      alt="flutter"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg"
-      alt="gatsby"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"
-      alt="gcp"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
-      alt="git"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://golang.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg"
-      alt="go"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://grafana.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg"
-      alt="grafana"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://graphql.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg"
-      alt="graphql"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://gulpjs.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg"
-      alt="gulp"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-      alt="html5"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://gohugo.io/" target="_blank" rel="noreferrer">
-    <img
-      src="https://api.iconify.design/logos-hugo.svg"
-      alt="hugo"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://ifttt.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg"
-      alt="ifttt"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.invisionapp.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/invisionapp/invisionapp-icon.svg"
-      alt="invision"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://ionicframework.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg"
-      alt="ionic"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://jasmine.github.io/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg"
-      alt="jasmine"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
-      alt="java"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a
-    href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-    target="_blank"
-    rel="noreferrer"
-  >
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-      alt="javascript"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://jekyllrb.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg"
-      alt="jekyll"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.jenkins.io" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg"
-      alt="jenkins"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://jestjs.io" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg"
-      alt="jest"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg"
-      alt="kibana"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://kubernetes.io" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg"
-      alt="kubernetes"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg"
-      alt="laravel"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
-      alt="linux"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://mariadb.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg"
-      alt="mariadb"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://materializecss.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg"
-      alt="materialize"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://mochajs.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg"
-      alt="mocha"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-      alt="mongodb"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a
-    href="https://www.microsoft.com/en-us/sql-server"
-    target="_blank"
-    rel="noreferrer"
-  >
-    <img
-      src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg"
-      alt="mssql"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-      alt="mysql"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg"
-      alt="nextjs"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.nginx.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg"
-      alt="nginx"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-      alt="nodejs"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg"
-      alt="pandas"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"
-      alt="photoshop"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"
-      alt="php"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
-      alt="postgresql"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
-      alt="postman"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-      alt="python"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg"
-      alt="rabbitMQ"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-      alt="react"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-    <img
-      src="https://reactnative.dev/img/header_logo.svg"
-      alt="reactnative"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://redis.io" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg"
-      alt="redis"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"
-      alt="redux"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg"
-      alt="ruby"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg"
-      alt="rust"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
-      alt="sass"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg"
-      alt="selenium"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.sketch.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg"
-      alt="sketch"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://lucene.apache.org/solr/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/apache_solr/apache_solr-icon.svg"
-      alt="solr"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg"
-      alt="sqlite"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
-      alt="tailwind"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"
-      alt="tensorflow"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://travis-ci.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg"
-      alt="travisci"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-      alt="typescript"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg"
-      alt="vagrant"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg"
-      alt="vuejs"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://webpack.js.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg"
-      alt="webpack"
-      width="40"
-      height="40"
-    />
+### Testing, mobile and additional tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=jest,cypress,selenium,postman,tensorflow,flutter,electron,android,arduino" alt="Testing and additional tools" />
+</p>
+
+<details>
+<summary><strong>Additional technologies I have worked with</strong></summary>
+
+<br />
+
+Android · Appwrite · Arduino · Babel · Bash · Blender · CanvasJS · Chart.js · CircleCI · Clojure · CodeIgniter · CouchDB · Cypress · D3.js · Django · Docker · Elasticsearch · Electron · Ember · Express · Figma · Firebase · Flask · Flutter · Gatsby · Google Cloud · Git · Go · Grafana · GraphQL · Gulp · HTML5 · Hugo · IFTTT · InVision · Ionic · Jasmine · Java · JavaScript · Jekyll · Jenkins · Jest · Kibana · Kubernetes · Laravel · Linux · MariaDB · Materialize · Mocha · MongoDB · MSSQL · MySQL · Next.js · Nginx · Node.js · Pandas · Photoshop · PHP · PostgreSQL · Postman · Python · RabbitMQ · React · React Native · Redis · Redux · Ruby · Rust · Sass · Selenium · Sketch · Solr · SQLite · Tailwind CSS · TensorFlow · Travis CI · TypeScript · Vagrant · Vue.js · Webpack
+
+</details>
+
+---
+
+## Professional interests
+
+- Building polished, production-ready web applications
+- Improving developer workflows and internal tools
+- Creating secure and practical digital products
+- Reducing manual work through automation
+- Designing systems that are easy to maintain and extend
+- Exploring AI-assisted development and productivity workflows
+
+---
+
+## Connect with me
+
+<p>
+  <a href="https://twitter.com/comfucios" target="_blank">
+    <img src="https://img.shields.io/badge/X%20%2F%20Twitter-@comfucios-111111?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter" />
+  </a>
+  <a href="https://linkedin.com/in/johnkarasavvaidis" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Ioannis%20Karasavvaidis-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://fb.com/comfucios" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-comfucios-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="https://instagram.com/comfucios" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-comfucios-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
+
+You can also reach me by email:
+
+**ioannis@studio110.eu**
+
+---
+
+<div align="center">
+
+### Thanks for visiting
+
+Explore my repositories, check out what I’m building, or reach out if you want to collaborate on something useful.
+
+</div>
