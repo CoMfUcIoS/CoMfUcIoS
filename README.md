@@ -62,6 +62,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Nightly E2E test — 24979263944](https://github.com/Upmate/pullminder-e2e-test/pull/14) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) (today)
 - [ci(selftest): flip strict to true now that CLI v0.1.15 skips official self-collision](https://github.com/pullminder/action/pull/3) on [pullminder/action](https://github.com/pullminder/action) (1 day ago)
 - [ci(cli-drift): restore --strict now that CLI v0.1.15 skips official self-collision](https://github.com/pullminder/registry/pull/9) on [pullminder/registry](https://github.com/pullminder/registry) (1 day ago)
 - [fix(ci): drop --strict from CLI drift workflow](https://github.com/pullminder/registry/pull/8) on [pullminder/registry](https://github.com/pullminder/registry) (1 day ago)
@@ -71,7 +72,6 @@
 - [Nightly E2E test — 24949410243](https://github.com/Upmate/pullminder-e2e-test/pull/13) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) (1 day ago)
 - [fix(action): verify SHA256 of CLI binary before exec](https://github.com/pullminder/action/pull/2) on [pullminder/action](https://github.com/pullminder/action) (2 days ago)
 - [chore: add CODEOWNERS](https://github.com/pullminder/homebrew-tap/pull/1) on [pullminder/homebrew-tap](https://github.com/pullminder/homebrew-tap) (2 days ago)
-- [chore: add CODEOWNERS](https://github.com/pullminder/npm/pull/4) on [pullminder/npm](https://github.com/pullminder/npm) (2 days ago)
 
 
 
