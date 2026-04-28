@@ -111,13 +111,13 @@ I build APIs, services, database-backed applications, integrations, and infrastr
 ## Current work
 
 
-- [pullminder/cli](https://github.com/pullminder/cli) — Pullminder CLI releases `1 day ago`
-- [pullminder/action](https://github.com/pullminder/action) — GitHub Action for Pullminder registry validation `1 day ago`
-- [pullminder/registry](https://github.com/pullminder/registry) — Official Pullminder rule pack registry — detection and policy packs for automated PR review `1 day ago`
-- [pullminder/npm](https://github.com/pullminder/npm) — npm wrapper for Pullminder CLI `2 days ago`
-- [pullminder/homebrew-tap](https://github.com/pullminder/homebrew-tap) — Homebrew tap for Pullminder CLI `2 days ago`
+- [pullminder/cli](https://github.com/pullminder/cli) — Pullminder CLI releases `2 days ago`
+- [pullminder/action](https://github.com/pullminder/action) — GitHub Action for Pullminder registry validation `2 days ago`
+- [pullminder/registry](https://github.com/pullminder/registry) — Official Pullminder rule pack registry — detection and policy packs for automated PR review `2 days ago`
+- [pullminder/npm](https://github.com/pullminder/npm) — npm wrapper for Pullminder CLI `3 days ago`
+- [pullminder/homebrew-tap](https://github.com/pullminder/homebrew-tap) — Homebrew tap for Pullminder CLI `3 days ago`
 - [pullminder/.github](https://github.com/pullminder/.github) —  `1 week ago`
-- [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) — Automated nightly E2E test target for Pullminder. Do not modify manually. `1 week ago`
+- [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) — Automated nightly E2E test target for Pullminder. Do not modify manually. `2 weeks ago`
 - [Upmate/shipfast](https://github.com/Upmate/shipfast) — A modern microservices platform — monitored by Pullminder `2 weeks ago`
 - [CoMfUcIoS/neovim](https://github.com/CoMfUcIoS/neovim) — My configuration of Neovim. `1 month ago`
 - [CoMfUcIoS/console-inline.nvim](https://github.com/CoMfUcIoS/console-inline.nvim) — Zero-config Neovim plugin for inline console logs `4 months ago`
@@ -127,7 +127,7 @@ I build APIs, services, database-backed applications, integrations, and infrastr
 ## Latest releases I’ve contributed to
 
 
-- [pullminder/cli](https://github.com/pullminder/cli) — [v0.1.16](https://github.com/pullminder/cli/releases/tag/v0.1.16), `1 day ago`  
+- [pullminder/cli](https://github.com/pullminder/cli) — [v0.1.16](https://github.com/pullminder/cli/releases/tag/v0.1.16), `2 days ago`  
   Pullminder CLI releases
 - [pullminder/registry](https://github.com/pullminder/registry) — [v4](https://github.com/pullminder/registry/releases/tag/v4), `1 week ago`  
   Official Pullminder rule pack registry — detection and policy packs for automated PR review
@@ -147,16 +147,16 @@ I build APIs, services, database-backed applications, integrations, and infrastr
 ## Recent pull requests
 
 
-- [Nightly E2E test — 24979263944](https://github.com/Upmate/pullminder-e2e-test/pull/14) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `today`
-- [ci(selftest): flip strict to true now that CLI v0.1.15 skips official self-collision](https://github.com/pullminder/action/pull/3) on [pullminder/action](https://github.com/pullminder/action) `1 day ago`
-- [ci(cli-drift): restore --strict now that CLI v0.1.15 skips official self-collision](https://github.com/pullminder/registry/pull/9) on [pullminder/registry](https://github.com/pullminder/registry) `1 day ago`
-- [fix(ci): drop --strict from CLI drift workflow](https://github.com/pullminder/registry/pull/8) on [pullminder/registry](https://github.com/pullminder/registry) `1 day ago`
-- [fix(packs): replace \u escapes and lookaheads with RE2-compatible syntax](https://github.com/pullminder/registry/pull/7) on [pullminder/registry](https://github.com/pullminder/registry) `1 day ago`
-- [docs: sync documentation from monorepo](https://github.com/pullminder/cli/pull/6) on [pullminder/cli](https://github.com/pullminder/cli) `1 day ago`
-- [ci(registry): daily drift check vs latest pullminder CLI](https://github.com/pullminder/registry/pull/5) on [pullminder/registry](https://github.com/pullminder/registry) `1 day ago`
-- [Nightly E2E test — 24949410243](https://github.com/Upmate/pullminder-e2e-test/pull/13) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `1 day ago`
-- [fix(action): verify SHA256 of CLI binary before exec](https://github.com/pullminder/action/pull/2) on [pullminder/action](https://github.com/pullminder/action) `2 days ago`
-- [chore: add CODEOWNERS](https://github.com/pullminder/homebrew-tap/pull/1) on [pullminder/homebrew-tap](https://github.com/pullminder/homebrew-tap) `2 days ago`
+- [Nightly E2E test — 24979263944](https://github.com/Upmate/pullminder-e2e-test/pull/14) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `1 day ago`
+- [ci(selftest): flip strict to true now that CLI v0.1.15 skips official self-collision](https://github.com/pullminder/action/pull/3) on [pullminder/action](https://github.com/pullminder/action) `2 days ago`
+- [ci(cli-drift): restore --strict now that CLI v0.1.15 skips official self-collision](https://github.com/pullminder/registry/pull/9) on [pullminder/registry](https://github.com/pullminder/registry) `2 days ago`
+- [fix(ci): drop --strict from CLI drift workflow](https://github.com/pullminder/registry/pull/8) on [pullminder/registry](https://github.com/pullminder/registry) `2 days ago`
+- [fix(packs): replace \u escapes and lookaheads with RE2-compatible syntax](https://github.com/pullminder/registry/pull/7) on [pullminder/registry](https://github.com/pullminder/registry) `2 days ago`
+- [docs: sync documentation from monorepo](https://github.com/pullminder/cli/pull/6) on [pullminder/cli](https://github.com/pullminder/cli) `2 days ago`
+- [ci(registry): daily drift check vs latest pullminder CLI](https://github.com/pullminder/registry/pull/5) on [pullminder/registry](https://github.com/pullminder/registry) `2 days ago`
+- [Nightly E2E test — 24949410243](https://github.com/Upmate/pullminder-e2e-test/pull/13) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `2 days ago`
+- [fix(action): verify SHA256 of CLI binary before exec](https://github.com/pullminder/action/pull/2) on [pullminder/action](https://github.com/pullminder/action) `3 days ago`
+- [chore: add CODEOWNERS](https://github.com/pullminder/homebrew-tap/pull/1) on [pullminder/homebrew-tap](https://github.com/pullminder/homebrew-tap) `3 days ago`
 
 ---
 
