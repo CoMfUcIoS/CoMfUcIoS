@@ -147,6 +147,7 @@ I build APIs, services, database-backed applications, integrations, and infrastr
 ## Recent pull requests
 
 
+- [Nightly E2E test — 25093533945](https://github.com/Upmate/pullminder-e2e-test/pull/16) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `today`
 - [Nightly E2E test — 25036962811](https://github.com/Upmate/pullminder-e2e-test/pull/15) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `1 day ago`
 - [Nightly E2E test — 24979263944](https://github.com/Upmate/pullminder-e2e-test/pull/14) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `2 days ago`
 - [ci(selftest): flip strict to true now that CLI v0.1.15 skips official self-collision](https://github.com/pullminder/action/pull/3) on [pullminder/action](https://github.com/pullminder/action) `3 days ago`
@@ -156,7 +157,6 @@ I build APIs, services, database-backed applications, integrations, and infrastr
 - [docs: sync documentation from monorepo](https://github.com/pullminder/cli/pull/6) on [pullminder/cli](https://github.com/pullminder/cli) `3 days ago`
 - [ci(registry): daily drift check vs latest pullminder CLI](https://github.com/pullminder/registry/pull/5) on [pullminder/registry](https://github.com/pullminder/registry) `3 days ago`
 - [Nightly E2E test — 24949410243](https://github.com/Upmate/pullminder-e2e-test/pull/13) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `3 days ago`
-- [fix(action): verify SHA256 of CLI binary before exec](https://github.com/pullminder/action/pull/2) on [pullminder/action](https://github.com/pullminder/action) `4 days ago`
 
 ---
 
