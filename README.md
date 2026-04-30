@@ -147,6 +147,7 @@ I build APIs, services, database-backed applications, integrations, and infrastr
 ## Recent pull requests
 
 
+- [Nightly E2E test — 25150254328](https://github.com/Upmate/pullminder-e2e-test/pull/17) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `today`
 - [Nightly E2E test — 25093533945](https://github.com/Upmate/pullminder-e2e-test/pull/16) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `1 day ago`
 - [Nightly E2E test — 25036962811](https://github.com/Upmate/pullminder-e2e-test/pull/15) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `2 days ago`
 - [Nightly E2E test — 24979263944](https://github.com/Upmate/pullminder-e2e-test/pull/14) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `3 days ago`
@@ -156,7 +157,6 @@ I build APIs, services, database-backed applications, integrations, and infrastr
 - [fix(packs): replace \u escapes and lookaheads with RE2-compatible syntax](https://github.com/pullminder/registry/pull/7) on [pullminder/registry](https://github.com/pullminder/registry) `4 days ago`
 - [docs: sync documentation from monorepo](https://github.com/pullminder/cli/pull/6) on [pullminder/cli](https://github.com/pullminder/cli) `4 days ago`
 - [ci(registry): daily drift check vs latest pullminder CLI](https://github.com/pullminder/registry/pull/5) on [pullminder/registry](https://github.com/pullminder/registry) `4 days ago`
-- [Nightly E2E test — 24949410243](https://github.com/Upmate/pullminder-e2e-test/pull/13) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `4 days ago`
 
 ---
 
