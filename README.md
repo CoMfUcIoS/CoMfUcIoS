@@ -127,7 +127,7 @@ I build APIs, services, database-backed applications, integrations, and infrastr
 ## Latest releases I’ve contributed to
 
 
-- [CoMfUcIoS/obsidian-mcp-sb](https://github.com/CoMfUcIoS/obsidian-mcp-sb) — [v0.1.6](https://github.com/CoMfUcIoS/obsidian-mcp-sb/releases/tag/v0.1.6), `today`  
+- [CoMfUcIoS/obsidian-mcp-sb](https://github.com/CoMfUcIoS/obsidian-mcp-sb) — [v0.1.7](https://github.com/CoMfUcIoS/obsidian-mcp-sb/releases/tag/v0.1.7), `today`  
   An MCP (Model Context Protocol) server that provides intelligent read-only access to your Obsidian vault, enabling it to function as a &#34;second brain&#34; for LLMs.
 - [pullminder/cli](https://github.com/pullminder/cli) — [v0.1.16](https://github.com/pullminder/cli/releases/tag/v0.1.16), `5 days ago`  
   Pullminder CLI releases
@@ -147,6 +147,9 @@ I build APIs, services, database-backed applications, integrations, and infrastr
 ## Recent pull requests
 
 
+- [fix(vault): replace setImmediate with 20ms timeout in indexNotes](https://github.com/CoMfUcIoS/obsidian-mcp-sb/pull/99) on [CoMfUcIoS/obsidian-mcp-sb](https://github.com/CoMfUcIoS/obsidian-mcp-sb) `today`
+- [chore(ci): bump Node to 24 across all workflows; docs: document new vault intelligence tools](https://github.com/CoMfUcIoS/obsidian-mcp-sb/pull/98) on [CoMfUcIoS/obsidian-mcp-sb](https://github.com/CoMfUcIoS/obsidian-mcp-sb) `today`
+- [feat: add vault intelligence tools (learning stunts)](https://github.com/CoMfUcIoS/obsidian-mcp-sb/pull/97) on [CoMfUcIoS/obsidian-mcp-sb](https://github.com/CoMfUcIoS/obsidian-mcp-sb) `today`
 - [Nightly E2E test — 25204855797](https://github.com/Upmate/pullminder-e2e-test/pull/18) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `today`
 - [Nightly E2E test — 25150254328](https://github.com/Upmate/pullminder-e2e-test/pull/17) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `1 day ago`
 - [Nightly E2E test — 25093533945](https://github.com/Upmate/pullminder-e2e-test/pull/16) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `2 days ago`
@@ -154,9 +157,6 @@ I build APIs, services, database-backed applications, integrations, and infrastr
 - [Nightly E2E test — 24979263944](https://github.com/Upmate/pullminder-e2e-test/pull/14) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `4 days ago`
 - [ci(selftest): flip strict to true now that CLI v0.1.15 skips official self-collision](https://github.com/pullminder/action/pull/3) on [pullminder/action](https://github.com/pullminder/action) `5 days ago`
 - [ci(cli-drift): restore --strict now that CLI v0.1.15 skips official self-collision](https://github.com/pullminder/registry/pull/9) on [pullminder/registry](https://github.com/pullminder/registry) `5 days ago`
-- [fix(ci): drop --strict from CLI drift workflow](https://github.com/pullminder/registry/pull/8) on [pullminder/registry](https://github.com/pullminder/registry) `5 days ago`
-- [fix(packs): replace \u escapes and lookaheads with RE2-compatible syntax](https://github.com/pullminder/registry/pull/7) on [pullminder/registry](https://github.com/pullminder/registry) `5 days ago`
-- [docs: sync documentation from monorepo](https://github.com/pullminder/cli/pull/6) on [pullminder/cli](https://github.com/pullminder/cli) `5 days ago`
 
 ---
 
