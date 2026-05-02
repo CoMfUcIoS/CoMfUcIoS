@@ -147,6 +147,7 @@ I build APIs, services, database-backed applications, integrations, and infrastr
 ## Recent pull requests
 
 
+- [Nightly E2E test — 25244996841](https://github.com/Upmate/pullminder-e2e-test/pull/19) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `today`
 - [chore: rename to second-brain-mcp &#43; Foam compatibility](https://github.com/CoMfUcIoS/second-brain-mcp/pull/101) on [CoMfUcIoS/second-brain-mcp](https://github.com/CoMfUcIoS/second-brain-mcp) `1 day ago`
 - [chore: rename to second-brain-mcp &#43; Foam compatibility tests](https://github.com/CoMfUcIoS/second-brain-mcp/pull/100) on [CoMfUcIoS/second-brain-mcp](https://github.com/CoMfUcIoS/second-brain-mcp) `1 day ago`
 - [fix(vault): replace setImmediate with 20ms timeout in indexNotes](https://github.com/CoMfUcIoS/second-brain-mcp/pull/99) on [CoMfUcIoS/second-brain-mcp](https://github.com/CoMfUcIoS/second-brain-mcp) `1 day ago`
@@ -156,7 +157,6 @@ I build APIs, services, database-backed applications, integrations, and infrastr
 - [Nightly E2E test — 25150254328](https://github.com/Upmate/pullminder-e2e-test/pull/17) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `2 days ago`
 - [Nightly E2E test — 25093533945](https://github.com/Upmate/pullminder-e2e-test/pull/16) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `3 days ago`
 - [Nightly E2E test — 25036962811](https://github.com/Upmate/pullminder-e2e-test/pull/15) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `4 days ago`
-- [Nightly E2E test — 24979263944](https://github.com/Upmate/pullminder-e2e-test/pull/14) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `5 days ago`
 
 ---
 
