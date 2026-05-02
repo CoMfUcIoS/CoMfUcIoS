@@ -111,12 +111,12 @@ I build APIs, services, database-backed applications, integrations, and infrastr
 ## Current work
 
 
-- [CoMfUcIoS/obsidian-mcp-sb](https://github.com/CoMfUcIoS/obsidian-mcp-sb) — An MCP (Model Context Protocol) server that provides intelligent read-only access to your Obsidian vault, enabling it to function as a &#34;second brain&#34; for LLMs. `today`
-- [pullminder/action](https://github.com/pullminder/action) — GitHub Action for Pullminder registry validation `5 days ago`
-- [pullminder/registry](https://github.com/pullminder/registry) — Official Pullminder rule pack registry — detection and policy packs for automated PR review `5 days ago`
-- [pullminder/cli](https://github.com/pullminder/cli) — Pullminder CLI releases `5 days ago`
-- [pullminder/npm](https://github.com/pullminder/npm) — npm wrapper for Pullminder CLI `6 days ago`
-- [pullminder/homebrew-tap](https://github.com/pullminder/homebrew-tap) — Homebrew tap for Pullminder CLI `6 days ago`
+- [CoMfUcIoS/second-brain-mcp](https://github.com/CoMfUcIoS/second-brain-mcp) — An MCP (Model Context Protocol) server that provides intelligent read-only access to your Obsidian vault, enabling it to function as a &#34;second brain&#34; for LLMs. `today`
+- [pullminder/action](https://github.com/pullminder/action) — GitHub Action for Pullminder registry validation `6 days ago`
+- [pullminder/registry](https://github.com/pullminder/registry) — Official Pullminder rule pack registry — detection and policy packs for automated PR review `6 days ago`
+- [pullminder/cli](https://github.com/pullminder/cli) — Pullminder CLI releases `6 days ago`
+- [pullminder/npm](https://github.com/pullminder/npm) — npm wrapper for Pullminder CLI `1 week ago`
+- [pullminder/homebrew-tap](https://github.com/pullminder/homebrew-tap) — Homebrew tap for Pullminder CLI `1 week ago`
 - [pullminder/.github](https://github.com/pullminder/.github) —  `2 weeks ago`
 - [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) — Automated nightly E2E test target for Pullminder. Do not modify manually. `2 weeks ago`
 - [Upmate/shipfast](https://github.com/Upmate/shipfast) — A modern microservices platform — monitored by Pullminder `3 weeks ago`
@@ -127,9 +127,9 @@ I build APIs, services, database-backed applications, integrations, and infrastr
 ## Latest releases I’ve contributed to
 
 
-- [CoMfUcIoS/obsidian-mcp-sb](https://github.com/CoMfUcIoS/obsidian-mcp-sb) — [v0.1.7](https://github.com/CoMfUcIoS/obsidian-mcp-sb/releases/tag/v0.1.7), `today`  
+- [CoMfUcIoS/second-brain-mcp](https://github.com/CoMfUcIoS/second-brain-mcp) — [v0.2.0](https://github.com/CoMfUcIoS/second-brain-mcp/releases/tag/v0.2.0), `today`  
   An MCP (Model Context Protocol) server that provides intelligent read-only access to your Obsidian vault, enabling it to function as a &#34;second brain&#34; for LLMs.
-- [pullminder/cli](https://github.com/pullminder/cli) — [v0.1.16](https://github.com/pullminder/cli/releases/tag/v0.1.16), `5 days ago`  
+- [pullminder/cli](https://github.com/pullminder/cli) — [v0.1.16](https://github.com/pullminder/cli/releases/tag/v0.1.16), `6 days ago`  
   Pullminder CLI releases
 - [pullminder/registry](https://github.com/pullminder/registry) — [v4](https://github.com/pullminder/registry/releases/tag/v4), `2 weeks ago`  
   Official Pullminder rule pack registry — detection and policy packs for automated PR review
@@ -147,16 +147,16 @@ I build APIs, services, database-backed applications, integrations, and infrastr
 ## Recent pull requests
 
 
-- [fix(vault): replace setImmediate with 20ms timeout in indexNotes](https://github.com/CoMfUcIoS/obsidian-mcp-sb/pull/99) on [CoMfUcIoS/obsidian-mcp-sb](https://github.com/CoMfUcIoS/obsidian-mcp-sb) `today`
-- [chore(ci): bump Node to 24 across all workflows; docs: document new vault intelligence tools](https://github.com/CoMfUcIoS/obsidian-mcp-sb/pull/98) on [CoMfUcIoS/obsidian-mcp-sb](https://github.com/CoMfUcIoS/obsidian-mcp-sb) `today`
-- [feat: add vault intelligence tools (learning stunts)](https://github.com/CoMfUcIoS/obsidian-mcp-sb/pull/97) on [CoMfUcIoS/obsidian-mcp-sb](https://github.com/CoMfUcIoS/obsidian-mcp-sb) `today`
-- [Nightly E2E test — 25204855797](https://github.com/Upmate/pullminder-e2e-test/pull/18) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `today`
-- [Nightly E2E test — 25150254328](https://github.com/Upmate/pullminder-e2e-test/pull/17) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `1 day ago`
-- [Nightly E2E test — 25093533945](https://github.com/Upmate/pullminder-e2e-test/pull/16) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `2 days ago`
-- [Nightly E2E test — 25036962811](https://github.com/Upmate/pullminder-e2e-test/pull/15) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `3 days ago`
-- [Nightly E2E test — 24979263944](https://github.com/Upmate/pullminder-e2e-test/pull/14) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `4 days ago`
-- [ci(selftest): flip strict to true now that CLI v0.1.15 skips official self-collision](https://github.com/pullminder/action/pull/3) on [pullminder/action](https://github.com/pullminder/action) `5 days ago`
-- [ci(cli-drift): restore --strict now that CLI v0.1.15 skips official self-collision](https://github.com/pullminder/registry/pull/9) on [pullminder/registry](https://github.com/pullminder/registry) `5 days ago`
+- [chore: rename to second-brain-mcp &#43; Foam compatibility](https://github.com/CoMfUcIoS/second-brain-mcp/pull/101) on [CoMfUcIoS/second-brain-mcp](https://github.com/CoMfUcIoS/second-brain-mcp) `1 day ago`
+- [chore: rename to second-brain-mcp &#43; Foam compatibility tests](https://github.com/CoMfUcIoS/second-brain-mcp/pull/100) on [CoMfUcIoS/second-brain-mcp](https://github.com/CoMfUcIoS/second-brain-mcp) `1 day ago`
+- [fix(vault): replace setImmediate with 20ms timeout in indexNotes](https://github.com/CoMfUcIoS/second-brain-mcp/pull/99) on [CoMfUcIoS/second-brain-mcp](https://github.com/CoMfUcIoS/second-brain-mcp) `1 day ago`
+- [chore(ci): bump Node to 24 across all workflows; docs: document new vault intelligence tools](https://github.com/CoMfUcIoS/second-brain-mcp/pull/98) on [CoMfUcIoS/second-brain-mcp](https://github.com/CoMfUcIoS/second-brain-mcp) `1 day ago`
+- [feat: add vault intelligence tools (learning stunts)](https://github.com/CoMfUcIoS/second-brain-mcp/pull/97) on [CoMfUcIoS/second-brain-mcp](https://github.com/CoMfUcIoS/second-brain-mcp) `1 day ago`
+- [Nightly E2E test — 25204855797](https://github.com/Upmate/pullminder-e2e-test/pull/18) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `1 day ago`
+- [Nightly E2E test — 25150254328](https://github.com/Upmate/pullminder-e2e-test/pull/17) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `2 days ago`
+- [Nightly E2E test — 25093533945](https://github.com/Upmate/pullminder-e2e-test/pull/16) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `3 days ago`
+- [Nightly E2E test — 25036962811](https://github.com/Upmate/pullminder-e2e-test/pull/15) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `4 days ago`
+- [Nightly E2E test — 24979263944](https://github.com/Upmate/pullminder-e2e-test/pull/14) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `5 days ago`
 
 ---
 
