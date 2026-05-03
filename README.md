@@ -111,12 +111,12 @@ I build APIs, services, database-backed applications, integrations, and infrastr
 ## Current work
 
 
-- [pullminder/cli](https://github.com/pullminder/cli) — Pullminder CLI releases `today`
-- [CoMfUcIoS/second-brain-mcp](https://github.com/CoMfUcIoS/second-brain-mcp) — An MCP (Model Context Protocol) server that provides intelligent read-only access to your Obsidian vault, enabling it to function as a &#34;second brain&#34; for LLMs. `today`
-- [pullminder/.github](https://github.com/pullminder/.github) —  `today`
-- [pullminder/registry](https://github.com/pullminder/registry) — Official Pullminder rule pack registry — detection and policy packs for automated PR review `today`
-- [pullminder/npm](https://github.com/pullminder/npm) — npm wrapper for Pullminder CLI `today`
-- [pullminder/action](https://github.com/pullminder/action) — GitHub Action for Pullminder registry validation `6 days ago`
+- [pullminder/cli](https://github.com/pullminder/cli) — Pullminder CLI releases `1 day ago`
+- [CoMfUcIoS/second-brain-mcp](https://github.com/CoMfUcIoS/second-brain-mcp) — An MCP (Model Context Protocol) server that provides intelligent read-only access to your Obsidian vault, enabling it to function as a &#34;second brain&#34; for LLMs. `1 day ago`
+- [pullminder/.github](https://github.com/pullminder/.github) —  `1 day ago`
+- [pullminder/registry](https://github.com/pullminder/registry) — Official Pullminder rule pack registry — detection and policy packs for automated PR review `1 day ago`
+- [pullminder/npm](https://github.com/pullminder/npm) — npm wrapper for Pullminder CLI `1 day ago`
+- [pullminder/action](https://github.com/pullminder/action) — GitHub Action for Pullminder registry validation `1 week ago`
 - [pullminder/homebrew-tap](https://github.com/pullminder/homebrew-tap) — Homebrew tap for Pullminder CLI `1 week ago`
 - [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) — Automated nightly E2E test target for Pullminder. Do not modify manually. `2 weeks ago`
 - [Upmate/shipfast](https://github.com/Upmate/shipfast) — A modern microservices platform — monitored by Pullminder `3 weeks ago`
@@ -127,9 +127,9 @@ I build APIs, services, database-backed applications, integrations, and infrastr
 ## Latest releases I’ve contributed to
 
 
-- [CoMfUcIoS/second-brain-mcp](https://github.com/CoMfUcIoS/second-brain-mcp) — [v0.2.0](https://github.com/CoMfUcIoS/second-brain-mcp/releases/tag/v0.2.0), `today`  
+- [CoMfUcIoS/second-brain-mcp](https://github.com/CoMfUcIoS/second-brain-mcp) — [v0.2.0](https://github.com/CoMfUcIoS/second-brain-mcp/releases/tag/v0.2.0), `1 day ago`  
   An MCP (Model Context Protocol) server that provides intelligent read-only access to your Obsidian vault, enabling it to function as a &#34;second brain&#34; for LLMs.
-- [pullminder/cli](https://github.com/pullminder/cli) — [v0.1.16](https://github.com/pullminder/cli/releases/tag/v0.1.16), `6 days ago`  
+- [pullminder/cli](https://github.com/pullminder/cli) — [v0.1.16](https://github.com/pullminder/cli/releases/tag/v0.1.16), `1 week ago`  
   Pullminder CLI releases
 - [pullminder/registry](https://github.com/pullminder/registry) — [v4](https://github.com/pullminder/registry/releases/tag/v4), `2 weeks ago`  
   Official Pullminder rule pack registry — detection and policy packs for automated PR review
@@ -147,16 +147,16 @@ I build APIs, services, database-backed applications, integrations, and infrastr
 ## Recent pull requests
 
 
-- [docs(profile): canonical docs URL &#43; refresh pack count](https://github.com/pullminder/.github/pull/1) on [pullminder/.github](https://github.com/pullminder/.github) `today`
-- [docs: audit formula and README links (refs Upmate/pullminder.com#639)](https://github.com/pullminder/homebrew-tap/pull/2) on [pullminder/homebrew-tap](https://github.com/pullminder/homebrew-tap) `today`
-- [docs: fix broken links in synced README](https://github.com/pullminder/registry/pull/10) on [pullminder/registry](https://github.com/pullminder/registry) `today`
-- [fix(package): align license with LICENSE and add bugs URL](https://github.com/pullminder/npm/pull/5) on [pullminder/npm](https://github.com/pullminder/npm) `today`
-- [docs: add .lycheeignore for install.sh shell-var false positives](https://github.com/pullminder/cli/pull/7) on [pullminder/cli](https://github.com/pullminder/cli) `today`
-- [Nightly E2E test — 25244996841](https://github.com/Upmate/pullminder-e2e-test/pull/19) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `today`
-- [chore: rename to second-brain-mcp &#43; Foam compatibility](https://github.com/CoMfUcIoS/second-brain-mcp/pull/101) on [CoMfUcIoS/second-brain-mcp](https://github.com/CoMfUcIoS/second-brain-mcp) `1 day ago`
-- [chore: rename to second-brain-mcp &#43; Foam compatibility tests](https://github.com/CoMfUcIoS/second-brain-mcp/pull/100) on [CoMfUcIoS/second-brain-mcp](https://github.com/CoMfUcIoS/second-brain-mcp) `1 day ago`
-- [fix(vault): replace setImmediate with 20ms timeout in indexNotes](https://github.com/CoMfUcIoS/second-brain-mcp/pull/99) on [CoMfUcIoS/second-brain-mcp](https://github.com/CoMfUcIoS/second-brain-mcp) `1 day ago`
-- [chore(ci): bump Node to 24 across all workflows; docs: document new vault intelligence tools](https://github.com/CoMfUcIoS/second-brain-mcp/pull/98) on [CoMfUcIoS/second-brain-mcp](https://github.com/CoMfUcIoS/second-brain-mcp) `1 day ago`
+- [Add community pack: Test Pack](https://github.com/pullminder/registry/pull/13) on [pullminder/registry](https://github.com/pullminder/registry) `today`
+- [Add community pack: Test Pack](https://github.com/pullminder/registry/pull/12) on [pullminder/registry](https://github.com/pullminder/registry) `today`
+- [Add community pack: Test Pack](https://github.com/pullminder/registry/pull/11) on [pullminder/registry](https://github.com/pullminder/registry) `today`
+- [docs(profile): canonical docs URL &#43; refresh pack count](https://github.com/pullminder/.github/pull/1) on [pullminder/.github](https://github.com/pullminder/.github) `1 day ago`
+- [docs: audit formula and README links (refs Upmate/pullminder.com#639)](https://github.com/pullminder/homebrew-tap/pull/2) on [pullminder/homebrew-tap](https://github.com/pullminder/homebrew-tap) `1 day ago`
+- [docs: fix broken links in synced README](https://github.com/pullminder/registry/pull/10) on [pullminder/registry](https://github.com/pullminder/registry) `1 day ago`
+- [fix(package): align license with LICENSE and add bugs URL](https://github.com/pullminder/npm/pull/5) on [pullminder/npm](https://github.com/pullminder/npm) `1 day ago`
+- [docs: add .lycheeignore for install.sh shell-var false positives](https://github.com/pullminder/cli/pull/7) on [pullminder/cli](https://github.com/pullminder/cli) `1 day ago`
+- [Nightly E2E test — 25244996841](https://github.com/Upmate/pullminder-e2e-test/pull/19) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `1 day ago`
+- [chore: rename to second-brain-mcp &#43; Foam compatibility](https://github.com/CoMfUcIoS/second-brain-mcp/pull/101) on [CoMfUcIoS/second-brain-mcp](https://github.com/CoMfUcIoS/second-brain-mcp) `2 days ago`
 
 ---
 
