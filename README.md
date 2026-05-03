@@ -149,6 +149,7 @@ I build APIs, services, database-backed applications, integrations, and infrastr
 ## Recent pull requests
 
 
+- [feat(schema): admit tier on packs and add RE2 compile check](https://github.com/pullminder/registry/pull/22) on [pullminder/registry](https://github.com/pullminder/registry) `today`
 - [docs: sync documentation from monorepo](https://github.com/pullminder/cli/pull/8) on [pullminder/cli](https://github.com/pullminder/cli) `today`
 - [docs: sync documentation from monorepo](https://github.com/pullminder/npm/pull/6) on [pullminder/npm](https://github.com/pullminder/npm) `today`
 - [docs: sync documentation from monorepo](https://github.com/pullminder/registry/pull/21) on [pullminder/registry](https://github.com/pullminder/registry) `today`
@@ -158,7 +159,6 @@ I build APIs, services, database-backed applications, integrations, and infrastr
 - [Nightly E2E test — 25271617298](https://github.com/Upmate/pullminder-e2e-test/pull/20) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `today`
 - [Add community pack: Test Pack](https://github.com/pullminder/registry/pull/18) on [pullminder/registry](https://github.com/pullminder/registry) `today`
 - [Add community pack: Test Pack](https://github.com/pullminder/registry/pull/17) on [pullminder/registry](https://github.com/pullminder/registry) `today`
-- [Add community pack: Test Pack](https://github.com/pullminder/registry/pull/16) on [pullminder/registry](https://github.com/pullminder/registry) `today`
 
 ---
 
