@@ -147,6 +147,7 @@ I build APIs, services, database-backed applications, integrations, and infrastr
 ## Recent pull requests
 
 
+- [Nightly E2E test — 25271617298](https://github.com/Upmate/pullminder-e2e-test/pull/20) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `today`
 - [Add community pack: Test Pack](https://github.com/pullminder/registry/pull/18) on [pullminder/registry](https://github.com/pullminder/registry) `today`
 - [Add community pack: Test Pack](https://github.com/pullminder/registry/pull/17) on [pullminder/registry](https://github.com/pullminder/registry) `today`
 - [Add community pack: Test Pack](https://github.com/pullminder/registry/pull/16) on [pullminder/registry](https://github.com/pullminder/registry) `today`
@@ -156,7 +157,6 @@ I build APIs, services, database-backed applications, integrations, and infrastr
 - [Add community pack: Test Pack](https://github.com/pullminder/registry/pull/12) on [pullminder/registry](https://github.com/pullminder/registry) `today`
 - [Add community pack: Test Pack](https://github.com/pullminder/registry/pull/11) on [pullminder/registry](https://github.com/pullminder/registry) `today`
 - [docs(profile): canonical docs URL &#43; refresh pack count](https://github.com/pullminder/.github/pull/1) on [pullminder/.github](https://github.com/pullminder/.github) `1 day ago`
-- [docs: audit formula and README links (refs Upmate/pullminder.com#639)](https://github.com/pullminder/homebrew-tap/pull/2) on [pullminder/homebrew-tap](https://github.com/pullminder/homebrew-tap) `1 day ago`
 
 ---
 
