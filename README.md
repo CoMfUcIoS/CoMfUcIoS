@@ -127,6 +127,8 @@ I build APIs, services, database-backed applications, integrations, and infrastr
 ## Latest releases I’ve contributed to
 
 
+- [pullminder/action](https://github.com/pullminder/action) — [v1.0.0](https://github.com/pullminder/action/releases/tag/v1.0.0), `today`  
+  GitHub Action for Pullminder registry validation
 - [CoMfUcIoS/second-brain-mcp](https://github.com/CoMfUcIoS/second-brain-mcp) — [v0.2.0](https://github.com/CoMfUcIoS/second-brain-mcp/releases/tag/v0.2.0), `1 day ago`  
   An MCP (Model Context Protocol) server that provides intelligent read-only access to your Obsidian vault, enabling it to function as a &#34;second brain&#34; for LLMs.
 - [pullminder/cli](https://github.com/pullminder/cli) — [v0.1.16](https://github.com/pullminder/cli/releases/tag/v0.1.16), `1 week ago`  
@@ -147,6 +149,8 @@ I build APIs, services, database-backed applications, integrations, and infrastr
 ## Recent pull requests
 
 
+- [Add community pack: Test Pack](https://github.com/pullminder/registry/pull/20) on [pullminder/registry](https://github.com/pullminder/registry) `today`
+- [Add community pack: Test Pack](https://github.com/pullminder/registry/pull/19) on [pullminder/registry](https://github.com/pullminder/registry) `today`
 - [Nightly E2E test — 25271617298](https://github.com/Upmate/pullminder-e2e-test/pull/20) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `today`
 - [Add community pack: Test Pack](https://github.com/pullminder/registry/pull/18) on [pullminder/registry](https://github.com/pullminder/registry) `today`
 - [Add community pack: Test Pack](https://github.com/pullminder/registry/pull/17) on [pullminder/registry](https://github.com/pullminder/registry) `today`
@@ -155,8 +159,6 @@ I build APIs, services, database-backed applications, integrations, and infrastr
 - [Add community pack: Test Pack](https://github.com/pullminder/registry/pull/14) on [pullminder/registry](https://github.com/pullminder/registry) `today`
 - [Add community pack: Test Pack](https://github.com/pullminder/registry/pull/13) on [pullminder/registry](https://github.com/pullminder/registry) `today`
 - [Add community pack: Test Pack](https://github.com/pullminder/registry/pull/12) on [pullminder/registry](https://github.com/pullminder/registry) `today`
-- [Add community pack: Test Pack](https://github.com/pullminder/registry/pull/11) on [pullminder/registry](https://github.com/pullminder/registry) `today`
-- [docs(profile): canonical docs URL &#43; refresh pack count](https://github.com/pullminder/.github/pull/1) on [pullminder/.github](https://github.com/pullminder/.github) `1 day ago`
 
 ---
 
