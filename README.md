@@ -112,8 +112,8 @@ I build APIs, services, database-backed applications, integrations, and infrastr
 
 
 - [pullminder/cli](https://github.com/pullminder/cli) — Pullminder CLI releases `today`
-- [pullminder/npm](https://github.com/pullminder/npm) — npm wrapper for Pullminder CLI `today`
 - [pullminder/homebrew-tap](https://github.com/pullminder/homebrew-tap) — Homebrew tap for Pullminder CLI `today`
+- [pullminder/npm](https://github.com/pullminder/npm) — npm wrapper for Pullminder CLI `today`
 - [pullminder/action](https://github.com/pullminder/action) — GitHub Action for Pullminder registry validation `today`
 - [pullminder/registry](https://github.com/pullminder/registry) — Official Pullminder rule pack registry — detection and policy packs for automated PR review `today`
 - [CoMfUcIoS/second-brain-mcp](https://github.com/CoMfUcIoS/second-brain-mcp) — An MCP (Model Context Protocol) server that provides intelligent read-only access to your Obsidian vault, enabling it to function as a &#34;second brain&#34; for LLMs. `1 day ago`
