@@ -149,6 +149,8 @@ I build APIs, services, database-backed applications, integrations, and infrastr
 ## Recent pull requests
 
 
+- [feat(registry): publish per-pack sha256 checksums](https://github.com/pullminder/registry/pull/23) on [pullminder/registry](https://github.com/pullminder/registry) `today`
+- [fix(formula): correct license to Apache-2.0](https://github.com/pullminder/homebrew-tap/pull/3) on [pullminder/homebrew-tap](https://github.com/pullminder/homebrew-tap) `today`
 - [feat(schema): admit tier on packs and add RE2 compile check](https://github.com/pullminder/registry/pull/22) on [pullminder/registry](https://github.com/pullminder/registry) `today`
 - [docs: sync documentation from monorepo](https://github.com/pullminder/cli/pull/8) on [pullminder/cli](https://github.com/pullminder/cli) `today`
 - [docs: sync documentation from monorepo](https://github.com/pullminder/npm/pull/6) on [pullminder/npm](https://github.com/pullminder/npm) `today`
@@ -157,8 +159,6 @@ I build APIs, services, database-backed applications, integrations, and infrastr
 - [Add community pack: Test Pack](https://github.com/pullminder/registry/pull/20) on [pullminder/registry](https://github.com/pullminder/registry) `today`
 - [Add community pack: Test Pack](https://github.com/pullminder/registry/pull/19) on [pullminder/registry](https://github.com/pullminder/registry) `today`
 - [Nightly E2E test — 25271617298](https://github.com/Upmate/pullminder-e2e-test/pull/20) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `today`
-- [Add community pack: Test Pack](https://github.com/pullminder/registry/pull/18) on [pullminder/registry](https://github.com/pullminder/registry) `today`
-- [Add community pack: Test Pack](https://github.com/pullminder/registry/pull/17) on [pullminder/registry](https://github.com/pullminder/registry) `today`
 
 ---
 
