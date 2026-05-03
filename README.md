@@ -147,16 +147,16 @@ I build APIs, services, database-backed applications, integrations, and infrastr
 ## Recent pull requests
 
 
+- [Add community pack: Test Pack](https://github.com/pullminder/registry/pull/18) on [pullminder/registry](https://github.com/pullminder/registry) `today`
+- [Add community pack: Test Pack](https://github.com/pullminder/registry/pull/17) on [pullminder/registry](https://github.com/pullminder/registry) `today`
+- [Add community pack: Test Pack](https://github.com/pullminder/registry/pull/16) on [pullminder/registry](https://github.com/pullminder/registry) `today`
+- [Add community pack: Test Pack](https://github.com/pullminder/registry/pull/15) on [pullminder/registry](https://github.com/pullminder/registry) `today`
+- [Add community pack: Test Pack](https://github.com/pullminder/registry/pull/14) on [pullminder/registry](https://github.com/pullminder/registry) `today`
 - [Add community pack: Test Pack](https://github.com/pullminder/registry/pull/13) on [pullminder/registry](https://github.com/pullminder/registry) `today`
 - [Add community pack: Test Pack](https://github.com/pullminder/registry/pull/12) on [pullminder/registry](https://github.com/pullminder/registry) `today`
 - [Add community pack: Test Pack](https://github.com/pullminder/registry/pull/11) on [pullminder/registry](https://github.com/pullminder/registry) `today`
 - [docs(profile): canonical docs URL &#43; refresh pack count](https://github.com/pullminder/.github/pull/1) on [pullminder/.github](https://github.com/pullminder/.github) `1 day ago`
 - [docs: audit formula and README links (refs Upmate/pullminder.com#639)](https://github.com/pullminder/homebrew-tap/pull/2) on [pullminder/homebrew-tap](https://github.com/pullminder/homebrew-tap) `1 day ago`
-- [docs: fix broken links in synced README](https://github.com/pullminder/registry/pull/10) on [pullminder/registry](https://github.com/pullminder/registry) `1 day ago`
-- [fix(package): align license with LICENSE and add bugs URL](https://github.com/pullminder/npm/pull/5) on [pullminder/npm](https://github.com/pullminder/npm) `1 day ago`
-- [docs: add .lycheeignore for install.sh shell-var false positives](https://github.com/pullminder/cli/pull/7) on [pullminder/cli](https://github.com/pullminder/cli) `1 day ago`
-- [Nightly E2E test — 25244996841](https://github.com/Upmate/pullminder-e2e-test/pull/19) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `1 day ago`
-- [chore: rename to second-brain-mcp &#43; Foam compatibility](https://github.com/CoMfUcIoS/second-brain-mcp/pull/101) on [CoMfUcIoS/second-brain-mcp](https://github.com/CoMfUcIoS/second-brain-mcp) `2 days ago`
 
 ---
 
