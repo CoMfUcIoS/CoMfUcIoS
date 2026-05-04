@@ -111,13 +111,13 @@ I build APIs, services, database-backed applications, integrations, and infrastr
 ## Current work
 
 
-- [pullminder/cli](https://github.com/pullminder/cli) — Pullminder CLI releases `today`
-- [pullminder/homebrew-tap](https://github.com/pullminder/homebrew-tap) — Homebrew tap for Pullminder CLI `today`
-- [pullminder/npm](https://github.com/pullminder/npm) — npm wrapper for Pullminder CLI `today`
-- [pullminder/registry](https://github.com/pullminder/registry) — Official Pullminder rule pack registry — detection and policy packs for automated PR review `today`
-- [pullminder/action](https://github.com/pullminder/action) — GitHub Action for Pullminder registry validation `today`
-- [CoMfUcIoS/second-brain-mcp](https://github.com/CoMfUcIoS/second-brain-mcp) — An MCP (Model Context Protocol) server that provides intelligent read-only access to your Obsidian vault, enabling it to function as a &#34;second brain&#34; for LLMs. `1 day ago`
-- [pullminder/.github](https://github.com/pullminder/.github) —  `1 day ago`
+- [pullminder/cli](https://github.com/pullminder/cli) — Pullminder CLI releases `1 day ago`
+- [pullminder/homebrew-tap](https://github.com/pullminder/homebrew-tap) — Homebrew tap for Pullminder CLI `1 day ago`
+- [pullminder/npm](https://github.com/pullminder/npm) — npm wrapper for Pullminder CLI `1 day ago`
+- [pullminder/registry](https://github.com/pullminder/registry) — Official Pullminder rule pack registry — detection and policy packs for automated PR review `1 day ago`
+- [pullminder/action](https://github.com/pullminder/action) — GitHub Action for Pullminder registry validation `1 day ago`
+- [CoMfUcIoS/second-brain-mcp](https://github.com/CoMfUcIoS/second-brain-mcp) — An MCP (Model Context Protocol) server that provides intelligent read-only access to your Obsidian vault, enabling it to function as a &#34;second brain&#34; for LLMs. `2 days ago`
+- [pullminder/.github](https://github.com/pullminder/.github) —  `2 days ago`
 - [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) — Automated nightly E2E test target for Pullminder. Do not modify manually. `2 weeks ago`
 - [Upmate/shipfast](https://github.com/Upmate/shipfast) — A modern microservices platform — monitored by Pullminder `3 weeks ago`
 - [CoMfUcIoS/neovim](https://github.com/CoMfUcIoS/neovim) — My configuration of Neovim. `1 month ago`
@@ -127,9 +127,9 @@ I build APIs, services, database-backed applications, integrations, and infrastr
 ## Latest releases I’ve contributed to
 
 
-- [pullminder/action](https://github.com/pullminder/action) — [v1.0.0](https://github.com/pullminder/action/releases/tag/v1.0.0), `today`  
+- [pullminder/action](https://github.com/pullminder/action) — [v1.0.0](https://github.com/pullminder/action/releases/tag/v1.0.0), `1 day ago`  
   GitHub Action for Pullminder registry validation
-- [CoMfUcIoS/second-brain-mcp](https://github.com/CoMfUcIoS/second-brain-mcp) — [v0.2.0](https://github.com/CoMfUcIoS/second-brain-mcp/releases/tag/v0.2.0), `1 day ago`  
+- [CoMfUcIoS/second-brain-mcp](https://github.com/CoMfUcIoS/second-brain-mcp) — [v0.2.0](https://github.com/CoMfUcIoS/second-brain-mcp/releases/tag/v0.2.0), `2 days ago`  
   An MCP (Model Context Protocol) server that provides intelligent read-only access to your Obsidian vault, enabling it to function as a &#34;second brain&#34; for LLMs.
 - [pullminder/cli](https://github.com/pullminder/cli) — [v0.1.16](https://github.com/pullminder/cli/releases/tag/v0.1.16), `1 week ago`  
   Pullminder CLI releases
@@ -149,16 +149,16 @@ I build APIs, services, database-backed applications, integrations, and infrastr
 ## Recent pull requests
 
 
-- [feat(registry): publish per-pack sha256 checksums](https://github.com/pullminder/registry/pull/23) on [pullminder/registry](https://github.com/pullminder/registry) `today`
-- [fix(formula): correct license to Apache-2.0](https://github.com/pullminder/homebrew-tap/pull/3) on [pullminder/homebrew-tap](https://github.com/pullminder/homebrew-tap) `today`
-- [feat(schema): admit tier on packs and add RE2 compile check](https://github.com/pullminder/registry/pull/22) on [pullminder/registry](https://github.com/pullminder/registry) `today`
-- [docs: sync documentation from monorepo](https://github.com/pullminder/cli/pull/8) on [pullminder/cli](https://github.com/pullminder/cli) `today`
-- [docs: sync documentation from monorepo](https://github.com/pullminder/npm/pull/6) on [pullminder/npm](https://github.com/pullminder/npm) `today`
-- [docs: sync documentation from monorepo](https://github.com/pullminder/registry/pull/21) on [pullminder/registry](https://github.com/pullminder/registry) `today`
-- [docs: sync documentation from monorepo](https://github.com/pullminder/action/pull/4) on [pullminder/action](https://github.com/pullminder/action) `today`
-- [Add community pack: Test Pack](https://github.com/pullminder/registry/pull/20) on [pullminder/registry](https://github.com/pullminder/registry) `today`
-- [Add community pack: Test Pack](https://github.com/pullminder/registry/pull/19) on [pullminder/registry](https://github.com/pullminder/registry) `today`
-- [Nightly E2E test — 25271617298](https://github.com/Upmate/pullminder-e2e-test/pull/20) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `today`
+- [feat(registry): publish per-pack sha256 checksums](https://github.com/pullminder/registry/pull/23) on [pullminder/registry](https://github.com/pullminder/registry) `1 day ago`
+- [fix(formula): correct license to Apache-2.0](https://github.com/pullminder/homebrew-tap/pull/3) on [pullminder/homebrew-tap](https://github.com/pullminder/homebrew-tap) `1 day ago`
+- [feat(schema): admit tier on packs and add RE2 compile check](https://github.com/pullminder/registry/pull/22) on [pullminder/registry](https://github.com/pullminder/registry) `1 day ago`
+- [docs: sync documentation from monorepo](https://github.com/pullminder/cli/pull/8) on [pullminder/cli](https://github.com/pullminder/cli) `1 day ago`
+- [docs: sync documentation from monorepo](https://github.com/pullminder/npm/pull/6) on [pullminder/npm](https://github.com/pullminder/npm) `1 day ago`
+- [docs: sync documentation from monorepo](https://github.com/pullminder/registry/pull/21) on [pullminder/registry](https://github.com/pullminder/registry) `1 day ago`
+- [docs: sync documentation from monorepo](https://github.com/pullminder/action/pull/4) on [pullminder/action](https://github.com/pullminder/action) `1 day ago`
+- [Add community pack: Test Pack](https://github.com/pullminder/registry/pull/20) on [pullminder/registry](https://github.com/pullminder/registry) `1 day ago`
+- [Add community pack: Test Pack](https://github.com/pullminder/registry/pull/19) on [pullminder/registry](https://github.com/pullminder/registry) `1 day ago`
+- [Nightly E2E test — 25271617298](https://github.com/Upmate/pullminder-e2e-test/pull/20) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `1 day ago`
 
 ---
 
