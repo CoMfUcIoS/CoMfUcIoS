@@ -149,6 +149,7 @@ I build APIs, services, database-backed applications, integrations, and infrastr
 ## Recent pull requests
 
 
+- [Nightly E2E test — 25304127153](https://github.com/Upmate/pullminder-e2e-test/pull/21) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `today`
 - [feat(registry): publish per-pack sha256 checksums](https://github.com/pullminder/registry/pull/23) on [pullminder/registry](https://github.com/pullminder/registry) `1 day ago`
 - [fix(formula): correct license to Apache-2.0](https://github.com/pullminder/homebrew-tap/pull/3) on [pullminder/homebrew-tap](https://github.com/pullminder/homebrew-tap) `1 day ago`
 - [feat(schema): admit tier on packs and add RE2 compile check](https://github.com/pullminder/registry/pull/22) on [pullminder/registry](https://github.com/pullminder/registry) `1 day ago`
@@ -158,7 +159,6 @@ I build APIs, services, database-backed applications, integrations, and infrastr
 - [docs: sync documentation from monorepo](https://github.com/pullminder/action/pull/4) on [pullminder/action](https://github.com/pullminder/action) `1 day ago`
 - [Add community pack: Test Pack](https://github.com/pullminder/registry/pull/20) on [pullminder/registry](https://github.com/pullminder/registry) `1 day ago`
 - [Add community pack: Test Pack](https://github.com/pullminder/registry/pull/19) on [pullminder/registry](https://github.com/pullminder/registry) `1 day ago`
-- [Nightly E2E test — 25271617298](https://github.com/Upmate/pullminder-e2e-test/pull/20) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `1 day ago`
 
 ---
 
