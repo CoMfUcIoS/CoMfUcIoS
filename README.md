@@ -141,8 +141,6 @@ I build APIs, services, database-backed applications, integrations, and infrastr
   An easy way to help you be kind and insert Conventional comments in GH comments
 - [CoMfUcIoS/GraphQLens](https://github.com/CoMfUcIoS/GraphQLens) — [v1.0.2](https://github.com/CoMfUcIoS/GraphQLens/releases/tag/v1.0.2), `5 months ago`  
   A performant, modern Chrome DevTools extension for inspecting &amp; mocking GraphQL traffic
-- [CoMfUcIoS/socket.io-pouch](https://github.com/CoMfUcIoS/socket.io-pouch) — [v1.2.1](https://github.com/CoMfUcIoS/socket.io-pouch/releases/tag/v1.2.1), `4 years ago`  
-  PouchDB and CouchDB over WebSockets, using Socket.io
 
 ---
 
