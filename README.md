@@ -147,6 +147,7 @@ I build APIs, services, database-backed applications, integrations, and infrastr
 ## Recent pull requests
 
 
+- [Nightly E2E test — 25360066502](https://github.com/Upmate/pullminder-e2e-test/pull/22) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `today`
 - [Nightly E2E test — 25304127153](https://github.com/Upmate/pullminder-e2e-test/pull/21) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `1 day ago`
 - [feat(registry): publish per-pack sha256 checksums](https://github.com/pullminder/registry/pull/23) on [pullminder/registry](https://github.com/pullminder/registry) `2 days ago`
 - [fix(formula): correct license to Apache-2.0](https://github.com/pullminder/homebrew-tap/pull/3) on [pullminder/homebrew-tap](https://github.com/pullminder/homebrew-tap) `2 days ago`
@@ -156,7 +157,6 @@ I build APIs, services, database-backed applications, integrations, and infrastr
 - [docs: sync documentation from monorepo](https://github.com/pullminder/registry/pull/21) on [pullminder/registry](https://github.com/pullminder/registry) `2 days ago`
 - [docs: sync documentation from monorepo](https://github.com/pullminder/action/pull/4) on [pullminder/action](https://github.com/pullminder/action) `2 days ago`
 - [Add community pack: Test Pack](https://github.com/pullminder/registry/pull/20) on [pullminder/registry](https://github.com/pullminder/registry) `2 days ago`
-- [Add community pack: Test Pack](https://github.com/pullminder/registry/pull/19) on [pullminder/registry](https://github.com/pullminder/registry) `2 days ago`
 
 ---
 
