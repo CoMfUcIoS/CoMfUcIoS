@@ -147,6 +147,7 @@ I build APIs, services, database-backed applications, integrations, and infrastr
 ## Recent pull requests
 
 
+- [Nightly E2E test — 25479206382](https://github.com/Upmate/pullminder-e2e-test/pull/24) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `today`
 - [Nightly E2E test — 25419400067](https://github.com/Upmate/pullminder-e2e-test/pull/23) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `1 day ago`
 - [chore: release 1.0.3](https://github.com/CoMfUcIoS/GraphQLens/pull/38) on [CoMfUcIoS/GraphQLens](https://github.com/CoMfUcIoS/GraphQLens) `2 days ago`
 - [fix(release): Forcing a new release](https://github.com/CoMfUcIoS/GraphQLens/pull/37) on [CoMfUcIoS/GraphQLens](https://github.com/CoMfUcIoS/GraphQLens) `2 days ago`
@@ -156,7 +157,6 @@ I build APIs, services, database-backed applications, integrations, and infrastr
 - [fix(formula): correct license to Apache-2.0](https://github.com/pullminder/homebrew-tap/pull/3) on [pullminder/homebrew-tap](https://github.com/pullminder/homebrew-tap) `4 days ago`
 - [feat(schema): admit tier on packs and add RE2 compile check](https://github.com/pullminder/registry/pull/22) on [pullminder/registry](https://github.com/pullminder/registry) `4 days ago`
 - [docs: sync documentation from monorepo](https://github.com/pullminder/cli/pull/8) on [pullminder/cli](https://github.com/pullminder/cli) `4 days ago`
-- [docs: sync documentation from monorepo](https://github.com/pullminder/npm/pull/6) on [pullminder/npm](https://github.com/pullminder/npm) `4 days ago`
 
 ---
 
