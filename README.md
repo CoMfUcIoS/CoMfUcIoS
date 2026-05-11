@@ -147,6 +147,7 @@ I build APIs, services, database-backed applications, integrations, and infrastr
 ## Recent pull requests
 
 
+- [Nightly E2E test — 25654637312](https://github.com/Upmate/pullminder-e2e-test/pull/28) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `today`
 - [Nightly E2E test — 25621608955](https://github.com/Upmate/pullminder-e2e-test/pull/27) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `1 day ago`
 - [Nightly E2E test — 25593378365](https://github.com/Upmate/pullminder-e2e-test/pull/26) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `2 days ago`
 - [Nightly E2E test — 25538802212](https://github.com/Upmate/pullminder-e2e-test/pull/25) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `3 days ago`
@@ -156,7 +157,6 @@ I build APIs, services, database-backed applications, integrations, and infrastr
 - [fix(release): Forcing a new release](https://github.com/CoMfUcIoS/GraphQLens/pull/37) on [CoMfUcIoS/GraphQLens](https://github.com/CoMfUcIoS/GraphQLens) `6 days ago`
 - [Nightly E2E test — 25360066502](https://github.com/Upmate/pullminder-e2e-test/pull/22) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `6 days ago`
 - [Nightly E2E test — 25304127153](https://github.com/Upmate/pullminder-e2e-test/pull/21) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `1 week ago`
-- [feat(registry): publish per-pack sha256 checksums](https://github.com/pullminder/registry/pull/23) on [pullminder/registry](https://github.com/pullminder/registry) `1 week ago`
 
 ---
 
