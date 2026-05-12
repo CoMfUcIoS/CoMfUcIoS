@@ -111,7 +111,7 @@ I build APIs, services, database-backed applications, integrations, and infrastr
 ## Current work
 
 
-- [CoMfUcIoS/GraphQLens](https://github.com/CoMfUcIoS/GraphQLens) — A performant, modern Chrome DevTools extension for inspecting &amp; mocking GraphQL traffic `6 days ago`
+- [CoMfUcIoS/GraphQLens](https://github.com/CoMfUcIoS/GraphQLens) — A performant, modern Chrome DevTools extension for inspecting &amp; mocking GraphQL traffic `1 week ago`
 - [pullminder/npm](https://github.com/pullminder/npm) — npm wrapper for Pullminder CLI `1 week ago`
 - [pullminder/homebrew-tap](https://github.com/pullminder/homebrew-tap) — Homebrew tap for Pullminder CLI `1 week ago`
 - [pullminder/registry](https://github.com/pullminder/registry) — Official Pullminder rule pack registry — detection and policy packs for automated PR review `1 week ago`
@@ -119,7 +119,7 @@ I build APIs, services, database-backed applications, integrations, and infrastr
 - [pullminder/cli](https://github.com/pullminder/cli) — Pullminder CLI releases `1 week ago`
 - [pullminder/.github](https://github.com/pullminder/.github) —  `1 week ago`
 - [CoMfUcIoS/second-brain-mcp](https://github.com/CoMfUcIoS/second-brain-mcp) — An MCP (Model Context Protocol) server that provides intelligent read-only access to your Obsidian vault, enabling it to function as a &#34;second brain&#34; for LLMs. `1 week ago`
-- [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) — Automated nightly E2E test target for Pullminder. Do not modify manually. `3 weeks ago`
+- [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) — Automated nightly E2E test target for Pullminder. Do not modify manually. `4 weeks ago`
 - [Upmate/shipfast](https://github.com/Upmate/shipfast) — A modern microservices platform — monitored by Pullminder `1 month ago`
 
 ---
@@ -127,9 +127,9 @@ I build APIs, services, database-backed applications, integrations, and infrastr
 ## Latest releases I’ve contributed to
 
 
-- [CoMfUcIoS/GraphQLens](https://github.com/CoMfUcIoS/GraphQLens) — [v1.0.3](https://github.com/CoMfUcIoS/GraphQLens/releases/tag/v1.0.3), `6 days ago`  
+- [CoMfUcIoS/GraphQLens](https://github.com/CoMfUcIoS/GraphQLens) — [v1.0.3](https://github.com/CoMfUcIoS/GraphQLens/releases/tag/v1.0.3), `1 week ago`  
   A performant, modern Chrome DevTools extension for inspecting &amp; mocking GraphQL traffic
-- [CoMfUcIoS/second-brain-mcp](https://github.com/CoMfUcIoS/second-brain-mcp) — [v0.2.1](https://github.com/CoMfUcIoS/second-brain-mcp/releases/tag/v0.2.1), `6 days ago`  
+- [CoMfUcIoS/second-brain-mcp](https://github.com/CoMfUcIoS/second-brain-mcp) — [v0.2.1](https://github.com/CoMfUcIoS/second-brain-mcp/releases/tag/v0.2.1), `1 week ago`  
   An MCP (Model Context Protocol) server that provides intelligent read-only access to your Obsidian vault, enabling it to function as a &#34;second brain&#34; for LLMs.
 - [pullminder/action](https://github.com/pullminder/action) — [v1.0.0](https://github.com/pullminder/action/releases/tag/v1.0.0), `1 week ago`  
   GitHub Action for Pullminder registry validation
@@ -147,15 +147,15 @@ I build APIs, services, database-backed applications, integrations, and infrastr
 ## Recent pull requests
 
 
-- [Nightly E2E test — 25654637312](https://github.com/Upmate/pullminder-e2e-test/pull/28) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `today`
-- [Nightly E2E test — 25621608955](https://github.com/Upmate/pullminder-e2e-test/pull/27) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `1 day ago`
-- [Nightly E2E test — 25593378365](https://github.com/Upmate/pullminder-e2e-test/pull/26) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `2 days ago`
-- [Nightly E2E test — 25538802212](https://github.com/Upmate/pullminder-e2e-test/pull/25) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `3 days ago`
-- [Nightly E2E test — 25479206382](https://github.com/Upmate/pullminder-e2e-test/pull/24) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `4 days ago`
-- [Nightly E2E test — 25419400067](https://github.com/Upmate/pullminder-e2e-test/pull/23) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `5 days ago`
-- [chore: release 1.0.3](https://github.com/CoMfUcIoS/GraphQLens/pull/38) on [CoMfUcIoS/GraphQLens](https://github.com/CoMfUcIoS/GraphQLens) `6 days ago`
-- [fix(release): Forcing a new release](https://github.com/CoMfUcIoS/GraphQLens/pull/37) on [CoMfUcIoS/GraphQLens](https://github.com/CoMfUcIoS/GraphQLens) `6 days ago`
-- [Nightly E2E test — 25360066502](https://github.com/Upmate/pullminder-e2e-test/pull/22) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `6 days ago`
+- [Nightly E2E test — 25654637312](https://github.com/Upmate/pullminder-e2e-test/pull/28) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `1 day ago`
+- [Nightly E2E test — 25621608955](https://github.com/Upmate/pullminder-e2e-test/pull/27) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `2 days ago`
+- [Nightly E2E test — 25593378365](https://github.com/Upmate/pullminder-e2e-test/pull/26) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `3 days ago`
+- [Nightly E2E test — 25538802212](https://github.com/Upmate/pullminder-e2e-test/pull/25) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `4 days ago`
+- [Nightly E2E test — 25479206382](https://github.com/Upmate/pullminder-e2e-test/pull/24) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `5 days ago`
+- [Nightly E2E test — 25419400067](https://github.com/Upmate/pullminder-e2e-test/pull/23) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `6 days ago`
+- [chore: release 1.0.3](https://github.com/CoMfUcIoS/GraphQLens/pull/38) on [CoMfUcIoS/GraphQLens](https://github.com/CoMfUcIoS/GraphQLens) `1 week ago`
+- [fix(release): Forcing a new release](https://github.com/CoMfUcIoS/GraphQLens/pull/37) on [CoMfUcIoS/GraphQLens](https://github.com/CoMfUcIoS/GraphQLens) `1 week ago`
+- [Nightly E2E test — 25360066502](https://github.com/Upmate/pullminder-e2e-test/pull/22) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `1 week ago`
 - [Nightly E2E test — 25304127153](https://github.com/Upmate/pullminder-e2e-test/pull/21) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `1 week ago`
 
 ---
