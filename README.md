@@ -184,11 +184,11 @@ I build APIs, services, database-backed applications, integrations, and infrastr
 ## Recent followers
 
 
+- [yumiaura](https://github.com/yumiaura)
 - [AkashChikanep4](https://github.com/AkashChikanep4)
 - [Omiros93](https://github.com/Omiros93)
 - [nancyadam24](https://github.com/nancyadam24)
 - [GojMann](https://github.com/GojMann)
-- [Ioannis-Karasavvaidis](https://github.com/Ioannis-Karasavvaidis)
 
 ---
 
