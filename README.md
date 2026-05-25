@@ -147,15 +147,15 @@ I build APIs, services, database-backed applications, integrations, and infrastr
 ## Recent pull requests
 
 
-- [Nightly E2E test — 26354235148](https://github.com/Upmate/pullminder-e2e-test/pull/41) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `today`
-- [Nightly E2E test — 26325532726](https://github.com/Upmate/pullminder-e2e-test/pull/40) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `1 day ago`
-- [Nightly E2E test — 26273115074](https://github.com/Upmate/pullminder-e2e-test/pull/39) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `2 days ago`
-- [chore: migrate CI from Go validation to pullminder/action](https://github.com/pullminder/registry/pull/25) on [pullminder/registry](https://github.com/pullminder/registry) `3 days ago`
-- [ci: migrate validate workflow from AJV to Pullminder action](https://github.com/pullminder/registry/pull/24) on [pullminder/registry](https://github.com/pullminder/registry) `3 days ago`
-- [Nightly E2E test — 26210598717](https://github.com/Upmate/pullminder-e2e-test/pull/38) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `3 days ago`
-- [Nightly E2E test — 26146482807](https://github.com/Upmate/pullminder-e2e-test/pull/37) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `4 days ago`
-- [Nightly E2E test — 26081309908](https://github.com/Upmate/pullminder-e2e-test/pull/36) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `5 days ago`
-- [Nightly E2E test — 26018511658](https://github.com/Upmate/pullminder-e2e-test/pull/35) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `6 days ago`
+- [Nightly E2E test — 26354235148](https://github.com/Upmate/pullminder-e2e-test/pull/41) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `1 day ago`
+- [Nightly E2E test — 26325532726](https://github.com/Upmate/pullminder-e2e-test/pull/40) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `2 days ago`
+- [Nightly E2E test — 26273115074](https://github.com/Upmate/pullminder-e2e-test/pull/39) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `3 days ago`
+- [chore: migrate CI from Go validation to pullminder/action](https://github.com/pullminder/registry/pull/25) on [pullminder/registry](https://github.com/pullminder/registry) `4 days ago`
+- [ci: migrate validate workflow from AJV to Pullminder action](https://github.com/pullminder/registry/pull/24) on [pullminder/registry](https://github.com/pullminder/registry) `4 days ago`
+- [Nightly E2E test — 26210598717](https://github.com/Upmate/pullminder-e2e-test/pull/38) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `4 days ago`
+- [Nightly E2E test — 26146482807](https://github.com/Upmate/pullminder-e2e-test/pull/37) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `5 days ago`
+- [Nightly E2E test — 26081309908](https://github.com/Upmate/pullminder-e2e-test/pull/36) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `6 days ago`
+- [Nightly E2E test — 26018511658](https://github.com/Upmate/pullminder-e2e-test/pull/35) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `1 week ago`
 - [Nightly E2E test — 25983466838](https://github.com/Upmate/pullminder-e2e-test/pull/34) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `1 week ago`
 
 ---
@@ -163,7 +163,7 @@ I build APIs, services, database-backed applications, integrations, and infrastr
 ## Recent writing
 
 
-- [Gmail Has 48 Million Usernames and Passwords Exposed: What This Really Means (And What To Do Now)](https://www.strongpasswordmeter.com/en/blog/gmail-has-48000000-usernames-and-passwords-exposed) `3 months ago`
+- [Gmail Has 48 Million Usernames and Passwords Exposed: What This Really Means (And What To Do Now)](https://www.strongpasswordmeter.com/en/blog/gmail-has-48000000-usernames-and-passwords-exposed) `4 months ago`
 - [25 Strong Password Examples You Can Actually Remember (2025 Guide)](https://www.strongpasswordmeter.com/en/blog/25-strong-password-examples-2025) `10 months ago`
 - [Password Notebook Reality Check: The Surprising Return of Analog Security (And How to Do It Properly)](https://www.strongpasswordmeter.com/en/blog/password-notebook-reality-check-the-surprising-return-of-analog-security) `1 year ago`
 - [The Psychology Behind Password Creation: Why We Choose Weak Passwords (And How to Break the Habit)](https://www.strongpasswordmeter.com/en/blog/the-psychology-behind-password-creation) `1 year ago`
