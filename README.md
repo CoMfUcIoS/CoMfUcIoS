@@ -111,7 +111,7 @@ I build APIs, services, database-backed applications, integrations, and infrastr
 ## Current work
 
 
-- [CoMfUcIoS/GraphQLens](https://github.com/CoMfUcIoS/GraphQLens) — A performant, modern Chrome DevTools extension for inspecting &amp; mocking GraphQL traffic `2 weeks ago`
+- [CoMfUcIoS/GraphQLens](https://github.com/CoMfUcIoS/GraphQLens) — A performant, modern Chrome DevTools extension for inspecting &amp; mocking GraphQL traffic `3 weeks ago`
 - [pullminder/npm](https://github.com/pullminder/npm) — npm wrapper for Pullminder CLI `3 weeks ago`
 - [pullminder/homebrew-tap](https://github.com/pullminder/homebrew-tap) — Homebrew tap for Pullminder CLI `3 weeks ago`
 - [pullminder/registry](https://github.com/pullminder/registry) — Official Pullminder rule pack registry — detection and policy packs for automated PR review `3 weeks ago`
@@ -127,13 +127,13 @@ I build APIs, services, database-backed applications, integrations, and infrastr
 ## Latest releases I’ve contributed to
 
 
-- [CoMfUcIoS/GraphQLens](https://github.com/CoMfUcIoS/GraphQLens) — [v1.0.3](https://github.com/CoMfUcIoS/GraphQLens/releases/tag/v1.0.3), `2 weeks ago`  
+- [CoMfUcIoS/GraphQLens](https://github.com/CoMfUcIoS/GraphQLens) — [v1.0.3](https://github.com/CoMfUcIoS/GraphQLens/releases/tag/v1.0.3), `3 weeks ago`  
   A performant, modern Chrome DevTools extension for inspecting &amp; mocking GraphQL traffic
-- [CoMfUcIoS/second-brain-mcp](https://github.com/CoMfUcIoS/second-brain-mcp) — [v0.2.1](https://github.com/CoMfUcIoS/second-brain-mcp/releases/tag/v0.2.1), `2 weeks ago`  
+- [CoMfUcIoS/second-brain-mcp](https://github.com/CoMfUcIoS/second-brain-mcp) — [v0.2.1](https://github.com/CoMfUcIoS/second-brain-mcp/releases/tag/v0.2.1), `3 weeks ago`  
   An MCP (Model Context Protocol) server that provides intelligent read-only access to your Obsidian vault, enabling it to function as a &#34;second brain&#34; for LLMs.
 - [pullminder/action](https://github.com/pullminder/action) — [v1.0.0](https://github.com/pullminder/action/releases/tag/v1.0.0), `3 weeks ago`  
   GitHub Action for Pullminder registry validation
-- [pullminder/cli](https://github.com/pullminder/cli) — [v0.1.16](https://github.com/pullminder/cli/releases/tag/v0.1.16), `4 weeks ago`  
+- [pullminder/cli](https://github.com/pullminder/cli) — [v0.1.16](https://github.com/pullminder/cli/releases/tag/v0.1.16), `1 month ago`  
   Pullminder CLI releases
 - [pullminder/registry](https://github.com/pullminder/registry) — [v4](https://github.com/pullminder/registry/releases/tag/v4), `1 month ago`  
   Official Pullminder rule pack registry — detection and policy packs for automated PR review
@@ -147,15 +147,15 @@ I build APIs, services, database-backed applications, integrations, and infrastr
 ## Recent pull requests
 
 
-- [Nightly E2E test — 26388540274](https://github.com/Upmate/pullminder-e2e-test/pull/42) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `today`
-- [Nightly E2E test — 26354235148](https://github.com/Upmate/pullminder-e2e-test/pull/41) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `1 day ago`
-- [Nightly E2E test — 26325532726](https://github.com/Upmate/pullminder-e2e-test/pull/40) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `2 days ago`
-- [Nightly E2E test — 26273115074](https://github.com/Upmate/pullminder-e2e-test/pull/39) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `3 days ago`
-- [chore: migrate CI from Go validation to pullminder/action](https://github.com/pullminder/registry/pull/25) on [pullminder/registry](https://github.com/pullminder/registry) `4 days ago`
-- [ci: migrate validate workflow from AJV to Pullminder action](https://github.com/pullminder/registry/pull/24) on [pullminder/registry](https://github.com/pullminder/registry) `4 days ago`
-- [Nightly E2E test — 26210598717](https://github.com/Upmate/pullminder-e2e-test/pull/38) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `4 days ago`
-- [Nightly E2E test — 26146482807](https://github.com/Upmate/pullminder-e2e-test/pull/37) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `5 days ago`
-- [Nightly E2E test — 26081309908](https://github.com/Upmate/pullminder-e2e-test/pull/36) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `6 days ago`
+- [Nightly E2E test — 26388540274](https://github.com/Upmate/pullminder-e2e-test/pull/42) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `1 day ago`
+- [Nightly E2E test — 26354235148](https://github.com/Upmate/pullminder-e2e-test/pull/41) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `2 days ago`
+- [Nightly E2E test — 26325532726](https://github.com/Upmate/pullminder-e2e-test/pull/40) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `3 days ago`
+- [Nightly E2E test — 26273115074](https://github.com/Upmate/pullminder-e2e-test/pull/39) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `4 days ago`
+- [chore: migrate CI from Go validation to pullminder/action](https://github.com/pullminder/registry/pull/25) on [pullminder/registry](https://github.com/pullminder/registry) `5 days ago`
+- [ci: migrate validate workflow from AJV to Pullminder action](https://github.com/pullminder/registry/pull/24) on [pullminder/registry](https://github.com/pullminder/registry) `5 days ago`
+- [Nightly E2E test — 26210598717](https://github.com/Upmate/pullminder-e2e-test/pull/38) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `5 days ago`
+- [Nightly E2E test — 26146482807](https://github.com/Upmate/pullminder-e2e-test/pull/37) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `6 days ago`
+- [Nightly E2E test — 26081309908](https://github.com/Upmate/pullminder-e2e-test/pull/36) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `1 week ago`
 - [Nightly E2E test — 26018511658](https://github.com/Upmate/pullminder-e2e-test/pull/35) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `1 week ago`
 
 ---
