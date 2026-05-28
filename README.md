@@ -147,6 +147,7 @@ I build APIs, services, database-backed applications, integrations, and infrastr
 ## Recent pull requests
 
 
+- [Nightly E2E test — 26559796989](https://github.com/Upmate/pullminder-e2e-test/pull/45) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `today`
 - [chore(deps): update lockfile and peer fields](https://github.com/CoMfUcIoS/second-brain-mcp/pull/123) on [CoMfUcIoS/second-brain-mcp](https://github.com/CoMfUcIoS/second-brain-mcp) `1 day ago`
 - [Nightly E2E test — 26496375458](https://github.com/Upmate/pullminder-e2e-test/pull/44) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `1 day ago`
 - [Nightly E2E test — 26437068032](https://github.com/Upmate/pullminder-e2e-test/pull/43) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `2 days ago`
@@ -156,7 +157,6 @@ I build APIs, services, database-backed applications, integrations, and infrastr
 - [Nightly E2E test — 26273115074](https://github.com/Upmate/pullminder-e2e-test/pull/39) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `6 days ago`
 - [chore: migrate CI from Go validation to pullminder/action](https://github.com/pullminder/registry/pull/25) on [pullminder/registry](https://github.com/pullminder/registry) `1 week ago`
 - [ci: migrate validate workflow from AJV to Pullminder action](https://github.com/pullminder/registry/pull/24) on [pullminder/registry](https://github.com/pullminder/registry) `1 week ago`
-- [Nightly E2E test — 26210598717](https://github.com/Upmate/pullminder-e2e-test/pull/38) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `1 week ago`
 
 ---
 
