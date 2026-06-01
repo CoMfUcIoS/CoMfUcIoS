@@ -147,6 +147,7 @@ I build APIs, services, database-backed applications, integrations, and infrastr
 ## Recent pull requests
 
 
+- [Nightly E2E test — 26744303471](https://github.com/Upmate/pullminder-e2e-test/pull/49) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `today`
 - [Nightly E2E test — 26705990175](https://github.com/Upmate/pullminder-e2e-test/pull/48) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `1 day ago`
 - [Nightly E2E test — 26676850896](https://github.com/Upmate/pullminder-e2e-test/pull/47) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `2 days ago`
 - [Nightly E2E test — 26623076314](https://github.com/Upmate/pullminder-e2e-test/pull/46) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `3 days ago`
@@ -156,7 +157,6 @@ I build APIs, services, database-backed applications, integrations, and infrastr
 - [Nightly E2E test — 26437068032](https://github.com/Upmate/pullminder-e2e-test/pull/43) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `6 days ago`
 - [Nightly E2E test — 26388540274](https://github.com/Upmate/pullminder-e2e-test/pull/42) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `1 week ago`
 - [Nightly E2E test — 26354235148](https://github.com/Upmate/pullminder-e2e-test/pull/41) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `1 week ago`
-- [Nightly E2E test — 26325532726](https://github.com/Upmate/pullminder-e2e-test/pull/40) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `1 week ago`
 
 ---
 
@@ -184,11 +184,11 @@ I build APIs, services, database-backed applications, integrations, and infrastr
 ## Recent followers
 
 
-- [yumiaura](https://github.com/yumiaura)
 - [AkashChikanep4](https://github.com/AkashChikanep4)
 - [Omiros93](https://github.com/Omiros93)
 - [nancyadam24](https://github.com/nancyadam24)
 - [GojMann](https://github.com/GojMann)
+- [Ioannis-Karasavvaidis](https://github.com/Ioannis-Karasavvaidis)
 
 ---
 
