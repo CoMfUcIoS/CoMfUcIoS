@@ -115,9 +115,9 @@ I build APIs, services, database-backed applications, integrations, and infrastr
 - [CoMfUcIoS/GraphQLens](https://github.com/CoMfUcIoS/GraphQLens) — A performant, modern Chrome DevTools extension for inspecting &amp; mocking GraphQL traffic `4 weeks ago`
 - [pullminder/action](https://github.com/pullminder/action) — GitHub Action for Pullminder registry validation `1 month ago`
 - [pullminder/registry](https://github.com/pullminder/registry) — Official Pullminder rule pack registry — detection and policy packs for automated PR review `1 month ago`
-- [pullminder/npm](https://github.com/pullminder/npm) — npm wrapper for Pullminder CLI `1 month ago`
-- [pullminder/cli](https://github.com/pullminder/cli) — Pullminder CLI releases `1 month ago`
 - [pullminder/homebrew-tap](https://github.com/pullminder/homebrew-tap) — Homebrew tap for Pullminder CLI `1 month ago`
+- [pullminder/cli](https://github.com/pullminder/cli) — Pullminder CLI releases `1 month ago`
+- [pullminder/npm](https://github.com/pullminder/npm) — npm wrapper for Pullminder CLI `1 month ago`
 - [pullminder/.github](https://github.com/pullminder/.github) —  `1 month ago`
 - [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) — Automated nightly E2E test target for Pullminder. Do not modify manually. `1 month ago`
 - [Upmate/shipfast](https://github.com/Upmate/shipfast) — A modern microservices platform — monitored by Pullminder `1 month ago`
@@ -147,6 +147,7 @@ I build APIs, services, database-backed applications, integrations, and infrastr
 ## Recent pull requests
 
 
+- [Nightly E2E test — 26872749174](https://github.com/Upmate/pullminder-e2e-test/pull/51) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `today`
 - [Nightly E2E test — 26806620819](https://github.com/Upmate/pullminder-e2e-test/pull/50) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `1 day ago`
 - [Nightly E2E test — 26744303471](https://github.com/Upmate/pullminder-e2e-test/pull/49) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `2 days ago`
 - [Nightly E2E test — 26705990175](https://github.com/Upmate/pullminder-e2e-test/pull/48) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `3 days ago`
@@ -156,7 +157,6 @@ I build APIs, services, database-backed applications, integrations, and infrastr
 - [chore(deps): update lockfile and peer fields](https://github.com/CoMfUcIoS/second-brain-mcp/pull/123) on [CoMfUcIoS/second-brain-mcp](https://github.com/CoMfUcIoS/second-brain-mcp) `1 week ago`
 - [Nightly E2E test — 26496375458](https://github.com/Upmate/pullminder-e2e-test/pull/44) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `1 week ago`
 - [Nightly E2E test — 26437068032](https://github.com/Upmate/pullminder-e2e-test/pull/43) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `1 week ago`
-- [Nightly E2E test — 26388540274](https://github.com/Upmate/pullminder-e2e-test/pull/42) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `1 week ago`
 
 ---
 
@@ -265,7 +265,7 @@ Android · Appwrite · Arduino · Babel · Bash · Blender · CanvasJS · Chart.
 
 You can also reach me by email:
 
-**ioannis@studio110.eu**
+**the@GreekDev.io**
 
 ---
 
