@@ -229,7 +229,7 @@ Android · Appwrite · Arduino · Babel · Bash · Blender · CanvasJS · Chart.
 
 You can also reach me by email:
 
-**ioannis@studio110.eu**
+**the@GreekDev.io**
 
 ---
 
