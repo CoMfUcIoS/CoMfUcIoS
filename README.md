@@ -112,7 +112,7 @@ I build APIs, services, database-backed applications, integrations, and infrastr
 
 
 - [CoMfUcIoS/second-brain-mcp](https://github.com/CoMfUcIoS/second-brain-mcp) — An MCP (Model Context Protocol) server that provides intelligent read-only access to your Obsidian vault, enabling it to function as a &#34;second brain&#34; for LLMs. `1 week ago`
-- [CoMfUcIoS/GraphQLens](https://github.com/CoMfUcIoS/GraphQLens) — A performant, modern Chrome DevTools extension for inspecting &amp; mocking GraphQL traffic `4 weeks ago`
+- [CoMfUcIoS/GraphQLens](https://github.com/CoMfUcIoS/GraphQLens) — A performant, modern Chrome DevTools extension for inspecting &amp; mocking GraphQL traffic `1 month ago`
 - [pullminder/action](https://github.com/pullminder/action) — GitHub Action for Pullminder registry validation `1 month ago`
 - [pullminder/registry](https://github.com/pullminder/registry) — Official Pullminder rule pack registry — detection and policy packs for automated PR review `1 month ago`
 - [pullminder/homebrew-tap](https://github.com/pullminder/homebrew-tap) — Homebrew tap for Pullminder CLI `1 month ago`
@@ -127,9 +127,9 @@ I build APIs, services, database-backed applications, integrations, and infrastr
 ## Latest releases I’ve contributed to
 
 
-- [CoMfUcIoS/GraphQLens](https://github.com/CoMfUcIoS/GraphQLens) — [v1.0.3](https://github.com/CoMfUcIoS/GraphQLens/releases/tag/v1.0.3), `4 weeks ago`  
+- [CoMfUcIoS/GraphQLens](https://github.com/CoMfUcIoS/GraphQLens) — [v1.0.3](https://github.com/CoMfUcIoS/GraphQLens/releases/tag/v1.0.3), `1 month ago`  
   A performant, modern Chrome DevTools extension for inspecting &amp; mocking GraphQL traffic
-- [CoMfUcIoS/second-brain-mcp](https://github.com/CoMfUcIoS/second-brain-mcp) — [v0.2.1](https://github.com/CoMfUcIoS/second-brain-mcp/releases/tag/v0.2.1), `4 weeks ago`  
+- [CoMfUcIoS/second-brain-mcp](https://github.com/CoMfUcIoS/second-brain-mcp) — [v0.2.1](https://github.com/CoMfUcIoS/second-brain-mcp/releases/tag/v0.2.1), `1 month ago`  
   An MCP (Model Context Protocol) server that provides intelligent read-only access to your Obsidian vault, enabling it to function as a &#34;second brain&#34; for LLMs.
 - [pullminder/action](https://github.com/pullminder/action) — [v1.0.0](https://github.com/pullminder/action/releases/tag/v1.0.0), `1 month ago`  
   GitHub Action for Pullminder registry validation
@@ -147,13 +147,13 @@ I build APIs, services, database-backed applications, integrations, and infrastr
 ## Recent pull requests
 
 
-- [Nightly E2E test — 26872749174](https://github.com/Upmate/pullminder-e2e-test/pull/51) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `today`
-- [Nightly E2E test — 26806620819](https://github.com/Upmate/pullminder-e2e-test/pull/50) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `1 day ago`
-- [Nightly E2E test — 26744303471](https://github.com/Upmate/pullminder-e2e-test/pull/49) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `2 days ago`
-- [Nightly E2E test — 26705990175](https://github.com/Upmate/pullminder-e2e-test/pull/48) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `3 days ago`
-- [Nightly E2E test — 26676850896](https://github.com/Upmate/pullminder-e2e-test/pull/47) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `4 days ago`
-- [Nightly E2E test — 26623076314](https://github.com/Upmate/pullminder-e2e-test/pull/46) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `5 days ago`
-- [Nightly E2E test — 26559796989](https://github.com/Upmate/pullminder-e2e-test/pull/45) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `6 days ago`
+- [Nightly E2E test — 26872749174](https://github.com/Upmate/pullminder-e2e-test/pull/51) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `1 day ago`
+- [Nightly E2E test — 26806620819](https://github.com/Upmate/pullminder-e2e-test/pull/50) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `2 days ago`
+- [Nightly E2E test — 26744303471](https://github.com/Upmate/pullminder-e2e-test/pull/49) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `3 days ago`
+- [Nightly E2E test — 26705990175](https://github.com/Upmate/pullminder-e2e-test/pull/48) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `4 days ago`
+- [Nightly E2E test — 26676850896](https://github.com/Upmate/pullminder-e2e-test/pull/47) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `5 days ago`
+- [Nightly E2E test — 26623076314](https://github.com/Upmate/pullminder-e2e-test/pull/46) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `6 days ago`
+- [Nightly E2E test — 26559796989](https://github.com/Upmate/pullminder-e2e-test/pull/45) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `1 week ago`
 - [chore(deps): update lockfile and peer fields](https://github.com/CoMfUcIoS/second-brain-mcp/pull/123) on [CoMfUcIoS/second-brain-mcp](https://github.com/CoMfUcIoS/second-brain-mcp) `1 week ago`
 - [Nightly E2E test — 26496375458](https://github.com/Upmate/pullminder-e2e-test/pull/44) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `1 week ago`
 - [Nightly E2E test — 26437068032](https://github.com/Upmate/pullminder-e2e-test/pull/43) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `1 week ago`
@@ -164,7 +164,7 @@ I build APIs, services, database-backed applications, integrations, and infrastr
 
 
 - [Gmail Has 48 Million Usernames and Passwords Exposed: What This Really Means (And What To Do Now)](https://www.strongpasswordmeter.com/en/blog/gmail-has-48000000-usernames-and-passwords-exposed) `4 months ago`
-- [25 Strong Password Examples You Can Actually Remember (2025 Guide)](https://www.strongpasswordmeter.com/en/blog/25-strong-password-examples-2025) `10 months ago`
+- [25 Strong Password Examples You Can Actually Remember (2025 Guide)](https://www.strongpasswordmeter.com/en/blog/25-strong-password-examples-2025) `11 months ago`
 - [Password Notebook Reality Check: The Surprising Return of Analog Security (And How to Do It Properly)](https://www.strongpasswordmeter.com/en/blog/password-notebook-reality-check-the-surprising-return-of-analog-security) `1 year ago`
 - [The Psychology Behind Password Creation: Why We Choose Weak Passwords (And How to Break the Habit)](https://www.strongpasswordmeter.com/en/blog/the-psychology-behind-password-creation) `1 year ago`
 - [The Rise of Quantum Computing and Its Impact on Password Security](https://www.strongpasswordmeter.com/en/blog/quantum-computing-password-security-threat) `1 year ago`
