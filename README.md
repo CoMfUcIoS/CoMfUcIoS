@@ -147,13 +147,13 @@ I build APIs, services, database-backed applications, integrations, and infrastr
 ## Recent pull requests
 
 
-- [Nightly E2E test — 26938692055](https://github.com/Upmate/pullminder-e2e-test/pull/52) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `today`
-- [Nightly E2E test — 26872749174](https://github.com/Upmate/pullminder-e2e-test/pull/51) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `1 day ago`
-- [Nightly E2E test — 26806620819](https://github.com/Upmate/pullminder-e2e-test/pull/50) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `2 days ago`
-- [Nightly E2E test — 26744303471](https://github.com/Upmate/pullminder-e2e-test/pull/49) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `3 days ago`
-- [Nightly E2E test — 26705990175](https://github.com/Upmate/pullminder-e2e-test/pull/48) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `4 days ago`
-- [Nightly E2E test — 26676850896](https://github.com/Upmate/pullminder-e2e-test/pull/47) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `5 days ago`
-- [Nightly E2E test — 26623076314](https://github.com/Upmate/pullminder-e2e-test/pull/46) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `6 days ago`
+- [Nightly E2E test — 26938692055](https://github.com/Upmate/pullminder-e2e-test/pull/52) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `1 day ago`
+- [Nightly E2E test — 26872749174](https://github.com/Upmate/pullminder-e2e-test/pull/51) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `2 days ago`
+- [Nightly E2E test — 26806620819](https://github.com/Upmate/pullminder-e2e-test/pull/50) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `3 days ago`
+- [Nightly E2E test — 26744303471](https://github.com/Upmate/pullminder-e2e-test/pull/49) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `4 days ago`
+- [Nightly E2E test — 26705990175](https://github.com/Upmate/pullminder-e2e-test/pull/48) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `5 days ago`
+- [Nightly E2E test — 26676850896](https://github.com/Upmate/pullminder-e2e-test/pull/47) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `6 days ago`
+- [Nightly E2E test — 26623076314](https://github.com/Upmate/pullminder-e2e-test/pull/46) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `1 week ago`
 - [Nightly E2E test — 26559796989](https://github.com/Upmate/pullminder-e2e-test/pull/45) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `1 week ago`
 - [chore(deps): update lockfile and peer fields](https://github.com/CoMfUcIoS/second-brain-mcp/pull/123) on [CoMfUcIoS/second-brain-mcp](https://github.com/CoMfUcIoS/second-brain-mcp) `1 week ago`
 - [Nightly E2E test — 26496375458](https://github.com/Upmate/pullminder-e2e-test/pull/44) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `1 week ago`
@@ -184,11 +184,11 @@ I build APIs, services, database-backed applications, integrations, and infrastr
 ## Recent followers
 
 
+- [vine77](https://github.com/vine77)
 - [Aaronoftheages](https://github.com/Aaronoftheages)
 - [AkashChikanep4](https://github.com/AkashChikanep4)
 - [Omiros93](https://github.com/Omiros93)
 - [nancyadam24](https://github.com/nancyadam24)
-- [GojMann](https://github.com/GojMann)
 
 ---
 
