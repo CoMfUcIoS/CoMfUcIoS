@@ -127,14 +127,14 @@ I build APIs, services, database-backed applications, integrations, and infrastr
 ## Latest releases I’ve contributed to
 
 
+- [pullminder/action](https://github.com/pullminder/action) — [v1.0.2](https://github.com/pullminder/action/releases/tag/v1.0.2), `today`  
+  GitHub Action for Pullminder registry validation
 - [pullminder/cli](https://github.com/pullminder/cli) — [v0.1.18](https://github.com/pullminder/cli/releases/tag/v0.1.18), `today`  
   Pullminder CLI releases
 - [CoMfUcIoS/GraphQLens](https://github.com/CoMfUcIoS/GraphQLens) — [v1.0.3](https://github.com/CoMfUcIoS/GraphQLens/releases/tag/v1.0.3), `1 month ago`  
   A performant, modern Chrome DevTools extension for inspecting &amp; mocking GraphQL traffic
 - [CoMfUcIoS/second-brain-mcp](https://github.com/CoMfUcIoS/second-brain-mcp) — [v0.2.1](https://github.com/CoMfUcIoS/second-brain-mcp/releases/tag/v0.2.1), `1 month ago`  
   An MCP (Model Context Protocol) server that provides intelligent read-only access to your Obsidian vault, enabling it to function as a &#34;second brain&#34; for LLMs.
-- [pullminder/action](https://github.com/pullminder/action) — [v1.0.0](https://github.com/pullminder/action/releases/tag/v1.0.0), `1 month ago`  
-  GitHub Action for Pullminder registry validation
 - [pullminder/registry](https://github.com/pullminder/registry) — [v4](https://github.com/pullminder/registry/releases/tag/v4), `1 month ago`  
   Official Pullminder rule pack registry — detection and policy packs for automated PR review
 - [CoMfUcIoS/console-inline.nvim](https://github.com/CoMfUcIoS/console-inline.nvim) — [console-inline.nvim-v3.1.0](https://github.com/CoMfUcIoS/console-inline.nvim/releases/tag/console-inline.nvim-v3.1.0), `5 months ago`  
@@ -147,6 +147,9 @@ I build APIs, services, database-backed applications, integrations, and infrastr
 ## Recent pull requests
 
 
+- [docs: sync documentation from monorepo](https://github.com/pullminder/cli/pull/14) on [pullminder/cli](https://github.com/pullminder/cli) `today`
+- [fix(action): avoid curl SIGPIPE when resolving latest tag](https://github.com/pullminder/action/pull/7) on [pullminder/action](https://github.com/pullminder/action) `today`
+- [ci(security): restrict validate job to contents:read](https://github.com/pullminder/registry/pull/26) on [pullminder/registry](https://github.com/pullminder/registry) `today`
 - [docs: sync documentation from monorepo](https://github.com/pullminder/cli/pull/13) on [pullminder/cli](https://github.com/pullminder/cli) `today`
 - [docs: sync documentation from monorepo](https://github.com/pullminder/cli/pull/12) on [pullminder/cli](https://github.com/pullminder/cli) `today`
 - [fix(action): bust CLI cache by resolving &#34;latest&#34; to a concrete tag](https://github.com/pullminder/action/pull/6) on [pullminder/action](https://github.com/pullminder/action) `today`
@@ -154,9 +157,6 @@ I build APIs, services, database-backed applications, integrations, and infrastr
 - [Nightly E2E test — 27055107710](https://github.com/Upmate/pullminder-e2e-test/pull/54) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `today`
 - [docs: sync documentation from monorepo](https://github.com/pullminder/cli/pull/10) on [pullminder/cli](https://github.com/pullminder/cli) `1 day ago`
 - [docs: sync SECURITY.md from monorepo](https://github.com/pullminder/.github/pull/2) on [pullminder/.github](https://github.com/pullminder/.github) `1 day ago`
-- [docs: sync documentation from monorepo](https://github.com/pullminder/cli/pull/9) on [pullminder/cli](https://github.com/pullminder/cli) `1 day ago`
-- [docs: sync documentation from monorepo](https://github.com/pullminder/action/pull/5) on [pullminder/action](https://github.com/pullminder/action) `1 day ago`
-- [Nightly E2E test — 27001062062](https://github.com/Upmate/pullminder-e2e-test/pull/53) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `1 day ago`
 
 ---
 
