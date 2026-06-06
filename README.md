@@ -127,14 +127,14 @@ I build APIs, services, database-backed applications, integrations, and infrastr
 ## Latest releases I’ve contributed to
 
 
+- [pullminder/cli](https://github.com/pullminder/cli) — [v0.1.19](https://github.com/pullminder/cli/releases/tag/v0.1.19), `today`  
+  Pullminder CLI releases
 - [pullminder/registry](https://github.com/pullminder/registry) — [v5](https://github.com/pullminder/registry/releases/tag/v5), `today`  
   Official Pullminder rule pack registry — detection and policy packs for automated PR review
 - [CoMfUcIoS/vw](https://github.com/CoMfUcIoS/vw) — [v0.1.1](https://github.com/CoMfUcIoS/vw/releases/tag/v0.1.1), `today`  
   opinionated command-line interface for Bitwarden and Vaultwarden
 - [pullminder/action](https://github.com/pullminder/action) — [v1.0.2](https://github.com/pullminder/action/releases/tag/v1.0.2), `today`  
   GitHub Action for Pullminder registry validation
-- [pullminder/cli](https://github.com/pullminder/cli) — [v0.1.18](https://github.com/pullminder/cli/releases/tag/v0.1.18), `today`  
-  Pullminder CLI releases
 - [CoMfUcIoS/GraphQLens](https://github.com/CoMfUcIoS/GraphQLens) — [v1.0.3](https://github.com/CoMfUcIoS/GraphQLens/releases/tag/v1.0.3), `1 month ago`  
   A performant, modern Chrome DevTools extension for inspecting &amp; mocking GraphQL traffic
 - [CoMfUcIoS/second-brain-mcp](https://github.com/CoMfUcIoS/second-brain-mcp) — [v0.2.1](https://github.com/CoMfUcIoS/second-brain-mcp/releases/tag/v0.2.1), `1 month ago`  
@@ -149,6 +149,8 @@ I build APIs, services, database-backed applications, integrations, and infrastr
 ## Recent pull requests
 
 
+- [docs: sync documentation from monorepo](https://github.com/pullminder/cli/pull/17) on [pullminder/cli](https://github.com/pullminder/cli) `today`
+- [docs: sync documentation from monorepo](https://github.com/pullminder/cli/pull/16) on [pullminder/cli](https://github.com/pullminder/cli) `today`
 - [fix(migration-safety): scope MIGRATION_DROP_COLUMN to forward (*.up.sql) migrations](https://github.com/pullminder/registry/pull/28) on [pullminder/registry](https://github.com/pullminder/registry) `today`
 - [chore(main): release 0.1.1](https://github.com/CoMfUcIoS/vw/pull/1) on [CoMfUcIoS/vw](https://github.com/CoMfUcIoS/vw) `today`
 - [fix(secrets): require quoted literal for SECRET_GENERIC_SECRET &#43; exclude non-secret constructs](https://github.com/pullminder/registry/pull/27) on [pullminder/registry](https://github.com/pullminder/registry) `today`
@@ -157,8 +159,6 @@ I build APIs, services, database-backed applications, integrations, and infrastr
 - [fix(action): avoid curl SIGPIPE when resolving latest tag](https://github.com/pullminder/action/pull/7) on [pullminder/action](https://github.com/pullminder/action) `today`
 - [ci(security): restrict validate job to contents:read](https://github.com/pullminder/registry/pull/26) on [pullminder/registry](https://github.com/pullminder/registry) `today`
 - [docs: sync documentation from monorepo](https://github.com/pullminder/cli/pull/13) on [pullminder/cli](https://github.com/pullminder/cli) `today`
-- [docs: sync documentation from monorepo](https://github.com/pullminder/cli/pull/12) on [pullminder/cli](https://github.com/pullminder/cli) `today`
-- [fix(action): bust CLI cache by resolving &#34;latest&#34; to a concrete tag](https://github.com/pullminder/action/pull/6) on [pullminder/action](https://github.com/pullminder/action) `today`
 
 ---
 
