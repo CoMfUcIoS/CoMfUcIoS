@@ -149,6 +149,7 @@ I build APIs, services, database-backed applications, integrations, and infrastr
 ## Recent pull requests
 
 
+- [docs: sync documentation from monorepo](https://github.com/pullminder/cli/pull/18) on [pullminder/cli](https://github.com/pullminder/cli) `today`
 - [docs: sync documentation from monorepo](https://github.com/pullminder/cli/pull/17) on [pullminder/cli](https://github.com/pullminder/cli) `today`
 - [docs: sync documentation from monorepo](https://github.com/pullminder/cli/pull/16) on [pullminder/cli](https://github.com/pullminder/cli) `today`
 - [fix(migration-safety): scope MIGRATION_DROP_COLUMN to forward (*.up.sql) migrations](https://github.com/pullminder/registry/pull/28) on [pullminder/registry](https://github.com/pullminder/registry) `today`
@@ -158,7 +159,6 @@ I build APIs, services, database-backed applications, integrations, and infrastr
 - [docs: sync documentation from monorepo](https://github.com/pullminder/cli/pull/14) on [pullminder/cli](https://github.com/pullminder/cli) `today`
 - [fix(action): avoid curl SIGPIPE when resolving latest tag](https://github.com/pullminder/action/pull/7) on [pullminder/action](https://github.com/pullminder/action) `today`
 - [ci(security): restrict validate job to contents:read](https://github.com/pullminder/registry/pull/26) on [pullminder/registry](https://github.com/pullminder/registry) `today`
-- [docs: sync documentation from monorepo](https://github.com/pullminder/cli/pull/13) on [pullminder/cli](https://github.com/pullminder/cli) `today`
 
 ---
 
