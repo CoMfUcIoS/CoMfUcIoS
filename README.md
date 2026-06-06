@@ -111,14 +111,14 @@ I build APIs, services, database-backed applications, integrations, and infrastr
 ## Current work
 
 
+- [pullminder/cli](https://github.com/pullminder/cli) — Pullminder CLI releases `today`
+- [pullminder/registry](https://github.com/pullminder/registry) — Official Pullminder rule pack registry — detection and policy packs for automated PR review `today`
+- [pullminder/action](https://github.com/pullminder/action) — GitHub Action for Pullminder registry validation `today`
 - [pullminder/.github](https://github.com/pullminder/.github) —  `1 day ago`
-- [pullminder/cli](https://github.com/pullminder/cli) — Pullminder CLI releases `1 day ago`
 - [CoMfUcIoS/second-brain-mcp](https://github.com/CoMfUcIoS/second-brain-mcp) — An MCP (Model Context Protocol) server that provides intelligent read-only access to your Obsidian vault, enabling it to function as a &#34;second brain&#34; for LLMs. `1 week ago`
 - [CoMfUcIoS/GraphQLens](https://github.com/CoMfUcIoS/GraphQLens) — A performant, modern Chrome DevTools extension for inspecting &amp; mocking GraphQL traffic `1 month ago`
-- [pullminder/registry](https://github.com/pullminder/registry) — Official Pullminder rule pack registry — detection and policy packs for automated PR review `1 month ago`
-- [pullminder/action](https://github.com/pullminder/action) — GitHub Action for Pullminder registry validation `1 month ago`
-- [pullminder/npm](https://github.com/pullminder/npm) — npm wrapper for Pullminder CLI `1 month ago`
 - [pullminder/homebrew-tap](https://github.com/pullminder/homebrew-tap) — Homebrew tap for Pullminder CLI `1 month ago`
+- [pullminder/npm](https://github.com/pullminder/npm) — npm wrapper for Pullminder CLI `1 month ago`
 - [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) — Automated nightly E2E test target for Pullminder. Do not modify manually. `1 month ago`
 - [Upmate/shipfast](https://github.com/Upmate/shipfast) — A modern microservices platform — monitored by Pullminder `1 month ago`
 
@@ -127,7 +127,7 @@ I build APIs, services, database-backed applications, integrations, and infrastr
 ## Latest releases I’ve contributed to
 
 
-- [pullminder/cli](https://github.com/pullminder/cli) — [v0.1.17](https://github.com/pullminder/cli/releases/tag/v0.1.17), `1 day ago`  
+- [pullminder/cli](https://github.com/pullminder/cli) — [v0.1.18](https://github.com/pullminder/cli/releases/tag/v0.1.18), `today`  
   Pullminder CLI releases
 - [CoMfUcIoS/GraphQLens](https://github.com/CoMfUcIoS/GraphQLens) — [v1.0.3](https://github.com/CoMfUcIoS/GraphQLens/releases/tag/v1.0.3), `1 month ago`  
   A performant, modern Chrome DevTools extension for inspecting &amp; mocking GraphQL traffic
@@ -147,16 +147,16 @@ I build APIs, services, database-backed applications, integrations, and infrastr
 ## Recent pull requests
 
 
+- [docs: sync documentation from monorepo](https://github.com/pullminder/cli/pull/13) on [pullminder/cli](https://github.com/pullminder/cli) `today`
+- [docs: sync documentation from monorepo](https://github.com/pullminder/cli/pull/12) on [pullminder/cli](https://github.com/pullminder/cli) `today`
+- [fix(action): bust CLI cache by resolving &#34;latest&#34; to a concrete tag](https://github.com/pullminder/action/pull/6) on [pullminder/action](https://github.com/pullminder/action) `today`
+- [fix(ci): correct YAML syntax in selftest verify step](https://github.com/pullminder/cli/pull/11) on [pullminder/cli](https://github.com/pullminder/cli) `today`
 - [Nightly E2E test — 27055107710](https://github.com/Upmate/pullminder-e2e-test/pull/54) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `today`
 - [docs: sync documentation from monorepo](https://github.com/pullminder/cli/pull/10) on [pullminder/cli](https://github.com/pullminder/cli) `1 day ago`
 - [docs: sync SECURITY.md from monorepo](https://github.com/pullminder/.github/pull/2) on [pullminder/.github](https://github.com/pullminder/.github) `1 day ago`
 - [docs: sync documentation from monorepo](https://github.com/pullminder/cli/pull/9) on [pullminder/cli](https://github.com/pullminder/cli) `1 day ago`
 - [docs: sync documentation from monorepo](https://github.com/pullminder/action/pull/5) on [pullminder/action](https://github.com/pullminder/action) `1 day ago`
 - [Nightly E2E test — 27001062062](https://github.com/Upmate/pullminder-e2e-test/pull/53) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `1 day ago`
-- [Nightly E2E test — 26938692055](https://github.com/Upmate/pullminder-e2e-test/pull/52) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `2 days ago`
-- [Nightly E2E test — 26872749174](https://github.com/Upmate/pullminder-e2e-test/pull/51) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `3 days ago`
-- [Nightly E2E test — 26806620819](https://github.com/Upmate/pullminder-e2e-test/pull/50) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `4 days ago`
-- [Nightly E2E test — 26744303471](https://github.com/Upmate/pullminder-e2e-test/pull/49) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `5 days ago`
 
 ---
 
