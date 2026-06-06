@@ -147,6 +147,7 @@ I build APIs, services, database-backed applications, integrations, and infrastr
 ## Recent pull requests
 
 
+- [Nightly E2E test — 27055107710](https://github.com/Upmate/pullminder-e2e-test/pull/54) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `today`
 - [docs: sync documentation from monorepo](https://github.com/pullminder/cli/pull/10) on [pullminder/cli](https://github.com/pullminder/cli) `1 day ago`
 - [docs: sync SECURITY.md from monorepo](https://github.com/pullminder/.github/pull/2) on [pullminder/.github](https://github.com/pullminder/.github) `1 day ago`
 - [docs: sync documentation from monorepo](https://github.com/pullminder/cli/pull/9) on [pullminder/cli](https://github.com/pullminder/cli) `1 day ago`
@@ -156,7 +157,6 @@ I build APIs, services, database-backed applications, integrations, and infrastr
 - [Nightly E2E test — 26872749174](https://github.com/Upmate/pullminder-e2e-test/pull/51) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `3 days ago`
 - [Nightly E2E test — 26806620819](https://github.com/Upmate/pullminder-e2e-test/pull/50) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `4 days ago`
 - [Nightly E2E test — 26744303471](https://github.com/Upmate/pullminder-e2e-test/pull/49) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `5 days ago`
-- [Nightly E2E test — 26705990175](https://github.com/Upmate/pullminder-e2e-test/pull/48) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `6 days ago`
 
 ---
 
