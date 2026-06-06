@@ -147,6 +147,7 @@ I build APIs, services, database-backed applications, integrations, and infrastr
 ## Recent pull requests
 
 
+- [fix(secrets): require quoted literal for SECRET_GENERIC_SECRET &#43; exclude non-secret constructs](https://github.com/pullminder/registry/pull/27) on [pullminder/registry](https://github.com/pullminder/registry) `today`
 - [docs: sync documentation from monorepo](https://github.com/pullminder/cli/pull/15) on [pullminder/cli](https://github.com/pullminder/cli) `today`
 - [docs: sync documentation from monorepo](https://github.com/pullminder/cli/pull/14) on [pullminder/cli](https://github.com/pullminder/cli) `today`
 - [fix(action): avoid curl SIGPIPE when resolving latest tag](https://github.com/pullminder/action/pull/7) on [pullminder/action](https://github.com/pullminder/action) `today`
@@ -156,7 +157,6 @@ I build APIs, services, database-backed applications, integrations, and infrastr
 - [fix(action): bust CLI cache by resolving &#34;latest&#34; to a concrete tag](https://github.com/pullminder/action/pull/6) on [pullminder/action](https://github.com/pullminder/action) `today`
 - [fix(ci): correct YAML syntax in selftest verify step](https://github.com/pullminder/cli/pull/11) on [pullminder/cli](https://github.com/pullminder/cli) `today`
 - [Nightly E2E test — 27055107710](https://github.com/Upmate/pullminder-e2e-test/pull/54) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `today`
-- [docs: sync documentation from monorepo](https://github.com/pullminder/cli/pull/10) on [pullminder/cli](https://github.com/pullminder/cli) `1 day ago`
 
 ---
 
