@@ -111,9 +111,9 @@ I build APIs, services, database-backed applications, integrations, and infrastr
 ## Current work
 
 
+- [CoMfUcIoS/vw](https://github.com/CoMfUcIoS/vw) — opinionated command-line interface for Bitwarden and Vaultwarden `today`
 - [pullminder/action](https://github.com/pullminder/action) — GitHub Action for Pullminder registry validation `1 day ago`
 - [pullminder/registry](https://github.com/pullminder/registry) — Official Pullminder rule pack registry — detection and policy packs for automated PR review `1 day ago`
-- [CoMfUcIoS/vw](https://github.com/CoMfUcIoS/vw) — opinionated command-line interface for Bitwarden and Vaultwarden `1 day ago`
 - [pullminder/cli](https://github.com/pullminder/cli) — Pullminder CLI releases `1 day ago`
 - [pullminder/.github](https://github.com/pullminder/.github) —  `2 days ago`
 - [CoMfUcIoS/second-brain-mcp](https://github.com/CoMfUcIoS/second-brain-mcp) — An MCP (Model Context Protocol) server that provides intelligent read-only access to your Obsidian vault, enabling it to function as a &#34;second brain&#34; for LLMs. `1 week ago`
@@ -149,6 +149,9 @@ I build APIs, services, database-backed applications, integrations, and infrastr
 ## Recent pull requests
 
 
+- [feat(action): add mode: pr-review support](https://github.com/pullminder/action/pull/8) on [pullminder/action](https://github.com/pullminder/action) `today`
+- [chore(main): release 0.2.0](https://github.com/CoMfUcIoS/vw/pull/2) on [CoMfUcIoS/vw](https://github.com/CoMfUcIoS/vw) `today`
+- [Nightly E2E test — 27085729010](https://github.com/Upmate/pullminder-e2e-test/pull/55) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `today`
 - [docs: sync documentation from monorepo](https://github.com/pullminder/cli/pull/18) on [pullminder/cli](https://github.com/pullminder/cli) `1 day ago`
 - [docs: sync documentation from monorepo](https://github.com/pullminder/cli/pull/17) on [pullminder/cli](https://github.com/pullminder/cli) `1 day ago`
 - [docs: sync documentation from monorepo](https://github.com/pullminder/cli/pull/16) on [pullminder/cli](https://github.com/pullminder/cli) `1 day ago`
@@ -156,9 +159,6 @@ I build APIs, services, database-backed applications, integrations, and infrastr
 - [chore(main): release 0.1.1](https://github.com/CoMfUcIoS/vw/pull/1) on [CoMfUcIoS/vw](https://github.com/CoMfUcIoS/vw) `1 day ago`
 - [fix(secrets): require quoted literal for SECRET_GENERIC_SECRET &#43; exclude non-secret constructs](https://github.com/pullminder/registry/pull/27) on [pullminder/registry](https://github.com/pullminder/registry) `1 day ago`
 - [docs: sync documentation from monorepo](https://github.com/pullminder/cli/pull/15) on [pullminder/cli](https://github.com/pullminder/cli) `1 day ago`
-- [docs: sync documentation from monorepo](https://github.com/pullminder/cli/pull/14) on [pullminder/cli](https://github.com/pullminder/cli) `1 day ago`
-- [fix(action): avoid curl SIGPIPE when resolving latest tag](https://github.com/pullminder/action/pull/7) on [pullminder/action](https://github.com/pullminder/action) `1 day ago`
-- [ci(security): restrict validate job to contents:read](https://github.com/pullminder/registry/pull/26) on [pullminder/registry](https://github.com/pullminder/registry) `1 day ago`
 
 ---
 
