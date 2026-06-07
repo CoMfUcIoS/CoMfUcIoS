@@ -111,11 +111,11 @@ I build APIs, services, database-backed applications, integrations, and infrastr
 ## Current work
 
 
-- [pullminder/action](https://github.com/pullminder/action) — GitHub Action for Pullminder registry validation `today`
-- [CoMfUcIoS/vw](https://github.com/CoMfUcIoS/vw) — opinionated command-line interface for Bitwarden and Vaultwarden `today`
-- [pullminder/registry](https://github.com/pullminder/registry) — Official Pullminder rule pack registry — detection and policy packs for automated PR review `today`
-- [pullminder/cli](https://github.com/pullminder/cli) — Pullminder CLI releases `today`
-- [pullminder/.github](https://github.com/pullminder/.github) —  `1 day ago`
+- [pullminder/action](https://github.com/pullminder/action) — GitHub Action for Pullminder registry validation `1 day ago`
+- [CoMfUcIoS/vw](https://github.com/CoMfUcIoS/vw) — opinionated command-line interface for Bitwarden and Vaultwarden `1 day ago`
+- [pullminder/registry](https://github.com/pullminder/registry) — Official Pullminder rule pack registry — detection and policy packs for automated PR review `1 day ago`
+- [pullminder/cli](https://github.com/pullminder/cli) — Pullminder CLI releases `1 day ago`
+- [pullminder/.github](https://github.com/pullminder/.github) —  `2 days ago`
 - [CoMfUcIoS/second-brain-mcp](https://github.com/CoMfUcIoS/second-brain-mcp) — An MCP (Model Context Protocol) server that provides intelligent read-only access to your Obsidian vault, enabling it to function as a &#34;second brain&#34; for LLMs. `1 week ago`
 - [CoMfUcIoS/GraphQLens](https://github.com/CoMfUcIoS/GraphQLens) — A performant, modern Chrome DevTools extension for inspecting &amp; mocking GraphQL traffic `1 month ago`
 - [pullminder/homebrew-tap](https://github.com/pullminder/homebrew-tap) — Homebrew tap for Pullminder CLI `1 month ago`
@@ -127,13 +127,13 @@ I build APIs, services, database-backed applications, integrations, and infrastr
 ## Latest releases I’ve contributed to
 
 
-- [pullminder/cli](https://github.com/pullminder/cli) — [v0.1.19](https://github.com/pullminder/cli/releases/tag/v0.1.19), `today`  
+- [pullminder/cli](https://github.com/pullminder/cli) — [v0.1.19](https://github.com/pullminder/cli/releases/tag/v0.1.19), `1 day ago`  
   Pullminder CLI releases
-- [pullminder/registry](https://github.com/pullminder/registry) — [v5](https://github.com/pullminder/registry/releases/tag/v5), `today`  
+- [pullminder/registry](https://github.com/pullminder/registry) — [v5](https://github.com/pullminder/registry/releases/tag/v5), `1 day ago`  
   Official Pullminder rule pack registry — detection and policy packs for automated PR review
-- [CoMfUcIoS/vw](https://github.com/CoMfUcIoS/vw) — [v0.1.1](https://github.com/CoMfUcIoS/vw/releases/tag/v0.1.1), `today`  
+- [CoMfUcIoS/vw](https://github.com/CoMfUcIoS/vw) — [v0.1.1](https://github.com/CoMfUcIoS/vw/releases/tag/v0.1.1), `1 day ago`  
   opinionated command-line interface for Bitwarden and Vaultwarden
-- [pullminder/action](https://github.com/pullminder/action) — [v1.0.2](https://github.com/pullminder/action/releases/tag/v1.0.2), `today`  
+- [pullminder/action](https://github.com/pullminder/action) — [v1.0.2](https://github.com/pullminder/action/releases/tag/v1.0.2), `1 day ago`  
   GitHub Action for Pullminder registry validation
 - [CoMfUcIoS/GraphQLens](https://github.com/CoMfUcIoS/GraphQLens) — [v1.0.3](https://github.com/CoMfUcIoS/GraphQLens/releases/tag/v1.0.3), `1 month ago`  
   A performant, modern Chrome DevTools extension for inspecting &amp; mocking GraphQL traffic
@@ -149,16 +149,16 @@ I build APIs, services, database-backed applications, integrations, and infrastr
 ## Recent pull requests
 
 
-- [docs: sync documentation from monorepo](https://github.com/pullminder/cli/pull/18) on [pullminder/cli](https://github.com/pullminder/cli) `today`
-- [docs: sync documentation from monorepo](https://github.com/pullminder/cli/pull/17) on [pullminder/cli](https://github.com/pullminder/cli) `today`
-- [docs: sync documentation from monorepo](https://github.com/pullminder/cli/pull/16) on [pullminder/cli](https://github.com/pullminder/cli) `today`
-- [fix(migration-safety): scope MIGRATION_DROP_COLUMN to forward (*.up.sql) migrations](https://github.com/pullminder/registry/pull/28) on [pullminder/registry](https://github.com/pullminder/registry) `today`
-- [chore(main): release 0.1.1](https://github.com/CoMfUcIoS/vw/pull/1) on [CoMfUcIoS/vw](https://github.com/CoMfUcIoS/vw) `today`
-- [fix(secrets): require quoted literal for SECRET_GENERIC_SECRET &#43; exclude non-secret constructs](https://github.com/pullminder/registry/pull/27) on [pullminder/registry](https://github.com/pullminder/registry) `today`
-- [docs: sync documentation from monorepo](https://github.com/pullminder/cli/pull/15) on [pullminder/cli](https://github.com/pullminder/cli) `today`
-- [docs: sync documentation from monorepo](https://github.com/pullminder/cli/pull/14) on [pullminder/cli](https://github.com/pullminder/cli) `today`
-- [fix(action): avoid curl SIGPIPE when resolving latest tag](https://github.com/pullminder/action/pull/7) on [pullminder/action](https://github.com/pullminder/action) `today`
-- [ci(security): restrict validate job to contents:read](https://github.com/pullminder/registry/pull/26) on [pullminder/registry](https://github.com/pullminder/registry) `today`
+- [docs: sync documentation from monorepo](https://github.com/pullminder/cli/pull/18) on [pullminder/cli](https://github.com/pullminder/cli) `1 day ago`
+- [docs: sync documentation from monorepo](https://github.com/pullminder/cli/pull/17) on [pullminder/cli](https://github.com/pullminder/cli) `1 day ago`
+- [docs: sync documentation from monorepo](https://github.com/pullminder/cli/pull/16) on [pullminder/cli](https://github.com/pullminder/cli) `1 day ago`
+- [fix(migration-safety): scope MIGRATION_DROP_COLUMN to forward (*.up.sql) migrations](https://github.com/pullminder/registry/pull/28) on [pullminder/registry](https://github.com/pullminder/registry) `1 day ago`
+- [chore(main): release 0.1.1](https://github.com/CoMfUcIoS/vw/pull/1) on [CoMfUcIoS/vw](https://github.com/CoMfUcIoS/vw) `1 day ago`
+- [fix(secrets): require quoted literal for SECRET_GENERIC_SECRET &#43; exclude non-secret constructs](https://github.com/pullminder/registry/pull/27) on [pullminder/registry](https://github.com/pullminder/registry) `1 day ago`
+- [docs: sync documentation from monorepo](https://github.com/pullminder/cli/pull/15) on [pullminder/cli](https://github.com/pullminder/cli) `1 day ago`
+- [docs: sync documentation from monorepo](https://github.com/pullminder/cli/pull/14) on [pullminder/cli](https://github.com/pullminder/cli) `1 day ago`
+- [fix(action): avoid curl SIGPIPE when resolving latest tag](https://github.com/pullminder/action/pull/7) on [pullminder/action](https://github.com/pullminder/action) `1 day ago`
+- [ci(security): restrict validate job to contents:read](https://github.com/pullminder/registry/pull/26) on [pullminder/registry](https://github.com/pullminder/registry) `1 day ago`
 
 ---
 
