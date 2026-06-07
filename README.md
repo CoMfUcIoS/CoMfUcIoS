@@ -111,8 +111,8 @@ I build APIs, services, database-backed applications, integrations, and infrastr
 ## Current work
 
 
+- [pullminder/action](https://github.com/pullminder/action) — GitHub Action for Pullminder registry validation `today`
 - [CoMfUcIoS/vw](https://github.com/CoMfUcIoS/vw) — opinionated command-line interface for Bitwarden and Vaultwarden `today`
-- [pullminder/action](https://github.com/pullminder/action) — GitHub Action for Pullminder registry validation `1 day ago`
 - [pullminder/registry](https://github.com/pullminder/registry) — Official Pullminder rule pack registry — detection and policy packs for automated PR review `1 day ago`
 - [pullminder/cli](https://github.com/pullminder/cli) — Pullminder CLI releases `1 day ago`
 - [pullminder/.github](https://github.com/pullminder/.github) —  `2 days ago`
