@@ -149,6 +149,7 @@ I build APIs, services, database-backed applications, integrations, and infrastr
 ## Recent pull requests
 
 
+- [chore(distribution): add community health files](https://github.com/pullminder/.github/pull/3) on [pullminder/.github](https://github.com/pullminder/.github) `today`
 - [Nightly E2E test — 27124682733](https://github.com/Upmate/pullminder-e2e-test/pull/56) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `today`
 - [feat(action): add mode: pr-review support](https://github.com/pullminder/action/pull/8) on [pullminder/action](https://github.com/pullminder/action) `1 day ago`
 - [chore(main): release 0.2.0](https://github.com/CoMfUcIoS/vw/pull/2) on [CoMfUcIoS/vw](https://github.com/CoMfUcIoS/vw) `1 day ago`
@@ -158,7 +159,6 @@ I build APIs, services, database-backed applications, integrations, and infrastr
 - [docs: sync documentation from monorepo](https://github.com/pullminder/cli/pull/16) on [pullminder/cli](https://github.com/pullminder/cli) `2 days ago`
 - [fix(migration-safety): scope MIGRATION_DROP_COLUMN to forward (*.up.sql) migrations](https://github.com/pullminder/registry/pull/28) on [pullminder/registry](https://github.com/pullminder/registry) `2 days ago`
 - [chore(main): release 0.1.1](https://github.com/CoMfUcIoS/vw/pull/1) on [CoMfUcIoS/vw](https://github.com/CoMfUcIoS/vw) `2 days ago`
-- [fix(secrets): require quoted literal for SECRET_GENERIC_SECRET &#43; exclude non-secret constructs](https://github.com/pullminder/registry/pull/27) on [pullminder/registry](https://github.com/pullminder/registry) `2 days ago`
 
 ---
 
