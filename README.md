@@ -149,6 +149,7 @@ I build APIs, services, database-backed applications, integrations, and infrastr
 ## Recent pull requests
 
 
+- [Nightly E2E test — 27189219913](https://github.com/Upmate/pullminder-e2e-test/pull/57) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `today`
 - [docs: sync documentation from monorepo](https://github.com/pullminder/cli/pull/27) on [pullminder/cli](https://github.com/pullminder/cli) `today`
 - [docs: sync documentation from monorepo](https://github.com/pullminder/cli/pull/26) on [pullminder/cli](https://github.com/pullminder/cli) `today`
 - [docs: sync documentation from monorepo](https://github.com/pullminder/npm/pull/7) on [pullminder/npm](https://github.com/pullminder/npm) `today`
@@ -158,7 +159,6 @@ I build APIs, services, database-backed applications, integrations, and infrastr
 - [docs: sync documentation from monorepo](https://github.com/pullminder/cli/pull/22) on [pullminder/cli](https://github.com/pullminder/cli) `today`
 - [docs: sync documentation from monorepo](https://github.com/pullminder/cli/pull/21) on [pullminder/cli](https://github.com/pullminder/cli) `today`
 - [docs: sync documentation from monorepo](https://github.com/pullminder/cli/pull/20) on [pullminder/cli](https://github.com/pullminder/cli) `today`
-- [docs: sync documentation from monorepo](https://github.com/pullminder/cli/pull/19) on [pullminder/cli](https://github.com/pullminder/cli) `today`
 
 ---
 
