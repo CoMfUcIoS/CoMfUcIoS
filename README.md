@@ -111,15 +111,15 @@ I build APIs, services, database-backed applications, integrations, and infrastr
 ## Current work
 
 
+- [pullminder/.github](https://github.com/pullminder/.github) —  `today`
 - [pullminder/cli](https://github.com/pullminder/cli) — Pullminder CLI releases `1 day ago`
 - [pullminder/action](https://github.com/pullminder/action) — GitHub Action for Pullminder registry validation `2 days ago`
 - [CoMfUcIoS/vw](https://github.com/CoMfUcIoS/vw) — opinionated command-line interface for Bitwarden and Vaultwarden `2 days ago`
 - [pullminder/registry](https://github.com/pullminder/registry) — Official Pullminder rule pack registry — detection and policy packs for automated PR review `3 days ago`
-- [pullminder/.github](https://github.com/pullminder/.github) —  `4 days ago`
 - [CoMfUcIoS/second-brain-mcp](https://github.com/CoMfUcIoS/second-brain-mcp) — An MCP (Model Context Protocol) server that provides intelligent read-only access to your Obsidian vault, enabling it to function as a &#34;second brain&#34; for LLMs. `1 week ago`
 - [CoMfUcIoS/GraphQLens](https://github.com/CoMfUcIoS/GraphQLens) — A performant, modern Chrome DevTools extension for inspecting &amp; mocking GraphQL traffic `1 month ago`
-- [pullminder/npm](https://github.com/pullminder/npm) — npm wrapper for Pullminder CLI `1 month ago`
 - [pullminder/homebrew-tap](https://github.com/pullminder/homebrew-tap) — Homebrew tap for Pullminder CLI `1 month ago`
+- [pullminder/npm](https://github.com/pullminder/npm) — npm wrapper for Pullminder CLI `1 month ago`
 - [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) — Automated nightly E2E test target for Pullminder. Do not modify manually. `1 month ago`
 
 ---
@@ -149,16 +149,16 @@ I build APIs, services, database-backed applications, integrations, and infrastr
 ## Recent pull requests
 
 
-- [chore(distribution): add community health files](https://github.com/pullminder/.github/pull/3) on [pullminder/.github](https://github.com/pullminder/.github) `1 day ago`
-- [Nightly E2E test — 27124682733](https://github.com/Upmate/pullminder-e2e-test/pull/56) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `1 day ago`
-- [feat(action): add mode: pr-review support](https://github.com/pullminder/action/pull/8) on [pullminder/action](https://github.com/pullminder/action) `2 days ago`
-- [chore(main): release 0.2.0](https://github.com/CoMfUcIoS/vw/pull/2) on [CoMfUcIoS/vw](https://github.com/CoMfUcIoS/vw) `2 days ago`
-- [Nightly E2E test — 27085729010](https://github.com/Upmate/pullminder-e2e-test/pull/55) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `2 days ago`
-- [docs: sync documentation from monorepo](https://github.com/pullminder/cli/pull/18) on [pullminder/cli](https://github.com/pullminder/cli) `3 days ago`
-- [docs: sync documentation from monorepo](https://github.com/pullminder/cli/pull/17) on [pullminder/cli](https://github.com/pullminder/cli) `3 days ago`
-- [docs: sync documentation from monorepo](https://github.com/pullminder/cli/pull/16) on [pullminder/cli](https://github.com/pullminder/cli) `3 days ago`
-- [fix(migration-safety): scope MIGRATION_DROP_COLUMN to forward (*.up.sql) migrations](https://github.com/pullminder/registry/pull/28) on [pullminder/registry](https://github.com/pullminder/registry) `3 days ago`
-- [chore(main): release 0.1.1](https://github.com/CoMfUcIoS/vw/pull/1) on [CoMfUcIoS/vw](https://github.com/CoMfUcIoS/vw) `3 days ago`
+- [docs: sync documentation from monorepo](https://github.com/pullminder/cli/pull/27) on [pullminder/cli](https://github.com/pullminder/cli) `today`
+- [docs: sync documentation from monorepo](https://github.com/pullminder/cli/pull/26) on [pullminder/cli](https://github.com/pullminder/cli) `today`
+- [docs: sync documentation from monorepo](https://github.com/pullminder/npm/pull/7) on [pullminder/npm](https://github.com/pullminder/npm) `today`
+- [docs: sync documentation from monorepo](https://github.com/pullminder/cli/pull/25) on [pullminder/cli](https://github.com/pullminder/cli) `today`
+- [docs: sync documentation from monorepo](https://github.com/pullminder/cli/pull/24) on [pullminder/cli](https://github.com/pullminder/cli) `today`
+- [docs: sync documentation from monorepo](https://github.com/pullminder/cli/pull/23) on [pullminder/cli](https://github.com/pullminder/cli) `today`
+- [docs: sync documentation from monorepo](https://github.com/pullminder/cli/pull/22) on [pullminder/cli](https://github.com/pullminder/cli) `today`
+- [docs: sync documentation from monorepo](https://github.com/pullminder/cli/pull/21) on [pullminder/cli](https://github.com/pullminder/cli) `today`
+- [docs: sync documentation from monorepo](https://github.com/pullminder/cli/pull/20) on [pullminder/cli](https://github.com/pullminder/cli) `today`
+- [docs: sync documentation from monorepo](https://github.com/pullminder/cli/pull/19) on [pullminder/cli](https://github.com/pullminder/cli) `today`
 
 ---
 
