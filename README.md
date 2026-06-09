@@ -111,12 +111,12 @@ I build APIs, services, database-backed applications, integrations, and infrastr
 ## Current work
 
 
+- [pullminder/registry](https://github.com/pullminder/registry) — Official Pullminder rule pack registry — detection and policy packs for automated PR review `today`
 - [pullminder/.github](https://github.com/pullminder/.github) —  `today`
 - [pullminder/cli](https://github.com/pullminder/cli) — Pullminder CLI releases `today`
 - [pullminder/npm](https://github.com/pullminder/npm) — npm wrapper for Pullminder CLI `today`
 - [pullminder/action](https://github.com/pullminder/action) — GitHub Action for Pullminder registry validation `2 days ago`
 - [CoMfUcIoS/vw](https://github.com/CoMfUcIoS/vw) — opinionated command-line interface for Bitwarden and Vaultwarden `2 days ago`
-- [pullminder/registry](https://github.com/pullminder/registry) — Official Pullminder rule pack registry — detection and policy packs for automated PR review `3 days ago`
 - [CoMfUcIoS/second-brain-mcp](https://github.com/CoMfUcIoS/second-brain-mcp) — An MCP (Model Context Protocol) server that provides intelligent read-only access to your Obsidian vault, enabling it to function as a &#34;second brain&#34; for LLMs. `1 week ago`
 - [CoMfUcIoS/GraphQLens](https://github.com/CoMfUcIoS/GraphQLens) — A performant, modern Chrome DevTools extension for inspecting &amp; mocking GraphQL traffic `1 month ago`
 - [pullminder/homebrew-tap](https://github.com/pullminder/homebrew-tap) — Homebrew tap for Pullminder CLI `1 month ago`
@@ -149,16 +149,16 @@ I build APIs, services, database-backed applications, integrations, and infrastr
 ## Recent pull requests
 
 
+- [ci: add lychee link-check workflow](https://github.com/pullminder/.github/pull/6) on [pullminder/.github](https://github.com/pullminder/.github) `today`
+- [docs: sync documentation from monorepo](https://github.com/pullminder/cli/pull/30) on [pullminder/cli](https://github.com/pullminder/cli) `today`
+- [chore(ci): add brew audit --strict workflow on PR and weekly cron](https://github.com/pullminder/homebrew-tap/pull/4) on [pullminder/homebrew-tap](https://github.com/pullminder/homebrew-tap) `today`
+- [docs: sync documentation from monorepo](https://github.com/pullminder/cli/pull/29) on [pullminder/cli](https://github.com/pullminder/cli) `today`
+- [docs(contributing): fix broken pack authoring guide link](https://github.com/pullminder/.github/pull/5) on [pullminder/.github](https://github.com/pullminder/.github) `today`
+- [docs: fix pack schema drift in CONTRIBUTING.md](https://github.com/pullminder/registry/pull/30) on [pullminder/registry](https://github.com/pullminder/registry) `today`
+- [docs: fix broken Configuration reference link](https://github.com/pullminder/npm/pull/8) on [pullminder/npm](https://github.com/pullminder/npm) `today`
+- [chore: add CODEOWNERS to route PRs to maintainers](https://github.com/pullminder/registry/pull/29) on [pullminder/registry](https://github.com/pullminder/registry) `today`
 - [Nightly E2E test — 27189219913](https://github.com/Upmate/pullminder-e2e-test/pull/57) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `today`
 - [docs: sync documentation from monorepo](https://github.com/pullminder/cli/pull/27) on [pullminder/cli](https://github.com/pullminder/cli) `today`
-- [docs: sync documentation from monorepo](https://github.com/pullminder/cli/pull/26) on [pullminder/cli](https://github.com/pullminder/cli) `today`
-- [docs: sync documentation from monorepo](https://github.com/pullminder/npm/pull/7) on [pullminder/npm](https://github.com/pullminder/npm) `today`
-- [docs: sync documentation from monorepo](https://github.com/pullminder/cli/pull/25) on [pullminder/cli](https://github.com/pullminder/cli) `today`
-- [docs: sync documentation from monorepo](https://github.com/pullminder/cli/pull/24) on [pullminder/cli](https://github.com/pullminder/cli) `today`
-- [docs: sync documentation from monorepo](https://github.com/pullminder/cli/pull/23) on [pullminder/cli](https://github.com/pullminder/cli) `today`
-- [docs: sync documentation from monorepo](https://github.com/pullminder/cli/pull/22) on [pullminder/cli](https://github.com/pullminder/cli) `today`
-- [docs: sync documentation from monorepo](https://github.com/pullminder/cli/pull/21) on [pullminder/cli](https://github.com/pullminder/cli) `today`
-- [docs: sync documentation from monorepo](https://github.com/pullminder/cli/pull/20) on [pullminder/cli](https://github.com/pullminder/cli) `today`
 
 ---
 
