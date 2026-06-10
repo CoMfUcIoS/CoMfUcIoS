@@ -127,10 +127,10 @@ I build APIs, services, database-backed applications, integrations, and infrastr
 ## Latest releases I’ve contributed to
 
 
+- [pullminder/cli](https://github.com/pullminder/cli) — [v0.1.21](https://github.com/pullminder/cli/releases/tag/v0.1.21), `today`  
+  Pullminder CLI releases
 - [CoMfUcIoS/vw](https://github.com/CoMfUcIoS/vw) — [v0.2.0](https://github.com/CoMfUcIoS/vw/releases/tag/v0.2.0), `3 days ago`  
   opinionated command-line interface for Bitwarden and Vaultwarden
-- [pullminder/cli](https://github.com/pullminder/cli) — [v0.1.19](https://github.com/pullminder/cli/releases/tag/v0.1.19), `4 days ago`  
-  Pullminder CLI releases
 - [pullminder/registry](https://github.com/pullminder/registry) — [v5](https://github.com/pullminder/registry/releases/tag/v5), `4 days ago`  
   Official Pullminder rule pack registry — detection and policy packs for automated PR review
 - [pullminder/action](https://github.com/pullminder/action) — [v1.0.2](https://github.com/pullminder/action/releases/tag/v1.0.2), `4 days ago`  
@@ -149,16 +149,16 @@ I build APIs, services, database-backed applications, integrations, and infrastr
 ## Recent pull requests
 
 
+- [docs: sync documentation from monorepo](https://github.com/pullminder/cli/pull/40) on [pullminder/cli](https://github.com/pullminder/cli) `today`
+- [docs: sync documentation from monorepo](https://github.com/pullminder/cli/pull/39) on [pullminder/cli](https://github.com/pullminder/cli) `today`
+- [docs: sync documentation from monorepo](https://github.com/pullminder/npm/pull/11) on [pullminder/npm](https://github.com/pullminder/npm) `today`
+- [docs: sync documentation from monorepo](https://github.com/pullminder/cli/pull/38) on [pullminder/cli](https://github.com/pullminder/cli) `today`
+- [Nightly E2E test — 27259676762](https://github.com/Upmate/pullminder-e2e-test/pull/58) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `today`
 - [docs: sync documentation from monorepo](https://github.com/pullminder/cli/pull/37) on [pullminder/cli](https://github.com/pullminder/cli) `1 day ago`
 - [docs: sync documentation from monorepo](https://github.com/pullminder/npm/pull/10) on [pullminder/npm](https://github.com/pullminder/npm) `1 day ago`
 - [docs: sync documentation from monorepo](https://github.com/pullminder/cli/pull/36) on [pullminder/cli](https://github.com/pullminder/cli) `1 day ago`
 - [docs: sync documentation from monorepo](https://github.com/pullminder/cli/pull/35) on [pullminder/cli](https://github.com/pullminder/cli) `1 day ago`
 - [docs: sync documentation from monorepo](https://github.com/pullminder/action/pull/9) on [pullminder/action](https://github.com/pullminder/action) `1 day ago`
-- [docs: sync documentation from monorepo](https://github.com/pullminder/npm/pull/9) on [pullminder/npm](https://github.com/pullminder/npm) `1 day ago`
-- [docs: sync documentation from monorepo](https://github.com/pullminder/registry/pull/32) on [pullminder/registry](https://github.com/pullminder/registry) `1 day ago`
-- [docs: sync documentation from monorepo](https://github.com/pullminder/cli/pull/34) on [pullminder/cli](https://github.com/pullminder/cli) `1 day ago`
-- [docs: sync documentation from monorepo](https://github.com/pullminder/cli/pull/33) on [pullminder/cli](https://github.com/pullminder/cli) `1 day ago`
-- [docs: sync documentation from monorepo](https://github.com/pullminder/cli/pull/32) on [pullminder/cli](https://github.com/pullminder/cli) `1 day ago`
 
 ---
 
