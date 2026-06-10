@@ -113,8 +113,8 @@ I build APIs, services, database-backed applications, integrations, and infrastr
 
 - [pullminder/npm](https://github.com/pullminder/npm) — npm wrapper for Pullminder CLI `today`
 - [pullminder/registry](https://github.com/pullminder/registry) — Official Pullminder rule pack registry — detection and policy packs for automated PR review `today`
-- [pullminder/cli](https://github.com/pullminder/cli) — Pullminder CLI releases `today`
 - [pullminder/action](https://github.com/pullminder/action) — GitHub Action for Pullminder registry validation `today`
+- [pullminder/cli](https://github.com/pullminder/cli) — Pullminder CLI releases `today`
 - [pullminder/.github](https://github.com/pullminder/.github) —  `today`
 - [pullminder/homebrew-tap](https://github.com/pullminder/homebrew-tap) — Homebrew tap for Pullminder CLI `1 day ago`
 - [CoMfUcIoS/vw](https://github.com/CoMfUcIoS/vw) — opinionated command-line interface for Bitwarden and Vaultwarden `3 days ago`
