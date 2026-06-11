@@ -149,6 +149,9 @@ I build APIs, services, database-backed applications, integrations, and infrastr
 ## Recent pull requests
 
 
+- [docs: sync community health files from monorepo](https://github.com/pullminder/.github/pull/10) on [pullminder/.github](https://github.com/pullminder/.github) `today`
+- [fix(secrets): exclude CI test credentials from SECRET_CONNECTION_STRING](https://github.com/pullminder/registry/pull/35) on [pullminder/registry](https://github.com/pullminder/registry) `today`
+- [feat(sensitive-paths): bump to v4 with auth/ exclude_paths for route files](https://github.com/pullminder/registry/pull/34) on [pullminder/registry](https://github.com/pullminder/registry) `today`
 - [Nightly E2E test — 27333056684](https://github.com/Upmate/pullminder-e2e-test/pull/59) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `today`
 - [feat(action): add CI mode and coverage webhook support](https://github.com/pullminder/action/pull/14) on [pullminder/action](https://github.com/pullminder/action) `1 day ago`
 - [feat(action): add mode: ci with annotations and artifact upload](https://github.com/pullminder/action/pull/13) on [pullminder/action](https://github.com/pullminder/action) `1 day ago`
@@ -156,9 +159,6 @@ I build APIs, services, database-backed applications, integrations, and infrastr
 - [security: redact secret name and org reference from link-check workflow](https://github.com/pullminder/.github/pull/9) on [pullminder/.github](https://github.com/pullminder/.github) `1 day ago`
 - [docs: sync documentation from monorepo](https://github.com/pullminder/npm/pull/12) on [pullminder/npm](https://github.com/pullminder/npm) `1 day ago`
 - [docs: sync documentation from monorepo](https://github.com/pullminder/action/pull/10) on [pullminder/action](https://github.com/pullminder/action) `1 day ago`
-- [security: redact service URL enumeration from SECURITY.md](https://github.com/pullminder/.github/pull/8) on [pullminder/.github](https://github.com/pullminder/.github) `1 day ago`
-- [chore: remove Upmate references from SECURITY.md](https://github.com/pullminder/.github/pull/7) on [pullminder/.github](https://github.com/pullminder/.github) `1 day ago`
-- [security: redact monorepo references and secret names from workflow files](https://github.com/pullminder/registry/pull/33) on [pullminder/registry](https://github.com/pullminder/registry) `1 day ago`
 
 ---
 
