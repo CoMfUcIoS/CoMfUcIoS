@@ -127,10 +127,10 @@ I build APIs, services, database-backed applications, integrations, and infrastr
 ## Latest releases I’ve contributed to
 
 
+- [pullminder/cli](https://github.com/pullminder/cli) — [v0.1.22](https://github.com/pullminder/cli/releases/tag/v0.1.22), `today`  
+  Pullminder CLI releases
 - [pullminder/action](https://github.com/pullminder/action) — [v1.0.3](https://github.com/pullminder/action/releases/tag/v1.0.3), `1 day ago`  
   GitHub Action for Pullminder registry validation
-- [pullminder/cli](https://github.com/pullminder/cli) — [v0.1.21](https://github.com/pullminder/cli/releases/tag/v0.1.21), `1 day ago`  
-  Pullminder CLI releases
 - [CoMfUcIoS/vw](https://github.com/CoMfUcIoS/vw) — [v0.2.0](https://github.com/CoMfUcIoS/vw/releases/tag/v0.2.0), `4 days ago`  
   opinionated command-line interface for Bitwarden and Vaultwarden
 - [pullminder/registry](https://github.com/pullminder/registry) — [v5](https://github.com/pullminder/registry/releases/tag/v5), `5 days ago`  
