@@ -111,13 +111,13 @@ I build APIs, services, database-backed applications, integrations, and infrastr
 ## Current work
 
 
-- [pullminder/npm](https://github.com/pullminder/npm) — npm wrapper for Pullminder CLI `today`
-- [pullminder/registry](https://github.com/pullminder/registry) — Official Pullminder rule pack registry — detection and policy packs for automated PR review `today`
-- [pullminder/action](https://github.com/pullminder/action) — GitHub Action for Pullminder registry validation `today`
-- [pullminder/cli](https://github.com/pullminder/cli) — Pullminder CLI releases `today`
-- [pullminder/.github](https://github.com/pullminder/.github) —  `today`
-- [pullminder/homebrew-tap](https://github.com/pullminder/homebrew-tap) — Homebrew tap for Pullminder CLI `1 day ago`
-- [CoMfUcIoS/vw](https://github.com/CoMfUcIoS/vw) — opinionated command-line interface for Bitwarden and Vaultwarden `3 days ago`
+- [pullminder/.github](https://github.com/pullminder/.github) —  `1 day ago`
+- [pullminder/registry](https://github.com/pullminder/registry) — Official Pullminder rule pack registry — detection and policy packs for automated PR review `1 day ago`
+- [pullminder/action](https://github.com/pullminder/action) — GitHub Action for Pullminder registry validation `1 day ago`
+- [pullminder/cli](https://github.com/pullminder/cli) — Pullminder CLI releases `1 day ago`
+- [pullminder/npm](https://github.com/pullminder/npm) — npm wrapper for Pullminder CLI `1 day ago`
+- [pullminder/homebrew-tap](https://github.com/pullminder/homebrew-tap) — Homebrew tap for Pullminder CLI `2 days ago`
+- [CoMfUcIoS/vw](https://github.com/CoMfUcIoS/vw) — opinionated command-line interface for Bitwarden and Vaultwarden `4 days ago`
 - [CoMfUcIoS/second-brain-mcp](https://github.com/CoMfUcIoS/second-brain-mcp) — An MCP (Model Context Protocol) server that provides intelligent read-only access to your Obsidian vault, enabling it to function as a &#34;second brain&#34; for LLMs. `2 weeks ago`
 - [CoMfUcIoS/GraphQLens](https://github.com/CoMfUcIoS/GraphQLens) — A performant, modern Chrome DevTools extension for inspecting &amp; mocking GraphQL traffic `1 month ago`
 - [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) — Automated nightly E2E test target for Pullminder. Do not modify manually. `1 month ago`
@@ -127,13 +127,13 @@ I build APIs, services, database-backed applications, integrations, and infrastr
 ## Latest releases I’ve contributed to
 
 
-- [pullminder/action](https://github.com/pullminder/action) — [v1.0.3](https://github.com/pullminder/action/releases/tag/v1.0.3), `today`  
+- [pullminder/action](https://github.com/pullminder/action) — [v1.0.3](https://github.com/pullminder/action/releases/tag/v1.0.3), `1 day ago`  
   GitHub Action for Pullminder registry validation
-- [pullminder/cli](https://github.com/pullminder/cli) — [v0.1.21](https://github.com/pullminder/cli/releases/tag/v0.1.21), `today`  
+- [pullminder/cli](https://github.com/pullminder/cli) — [v0.1.21](https://github.com/pullminder/cli/releases/tag/v0.1.21), `1 day ago`  
   Pullminder CLI releases
-- [CoMfUcIoS/vw](https://github.com/CoMfUcIoS/vw) — [v0.2.0](https://github.com/CoMfUcIoS/vw/releases/tag/v0.2.0), `3 days ago`  
+- [CoMfUcIoS/vw](https://github.com/CoMfUcIoS/vw) — [v0.2.0](https://github.com/CoMfUcIoS/vw/releases/tag/v0.2.0), `4 days ago`  
   opinionated command-line interface for Bitwarden and Vaultwarden
-- [pullminder/registry](https://github.com/pullminder/registry) — [v5](https://github.com/pullminder/registry/releases/tag/v5), `4 days ago`  
+- [pullminder/registry](https://github.com/pullminder/registry) — [v5](https://github.com/pullminder/registry/releases/tag/v5), `5 days ago`  
   Official Pullminder rule pack registry — detection and policy packs for automated PR review
 - [CoMfUcIoS/GraphQLens](https://github.com/CoMfUcIoS/GraphQLens) — [v1.0.3](https://github.com/CoMfUcIoS/GraphQLens/releases/tag/v1.0.3), `1 month ago`  
   A performant, modern Chrome DevTools extension for inspecting &amp; mocking GraphQL traffic
@@ -149,16 +149,16 @@ I build APIs, services, database-backed applications, integrations, and infrastr
 ## Recent pull requests
 
 
-- [feat(action): add CI mode and coverage webhook support](https://github.com/pullminder/action/pull/14) on [pullminder/action](https://github.com/pullminder/action) `today`
-- [feat(action): add mode: ci with annotations and artifact upload](https://github.com/pullminder/action/pull/13) on [pullminder/action](https://github.com/pullminder/action) `today`
-- [ci: add tag-mover workflow for v1 floating tag](https://github.com/pullminder/action/pull/11) on [pullminder/action](https://github.com/pullminder/action) `today`
-- [security: redact secret name and org reference from link-check workflow](https://github.com/pullminder/.github/pull/9) on [pullminder/.github](https://github.com/pullminder/.github) `today`
-- [docs: sync documentation from monorepo](https://github.com/pullminder/npm/pull/12) on [pullminder/npm](https://github.com/pullminder/npm) `today`
-- [docs: sync documentation from monorepo](https://github.com/pullminder/action/pull/10) on [pullminder/action](https://github.com/pullminder/action) `today`
-- [security: redact service URL enumeration from SECURITY.md](https://github.com/pullminder/.github/pull/8) on [pullminder/.github](https://github.com/pullminder/.github) `today`
-- [chore: remove Upmate references from SECURITY.md](https://github.com/pullminder/.github/pull/7) on [pullminder/.github](https://github.com/pullminder/.github) `today`
-- [security: redact monorepo references and secret names from workflow files](https://github.com/pullminder/registry/pull/33) on [pullminder/registry](https://github.com/pullminder/registry) `today`
-- [docs: sync documentation from monorepo](https://github.com/pullminder/cli/pull/40) on [pullminder/cli](https://github.com/pullminder/cli) `today`
+- [feat(action): add CI mode and coverage webhook support](https://github.com/pullminder/action/pull/14) on [pullminder/action](https://github.com/pullminder/action) `1 day ago`
+- [feat(action): add mode: ci with annotations and artifact upload](https://github.com/pullminder/action/pull/13) on [pullminder/action](https://github.com/pullminder/action) `1 day ago`
+- [ci: add tag-mover workflow for v1 floating tag](https://github.com/pullminder/action/pull/11) on [pullminder/action](https://github.com/pullminder/action) `1 day ago`
+- [security: redact secret name and org reference from link-check workflow](https://github.com/pullminder/.github/pull/9) on [pullminder/.github](https://github.com/pullminder/.github) `1 day ago`
+- [docs: sync documentation from monorepo](https://github.com/pullminder/npm/pull/12) on [pullminder/npm](https://github.com/pullminder/npm) `1 day ago`
+- [docs: sync documentation from monorepo](https://github.com/pullminder/action/pull/10) on [pullminder/action](https://github.com/pullminder/action) `1 day ago`
+- [security: redact service URL enumeration from SECURITY.md](https://github.com/pullminder/.github/pull/8) on [pullminder/.github](https://github.com/pullminder/.github) `1 day ago`
+- [chore: remove Upmate references from SECURITY.md](https://github.com/pullminder/.github/pull/7) on [pullminder/.github](https://github.com/pullminder/.github) `1 day ago`
+- [security: redact monorepo references and secret names from workflow files](https://github.com/pullminder/registry/pull/33) on [pullminder/registry](https://github.com/pullminder/registry) `1 day ago`
+- [docs: sync documentation from monorepo](https://github.com/pullminder/cli/pull/40) on [pullminder/cli](https://github.com/pullminder/cli) `1 day ago`
 
 ---
 
