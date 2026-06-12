@@ -111,6 +111,7 @@ I build APIs, services, database-backed applications, integrations, and infrastr
 ## Current work
 
 
+- [CoMfUcIoS/neovim](https://github.com/CoMfUcIoS/neovim) — My configuration of Neovim. `today`
 - [pullminder/.github](https://github.com/pullminder/.github) —  `1 day ago`
 - [pullminder/registry](https://github.com/pullminder/registry) — Official Pullminder rule pack registry — detection and policy packs for automated PR review `1 day ago`
 - [pullminder/cli](https://github.com/pullminder/cli) — Pullminder CLI releases `1 day ago`
@@ -120,7 +121,6 @@ I build APIs, services, database-backed applications, integrations, and infrastr
 - [CoMfUcIoS/vw](https://github.com/CoMfUcIoS/vw) — opinionated command-line interface for Bitwarden and Vaultwarden `5 days ago`
 - [CoMfUcIoS/second-brain-mcp](https://github.com/CoMfUcIoS/second-brain-mcp) — An MCP (Model Context Protocol) server that provides intelligent read-only access to your Obsidian vault, enabling it to function as a &#34;second brain&#34; for LLMs. `2 weeks ago`
 - [CoMfUcIoS/GraphQLens](https://github.com/CoMfUcIoS/GraphQLens) — A performant, modern Chrome DevTools extension for inspecting &amp; mocking GraphQL traffic `1 month ago`
-- [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) — Automated nightly E2E test target for Pullminder. Do not modify manually. `1 month ago`
 
 ---
 
@@ -149,6 +149,7 @@ I build APIs, services, database-backed applications, integrations, and infrastr
 ## Recent pull requests
 
 
+- [Nightly E2E test — 27401306468](https://github.com/Upmate/pullminder-e2e-test/pull/60) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `today`
 - [docs: sync documentation from monorepo](https://github.com/pullminder/cli/pull/41) on [pullminder/cli](https://github.com/pullminder/cli) `1 day ago`
 - [docs: sync documentation from monorepo](https://github.com/pullminder/action/pull/15) on [pullminder/action](https://github.com/pullminder/action) `1 day ago`
 - [docs: sync documentation from monorepo](https://github.com/pullminder/registry/pull/36) on [pullminder/registry](https://github.com/pullminder/registry) `1 day ago`
@@ -158,7 +159,6 @@ I build APIs, services, database-backed applications, integrations, and infrastr
 - [feat(sensitive-paths): bump to v4 with auth/ exclude_paths for route files](https://github.com/pullminder/registry/pull/34) on [pullminder/registry](https://github.com/pullminder/registry) `1 day ago`
 - [Nightly E2E test — 27333056684](https://github.com/Upmate/pullminder-e2e-test/pull/59) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `1 day ago`
 - [feat(action): add CI mode and coverage webhook support](https://github.com/pullminder/action/pull/14) on [pullminder/action](https://github.com/pullminder/action) `2 days ago`
-- [feat(action): add mode: ci with annotations and artifact upload](https://github.com/pullminder/action/pull/13) on [pullminder/action](https://github.com/pullminder/action) `2 days ago`
 
 ---
 
