@@ -111,9 +111,9 @@ I build APIs, services, database-backed applications, integrations, and infrastr
 ## Current work
 
 
+- [pullminder/registry](https://github.com/pullminder/registry) — Official Pullminder rule pack registry — detection and policy packs for automated PR review `today`
 - [CoMfUcIoS/neovim](https://github.com/CoMfUcIoS/neovim) — My configuration of Neovim. `today`
 - [pullminder/npm](https://github.com/pullminder/npm) — npm wrapper for Pullminder CLI `1 day ago`
-- [pullminder/registry](https://github.com/pullminder/registry) — Official Pullminder rule pack registry — detection and policy packs for automated PR review `1 day ago`
 - [pullminder/cli](https://github.com/pullminder/cli) — Pullminder CLI releases `1 day ago`
 - [pullminder/.github](https://github.com/pullminder/.github) —  `1 day ago`
 - [pullminder/action](https://github.com/pullminder/action) — GitHub Action for Pullminder registry validation `2 days ago`
@@ -127,7 +127,7 @@ I build APIs, services, database-backed applications, integrations, and infrastr
 ## Latest releases I’ve contributed to
 
 
-- [pullminder/cli](https://github.com/pullminder/cli) — [v0.1.23](https://github.com/pullminder/cli/releases/tag/v0.1.23), `1 day ago`  
+- [pullminder/cli](https://github.com/pullminder/cli) — [v0.1.24](https://github.com/pullminder/cli/releases/tag/v0.1.24), `today`  
   Pullminder CLI releases
 - [pullminder/action](https://github.com/pullminder/action) — [v1.0.3](https://github.com/pullminder/action/releases/tag/v1.0.3), `2 days ago`  
   GitHub Action for Pullminder registry validation
