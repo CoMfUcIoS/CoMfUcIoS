@@ -111,13 +111,13 @@ I build APIs, services, database-backed applications, integrations, and infrastr
 ## Current work
 
 
-- [pullminder/npm](https://github.com/pullminder/npm) — npm wrapper for Pullminder CLI `today`
-- [pullminder/registry](https://github.com/pullminder/registry) — Official Pullminder rule pack registry — detection and policy packs for automated PR review `today`
-- [pullminder/cli](https://github.com/pullminder/cli) — Pullminder CLI releases `today`
-- [pullminder/.github](https://github.com/pullminder/.github) —  `today`
-- [pullminder/action](https://github.com/pullminder/action) — GitHub Action for Pullminder registry validation `1 day ago`
-- [pullminder/homebrew-tap](https://github.com/pullminder/homebrew-tap) — Homebrew tap for Pullminder CLI `2 days ago`
-- [CoMfUcIoS/vw](https://github.com/CoMfUcIoS/vw) — opinionated command-line interface for Bitwarden and Vaultwarden `4 days ago`
+- [pullminder/npm](https://github.com/pullminder/npm) — npm wrapper for Pullminder CLI `1 day ago`
+- [pullminder/registry](https://github.com/pullminder/registry) — Official Pullminder rule pack registry — detection and policy packs for automated PR review `1 day ago`
+- [pullminder/cli](https://github.com/pullminder/cli) — Pullminder CLI releases `1 day ago`
+- [pullminder/.github](https://github.com/pullminder/.github) —  `1 day ago`
+- [pullminder/action](https://github.com/pullminder/action) — GitHub Action for Pullminder registry validation `2 days ago`
+- [pullminder/homebrew-tap](https://github.com/pullminder/homebrew-tap) — Homebrew tap for Pullminder CLI `3 days ago`
+- [CoMfUcIoS/vw](https://github.com/CoMfUcIoS/vw) — opinionated command-line interface for Bitwarden and Vaultwarden `5 days ago`
 - [CoMfUcIoS/second-brain-mcp](https://github.com/CoMfUcIoS/second-brain-mcp) — An MCP (Model Context Protocol) server that provides intelligent read-only access to your Obsidian vault, enabling it to function as a &#34;second brain&#34; for LLMs. `2 weeks ago`
 - [CoMfUcIoS/GraphQLens](https://github.com/CoMfUcIoS/GraphQLens) — A performant, modern Chrome DevTools extension for inspecting &amp; mocking GraphQL traffic `1 month ago`
 - [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) — Automated nightly E2E test target for Pullminder. Do not modify manually. `1 month ago`
@@ -127,21 +127,21 @@ I build APIs, services, database-backed applications, integrations, and infrastr
 ## Latest releases I’ve contributed to
 
 
-- [pullminder/cli](https://github.com/pullminder/cli) — [v0.1.23](https://github.com/pullminder/cli/releases/tag/v0.1.23), `today`  
+- [pullminder/cli](https://github.com/pullminder/cli) — [v0.1.23](https://github.com/pullminder/cli/releases/tag/v0.1.23), `1 day ago`  
   Pullminder CLI releases
-- [pullminder/action](https://github.com/pullminder/action) — [v1.0.3](https://github.com/pullminder/action/releases/tag/v1.0.3), `1 day ago`  
+- [pullminder/action](https://github.com/pullminder/action) — [v1.0.3](https://github.com/pullminder/action/releases/tag/v1.0.3), `2 days ago`  
   GitHub Action for Pullminder registry validation
-- [CoMfUcIoS/vw](https://github.com/CoMfUcIoS/vw) — [v0.2.0](https://github.com/CoMfUcIoS/vw/releases/tag/v0.2.0), `4 days ago`  
+- [CoMfUcIoS/vw](https://github.com/CoMfUcIoS/vw) — [v0.2.0](https://github.com/CoMfUcIoS/vw/releases/tag/v0.2.0), `5 days ago`  
   opinionated command-line interface for Bitwarden and Vaultwarden
-- [pullminder/registry](https://github.com/pullminder/registry) — [v5](https://github.com/pullminder/registry/releases/tag/v5), `5 days ago`  
+- [pullminder/registry](https://github.com/pullminder/registry) — [v5](https://github.com/pullminder/registry/releases/tag/v5), `6 days ago`  
   Official Pullminder rule pack registry — detection and policy packs for automated PR review
 - [CoMfUcIoS/GraphQLens](https://github.com/CoMfUcIoS/GraphQLens) — [v1.0.3](https://github.com/CoMfUcIoS/GraphQLens/releases/tag/v1.0.3), `1 month ago`  
   A performant, modern Chrome DevTools extension for inspecting &amp; mocking GraphQL traffic
 - [CoMfUcIoS/second-brain-mcp](https://github.com/CoMfUcIoS/second-brain-mcp) — [v0.2.1](https://github.com/CoMfUcIoS/second-brain-mcp/releases/tag/v0.2.1), `1 month ago`  
   An MCP (Model Context Protocol) server that provides intelligent read-only access to your Obsidian vault, enabling it to function as a &#34;second brain&#34; for LLMs.
-- [CoMfUcIoS/console-inline.nvim](https://github.com/CoMfUcIoS/console-inline.nvim) — [console-inline.nvim-v3.1.0](https://github.com/CoMfUcIoS/console-inline.nvim/releases/tag/console-inline.nvim-v3.1.0), `5 months ago`  
+- [CoMfUcIoS/console-inline.nvim](https://github.com/CoMfUcIoS/console-inline.nvim) — [console-inline.nvim-v3.1.0](https://github.com/CoMfUcIoS/console-inline.nvim/releases/tag/console-inline.nvim-v3.1.0), `6 months ago`  
   Zero-config Neovim plugin for inline console logs
-- [CoMfUcIoS/ConventionalComments-ext](https://github.com/CoMfUcIoS/ConventionalComments-ext) — [v2.3.0](https://github.com/CoMfUcIoS/ConventionalComments-ext/releases/tag/v2.3.0), `5 months ago`  
+- [CoMfUcIoS/ConventionalComments-ext](https://github.com/CoMfUcIoS/ConventionalComments-ext) — [v2.3.0](https://github.com/CoMfUcIoS/ConventionalComments-ext/releases/tag/v2.3.0), `6 months ago`  
   An easy way to help you be kind and insert Conventional comments in GH comments
 
 ---
@@ -149,16 +149,16 @@ I build APIs, services, database-backed applications, integrations, and infrastr
 ## Recent pull requests
 
 
-- [docs: sync documentation from monorepo](https://github.com/pullminder/cli/pull/41) on [pullminder/cli](https://github.com/pullminder/cli) `today`
-- [docs: sync documentation from monorepo](https://github.com/pullminder/action/pull/15) on [pullminder/action](https://github.com/pullminder/action) `today`
-- [docs: sync documentation from monorepo](https://github.com/pullminder/registry/pull/36) on [pullminder/registry](https://github.com/pullminder/registry) `today`
-- [docs: sync documentation from monorepo](https://github.com/pullminder/npm/pull/13) on [pullminder/npm](https://github.com/pullminder/npm) `today`
-- [docs: sync community health files from monorepo](https://github.com/pullminder/.github/pull/10) on [pullminder/.github](https://github.com/pullminder/.github) `today`
-- [fix(secrets): exclude CI test credentials from SECRET_CONNECTION_STRING](https://github.com/pullminder/registry/pull/35) on [pullminder/registry](https://github.com/pullminder/registry) `today`
-- [feat(sensitive-paths): bump to v4 with auth/ exclude_paths for route files](https://github.com/pullminder/registry/pull/34) on [pullminder/registry](https://github.com/pullminder/registry) `today`
-- [Nightly E2E test — 27333056684](https://github.com/Upmate/pullminder-e2e-test/pull/59) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `today`
-- [feat(action): add CI mode and coverage webhook support](https://github.com/pullminder/action/pull/14) on [pullminder/action](https://github.com/pullminder/action) `1 day ago`
-- [feat(action): add mode: ci with annotations and artifact upload](https://github.com/pullminder/action/pull/13) on [pullminder/action](https://github.com/pullminder/action) `1 day ago`
+- [docs: sync documentation from monorepo](https://github.com/pullminder/cli/pull/41) on [pullminder/cli](https://github.com/pullminder/cli) `1 day ago`
+- [docs: sync documentation from monorepo](https://github.com/pullminder/action/pull/15) on [pullminder/action](https://github.com/pullminder/action) `1 day ago`
+- [docs: sync documentation from monorepo](https://github.com/pullminder/registry/pull/36) on [pullminder/registry](https://github.com/pullminder/registry) `1 day ago`
+- [docs: sync documentation from monorepo](https://github.com/pullminder/npm/pull/13) on [pullminder/npm](https://github.com/pullminder/npm) `1 day ago`
+- [docs: sync community health files from monorepo](https://github.com/pullminder/.github/pull/10) on [pullminder/.github](https://github.com/pullminder/.github) `1 day ago`
+- [fix(secrets): exclude CI test credentials from SECRET_CONNECTION_STRING](https://github.com/pullminder/registry/pull/35) on [pullminder/registry](https://github.com/pullminder/registry) `1 day ago`
+- [feat(sensitive-paths): bump to v4 with auth/ exclude_paths for route files](https://github.com/pullminder/registry/pull/34) on [pullminder/registry](https://github.com/pullminder/registry) `1 day ago`
+- [Nightly E2E test — 27333056684](https://github.com/Upmate/pullminder-e2e-test/pull/59) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `1 day ago`
+- [feat(action): add CI mode and coverage webhook support](https://github.com/pullminder/action/pull/14) on [pullminder/action](https://github.com/pullminder/action) `2 days ago`
+- [feat(action): add mode: ci with annotations and artifact upload](https://github.com/pullminder/action/pull/13) on [pullminder/action](https://github.com/pullminder/action) `2 days ago`
 
 ---
 
