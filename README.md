@@ -149,6 +149,7 @@ I build APIs, services, database-backed applications, integrations, and infrastr
 ## Recent pull requests
 
 
+- [Nightly E2E test — 27459786599](https://github.com/Upmate/pullminder-e2e-test/pull/61) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `today`
 - [Nightly E2E test — 27401306468](https://github.com/Upmate/pullminder-e2e-test/pull/60) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `1 day ago`
 - [docs: sync documentation from monorepo](https://github.com/pullminder/cli/pull/41) on [pullminder/cli](https://github.com/pullminder/cli) `2 days ago`
 - [docs: sync documentation from monorepo](https://github.com/pullminder/action/pull/15) on [pullminder/action](https://github.com/pullminder/action) `2 days ago`
@@ -158,7 +159,6 @@ I build APIs, services, database-backed applications, integrations, and infrastr
 - [fix(secrets): exclude CI test credentials from SECRET_CONNECTION_STRING](https://github.com/pullminder/registry/pull/35) on [pullminder/registry](https://github.com/pullminder/registry) `2 days ago`
 - [feat(sensitive-paths): bump to v4 with auth/ exclude_paths for route files](https://github.com/pullminder/registry/pull/34) on [pullminder/registry](https://github.com/pullminder/registry) `2 days ago`
 - [Nightly E2E test — 27333056684](https://github.com/Upmate/pullminder-e2e-test/pull/59) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `2 days ago`
-- [feat(action): add CI mode and coverage webhook support](https://github.com/pullminder/action/pull/14) on [pullminder/action](https://github.com/pullminder/action) `3 days ago`
 
 ---
 
