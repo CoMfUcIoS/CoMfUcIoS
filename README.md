@@ -149,6 +149,7 @@ I build APIs, services, database-backed applications, integrations, and infrastr
 ## Recent pull requests
 
 
+- [Nightly E2E test — 27536870018](https://github.com/Upmate/pullminder-e2e-test/pull/63) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `today`
 - [Nightly E2E test — 27491869616](https://github.com/Upmate/pullminder-e2e-test/pull/62) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `1 day ago`
 - [Nightly E2E test — 27459786599](https://github.com/Upmate/pullminder-e2e-test/pull/61) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `2 days ago`
 - [Nightly E2E test — 27401306468](https://github.com/Upmate/pullminder-e2e-test/pull/60) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `3 days ago`
@@ -158,7 +159,6 @@ I build APIs, services, database-backed applications, integrations, and infrastr
 - [docs: sync documentation from monorepo](https://github.com/pullminder/npm/pull/13) on [pullminder/npm](https://github.com/pullminder/npm) `4 days ago`
 - [docs: sync community health files from monorepo](https://github.com/pullminder/.github/pull/10) on [pullminder/.github](https://github.com/pullminder/.github) `4 days ago`
 - [fix(secrets): exclude CI test credentials from SECRET_CONNECTION_STRING](https://github.com/pullminder/registry/pull/35) on [pullminder/registry](https://github.com/pullminder/registry) `4 days ago`
-- [feat(sensitive-paths): bump to v4 with auth/ exclude_paths for route files](https://github.com/pullminder/registry/pull/34) on [pullminder/registry](https://github.com/pullminder/registry) `4 days ago`
 
 ---
 
