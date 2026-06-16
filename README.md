@@ -111,13 +111,13 @@ I build APIs, services, database-backed applications, integrations, and infrastr
 ## Current work
 
 
-- [pullminder/registry](https://github.com/pullminder/registry) — Official Pullminder rule pack registry — detection and policy packs for automated PR review `3 days ago`
-- [CoMfUcIoS/neovim](https://github.com/CoMfUcIoS/neovim) — My configuration of Neovim. `3 days ago`
-- [pullminder/.github](https://github.com/pullminder/.github) —  `4 days ago`
-- [pullminder/cli](https://github.com/pullminder/cli) — Pullminder CLI releases `4 days ago`
-- [pullminder/npm](https://github.com/pullminder/npm) — npm wrapper for Pullminder CLI `4 days ago`
-- [pullminder/action](https://github.com/pullminder/action) — GitHub Action for Pullminder registry validation `5 days ago`
-- [pullminder/homebrew-tap](https://github.com/pullminder/homebrew-tap) — Homebrew tap for Pullminder CLI `6 days ago`
+- [pullminder/registry](https://github.com/pullminder/registry) — Official Pullminder rule pack registry — detection and policy packs for automated PR review `4 days ago`
+- [CoMfUcIoS/neovim](https://github.com/CoMfUcIoS/neovim) — My configuration of Neovim. `4 days ago`
+- [pullminder/.github](https://github.com/pullminder/.github) —  `5 days ago`
+- [pullminder/cli](https://github.com/pullminder/cli) — Pullminder CLI releases `5 days ago`
+- [pullminder/npm](https://github.com/pullminder/npm) — npm wrapper for Pullminder CLI `5 days ago`
+- [pullminder/action](https://github.com/pullminder/action) — GitHub Action for Pullminder registry validation `6 days ago`
+- [pullminder/homebrew-tap](https://github.com/pullminder/homebrew-tap) — Homebrew tap for Pullminder CLI `1 week ago`
 - [CoMfUcIoS/vw](https://github.com/CoMfUcIoS/vw) — opinionated command-line interface for Bitwarden and Vaultwarden `1 week ago`
 - [CoMfUcIoS/second-brain-mcp](https://github.com/CoMfUcIoS/second-brain-mcp) — An MCP (Model Context Protocol) server that provides intelligent read-only access to your Obsidian vault, enabling it to function as a &#34;second brain&#34; for LLMs. `2 weeks ago`
 - [CoMfUcIoS/GraphQLens](https://github.com/CoMfUcIoS/GraphQLens) — A performant, modern Chrome DevTools extension for inspecting &amp; mocking GraphQL traffic `1 month ago`
@@ -127,9 +127,9 @@ I build APIs, services, database-backed applications, integrations, and infrastr
 ## Latest releases I’ve contributed to
 
 
-- [pullminder/cli](https://github.com/pullminder/cli) — [v0.1.24](https://github.com/pullminder/cli/releases/tag/v0.1.24), `3 days ago`  
+- [pullminder/cli](https://github.com/pullminder/cli) — [v0.1.24](https://github.com/pullminder/cli/releases/tag/v0.1.24), `4 days ago`  
   Pullminder CLI releases
-- [pullminder/action](https://github.com/pullminder/action) — [v1.0.3](https://github.com/pullminder/action/releases/tag/v1.0.3), `5 days ago`  
+- [pullminder/action](https://github.com/pullminder/action) — [v1.0.3](https://github.com/pullminder/action/releases/tag/v1.0.3), `6 days ago`  
   GitHub Action for Pullminder registry validation
 - [CoMfUcIoS/vw](https://github.com/CoMfUcIoS/vw) — [v0.2.0](https://github.com/CoMfUcIoS/vw/releases/tag/v0.2.0), `1 week ago`  
   opinionated command-line interface for Bitwarden and Vaultwarden
@@ -149,16 +149,16 @@ I build APIs, services, database-backed applications, integrations, and infrastr
 ## Recent pull requests
 
 
-- [Nightly E2E test — 27536870018](https://github.com/Upmate/pullminder-e2e-test/pull/63) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `today`
-- [Nightly E2E test — 27491869616](https://github.com/Upmate/pullminder-e2e-test/pull/62) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `1 day ago`
-- [Nightly E2E test — 27459786599](https://github.com/Upmate/pullminder-e2e-test/pull/61) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `2 days ago`
-- [Nightly E2E test — 27401306468](https://github.com/Upmate/pullminder-e2e-test/pull/60) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `3 days ago`
-- [docs: sync documentation from monorepo](https://github.com/pullminder/cli/pull/41) on [pullminder/cli](https://github.com/pullminder/cli) `4 days ago`
-- [docs: sync documentation from monorepo](https://github.com/pullminder/action/pull/15) on [pullminder/action](https://github.com/pullminder/action) `4 days ago`
-- [docs: sync documentation from monorepo](https://github.com/pullminder/registry/pull/36) on [pullminder/registry](https://github.com/pullminder/registry) `4 days ago`
-- [docs: sync documentation from monorepo](https://github.com/pullminder/npm/pull/13) on [pullminder/npm](https://github.com/pullminder/npm) `4 days ago`
-- [docs: sync community health files from monorepo](https://github.com/pullminder/.github/pull/10) on [pullminder/.github](https://github.com/pullminder/.github) `4 days ago`
-- [fix(secrets): exclude CI test credentials from SECRET_CONNECTION_STRING](https://github.com/pullminder/registry/pull/35) on [pullminder/registry](https://github.com/pullminder/registry) `4 days ago`
+- [Nightly E2E test — 27536870018](https://github.com/Upmate/pullminder-e2e-test/pull/63) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `1 day ago`
+- [Nightly E2E test — 27491869616](https://github.com/Upmate/pullminder-e2e-test/pull/62) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `2 days ago`
+- [Nightly E2E test — 27459786599](https://github.com/Upmate/pullminder-e2e-test/pull/61) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `3 days ago`
+- [Nightly E2E test — 27401306468](https://github.com/Upmate/pullminder-e2e-test/pull/60) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `4 days ago`
+- [docs: sync documentation from monorepo](https://github.com/pullminder/cli/pull/41) on [pullminder/cli](https://github.com/pullminder/cli) `5 days ago`
+- [docs: sync documentation from monorepo](https://github.com/pullminder/action/pull/15) on [pullminder/action](https://github.com/pullminder/action) `5 days ago`
+- [docs: sync documentation from monorepo](https://github.com/pullminder/registry/pull/36) on [pullminder/registry](https://github.com/pullminder/registry) `5 days ago`
+- [docs: sync documentation from monorepo](https://github.com/pullminder/npm/pull/13) on [pullminder/npm](https://github.com/pullminder/npm) `5 days ago`
+- [docs: sync community health files from monorepo](https://github.com/pullminder/.github/pull/10) on [pullminder/.github](https://github.com/pullminder/.github) `5 days ago`
+- [fix(secrets): exclude CI test credentials from SECRET_CONNECTION_STRING](https://github.com/pullminder/registry/pull/35) on [pullminder/registry](https://github.com/pullminder/registry) `5 days ago`
 
 ---
 
