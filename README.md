@@ -111,10 +111,10 @@ I build APIs, services, database-backed applications, integrations, and infrastr
 ## Current work
 
 
-- [pullminder/registry](https://github.com/pullminder/registry) — Official Pullminder rule pack registry — detection and policy packs for automated PR review `5 days ago`
+- [pullminder/registry](https://github.com/pullminder/registry) — Official Pullminder rule pack registry — detection and policy packs for automated PR review `today`
 - [CoMfUcIoS/neovim](https://github.com/CoMfUcIoS/neovim) — My configuration of Neovim. `5 days ago`
-- [pullminder/.github](https://github.com/pullminder/.github) —  `6 days ago`
 - [pullminder/cli](https://github.com/pullminder/cli) — Pullminder CLI releases `6 days ago`
+- [pullminder/.github](https://github.com/pullminder/.github) —  `6 days ago`
 - [pullminder/npm](https://github.com/pullminder/npm) — npm wrapper for Pullminder CLI `6 days ago`
 - [pullminder/action](https://github.com/pullminder/action) — GitHub Action for Pullminder registry validation `1 week ago`
 - [pullminder/homebrew-tap](https://github.com/pullminder/homebrew-tap) — Homebrew tap for Pullminder CLI `1 week ago`
@@ -127,7 +127,7 @@ I build APIs, services, database-backed applications, integrations, and infrastr
 ## Latest releases I’ve contributed to
 
 
-- [pullminder/cli](https://github.com/pullminder/cli) — [v0.1.24](https://github.com/pullminder/cli/releases/tag/v0.1.24), `5 days ago`  
+- [pullminder/cli](https://github.com/pullminder/cli) — [v0.1.25](https://github.com/pullminder/cli/releases/tag/v0.1.25), `today`  
   Pullminder CLI releases
 - [pullminder/action](https://github.com/pullminder/action) — [v1.0.3](https://github.com/pullminder/action/releases/tag/v1.0.3), `1 week ago`  
   GitHub Action for Pullminder registry validation
@@ -149,6 +149,7 @@ I build APIs, services, database-backed applications, integrations, and infrastr
 ## Recent pull requests
 
 
+- [Nightly E2E test — 27676239113](https://github.com/Upmate/pullminder-e2e-test/pull/65) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `today`
 - [fix(secrets): exclude shell env var references from Generic Secret detection](https://github.com/pullminder/registry/pull/37) on [pullminder/registry](https://github.com/pullminder/registry) `today`
 - [Nightly E2E test — 27605807364](https://github.com/Upmate/pullminder-e2e-test/pull/64) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `1 day ago`
 - [Nightly E2E test — 27536870018](https://github.com/Upmate/pullminder-e2e-test/pull/63) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `2 days ago`
@@ -158,7 +159,6 @@ I build APIs, services, database-backed applications, integrations, and infrastr
 - [docs: sync documentation from monorepo](https://github.com/pullminder/cli/pull/41) on [pullminder/cli](https://github.com/pullminder/cli) `6 days ago`
 - [docs: sync documentation from monorepo](https://github.com/pullminder/action/pull/15) on [pullminder/action](https://github.com/pullminder/action) `6 days ago`
 - [docs: sync documentation from monorepo](https://github.com/pullminder/registry/pull/36) on [pullminder/registry](https://github.com/pullminder/registry) `6 days ago`
-- [docs: sync documentation from monorepo](https://github.com/pullminder/npm/pull/13) on [pullminder/npm](https://github.com/pullminder/npm) `6 days ago`
 
 ---
 
