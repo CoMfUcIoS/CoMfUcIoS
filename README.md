@@ -149,6 +149,7 @@ I build APIs, services, database-backed applications, integrations, and infrastr
 ## Recent pull requests
 
 
+- [Nightly E2E test — 27745997673](https://github.com/Upmate/pullminder-e2e-test/pull/66) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `today`
 - [Nightly E2E test — 27676239113](https://github.com/Upmate/pullminder-e2e-test/pull/65) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `1 day ago`
 - [fix(secrets): exclude shell env var references from Generic Secret detection](https://github.com/pullminder/registry/pull/37) on [pullminder/registry](https://github.com/pullminder/registry) `1 day ago`
 - [Nightly E2E test — 27605807364](https://github.com/Upmate/pullminder-e2e-test/pull/64) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `2 days ago`
@@ -158,7 +159,6 @@ I build APIs, services, database-backed applications, integrations, and infrastr
 - [Nightly E2E test — 27401306468](https://github.com/Upmate/pullminder-e2e-test/pull/60) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `6 days ago`
 - [docs: sync documentation from monorepo](https://github.com/pullminder/cli/pull/41) on [pullminder/cli](https://github.com/pullminder/cli) `1 week ago`
 - [docs: sync documentation from monorepo](https://github.com/pullminder/action/pull/15) on [pullminder/action](https://github.com/pullminder/action) `1 week ago`
-- [docs: sync documentation from monorepo](https://github.com/pullminder/registry/pull/36) on [pullminder/registry](https://github.com/pullminder/registry) `1 week ago`
 
 ---
 
