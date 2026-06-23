@@ -149,6 +149,9 @@ I build APIs, services, database-backed applications, integrations, and infrastr
 ## Recent pull requests
 
 
+- [fix(secrets): add comment-line exclusion to SECRET_CONNECTION_STRING exclude_pattern](https://github.com/pullminder/registry/pull/41) on [pullminder/registry](https://github.com/pullminder/registry) `today`
+- [fix(dependency-detection): add Pipfile to pack manifest_files](https://github.com/pullminder/registry/pull/40) on [pullminder/registry](https://github.com/pullminder/registry) `today`
+- [fix(rust-security): remove dead RUST_FORMAT_STRING_USER pattern](https://github.com/pullminder/registry/pull/39) on [pullminder/registry](https://github.com/pullminder/registry) `today`
 - [fix(dependency-detection): add Pipfile to pack manifest_files (#1618)](https://github.com/pullminder/registry/pull/38) on [pullminder/registry](https://github.com/pullminder/registry) `today`
 - [Nightly E2E test — 28008104509](https://github.com/Upmate/pullminder-e2e-test/pull/71) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `today`
 - [Nightly E2E test — 27942207725](https://github.com/Upmate/pullminder-e2e-test/pull/70) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `1 day ago`
@@ -156,9 +159,6 @@ I build APIs, services, database-backed applications, integrations, and infrastr
 - [Nightly E2E test — 27863697969](https://github.com/Upmate/pullminder-e2e-test/pull/68) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `3 days ago`
 - [Nightly E2E test — 27814983378](https://github.com/Upmate/pullminder-e2e-test/pull/67) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `4 days ago`
 - [Nightly E2E test — 27745997673](https://github.com/Upmate/pullminder-e2e-test/pull/66) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `5 days ago`
-- [Nightly E2E test — 27676239113](https://github.com/Upmate/pullminder-e2e-test/pull/65) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `6 days ago`
-- [fix(secrets): exclude shell env var references from Generic Secret detection](https://github.com/pullminder/registry/pull/37) on [pullminder/registry](https://github.com/pullminder/registry) `6 days ago`
-- [Nightly E2E test — 27605807364](https://github.com/Upmate/pullminder-e2e-test/pull/64) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `1 week ago`
 
 ---
 
