@@ -149,6 +149,9 @@ I build APIs, services, database-backed applications, integrations, and infrastr
 ## Recent pull requests
 
 
+- [fix(crypto-anti-patterns): narrow CRYPTO_CUSTOM_IMPL to match only crypto keywords at start of identifier](https://github.com/pullminder/registry/pull/44) on [pullminder/registry](https://github.com/pullminder/registry) `today`
+- [csharp-security: split CSHARP_HARDCODED_CONN into credential/non-credential rules](https://github.com/pullminder/registry/pull/43) on [pullminder/registry](https://github.com/pullminder/registry) `today`
+- [fix(packs): lower CSHARP_XXE severity to warning, add exclude_pattern for XmlResolver=null](https://github.com/pullminder/registry/pull/42) on [pullminder/registry](https://github.com/pullminder/registry) `today`
 - [fix(secrets): add comment-line exclusion to SECRET_CONNECTION_STRING exclude_pattern](https://github.com/pullminder/registry/pull/41) on [pullminder/registry](https://github.com/pullminder/registry) `today`
 - [fix(dependency-detection): add Pipfile to pack manifest_files](https://github.com/pullminder/registry/pull/40) on [pullminder/registry](https://github.com/pullminder/registry) `today`
 - [fix(rust-security): remove dead RUST_FORMAT_STRING_USER pattern](https://github.com/pullminder/registry/pull/39) on [pullminder/registry](https://github.com/pullminder/registry) `today`
@@ -156,9 +159,6 @@ I build APIs, services, database-backed applications, integrations, and infrastr
 - [Nightly E2E test — 28008104509](https://github.com/Upmate/pullminder-e2e-test/pull/71) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `today`
 - [Nightly E2E test — 27942207725](https://github.com/Upmate/pullminder-e2e-test/pull/70) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `1 day ago`
 - [Nightly E2E test — 27898110318](https://github.com/Upmate/pullminder-e2e-test/pull/69) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `2 days ago`
-- [Nightly E2E test — 27863697969](https://github.com/Upmate/pullminder-e2e-test/pull/68) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `3 days ago`
-- [Nightly E2E test — 27814983378](https://github.com/Upmate/pullminder-e2e-test/pull/67) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `4 days ago`
-- [Nightly E2E test — 27745997673](https://github.com/Upmate/pullminder-e2e-test/pull/66) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `5 days ago`
 
 ---
 
