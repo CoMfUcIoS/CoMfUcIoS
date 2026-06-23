@@ -111,13 +111,13 @@ I build APIs, services, database-backed applications, integrations, and infrastr
 ## Current work
 
 
-- [pullminder/.github](https://github.com/pullminder/.github) —  `3 days ago`
-- [pullminder/registry](https://github.com/pullminder/registry) — Official Pullminder rule pack registry — detection and policy packs for automated PR review `5 days ago`
+- [pullminder/.github](https://github.com/pullminder/.github) —  `4 days ago`
+- [pullminder/registry](https://github.com/pullminder/registry) — Official Pullminder rule pack registry — detection and policy packs for automated PR review `6 days ago`
 - [CoMfUcIoS/neovim](https://github.com/CoMfUcIoS/neovim) — My configuration of Neovim. `1 week ago`
 - [pullminder/npm](https://github.com/pullminder/npm) — npm wrapper for Pullminder CLI `1 week ago`
 - [pullminder/cli](https://github.com/pullminder/cli) — Pullminder CLI releases `1 week ago`
 - [pullminder/action](https://github.com/pullminder/action) — GitHub Action for Pullminder registry validation `1 week ago`
-- [pullminder/homebrew-tap](https://github.com/pullminder/homebrew-tap) — Homebrew tap for Pullminder CLI `1 week ago`
+- [pullminder/homebrew-tap](https://github.com/pullminder/homebrew-tap) — Homebrew tap for Pullminder CLI `2 weeks ago`
 - [CoMfUcIoS/vw](https://github.com/CoMfUcIoS/vw) — opinionated command-line interface for Bitwarden and Vaultwarden `2 weeks ago`
 - [CoMfUcIoS/second-brain-mcp](https://github.com/CoMfUcIoS/second-brain-mcp) — An MCP (Model Context Protocol) server that provides intelligent read-only access to your Obsidian vault, enabling it to function as a &#34;second brain&#34; for LLMs. `3 weeks ago`
 - [CoMfUcIoS/GraphQLens](https://github.com/CoMfUcIoS/GraphQLens) — A performant, modern Chrome DevTools extension for inspecting &amp; mocking GraphQL traffic `1 month ago`
@@ -127,7 +127,7 @@ I build APIs, services, database-backed applications, integrations, and infrastr
 ## Latest releases I’ve contributed to
 
 
-- [pullminder/cli](https://github.com/pullminder/cli) — [v0.1.26](https://github.com/pullminder/cli/releases/tag/v0.1.26), `5 days ago`  
+- [pullminder/cli](https://github.com/pullminder/cli) — [v0.1.26](https://github.com/pullminder/cli/releases/tag/v0.1.26), `6 days ago`  
   Pullminder CLI releases
 - [pullminder/action](https://github.com/pullminder/action) — [v1.0.3](https://github.com/pullminder/action/releases/tag/v1.0.3), `1 week ago`  
   GitHub Action for Pullminder registry validation
@@ -149,14 +149,14 @@ I build APIs, services, database-backed applications, integrations, and infrastr
 ## Recent pull requests
 
 
-- [Nightly E2E test — 27942207725](https://github.com/Upmate/pullminder-e2e-test/pull/70) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `today`
-- [Nightly E2E test — 27898110318](https://github.com/Upmate/pullminder-e2e-test/pull/69) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `1 day ago`
-- [Nightly E2E test — 27863697969](https://github.com/Upmate/pullminder-e2e-test/pull/68) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `2 days ago`
-- [Nightly E2E test — 27814983378](https://github.com/Upmate/pullminder-e2e-test/pull/67) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `3 days ago`
-- [Nightly E2E test — 27745997673](https://github.com/Upmate/pullminder-e2e-test/pull/66) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `4 days ago`
-- [Nightly E2E test — 27676239113](https://github.com/Upmate/pullminder-e2e-test/pull/65) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `5 days ago`
-- [fix(secrets): exclude shell env var references from Generic Secret detection](https://github.com/pullminder/registry/pull/37) on [pullminder/registry](https://github.com/pullminder/registry) `5 days ago`
-- [Nightly E2E test — 27605807364](https://github.com/Upmate/pullminder-e2e-test/pull/64) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `6 days ago`
+- [Nightly E2E test — 27942207725](https://github.com/Upmate/pullminder-e2e-test/pull/70) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `1 day ago`
+- [Nightly E2E test — 27898110318](https://github.com/Upmate/pullminder-e2e-test/pull/69) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `2 days ago`
+- [Nightly E2E test — 27863697969](https://github.com/Upmate/pullminder-e2e-test/pull/68) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `3 days ago`
+- [Nightly E2E test — 27814983378](https://github.com/Upmate/pullminder-e2e-test/pull/67) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `4 days ago`
+- [Nightly E2E test — 27745997673](https://github.com/Upmate/pullminder-e2e-test/pull/66) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `5 days ago`
+- [Nightly E2E test — 27676239113](https://github.com/Upmate/pullminder-e2e-test/pull/65) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `6 days ago`
+- [fix(secrets): exclude shell env var references from Generic Secret detection](https://github.com/pullminder/registry/pull/37) on [pullminder/registry](https://github.com/pullminder/registry) `6 days ago`
+- [Nightly E2E test — 27605807364](https://github.com/Upmate/pullminder-e2e-test/pull/64) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `1 week ago`
 - [Nightly E2E test — 27536870018](https://github.com/Upmate/pullminder-e2e-test/pull/63) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `1 week ago`
 - [Nightly E2E test — 27491869616](https://github.com/Upmate/pullminder-e2e-test/pull/62) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `1 week ago`
 
