@@ -149,6 +149,7 @@ I build APIs, services, database-backed applications, integrations, and infrastr
 ## Recent pull requests
 
 
+- [Nightly E2E test — 28008104509](https://github.com/Upmate/pullminder-e2e-test/pull/71) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `today`
 - [Nightly E2E test — 27942207725](https://github.com/Upmate/pullminder-e2e-test/pull/70) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `1 day ago`
 - [Nightly E2E test — 27898110318](https://github.com/Upmate/pullminder-e2e-test/pull/69) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `2 days ago`
 - [Nightly E2E test — 27863697969](https://github.com/Upmate/pullminder-e2e-test/pull/68) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `3 days ago`
@@ -158,7 +159,6 @@ I build APIs, services, database-backed applications, integrations, and infrastr
 - [fix(secrets): exclude shell env var references from Generic Secret detection](https://github.com/pullminder/registry/pull/37) on [pullminder/registry](https://github.com/pullminder/registry) `6 days ago`
 - [Nightly E2E test — 27605807364](https://github.com/Upmate/pullminder-e2e-test/pull/64) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `1 week ago`
 - [Nightly E2E test — 27536870018](https://github.com/Upmate/pullminder-e2e-test/pull/63) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `1 week ago`
-- [Nightly E2E test — 27491869616](https://github.com/Upmate/pullminder-e2e-test/pull/62) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `1 week ago`
 
 ---
 
