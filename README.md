@@ -149,6 +149,8 @@ I build APIs, services, database-backed applications, integrations, and infrastr
 ## Recent pull requests
 
 
+- [fix(php-security): add exclude_pattern to PHP_XSS to prevent false positives on sanitized output](https://github.com/pullminder/registry/pull/67) on [pullminder/registry](https://github.com/pullminder/registry) `today`
+- [fix(pii-leakage): add \b word boundaries to PII_PHONE regex](https://github.com/pullminder/registry/pull/66) on [pullminder/registry](https://github.com/pullminder/registry) `today`
 - [feat(rust-security): adopt v7 pattern improvements from workspace snapshot](https://github.com/pullminder/registry/pull/65) on [pullminder/registry](https://github.com/pullminder/registry) `today`
 - [fix(sensitive-paths): add .example exclusion to deploy/ path entry](https://github.com/pullminder/registry/pull/64) on [pullminder/registry](https://github.com/pullminder/registry) `today`
 - [Nightly E2E test — 28080797400](https://github.com/Upmate/pullminder-e2e-test/pull/72) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `today`
@@ -157,8 +159,6 @@ I build APIs, services, database-backed applications, integrations, and infrastr
 - [feat(csharp-security): backport pack to 13 patterns, bump to v2](https://github.com/pullminder/registry/pull/61) on [pullminder/registry](https://github.com/pullminder/registry) `today`
 - [feat(react-security): add JS_INNERHTML_USERINPUT multi-line taint detection rule](https://github.com/pullminder/registry/pull/59) on [pullminder/registry](https://github.com/pullminder/registry) `today`
 - [feat(csharp-security): add fix_templates.csharp to 7 patterns](https://github.com/pullminder/registry/pull/58) on [pullminder/registry](https://github.com/pullminder/registry) `today`
-- [fix: CRYPTO_SMALL_AES no longer flags NIST-approved AES-128](https://github.com/pullminder/registry/pull/57) on [pullminder/registry](https://github.com/pullminder/registry) `today`
-- [fix(react-security): scope REACT_DIRECT_DOM to JSX/TSX; add JS_INNERHTML_USERINPUT](https://github.com/pullminder/registry/pull/56) on [pullminder/registry](https://github.com/pullminder/registry) `today`
 
 ---
 
