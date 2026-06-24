@@ -111,15 +111,15 @@ I build APIs, services, database-backed applications, integrations, and infrastr
 ## Current work
 
 
-- [pullminder/.github](https://github.com/pullminder/.github) —  `4 days ago`
-- [pullminder/registry](https://github.com/pullminder/registry) — Official Pullminder rule pack registry — detection and policy packs for automated PR review `6 days ago`
+- [pullminder/registry](https://github.com/pullminder/registry) — Official Pullminder rule pack registry — detection and policy packs for automated PR review `today`
+- [pullminder/.github](https://github.com/pullminder/.github) —  `5 days ago`
 - [CoMfUcIoS/neovim](https://github.com/CoMfUcIoS/neovim) — My configuration of Neovim. `1 week ago`
 - [pullminder/npm](https://github.com/pullminder/npm) — npm wrapper for Pullminder CLI `1 week ago`
 - [pullminder/cli](https://github.com/pullminder/cli) — Pullminder CLI releases `1 week ago`
-- [pullminder/action](https://github.com/pullminder/action) — GitHub Action for Pullminder registry validation `1 week ago`
+- [pullminder/action](https://github.com/pullminder/action) — GitHub Action for Pullminder registry validation `2 weeks ago`
 - [pullminder/homebrew-tap](https://github.com/pullminder/homebrew-tap) — Homebrew tap for Pullminder CLI `2 weeks ago`
 - [CoMfUcIoS/vw](https://github.com/CoMfUcIoS/vw) — opinionated command-line interface for Bitwarden and Vaultwarden `2 weeks ago`
-- [CoMfUcIoS/second-brain-mcp](https://github.com/CoMfUcIoS/second-brain-mcp) — An MCP (Model Context Protocol) server that provides intelligent read-only access to your Obsidian vault, enabling it to function as a &#34;second brain&#34; for LLMs. `3 weeks ago`
+- [CoMfUcIoS/second-brain-mcp](https://github.com/CoMfUcIoS/second-brain-mcp) — An MCP (Model Context Protocol) server that provides intelligent read-only access to your Obsidian vault, enabling it to function as a &#34;second brain&#34; for LLMs. `4 weeks ago`
 - [CoMfUcIoS/GraphQLens](https://github.com/CoMfUcIoS/GraphQLens) — A performant, modern Chrome DevTools extension for inspecting &amp; mocking GraphQL traffic `1 month ago`
 
 ---
@@ -127,9 +127,9 @@ I build APIs, services, database-backed applications, integrations, and infrastr
 ## Latest releases I’ve contributed to
 
 
-- [pullminder/cli](https://github.com/pullminder/cli) — [v0.1.26](https://github.com/pullminder/cli/releases/tag/v0.1.26), `6 days ago`  
+- [pullminder/cli](https://github.com/pullminder/cli) — [v0.1.26](https://github.com/pullminder/cli/releases/tag/v0.1.26), `1 week ago`  
   Pullminder CLI releases
-- [pullminder/action](https://github.com/pullminder/action) — [v1.0.3](https://github.com/pullminder/action/releases/tag/v1.0.3), `1 week ago`  
+- [pullminder/action](https://github.com/pullminder/action) — [v1.0.3](https://github.com/pullminder/action/releases/tag/v1.0.3), `2 weeks ago`  
   GitHub Action for Pullminder registry validation
 - [CoMfUcIoS/vw](https://github.com/CoMfUcIoS/vw) — [v0.2.0](https://github.com/CoMfUcIoS/vw/releases/tag/v0.2.0), `2 weeks ago`  
   opinionated command-line interface for Bitwarden and Vaultwarden
@@ -149,23 +149,23 @@ I build APIs, services, database-backed applications, integrations, and infrastr
 ## Recent pull requests
 
 
-- [fix(rust-security): word boundary after SQL keywords in RUST_SQL_FORMAT](https://github.com/pullminder/registry/pull/48) on [pullminder/registry](https://github.com/pullminder/registry) `today`
-- [fix(python-security): scope PY_DJANGO_DEBUG to Django settings file paths](https://github.com/pullminder/registry/pull/47) on [pullminder/registry](https://github.com/pullminder/registry) `today`
-- [fix(python-security): add dot-method exclusion to PY_EVAL and PY_EXEC, bump to v7](https://github.com/pullminder/registry/pull/46) on [pullminder/registry](https://github.com/pullminder/registry) `today`
-- [fix(dependency-detection): add Pipfile to manifest_files, bump to v5](https://github.com/pullminder/registry/pull/45) on [pullminder/registry](https://github.com/pullminder/registry) `today`
-- [fix(crypto-anti-patterns): narrow CRYPTO_CUSTOM_IMPL to match only crypto keywords at start of identifier](https://github.com/pullminder/registry/pull/44) on [pullminder/registry](https://github.com/pullminder/registry) `today`
-- [csharp-security: split CSHARP_HARDCODED_CONN into credential/non-credential rules](https://github.com/pullminder/registry/pull/43) on [pullminder/registry](https://github.com/pullminder/registry) `today`
-- [fix(packs): lower CSHARP_XXE severity to warning, add exclude_pattern for XmlResolver=null](https://github.com/pullminder/registry/pull/42) on [pullminder/registry](https://github.com/pullminder/registry) `today`
-- [fix(secrets): add comment-line exclusion to SECRET_CONNECTION_STRING exclude_pattern](https://github.com/pullminder/registry/pull/41) on [pullminder/registry](https://github.com/pullminder/registry) `today`
-- [fix(dependency-detection): add Pipfile to pack manifest_files](https://github.com/pullminder/registry/pull/40) on [pullminder/registry](https://github.com/pullminder/registry) `today`
-- [fix(rust-security): remove dead RUST_FORMAT_STRING_USER pattern](https://github.com/pullminder/registry/pull/39) on [pullminder/registry](https://github.com/pullminder/registry) `today`
+- [feat(csharp-security): reconcile pack.yaml to builtins JSON parity](https://github.com/pullminder/registry/pull/50) on [pullminder/registry](https://github.com/pullminder/registry) `today`
+- [fix(python-security): narrow PY_TEMPFILE_INSECURE to mktemp only, bump to v6](https://github.com/pullminder/registry/pull/49) on [pullminder/registry](https://github.com/pullminder/registry) `today`
+- [fix(rust-security): word boundary after SQL keywords in RUST_SQL_FORMAT](https://github.com/pullminder/registry/pull/48) on [pullminder/registry](https://github.com/pullminder/registry) `1 day ago`
+- [fix(python-security): scope PY_DJANGO_DEBUG to Django settings file paths](https://github.com/pullminder/registry/pull/47) on [pullminder/registry](https://github.com/pullminder/registry) `1 day ago`
+- [fix(python-security): add dot-method exclusion to PY_EVAL and PY_EXEC, bump to v7](https://github.com/pullminder/registry/pull/46) on [pullminder/registry](https://github.com/pullminder/registry) `1 day ago`
+- [fix(dependency-detection): add Pipfile to manifest_files, bump to v5](https://github.com/pullminder/registry/pull/45) on [pullminder/registry](https://github.com/pullminder/registry) `1 day ago`
+- [fix(crypto-anti-patterns): narrow CRYPTO_CUSTOM_IMPL to match only crypto keywords at start of identifier](https://github.com/pullminder/registry/pull/44) on [pullminder/registry](https://github.com/pullminder/registry) `1 day ago`
+- [csharp-security: split CSHARP_HARDCODED_CONN into credential/non-credential rules](https://github.com/pullminder/registry/pull/43) on [pullminder/registry](https://github.com/pullminder/registry) `1 day ago`
+- [fix(packs): lower CSHARP_XXE severity to warning, add exclude_pattern for XmlResolver=null](https://github.com/pullminder/registry/pull/42) on [pullminder/registry](https://github.com/pullminder/registry) `1 day ago`
+- [fix(secrets): add comment-line exclusion to SECRET_CONNECTION_STRING exclude_pattern](https://github.com/pullminder/registry/pull/41) on [pullminder/registry](https://github.com/pullminder/registry) `1 day ago`
 
 ---
 
 ## Recent writing
 
 
-- [Gmail Has 48 Million Usernames and Passwords Exposed: What This Really Means (And What To Do Now)](https://www.strongpasswordmeter.com/en/blog/gmail-has-48000000-usernames-and-passwords-exposed) `4 months ago`
+- [Gmail Has 48 Million Usernames and Passwords Exposed: What This Really Means (And What To Do Now)](https://www.strongpasswordmeter.com/en/blog/gmail-has-48000000-usernames-and-passwords-exposed) `5 months ago`
 - [25 Strong Password Examples You Can Actually Remember (2025 Guide)](https://www.strongpasswordmeter.com/en/blog/25-strong-password-examples-2025) `11 months ago`
 - [Password Notebook Reality Check: The Surprising Return of Analog Security (And How to Do It Properly)](https://www.strongpasswordmeter.com/en/blog/password-notebook-reality-check-the-surprising-return-of-analog-security) `1 year ago`
 - [The Psychology Behind Password Creation: Why We Choose Weak Passwords (And How to Break the Habit)](https://www.strongpasswordmeter.com/en/blog/the-psychology-behind-password-creation) `1 year ago`
