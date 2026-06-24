@@ -149,16 +149,16 @@ I build APIs, services, database-backed applications, integrations, and infrastr
 ## Recent pull requests
 
 
-- [feat(csharp-security): reconcile pack.yaml to builtins JSON parity](https://github.com/pullminder/registry/pull/50) on [pullminder/registry](https://github.com/pullminder/registry) `today`
-- [fix(python-security): narrow PY_TEMPFILE_INSECURE to mktemp only, bump to v6](https://github.com/pullminder/registry/pull/49) on [pullminder/registry](https://github.com/pullminder/registry) `today`
-- [fix(rust-security): word boundary after SQL keywords in RUST_SQL_FORMAT](https://github.com/pullminder/registry/pull/48) on [pullminder/registry](https://github.com/pullminder/registry) `1 day ago`
-- [fix(python-security): scope PY_DJANGO_DEBUG to Django settings file paths](https://github.com/pullminder/registry/pull/47) on [pullminder/registry](https://github.com/pullminder/registry) `1 day ago`
-- [fix(python-security): add dot-method exclusion to PY_EVAL and PY_EXEC, bump to v7](https://github.com/pullminder/registry/pull/46) on [pullminder/registry](https://github.com/pullminder/registry) `1 day ago`
-- [fix(dependency-detection): add Pipfile to manifest_files, bump to v5](https://github.com/pullminder/registry/pull/45) on [pullminder/registry](https://github.com/pullminder/registry) `1 day ago`
-- [fix(crypto-anti-patterns): narrow CRYPTO_CUSTOM_IMPL to match only crypto keywords at start of identifier](https://github.com/pullminder/registry/pull/44) on [pullminder/registry](https://github.com/pullminder/registry) `1 day ago`
-- [csharp-security: split CSHARP_HARDCODED_CONN into credential/non-credential rules](https://github.com/pullminder/registry/pull/43) on [pullminder/registry](https://github.com/pullminder/registry) `1 day ago`
-- [fix(packs): lower CSHARP_XXE severity to warning, add exclude_pattern for XmlResolver=null](https://github.com/pullminder/registry/pull/42) on [pullminder/registry](https://github.com/pullminder/registry) `1 day ago`
-- [fix(secrets): add comment-line exclusion to SECRET_CONNECTION_STRING exclude_pattern](https://github.com/pullminder/registry/pull/41) on [pullminder/registry](https://github.com/pullminder/registry) `1 day ago`
+- [fix(react-security): v9 parity — fix 5 regressions, add 2 patterns, rename window_lines rule_id](https://github.com/pullminder/registry/pull/63) on [pullminder/registry](https://github.com/pullminder/registry) `today`
+- [fix(crypto-anti-patterns): extend CRYPTO_ECB_MODE to match JSON config form](https://github.com/pullminder/registry/pull/62) on [pullminder/registry](https://github.com/pullminder/registry) `today`
+- [feat(csharp-security): backport pack to 13 patterns, bump to v2](https://github.com/pullminder/registry/pull/61) on [pullminder/registry](https://github.com/pullminder/registry) `today`
+- [feat(react-security): add JS_INNERHTML_USERINPUT multi-line taint detection rule](https://github.com/pullminder/registry/pull/59) on [pullminder/registry](https://github.com/pullminder/registry) `today`
+- [feat(csharp-security): add fix_templates.csharp to 7 patterns](https://github.com/pullminder/registry/pull/58) on [pullminder/registry](https://github.com/pullminder/registry) `today`
+- [fix: CRYPTO_SMALL_AES no longer flags NIST-approved AES-128](https://github.com/pullminder/registry/pull/57) on [pullminder/registry](https://github.com/pullminder/registry) `today`
+- [fix(react-security): scope REACT_DIRECT_DOM to JSX/TSX; add JS_INNERHTML_USERINPUT](https://github.com/pullminder/registry/pull/56) on [pullminder/registry](https://github.com/pullminder/registry) `today`
+- [fix(packs): backport JSON improvements to YAML for go-security, python-security, secrets](https://github.com/pullminder/registry/pull/55) on [pullminder/registry](https://github.com/pullminder/registry) `today`
+- [fix(packs): backport JSON improvements to YAML sources for parity](https://github.com/pullminder/registry/pull/54) on [pullminder/registry](https://github.com/pullminder/registry) `today`
+- [feat(python-security): reconcile pack with workspace snapshot, bump to v11](https://github.com/pullminder/registry/pull/53) on [pullminder/registry](https://github.com/pullminder/registry) `today`
 
 ---
 
