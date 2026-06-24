@@ -127,14 +127,14 @@ I build APIs, services, database-backed applications, integrations, and infrastr
 ## Latest releases I’ve contributed to
 
 
+- [pullminder/registry](https://github.com/pullminder/registry) — [v6](https://github.com/pullminder/registry/releases/tag/v6), `today`  
+  Official Pullminder rule pack registry — detection and policy packs for automated PR review
 - [pullminder/cli](https://github.com/pullminder/cli) — [v0.1.26](https://github.com/pullminder/cli/releases/tag/v0.1.26), `1 week ago`  
   Pullminder CLI releases
 - [pullminder/action](https://github.com/pullminder/action) — [v1.0.3](https://github.com/pullminder/action/releases/tag/v1.0.3), `2 weeks ago`  
   GitHub Action for Pullminder registry validation
 - [CoMfUcIoS/vw](https://github.com/CoMfUcIoS/vw) — [v0.2.0](https://github.com/CoMfUcIoS/vw/releases/tag/v0.2.0), `2 weeks ago`  
   opinionated command-line interface for Bitwarden and Vaultwarden
-- [pullminder/registry](https://github.com/pullminder/registry) — [v5](https://github.com/pullminder/registry/releases/tag/v5), `2 weeks ago`  
-  Official Pullminder rule pack registry — detection and policy packs for automated PR review
 - [CoMfUcIoS/GraphQLens](https://github.com/CoMfUcIoS/GraphQLens) — [v1.0.3](https://github.com/CoMfUcIoS/GraphQLens/releases/tag/v1.0.3), `1 month ago`  
   A performant, modern Chrome DevTools extension for inspecting &amp; mocking GraphQL traffic
 - [CoMfUcIoS/second-brain-mcp](https://github.com/CoMfUcIoS/second-brain-mcp) — [v0.2.1](https://github.com/CoMfUcIoS/second-brain-mcp/releases/tag/v0.2.1), `1 month ago`  
@@ -149,6 +149,9 @@ I build APIs, services, database-backed applications, integrations, and infrastr
 ## Recent pull requests
 
 
+- [feat(rust-security): adopt v7 pattern improvements from workspace snapshot](https://github.com/pullminder/registry/pull/65) on [pullminder/registry](https://github.com/pullminder/registry) `today`
+- [fix(sensitive-paths): add .example exclusion to deploy/ path entry](https://github.com/pullminder/registry/pull/64) on [pullminder/registry](https://github.com/pullminder/registry) `today`
+- [Nightly E2E test — 28080797400](https://github.com/Upmate/pullminder-e2e-test/pull/72) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `today`
 - [fix(react-security): v9 parity — fix 5 regressions, add 2 patterns, rename window_lines rule_id](https://github.com/pullminder/registry/pull/63) on [pullminder/registry](https://github.com/pullminder/registry) `today`
 - [fix(crypto-anti-patterns): extend CRYPTO_ECB_MODE to match JSON config form](https://github.com/pullminder/registry/pull/62) on [pullminder/registry](https://github.com/pullminder/registry) `today`
 - [feat(csharp-security): backport pack to 13 patterns, bump to v2](https://github.com/pullminder/registry/pull/61) on [pullminder/registry](https://github.com/pullminder/registry) `today`
@@ -156,9 +159,6 @@ I build APIs, services, database-backed applications, integrations, and infrastr
 - [feat(csharp-security): add fix_templates.csharp to 7 patterns](https://github.com/pullminder/registry/pull/58) on [pullminder/registry](https://github.com/pullminder/registry) `today`
 - [fix: CRYPTO_SMALL_AES no longer flags NIST-approved AES-128](https://github.com/pullminder/registry/pull/57) on [pullminder/registry](https://github.com/pullminder/registry) `today`
 - [fix(react-security): scope REACT_DIRECT_DOM to JSX/TSX; add JS_INNERHTML_USERINPUT](https://github.com/pullminder/registry/pull/56) on [pullminder/registry](https://github.com/pullminder/registry) `today`
-- [fix(packs): backport JSON improvements to YAML for go-security, python-security, secrets](https://github.com/pullminder/registry/pull/55) on [pullminder/registry](https://github.com/pullminder/registry) `today`
-- [fix(packs): backport JSON improvements to YAML sources for parity](https://github.com/pullminder/registry/pull/54) on [pullminder/registry](https://github.com/pullminder/registry) `today`
-- [feat(python-security): reconcile pack with workspace snapshot, bump to v11](https://github.com/pullminder/registry/pull/53) on [pullminder/registry](https://github.com/pullminder/registry) `today`
 
 ---
 
