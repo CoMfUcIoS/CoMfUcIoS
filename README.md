@@ -186,11 +186,11 @@ I build APIs, services, database-backed applications, integrations, and infrastr
 ## Recent followers
 
 
+- [Jo-Lillie](https://github.com/Jo-Lillie)
 - [yumiaura](https://github.com/yumiaura)
 - [vine77](https://github.com/vine77)
 - [Aaronoftheages](https://github.com/Aaronoftheages)
 - [AkashChikanep4](https://github.com/AkashChikanep4)
-- [Omiros93](https://github.com/Omiros93)
 
 ---
 
