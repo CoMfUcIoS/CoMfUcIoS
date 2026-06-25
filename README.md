@@ -112,13 +112,13 @@ I build APIs, services, database-backed applications, integrations, and infrastr
 
 
 - [pullminder/registry](https://github.com/pullminder/registry) — Official Pullminder rule pack registry — detection and policy packs for automated PR review `today`
+- [CoMfUcIoS/vw](https://github.com/CoMfUcIoS/vw) — opinionated command-line interface for Bitwarden and Vaultwarden `today`
 - [pullminder/.github](https://github.com/pullminder/.github) —  `6 days ago`
 - [CoMfUcIoS/neovim](https://github.com/CoMfUcIoS/neovim) — My configuration of Neovim. `1 week ago`
-- [pullminder/npm](https://github.com/pullminder/npm) — npm wrapper for Pullminder CLI `2 weeks ago`
 - [pullminder/cli](https://github.com/pullminder/cli) — Pullminder CLI releases `2 weeks ago`
+- [pullminder/npm](https://github.com/pullminder/npm) — npm wrapper for Pullminder CLI `2 weeks ago`
 - [pullminder/action](https://github.com/pullminder/action) — GitHub Action for Pullminder registry validation `2 weeks ago`
 - [pullminder/homebrew-tap](https://github.com/pullminder/homebrew-tap) — Homebrew tap for Pullminder CLI `2 weeks ago`
-- [CoMfUcIoS/vw](https://github.com/CoMfUcIoS/vw) — opinionated command-line interface for Bitwarden and Vaultwarden `2 weeks ago`
 - [CoMfUcIoS/second-brain-mcp](https://github.com/CoMfUcIoS/second-brain-mcp) — An MCP (Model Context Protocol) server that provides intelligent read-only access to your Obsidian vault, enabling it to function as a &#34;second brain&#34; for LLMs. `4 weeks ago`
 - [CoMfUcIoS/GraphQLens](https://github.com/CoMfUcIoS/GraphQLens) — A performant, modern Chrome DevTools extension for inspecting &amp; mocking GraphQL traffic `1 month ago`
 
@@ -149,6 +149,7 @@ I build APIs, services, database-backed applications, integrations, and infrastr
 ## Recent pull requests
 
 
+- [Nightly E2E test — 28152391848](https://github.com/Upmate/pullminder-e2e-test/pull/73) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `today`
 - [fix(shell-security): broaden SHELL_CHMOD_777 to match leading octal digits](https://github.com/pullminder/registry/pull/69) on [pullminder/registry](https://github.com/pullminder/registry) `today`
 - [fix(shell-security): expand SHELL_EVAL regex to detect shell special parameters](https://github.com/pullminder/registry/pull/68) on [pullminder/registry](https://github.com/pullminder/registry) `today`
 - [fix(php-security): add exclude_pattern to PHP_XSS to prevent false positives on sanitized output](https://github.com/pullminder/registry/pull/67) on [pullminder/registry](https://github.com/pullminder/registry) `1 day ago`
@@ -158,7 +159,6 @@ I build APIs, services, database-backed applications, integrations, and infrastr
 - [Nightly E2E test — 28080797400](https://github.com/Upmate/pullminder-e2e-test/pull/72) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `1 day ago`
 - [fix(react-security): v9 parity — fix 5 regressions, add 2 patterns, rename window_lines rule_id](https://github.com/pullminder/registry/pull/63) on [pullminder/registry](https://github.com/pullminder/registry) `1 day ago`
 - [fix(crypto-anti-patterns): extend CRYPTO_ECB_MODE to match JSON config form](https://github.com/pullminder/registry/pull/62) on [pullminder/registry](https://github.com/pullminder/registry) `1 day ago`
-- [feat(csharp-security): backport pack to 13 patterns, bump to v2](https://github.com/pullminder/registry/pull/61) on [pullminder/registry](https://github.com/pullminder/registry) `1 day ago`
 
 ---
 
