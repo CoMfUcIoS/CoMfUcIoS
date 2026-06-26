@@ -149,6 +149,7 @@ I build APIs, services, database-backed applications, integrations, and infrastr
 ## Recent pull requests
 
 
+- [Nightly E2E test — 28222548645](https://github.com/Upmate/pullminder-e2e-test/pull/74) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `today`
 - [Nightly E2E test — 28152391848](https://github.com/Upmate/pullminder-e2e-test/pull/73) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `1 day ago`
 - [fix(shell-security): broaden SHELL_CHMOD_777 to match leading octal digits](https://github.com/pullminder/registry/pull/69) on [pullminder/registry](https://github.com/pullminder/registry) `1 day ago`
 - [fix(shell-security): expand SHELL_EVAL regex to detect shell special parameters](https://github.com/pullminder/registry/pull/68) on [pullminder/registry](https://github.com/pullminder/registry) `1 day ago`
@@ -158,7 +159,6 @@ I build APIs, services, database-backed applications, integrations, and infrastr
 - [fix(sensitive-paths): add .example exclusion to deploy/ path entry](https://github.com/pullminder/registry/pull/64) on [pullminder/registry](https://github.com/pullminder/registry) `2 days ago`
 - [Nightly E2E test — 28080797400](https://github.com/Upmate/pullminder-e2e-test/pull/72) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `2 days ago`
 - [fix(react-security): v9 parity — fix 5 regressions, add 2 patterns, rename window_lines rule_id](https://github.com/pullminder/registry/pull/63) on [pullminder/registry](https://github.com/pullminder/registry) `2 days ago`
-- [fix(crypto-anti-patterns): extend CRYPTO_ECB_MODE to match JSON config form](https://github.com/pullminder/registry/pull/62) on [pullminder/registry](https://github.com/pullminder/registry) `2 days ago`
 
 ---
 
