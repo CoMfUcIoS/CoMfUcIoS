@@ -149,6 +149,7 @@ I build APIs, services, database-backed applications, integrations, and infrastr
 ## Recent pull requests
 
 
+- [Nightly E2E test — 28358382362](https://github.com/Upmate/pullminder-e2e-test/pull/77) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `today`
 - [Nightly E2E test — 28314619740](https://github.com/Upmate/pullminder-e2e-test/pull/76) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `1 day ago`
 - [Nightly E2E test — 28281290449](https://github.com/Upmate/pullminder-e2e-test/pull/75) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `2 days ago`
 - [Nightly E2E test — 28222548645](https://github.com/Upmate/pullminder-e2e-test/pull/74) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `3 days ago`
@@ -158,7 +159,6 @@ I build APIs, services, database-backed applications, integrations, and infrastr
 - [fix(php-security): add exclude_pattern to PHP_XSS to prevent false positives on sanitized output](https://github.com/pullminder/registry/pull/67) on [pullminder/registry](https://github.com/pullminder/registry) `5 days ago`
 - [fix(pii-leakage): add \b word boundaries to PII_PHONE regex](https://github.com/pullminder/registry/pull/66) on [pullminder/registry](https://github.com/pullminder/registry) `5 days ago`
 - [feat(rust-security): adopt v7 pattern improvements from workspace snapshot](https://github.com/pullminder/registry/pull/65) on [pullminder/registry](https://github.com/pullminder/registry) `5 days ago`
-- [fix(sensitive-paths): add .example exclusion to deploy/ path entry](https://github.com/pullminder/registry/pull/64) on [pullminder/registry](https://github.com/pullminder/registry) `5 days ago`
 
 ---
 
