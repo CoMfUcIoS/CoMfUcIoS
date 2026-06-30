@@ -111,14 +111,14 @@ I build APIs, services, database-backed applications, integrations, and infrastr
 ## Current work
 
 
-- [pullminder/registry](https://github.com/pullminder/registry) — Official Pullminder rule pack registry — detection and policy packs for automated PR review `4 days ago`
-- [CoMfUcIoS/vw](https://github.com/CoMfUcIoS/vw) — opinionated command-line interface for Bitwarden and Vaultwarden `4 days ago`
+- [pullminder/registry](https://github.com/pullminder/registry) — Official Pullminder rule pack registry — detection and policy packs for automated PR review `5 days ago`
+- [CoMfUcIoS/vw](https://github.com/CoMfUcIoS/vw) — opinionated command-line interface for Bitwarden and Vaultwarden `5 days ago`
 - [pullminder/.github](https://github.com/pullminder/.github) —  `1 week ago`
 - [CoMfUcIoS/neovim](https://github.com/CoMfUcIoS/neovim) — My configuration of Neovim. `2 weeks ago`
 - [pullminder/cli](https://github.com/pullminder/cli) — Pullminder CLI releases `2 weeks ago`
 - [pullminder/npm](https://github.com/pullminder/npm) — npm wrapper for Pullminder CLI `2 weeks ago`
 - [pullminder/action](https://github.com/pullminder/action) — GitHub Action for Pullminder registry validation `2 weeks ago`
-- [pullminder/homebrew-tap](https://github.com/pullminder/homebrew-tap) — Homebrew tap for Pullminder CLI `2 weeks ago`
+- [pullminder/homebrew-tap](https://github.com/pullminder/homebrew-tap) — Homebrew tap for Pullminder CLI `3 weeks ago`
 - [CoMfUcIoS/second-brain-mcp](https://github.com/CoMfUcIoS/second-brain-mcp) — An MCP (Model Context Protocol) server that provides intelligent read-only access to your Obsidian vault, enabling it to function as a &#34;second brain&#34; for LLMs. `1 month ago`
 - [CoMfUcIoS/GraphQLens](https://github.com/CoMfUcIoS/GraphQLens) — A performant, modern Chrome DevTools extension for inspecting &amp; mocking GraphQL traffic `1 month ago`
 
@@ -127,7 +127,7 @@ I build APIs, services, database-backed applications, integrations, and infrastr
 ## Latest releases I’ve contributed to
 
 
-- [pullminder/registry](https://github.com/pullminder/registry) — [v10](https://github.com/pullminder/registry/releases/tag/v10), `4 days ago`  
+- [pullminder/registry](https://github.com/pullminder/registry) — [v10](https://github.com/pullminder/registry/releases/tag/v10), `5 days ago`  
   Official Pullminder rule pack registry — detection and policy packs for automated PR review
 - [pullminder/cli](https://github.com/pullminder/cli) — [v0.1.26](https://github.com/pullminder/cli/releases/tag/v0.1.26), `1 week ago`  
   Pullminder CLI releases
@@ -149,16 +149,16 @@ I build APIs, services, database-backed applications, integrations, and infrastr
 ## Recent pull requests
 
 
-- [Nightly E2E test — 28358382362](https://github.com/Upmate/pullminder-e2e-test/pull/77) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `today`
-- [Nightly E2E test — 28314619740](https://github.com/Upmate/pullminder-e2e-test/pull/76) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `1 day ago`
-- [Nightly E2E test — 28281290449](https://github.com/Upmate/pullminder-e2e-test/pull/75) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `2 days ago`
-- [Nightly E2E test — 28222548645](https://github.com/Upmate/pullminder-e2e-test/pull/74) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `3 days ago`
-- [Nightly E2E test — 28152391848](https://github.com/Upmate/pullminder-e2e-test/pull/73) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `4 days ago`
-- [fix(shell-security): broaden SHELL_CHMOD_777 to match leading octal digits](https://github.com/pullminder/registry/pull/69) on [pullminder/registry](https://github.com/pullminder/registry) `4 days ago`
-- [fix(shell-security): expand SHELL_EVAL regex to detect shell special parameters](https://github.com/pullminder/registry/pull/68) on [pullminder/registry](https://github.com/pullminder/registry) `4 days ago`
-- [fix(php-security): add exclude_pattern to PHP_XSS to prevent false positives on sanitized output](https://github.com/pullminder/registry/pull/67) on [pullminder/registry](https://github.com/pullminder/registry) `5 days ago`
-- [fix(pii-leakage): add \b word boundaries to PII_PHONE regex](https://github.com/pullminder/registry/pull/66) on [pullminder/registry](https://github.com/pullminder/registry) `5 days ago`
-- [feat(rust-security): adopt v7 pattern improvements from workspace snapshot](https://github.com/pullminder/registry/pull/65) on [pullminder/registry](https://github.com/pullminder/registry) `5 days ago`
+- [Nightly E2E test — 28358382362](https://github.com/Upmate/pullminder-e2e-test/pull/77) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `1 day ago`
+- [Nightly E2E test — 28314619740](https://github.com/Upmate/pullminder-e2e-test/pull/76) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `2 days ago`
+- [Nightly E2E test — 28281290449](https://github.com/Upmate/pullminder-e2e-test/pull/75) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `3 days ago`
+- [Nightly E2E test — 28222548645](https://github.com/Upmate/pullminder-e2e-test/pull/74) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `4 days ago`
+- [Nightly E2E test — 28152391848](https://github.com/Upmate/pullminder-e2e-test/pull/73) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `5 days ago`
+- [fix(shell-security): broaden SHELL_CHMOD_777 to match leading octal digits](https://github.com/pullminder/registry/pull/69) on [pullminder/registry](https://github.com/pullminder/registry) `5 days ago`
+- [fix(shell-security): expand SHELL_EVAL regex to detect shell special parameters](https://github.com/pullminder/registry/pull/68) on [pullminder/registry](https://github.com/pullminder/registry) `5 days ago`
+- [fix(php-security): add exclude_pattern to PHP_XSS to prevent false positives on sanitized output](https://github.com/pullminder/registry/pull/67) on [pullminder/registry](https://github.com/pullminder/registry) `6 days ago`
+- [fix(pii-leakage): add \b word boundaries to PII_PHONE regex](https://github.com/pullminder/registry/pull/66) on [pullminder/registry](https://github.com/pullminder/registry) `6 days ago`
+- [feat(rust-security): adopt v7 pattern improvements from workspace snapshot](https://github.com/pullminder/registry/pull/65) on [pullminder/registry](https://github.com/pullminder/registry) `6 days ago`
 
 ---
 
