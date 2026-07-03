@@ -113,8 +113,8 @@ I build APIs, services, database-backed applications, integrations, and infrastr
 
 - [pullminder/registry](https://github.com/pullminder/registry) — Official Pullminder rule pack registry — detection and policy packs for automated PR review `1 week ago`
 - [CoMfUcIoS/vw](https://github.com/CoMfUcIoS/vw) — opinionated command-line interface for Bitwarden and Vaultwarden `1 week ago`
-- [pullminder/.github](https://github.com/pullminder/.github) —  `1 week ago`
-- [CoMfUcIoS/neovim](https://github.com/CoMfUcIoS/neovim) — My configuration of Neovim. `2 weeks ago`
+- [pullminder/.github](https://github.com/pullminder/.github) —  `2 weeks ago`
+- [CoMfUcIoS/neovim](https://github.com/CoMfUcIoS/neovim) — My configuration of Neovim. `3 weeks ago`
 - [pullminder/cli](https://github.com/pullminder/cli) — Pullminder CLI releases `3 weeks ago`
 - [pullminder/npm](https://github.com/pullminder/npm) — npm wrapper for Pullminder CLI `3 weeks ago`
 - [pullminder/action](https://github.com/pullminder/action) — GitHub Action for Pullminder registry validation `3 weeks ago`
@@ -149,13 +149,13 @@ I build APIs, services, database-backed applications, integrations, and infrastr
 ## Recent pull requests
 
 
-- [Nightly E2E test — 28570925780](https://github.com/Upmate/pullminder-e2e-test/pull/80) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `today`
-- [Nightly E2E test — 28500404718](https://github.com/Upmate/pullminder-e2e-test/pull/79) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `1 day ago`
-- [Nightly E2E test — 28426301630](https://github.com/Upmate/pullminder-e2e-test/pull/78) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `2 days ago`
-- [Nightly E2E test — 28358382362](https://github.com/Upmate/pullminder-e2e-test/pull/77) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `3 days ago`
-- [Nightly E2E test — 28314619740](https://github.com/Upmate/pullminder-e2e-test/pull/76) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `4 days ago`
-- [Nightly E2E test — 28281290449](https://github.com/Upmate/pullminder-e2e-test/pull/75) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `5 days ago`
-- [Nightly E2E test — 28222548645](https://github.com/Upmate/pullminder-e2e-test/pull/74) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `6 days ago`
+- [Nightly E2E test — 28570925780](https://github.com/Upmate/pullminder-e2e-test/pull/80) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `1 day ago`
+- [Nightly E2E test — 28500404718](https://github.com/Upmate/pullminder-e2e-test/pull/79) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `2 days ago`
+- [Nightly E2E test — 28426301630](https://github.com/Upmate/pullminder-e2e-test/pull/78) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `3 days ago`
+- [Nightly E2E test — 28358382362](https://github.com/Upmate/pullminder-e2e-test/pull/77) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `4 days ago`
+- [Nightly E2E test — 28314619740](https://github.com/Upmate/pullminder-e2e-test/pull/76) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `5 days ago`
+- [Nightly E2E test — 28281290449](https://github.com/Upmate/pullminder-e2e-test/pull/75) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `6 days ago`
+- [Nightly E2E test — 28222548645](https://github.com/Upmate/pullminder-e2e-test/pull/74) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `1 week ago`
 - [Nightly E2E test — 28152391848](https://github.com/Upmate/pullminder-e2e-test/pull/73) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `1 week ago`
 - [fix(shell-security): broaden SHELL_CHMOD_777 to match leading octal digits](https://github.com/pullminder/registry/pull/69) on [pullminder/registry](https://github.com/pullminder/registry) `1 week ago`
 - [fix(shell-security): expand SHELL_EVAL regex to detect shell special parameters](https://github.com/pullminder/registry/pull/68) on [pullminder/registry](https://github.com/pullminder/registry) `1 week ago`
