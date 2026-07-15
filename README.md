@@ -129,7 +129,7 @@ I build APIs, services, database-backed applications, integrations, and infrastr
 
 - [pullminder/registry](https://github.com/pullminder/registry) — [v10](https://github.com/pullminder/registry/releases/tag/v10), `2 weeks ago`  
   Official Pullminder rule pack registry — detection and policy packs for automated PR review
-- [pullminder/cli](https://github.com/pullminder/cli) — [v0.1.26](https://github.com/pullminder/cli/releases/tag/v0.1.26), `3 weeks ago`  
+- [pullminder/cli](https://github.com/pullminder/cli) — [v0.1.26](https://github.com/pullminder/cli/releases/tag/v0.1.26), `4 weeks ago`  
   Pullminder CLI releases
 - [pullminder/action](https://github.com/pullminder/action) — [v1.0.3](https://github.com/pullminder/action/releases/tag/v1.0.3), `1 month ago`  
   GitHub Action for Pullminder registry validation
@@ -149,13 +149,13 @@ I build APIs, services, database-backed applications, integrations, and infrastr
 ## Recent pull requests
 
 
-- [Nightly E2E test — 29308936454](https://github.com/Upmate/pullminder-e2e-test/pull/92) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `today`
-- [Nightly E2E test — 29228881517](https://github.com/Upmate/pullminder-e2e-test/pull/91) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `1 day ago`
-- [Nightly E2E test — 29182187362](https://github.com/Upmate/pullminder-e2e-test/pull/90) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `2 days ago`
-- [Nightly E2E test — 29141694553](https://github.com/Upmate/pullminder-e2e-test/pull/89) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `3 days ago`
-- [Nightly E2E test — 29074876773](https://github.com/Upmate/pullminder-e2e-test/pull/88) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `4 days ago`
-- [Nightly E2E test — 28999707237](https://github.com/Upmate/pullminder-e2e-test/pull/87) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `5 days ago`
-- [Nightly E2E test — 28920959232](https://github.com/Upmate/pullminder-e2e-test/pull/86) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `6 days ago`
+- [Nightly E2E test — 29308936454](https://github.com/Upmate/pullminder-e2e-test/pull/92) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `1 day ago`
+- [Nightly E2E test — 29228881517](https://github.com/Upmate/pullminder-e2e-test/pull/91) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `2 days ago`
+- [Nightly E2E test — 29182187362](https://github.com/Upmate/pullminder-e2e-test/pull/90) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `3 days ago`
+- [Nightly E2E test — 29141694553](https://github.com/Upmate/pullminder-e2e-test/pull/89) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `4 days ago`
+- [Nightly E2E test — 29074876773](https://github.com/Upmate/pullminder-e2e-test/pull/88) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `5 days ago`
+- [Nightly E2E test — 28999707237](https://github.com/Upmate/pullminder-e2e-test/pull/87) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `6 days ago`
+- [Nightly E2E test — 28920959232](https://github.com/Upmate/pullminder-e2e-test/pull/86) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `1 week ago`
 - [Nightly E2E test — 28847352791](https://github.com/Upmate/pullminder-e2e-test/pull/85) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `1 week ago`
 - [Nightly E2E test — 28774582850](https://github.com/Upmate/pullminder-e2e-test/pull/84) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `1 week ago`
 - [Nightly E2E test — 28732360120](https://github.com/Upmate/pullminder-e2e-test/pull/83) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `1 week ago`
