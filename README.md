@@ -111,6 +111,7 @@ I build APIs, services, database-backed applications, integrations, and infrastr
 ## Current work
 
 
+- [CoMfUcIoS/kite](https://github.com/CoMfUcIoS/kite) — A bird-eye view of every git repo in a directory `today`
 - [CoMfUcIoS/neovim](https://github.com/CoMfUcIoS/neovim) — My configuration of Neovim. `2 days ago`
 - [pullminder/registry](https://github.com/pullminder/registry) — Official Pullminder rule pack registry — detection and policy packs for automated PR review `1 month ago`
 - [CoMfUcIoS/vw](https://github.com/CoMfUcIoS/vw) — opinionated command-line interface for Bitwarden and Vaultwarden `1 month ago`
@@ -120,13 +121,14 @@ I build APIs, services, database-backed applications, integrations, and infrastr
 - [pullminder/action](https://github.com/pullminder/action) — GitHub Action for Pullminder registry validation `2 months ago`
 - [pullminder/homebrew-tap](https://github.com/pullminder/homebrew-tap) — Homebrew tap for Pullminder CLI `2 months ago`
 - [CoMfUcIoS/second-brain-mcp](https://github.com/CoMfUcIoS/second-brain-mcp) — An MCP (Model Context Protocol) server that provides intelligent read-only access to your Obsidian vault, enabling it to function as a &#34;second brain&#34; for LLMs. `2 months ago`
-- [CoMfUcIoS/GraphQLens](https://github.com/CoMfUcIoS/GraphQLens) — A performant, modern Chrome DevTools extension for inspecting &amp; mocking GraphQL traffic `3 months ago`
 
 ---
 
 ## Latest releases I’ve contributed to
 
 
+- [CoMfUcIoS/kite](https://github.com/CoMfUcIoS/kite) — [v0.2.0](https://github.com/CoMfUcIoS/kite/releases/tag/v0.2.0), `today`  
+  A bird-eye view of every git repo in a directory
 - [pullminder/registry](https://github.com/pullminder/registry) — [v10](https://github.com/pullminder/registry/releases/tag/v10), `1 month ago`  
   Official Pullminder rule pack registry — detection and policy packs for automated PR review
 - [pullminder/cli](https://github.com/pullminder/cli) — [v0.1.26](https://github.com/pullminder/cli/releases/tag/v0.1.26), `2 months ago`  
