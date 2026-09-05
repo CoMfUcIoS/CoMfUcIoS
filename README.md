@@ -111,7 +111,7 @@ I build APIs, services, database-backed applications, integrations, and infrastr
 ## Current work
 
 
-- [CoMfUcIoS/neovim](https://github.com/CoMfUcIoS/neovim) — My configuration of Neovim. `2 days ago`
+- [CoMfUcIoS/neovim](https://github.com/CoMfUcIoS/neovim) — My configuration of Neovim. `3 days ago`
 - [CoMfUcIoS/kite](https://github.com/CoMfUcIoS/kite) — A bird-eye view of every git repo in a directory `2 weeks ago`
 - [pullminder/registry](https://github.com/pullminder/registry) — Official Pullminder rule pack registry — detection and policy packs for automated PR review `2 months ago`
 - [CoMfUcIoS/vw](https://github.com/CoMfUcIoS/vw) — opinionated command-line interface for Bitwarden and Vaultwarden `2 months ago`
@@ -135,7 +135,7 @@ I build APIs, services, database-backed applications, integrations, and infrastr
   Pullminder CLI releases
 - [pullminder/action](https://github.com/pullminder/action) — [v1.0.3](https://github.com/pullminder/action/releases/tag/v1.0.3), `2 months ago`  
   GitHub Action for Pullminder registry validation
-- [CoMfUcIoS/vw](https://github.com/CoMfUcIoS/vw) — [v0.2.0](https://github.com/CoMfUcIoS/vw/releases/tag/v0.2.0), `2 months ago`  
+- [CoMfUcIoS/vw](https://github.com/CoMfUcIoS/vw) — [v0.2.0](https://github.com/CoMfUcIoS/vw/releases/tag/v0.2.0), `3 months ago`  
   opinionated command-line interface for Bitwarden and Vaultwarden
 - [CoMfUcIoS/GraphQLens](https://github.com/CoMfUcIoS/GraphQLens) — [v1.0.3](https://github.com/CoMfUcIoS/GraphQLens/releases/tag/v1.0.3), `4 months ago`  
   A performant, modern Chrome DevTools extension for inspecting &amp; mocking GraphQL traffic
@@ -151,11 +151,11 @@ I build APIs, services, database-backed applications, integrations, and infrastr
 ## Recent pull requests
 
 
-- [Nightly E2E test — 33605231583](https://github.com/Upmate/pullminder-e2e-test/pull/141) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `2 days ago`
-- [Nightly E2E test — 33487211201](https://github.com/Upmate/pullminder-e2e-test/pull/140) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `3 days ago`
-- [Nightly E2E test — 33378134233](https://github.com/Upmate/pullminder-e2e-test/pull/139) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `4 days ago`
-- [Nightly E2E test — 33303115635](https://github.com/Upmate/pullminder-e2e-test/pull/138) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `5 days ago`
-- [Nightly E2E test — 33246509866](https://github.com/Upmate/pullminder-e2e-test/pull/137) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `6 days ago`
+- [Nightly E2E test — 33605231583](https://github.com/Upmate/pullminder-e2e-test/pull/141) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `3 days ago`
+- [Nightly E2E test — 33487211201](https://github.com/Upmate/pullminder-e2e-test/pull/140) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `4 days ago`
+- [Nightly E2E test — 33378134233](https://github.com/Upmate/pullminder-e2e-test/pull/139) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `5 days ago`
+- [Nightly E2E test — 33303115635](https://github.com/Upmate/pullminder-e2e-test/pull/138) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `6 days ago`
+- [Nightly E2E test — 33246509866](https://github.com/Upmate/pullminder-e2e-test/pull/137) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `1 week ago`
 - [Nightly E2E test — 33183841379](https://github.com/Upmate/pullminder-e2e-test/pull/136) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `1 week ago`
 - [Nightly E2E test — 33079738834](https://github.com/Upmate/pullminder-e2e-test/pull/135) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `1 week ago`
 - [Nightly E2E test — 32928306847](https://github.com/Upmate/pullminder-e2e-test/pull/134) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `1 week ago`
