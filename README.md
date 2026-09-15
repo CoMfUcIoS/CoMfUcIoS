@@ -111,7 +111,7 @@ I build APIs, services, database-backed applications, integrations, and infrastr
 ## Current work
 
 
-- [CoMfUcIoS/kite](https://github.com/CoMfUcIoS/kite) — A bird-eye view of every git repo in a directory `4 days ago`
+- [CoMfUcIoS/kite](https://github.com/CoMfUcIoS/kite) — A bird-eye view of every git repo in a directory `5 days ago`
 - [CoMfUcIoS/neovim](https://github.com/CoMfUcIoS/neovim) — My configuration of Neovim. `1 week ago`
 - [pullminder/registry](https://github.com/pullminder/registry) — Official Pullminder rule pack registry — detection and policy packs for automated PR review `2 months ago`
 - [CoMfUcIoS/vw](https://github.com/CoMfUcIoS/vw) — opinionated command-line interface for Bitwarden and Vaultwarden `2 months ago`
@@ -127,11 +127,11 @@ I build APIs, services, database-backed applications, integrations, and infrastr
 ## Latest releases I’ve contributed to
 
 
-- [CoMfUcIoS/kite](https://github.com/CoMfUcIoS/kite) — [v0.4.0](https://github.com/CoMfUcIoS/kite/releases/tag/v0.4.0), `4 days ago`  
+- [CoMfUcIoS/kite](https://github.com/CoMfUcIoS/kite) — [v0.4.0](https://github.com/CoMfUcIoS/kite/releases/tag/v0.4.0), `5 days ago`  
   A bird-eye view of every git repo in a directory
 - [pullminder/registry](https://github.com/pullminder/registry) — [v10](https://github.com/pullminder/registry/releases/tag/v10), `2 months ago`  
   Official Pullminder rule pack registry — detection and policy packs for automated PR review
-- [pullminder/cli](https://github.com/pullminder/cli) — [v0.1.26](https://github.com/pullminder/cli/releases/tag/v0.1.26), `2 months ago`  
+- [pullminder/cli](https://github.com/pullminder/cli) — [v0.1.26](https://github.com/pullminder/cli/releases/tag/v0.1.26), `3 months ago`  
   Pullminder CLI releases
 - [pullminder/action](https://github.com/pullminder/action) — [v1.0.3](https://github.com/pullminder/action/releases/tag/v1.0.3), `3 months ago`  
   GitHub Action for Pullminder registry validation
@@ -151,14 +151,14 @@ I build APIs, services, database-backed applications, integrations, and infrastr
 ## Recent pull requests
 
 
-- [Nightly E2E test — 34824168038](https://github.com/Upmate/pullminder-e2e-test/pull/152) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `today`
-- [Nightly E2E test — 34746957874](https://github.com/Upmate/pullminder-e2e-test/pull/151) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `1 day ago`
-- [Nightly E2E test — 34681641145](https://github.com/Upmate/pullminder-e2e-test/pull/150) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `2 days ago`
-- [Nightly E2E test — 34576634523](https://github.com/Upmate/pullminder-e2e-test/pull/149) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `3 days ago`
-- [feat: surface every open PR, its review state and conflict risk](https://github.com/CoMfUcIoS/kite/pull/2) on [CoMfUcIoS/kite](https://github.com/CoMfUcIoS/kite) `4 days ago`
-- [Nightly E2E test — 34452706231](https://github.com/Upmate/pullminder-e2e-test/pull/148) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `4 days ago`
-- [Nightly E2E test — 34326659090](https://github.com/Upmate/pullminder-e2e-test/pull/147) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `5 days ago`
-- [Nightly E2E test — 34201858184](https://github.com/Upmate/pullminder-e2e-test/pull/146) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `6 days ago`
+- [Nightly E2E test — 34824168038](https://github.com/Upmate/pullminder-e2e-test/pull/152) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `1 day ago`
+- [Nightly E2E test — 34746957874](https://github.com/Upmate/pullminder-e2e-test/pull/151) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `2 days ago`
+- [Nightly E2E test — 34681641145](https://github.com/Upmate/pullminder-e2e-test/pull/150) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `3 days ago`
+- [Nightly E2E test — 34576634523](https://github.com/Upmate/pullminder-e2e-test/pull/149) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `4 days ago`
+- [feat: surface every open PR, its review state and conflict risk](https://github.com/CoMfUcIoS/kite/pull/2) on [CoMfUcIoS/kite](https://github.com/CoMfUcIoS/kite) `5 days ago`
+- [Nightly E2E test — 34452706231](https://github.com/Upmate/pullminder-e2e-test/pull/148) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `5 days ago`
+- [Nightly E2E test — 34326659090](https://github.com/Upmate/pullminder-e2e-test/pull/147) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `6 days ago`
+- [Nightly E2E test — 34201858184](https://github.com/Upmate/pullminder-e2e-test/pull/146) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `1 week ago`
 - [Nightly E2E test — 34098796498](https://github.com/Upmate/pullminder-e2e-test/pull/145) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `1 week ago`
 - [Nightly E2E test — 34020013496](https://github.com/Upmate/pullminder-e2e-test/pull/144) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `1 week ago`
 
