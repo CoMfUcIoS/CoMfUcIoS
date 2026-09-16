@@ -98,14 +98,11 @@ I build APIs, services, database-backed applications, integrations, and infrastr
 
 <br />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=comfucios&show_icons=true&locale=en" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=comfucios&show_icons=true&locale=en&layout=compact" alt="Top languages" />
+<img src="profile-3d-contrib/profile-gitblock.svg" alt="3D contribution calendar (git blocks)" />
 
 <br />
 
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://gh-trophy.cdnsoft.net/?username=comfucios&row=1" alt="GitHub trophies" />
-</a>
+<img src="profile-3d-contrib/profile-green-animate.svg" alt="3D contribution calendar (animated)" />
 
 </div>
 
