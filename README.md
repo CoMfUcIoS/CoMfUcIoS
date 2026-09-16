@@ -95,11 +95,7 @@ I build APIs, services, database-backed applications, integrations, and infrastr
 
 <br />
 
-<img src="profile-3d-contrib/profile-gitblock.svg" alt="3D contribution calendar (git blocks)" />
-
-<br />
-
-<img src="profile-3d-contrib/profile-green-animate.svg" alt="3D contribution calendar (animated)" />
+<img src="profile-3d-contrib/profile-gitblock.svg" alt="3D contribution calendar" />
 
 </div>
 
