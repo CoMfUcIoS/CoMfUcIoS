@@ -144,13 +144,13 @@ I build APIs, services, database-backed applications, integrations, and infrastr
 ## Recent pull requests
 
 
-- [Nightly E2E test — 35974360270](https://github.com/Upmate/pullminder-e2e-test/pull/162) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `today`
-- [Nightly E2E test — 35836981890](https://github.com/Upmate/pullminder-e2e-test/pull/161) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `1 day ago`
-- [Nightly E2E test — 35704484962](https://github.com/Upmate/pullminder-e2e-test/pull/160) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `2 days ago`
-- [Nightly E2E test — 35579515397](https://github.com/Upmate/pullminder-e2e-test/pull/159) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `3 days ago`
-- [Nightly E2E test — 35499532627](https://github.com/Upmate/pullminder-e2e-test/pull/158) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `4 days ago`
-- [Nightly E2E test — 35430616840](https://github.com/Upmate/pullminder-e2e-test/pull/157) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `5 days ago`
-- [Nightly E2E test — 35322636316](https://github.com/Upmate/pullminder-e2e-test/pull/156) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `6 days ago`
+- [Nightly E2E test — 35974360270](https://github.com/Upmate/pullminder-e2e-test/pull/162) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `1 day ago`
+- [Nightly E2E test — 35836981890](https://github.com/Upmate/pullminder-e2e-test/pull/161) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `2 days ago`
+- [Nightly E2E test — 35704484962](https://github.com/Upmate/pullminder-e2e-test/pull/160) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `3 days ago`
+- [Nightly E2E test — 35579515397](https://github.com/Upmate/pullminder-e2e-test/pull/159) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `4 days ago`
+- [Nightly E2E test — 35499532627](https://github.com/Upmate/pullminder-e2e-test/pull/158) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `5 days ago`
+- [Nightly E2E test — 35430616840](https://github.com/Upmate/pullminder-e2e-test/pull/157) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `6 days ago`
+- [Nightly E2E test — 35322636316](https://github.com/Upmate/pullminder-e2e-test/pull/156) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `1 week ago`
 - [Nightly E2E test — 35200053956](https://github.com/Upmate/pullminder-e2e-test/pull/155) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `1 week ago`
 - [Nightly E2E test — 35073669148](https://github.com/Upmate/pullminder-e2e-test/pull/154) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `1 week ago`
 - [Nightly E2E test — 34947420922](https://github.com/Upmate/pullminder-e2e-test/pull/153) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `1 week ago`
@@ -162,7 +162,7 @@ I build APIs, services, database-backed applications, integrations, and infrastr
 
 - [Gmail Has 48 Million Usernames and Passwords Exposed: What This Really Means (And What To Do Now)](https://www.strongpasswordmeter.com/en/blog/gmail-has-48000000-usernames-and-passwords-exposed) `8 months ago`
 - [25 Strong Password Examples You Can Actually Remember (2025 Guide)](https://www.strongpasswordmeter.com/en/blog/25-strong-password-examples-2025) `1 year ago`
-- [Password Notebook Reality Check: The Surprising Return of Analog Security (And How to Do It Properly)](https://www.strongpasswordmeter.com/en/blog/password-notebook-reality-check-the-surprising-return-of-analog-security) `1 year ago`
+- [Password Notebook Reality Check: The Surprising Return of Analog Security (And How to Do It Properly)](https://www.strongpasswordmeter.com/en/blog/password-notebook-reality-check-the-surprising-return-of-analog-security) `2 years ago`
 - [The Psychology Behind Password Creation: Why We Choose Weak Passwords (And How to Break the Habit)](https://www.strongpasswordmeter.com/en/blog/the-psychology-behind-password-creation) `2 years ago`
 - [The Rise of Quantum Computing and Its Impact on Password Security](https://www.strongpasswordmeter.com/en/blog/quantum-computing-password-security-threat) `2 years ago`
 - [The 20M OpenAI Credential Leak: What You Need to Know](https://www.strongpasswordmeter.com/en/blog/openai-20m-credential-leak) `2 years ago`
