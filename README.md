@@ -104,13 +104,13 @@ I build APIs, services, database-backed applications, integrations, and infrastr
 ## Current work
 
 
-- [CoMfUcIoS/kite](https://github.com/CoMfUcIoS/kite) — A bird-eye view of every git repo in a directory `2 weeks ago`
-- [CoMfUcIoS/neovim](https://github.com/CoMfUcIoS/neovim) — My configuration of Neovim. `4 weeks ago`
+- [CoMfUcIoS/kite](https://github.com/CoMfUcIoS/kite) — A bird-eye view of every git repo in a directory `today`
+- [CoMfUcIoS/neovim](https://github.com/CoMfUcIoS/neovim) — My configuration of Neovim. `today`
 - [pullminder/registry](https://github.com/pullminder/registry) — Official Pullminder rule pack registry — detection and policy packs for automated PR review `3 months ago`
 - [CoMfUcIoS/vw](https://github.com/CoMfUcIoS/vw) — opinionated command-line interface for Bitwarden and Vaultwarden `3 months ago`
 - [pullminder/.github](https://github.com/pullminder/.github) —  `3 months ago`
-- [pullminder/cli](https://github.com/pullminder/cli) — Pullminder CLI releases `3 months ago`
 - [pullminder/npm](https://github.com/pullminder/npm) — npm wrapper for Pullminder CLI `3 months ago`
+- [pullminder/cli](https://github.com/pullminder/cli) — Pullminder CLI releases `3 months ago`
 - [pullminder/action](https://github.com/pullminder/action) — GitHub Action for Pullminder registry validation `3 months ago`
 - [pullminder/homebrew-tap](https://github.com/pullminder/homebrew-tap) — Homebrew tap for Pullminder CLI `3 months ago`
 - [CoMfUcIoS/second-brain-mcp](https://github.com/CoMfUcIoS/second-brain-mcp) — An MCP (Model Context Protocol) server that provides intelligent read-only access to your Obsidian vault, enabling it to function as a &#34;second brain&#34; for LLMs. `4 months ago`
@@ -120,7 +120,7 @@ I build APIs, services, database-backed applications, integrations, and infrastr
 ## Latest releases I’ve contributed to
 
 
-- [CoMfUcIoS/kite](https://github.com/CoMfUcIoS/kite) — [v0.9.1](https://github.com/CoMfUcIoS/kite/releases/tag/v0.9.1), `today`  
+- [CoMfUcIoS/kite](https://github.com/CoMfUcIoS/kite) — [v0.11.0](https://github.com/CoMfUcIoS/kite/releases/tag/v0.11.0), `today`  
   A bird-eye view of every git repo in a directory
 - [pullminder/registry](https://github.com/pullminder/registry) — [v10](https://github.com/pullminder/registry/releases/tag/v10), `3 months ago`  
   Official Pullminder rule pack registry — detection and policy packs for automated PR review
@@ -144,6 +144,9 @@ I build APIs, services, database-backed applications, integrations, and infrastr
 ## Recent pull requests
 
 
+- [feat: page long output through less, like git](https://github.com/CoMfUcIoS/kite/pull/26) on [CoMfUcIoS/kite](https://github.com/CoMfUcIoS/kite) `today`
+- [feat: fit the status table to the terminal width](https://github.com/CoMfUcIoS/kite/pull/24) on [CoMfUcIoS/kite](https://github.com/CoMfUcIoS/kite) `today`
+- [feat: add createdAt to stash --json](https://github.com/CoMfUcIoS/kite/pull/23) on [CoMfUcIoS/kite](https://github.com/CoMfUcIoS/kite) `today`
 - [fix: explain the --json shape and the CI &#43;N suffix in --help](https://github.com/CoMfUcIoS/kite/pull/21) on [CoMfUcIoS/kite](https://github.com/CoMfUcIoS/kite) `today`
 - [docs: add a legend for every glyph and --json value to --help](https://github.com/CoMfUcIoS/kite/pull/20) on [CoMfUcIoS/kite](https://github.com/CoMfUcIoS/kite) `today`
 - [feat: show which directories prune would remove](https://github.com/CoMfUcIoS/kite/pull/19) on [CoMfUcIoS/kite](https://github.com/CoMfUcIoS/kite) `today`
@@ -151,9 +154,6 @@ I build APIs, services, database-backed applications, integrations, and infrastr
 - [feat: show progress while kite works, and how long it took](https://github.com/CoMfUcIoS/kite/pull/16) on [CoMfUcIoS/kite](https://github.com/CoMfUcIoS/kite) `today`
 - [perf: speed up status with the untracked cache and an early review search](https://github.com/CoMfUcIoS/kite/pull/14) on [CoMfUcIoS/kite](https://github.com/CoMfUcIoS/kite) `today`
 - [feat: find squash-merged branches whose remote branch was kept](https://github.com/CoMfUcIoS/kite/pull/12) on [CoMfUcIoS/kite](https://github.com/CoMfUcIoS/kite) `today`
-- [feat: flag branches whose upstream was force-pushed](https://github.com/CoMfUcIoS/kite/pull/11) on [CoMfUcIoS/kite](https://github.com/CoMfUcIoS/kite) `today`
-- [feat: add --json output to status, update, stash and prune](https://github.com/CoMfUcIoS/kite/pull/10) on [CoMfUcIoS/kite](https://github.com/CoMfUcIoS/kite) `today`
-- [feat: let prune remove finished worktrees](https://github.com/CoMfUcIoS/kite/pull/8) on [CoMfUcIoS/kite](https://github.com/CoMfUcIoS/kite) `today`
 
 ---
 
