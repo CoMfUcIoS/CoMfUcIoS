@@ -120,7 +120,7 @@ I build APIs, services, database-backed applications, integrations, and infrastr
 ## Latest releases I’ve contributed to
 
 
-- [CoMfUcIoS/kite](https://github.com/CoMfUcIoS/kite) — [v0.4.0](https://github.com/CoMfUcIoS/kite/releases/tag/v0.4.0), `2 weeks ago`  
+- [CoMfUcIoS/kite](https://github.com/CoMfUcIoS/kite) — [v0.9.1](https://github.com/CoMfUcIoS/kite/releases/tag/v0.9.1), `today`  
   A bird-eye view of every git repo in a directory
 - [pullminder/registry](https://github.com/pullminder/registry) — [v10](https://github.com/pullminder/registry/releases/tag/v10), `3 months ago`  
   Official Pullminder rule pack registry — detection and policy packs for automated PR review
@@ -144,16 +144,16 @@ I build APIs, services, database-backed applications, integrations, and infrastr
 ## Recent pull requests
 
 
-- [Nightly E2E test — 36550384090](https://github.com/Upmate/pullminder-e2e-test/pull/167) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `1 day ago`
-- [Nightly E2E test — 36404257829](https://github.com/Upmate/pullminder-e2e-test/pull/166) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `2 days ago`
-- [Nightly E2E test — 36308235151](https://github.com/Upmate/pullminder-e2e-test/pull/165) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `3 days ago`
-- [Nightly E2E test — 36229800322](https://github.com/Upmate/pullminder-e2e-test/pull/164) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `4 days ago`
-- [Nightly E2E test — 36114141327](https://github.com/Upmate/pullminder-e2e-test/pull/163) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `5 days ago`
-- [Nightly E2E test — 35974360270](https://github.com/Upmate/pullminder-e2e-test/pull/162) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `6 days ago`
-- [Nightly E2E test — 35836981890](https://github.com/Upmate/pullminder-e2e-test/pull/161) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `1 week ago`
-- [Nightly E2E test — 35704484962](https://github.com/Upmate/pullminder-e2e-test/pull/160) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `1 week ago`
-- [Nightly E2E test — 35579515397](https://github.com/Upmate/pullminder-e2e-test/pull/159) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `1 week ago`
-- [Nightly E2E test — 35499532627](https://github.com/Upmate/pullminder-e2e-test/pull/158) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `1 week ago`
+- [fix: explain the --json shape and the CI &#43;N suffix in --help](https://github.com/CoMfUcIoS/kite/pull/21) on [CoMfUcIoS/kite](https://github.com/CoMfUcIoS/kite) `today`
+- [docs: add a legend for every glyph and --json value to --help](https://github.com/CoMfUcIoS/kite/pull/20) on [CoMfUcIoS/kite](https://github.com/CoMfUcIoS/kite) `today`
+- [feat: show which directories prune would remove](https://github.com/CoMfUcIoS/kite/pull/19) on [CoMfUcIoS/kite](https://github.com/CoMfUcIoS/kite) `today`
+- [fix: mark PR sub-rows with ↳ so they don&#39;t look like worktrees](https://github.com/CoMfUcIoS/kite/pull/17) on [CoMfUcIoS/kite](https://github.com/CoMfUcIoS/kite) `today`
+- [feat: show progress while kite works, and how long it took](https://github.com/CoMfUcIoS/kite/pull/16) on [CoMfUcIoS/kite](https://github.com/CoMfUcIoS/kite) `today`
+- [perf: speed up status with the untracked cache and an early review search](https://github.com/CoMfUcIoS/kite/pull/14) on [CoMfUcIoS/kite](https://github.com/CoMfUcIoS/kite) `today`
+- [feat: find squash-merged branches whose remote branch was kept](https://github.com/CoMfUcIoS/kite/pull/12) on [CoMfUcIoS/kite](https://github.com/CoMfUcIoS/kite) `today`
+- [feat: flag branches whose upstream was force-pushed](https://github.com/CoMfUcIoS/kite/pull/11) on [CoMfUcIoS/kite](https://github.com/CoMfUcIoS/kite) `today`
+- [feat: add --json output to status, update, stash and prune](https://github.com/CoMfUcIoS/kite/pull/10) on [CoMfUcIoS/kite](https://github.com/CoMfUcIoS/kite) `today`
+- [feat: let prune remove finished worktrees](https://github.com/CoMfUcIoS/kite/pull/8) on [CoMfUcIoS/kite](https://github.com/CoMfUcIoS/kite) `today`
 
 ---
 
