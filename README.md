@@ -144,6 +144,7 @@ I build APIs, services, database-backed applications, integrations, and infrastr
 ## Recent pull requests
 
 
+- [Nightly E2E test — 36845879569](https://github.com/Upmate/pullminder-e2e-test/pull/169) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `today`
 - [feat: page long output through less, like git](https://github.com/CoMfUcIoS/kite/pull/26) on [CoMfUcIoS/kite](https://github.com/CoMfUcIoS/kite) `1 day ago`
 - [feat: fit the status table to the terminal width](https://github.com/CoMfUcIoS/kite/pull/24) on [CoMfUcIoS/kite](https://github.com/CoMfUcIoS/kite) `1 day ago`
 - [feat: add createdAt to stash --json](https://github.com/CoMfUcIoS/kite/pull/23) on [CoMfUcIoS/kite](https://github.com/CoMfUcIoS/kite) `1 day ago`
@@ -153,7 +154,6 @@ I build APIs, services, database-backed applications, integrations, and infrastr
 - [fix: mark PR sub-rows with ↳ so they don&#39;t look like worktrees](https://github.com/CoMfUcIoS/kite/pull/17) on [CoMfUcIoS/kite](https://github.com/CoMfUcIoS/kite) `1 day ago`
 - [feat: show progress while kite works, and how long it took](https://github.com/CoMfUcIoS/kite/pull/16) on [CoMfUcIoS/kite](https://github.com/CoMfUcIoS/kite) `1 day ago`
 - [perf: speed up status with the untracked cache and an early review search](https://github.com/CoMfUcIoS/kite/pull/14) on [CoMfUcIoS/kite](https://github.com/CoMfUcIoS/kite) `1 day ago`
-- [feat: find squash-merged branches whose remote branch was kept](https://github.com/CoMfUcIoS/kite/pull/12) on [CoMfUcIoS/kite](https://github.com/CoMfUcIoS/kite) `1 day ago`
 
 ---
 
