@@ -104,8 +104,8 @@ I build APIs, services, database-backed applications, integrations, and infrastr
 ## Current work
 
 
-- [CoMfUcIoS/neovim](https://github.com/CoMfUcIoS/neovim) — My configuration of Neovim. `1 day ago`
-- [CoMfUcIoS/kite](https://github.com/CoMfUcIoS/kite) — A bird-eye view of every git repo in a directory `1 day ago`
+- [CoMfUcIoS/neovim](https://github.com/CoMfUcIoS/neovim) — My configuration of Neovim. `2 days ago`
+- [CoMfUcIoS/kite](https://github.com/CoMfUcIoS/kite) — A bird-eye view of every git repo in a directory `2 days ago`
 - [pullminder/registry](https://github.com/pullminder/registry) — Official Pullminder rule pack registry — detection and policy packs for automated PR review `3 months ago`
 - [CoMfUcIoS/vw](https://github.com/CoMfUcIoS/vw) — opinionated command-line interface for Bitwarden and Vaultwarden `3 months ago`
 - [pullminder/.github](https://github.com/pullminder/.github) —  `3 months ago`
@@ -120,7 +120,7 @@ I build APIs, services, database-backed applications, integrations, and infrastr
 ## Latest releases I’ve contributed to
 
 
-- [CoMfUcIoS/kite](https://github.com/CoMfUcIoS/kite) — [v0.11.0](https://github.com/CoMfUcIoS/kite/releases/tag/v0.11.0), `1 day ago`  
+- [CoMfUcIoS/kite](https://github.com/CoMfUcIoS/kite) — [v0.11.0](https://github.com/CoMfUcIoS/kite/releases/tag/v0.11.0), `2 days ago`  
   A bird-eye view of every git repo in a directory
 - [pullminder/registry](https://github.com/pullminder/registry) — [v10](https://github.com/pullminder/registry/releases/tag/v10), `3 months ago`  
   Official Pullminder rule pack registry — detection and policy packs for automated PR review
@@ -130,9 +130,9 @@ I build APIs, services, database-backed applications, integrations, and infrastr
   GitHub Action for Pullminder registry validation
 - [CoMfUcIoS/vw](https://github.com/CoMfUcIoS/vw) — [v0.2.0](https://github.com/CoMfUcIoS/vw/releases/tag/v0.2.0), `3 months ago`  
   opinionated command-line interface for Bitwarden and Vaultwarden
-- [CoMfUcIoS/GraphQLens](https://github.com/CoMfUcIoS/GraphQLens) — [v1.0.3](https://github.com/CoMfUcIoS/GraphQLens/releases/tag/v1.0.3), `4 months ago`  
+- [CoMfUcIoS/GraphQLens](https://github.com/CoMfUcIoS/GraphQLens) — [v1.0.3](https://github.com/CoMfUcIoS/GraphQLens/releases/tag/v1.0.3), `5 months ago`  
   A performant, modern Chrome DevTools extension for inspecting &amp; mocking GraphQL traffic
-- [CoMfUcIoS/second-brain-mcp](https://github.com/CoMfUcIoS/second-brain-mcp) — [v0.2.1](https://github.com/CoMfUcIoS/second-brain-mcp/releases/tag/v0.2.1), `4 months ago`  
+- [CoMfUcIoS/second-brain-mcp](https://github.com/CoMfUcIoS/second-brain-mcp) — [v0.2.1](https://github.com/CoMfUcIoS/second-brain-mcp/releases/tag/v0.2.1), `5 months ago`  
   An MCP (Model Context Protocol) server that provides intelligent read-only access to your Obsidian vault, enabling it to function as a &#34;second brain&#34; for LLMs.
 - [CoMfUcIoS/console-inline.nvim](https://github.com/CoMfUcIoS/console-inline.nvim) — [console-inline.nvim-v3.1.0](https://github.com/CoMfUcIoS/console-inline.nvim/releases/tag/console-inline.nvim-v3.1.0), `9 months ago`  
   Zero-config Neovim plugin for inline console logs
@@ -144,16 +144,16 @@ I build APIs, services, database-backed applications, integrations, and infrastr
 ## Recent pull requests
 
 
-- [Nightly E2E test — 36845879569](https://github.com/Upmate/pullminder-e2e-test/pull/169) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `today`
-- [feat: page long output through less, like git](https://github.com/CoMfUcIoS/kite/pull/26) on [CoMfUcIoS/kite](https://github.com/CoMfUcIoS/kite) `1 day ago`
-- [feat: fit the status table to the terminal width](https://github.com/CoMfUcIoS/kite/pull/24) on [CoMfUcIoS/kite](https://github.com/CoMfUcIoS/kite) `1 day ago`
-- [feat: add createdAt to stash --json](https://github.com/CoMfUcIoS/kite/pull/23) on [CoMfUcIoS/kite](https://github.com/CoMfUcIoS/kite) `1 day ago`
-- [fix: explain the --json shape and the CI &#43;N suffix in --help](https://github.com/CoMfUcIoS/kite/pull/21) on [CoMfUcIoS/kite](https://github.com/CoMfUcIoS/kite) `1 day ago`
-- [docs: add a legend for every glyph and --json value to --help](https://github.com/CoMfUcIoS/kite/pull/20) on [CoMfUcIoS/kite](https://github.com/CoMfUcIoS/kite) `1 day ago`
-- [feat: show which directories prune would remove](https://github.com/CoMfUcIoS/kite/pull/19) on [CoMfUcIoS/kite](https://github.com/CoMfUcIoS/kite) `1 day ago`
-- [fix: mark PR sub-rows with ↳ so they don&#39;t look like worktrees](https://github.com/CoMfUcIoS/kite/pull/17) on [CoMfUcIoS/kite](https://github.com/CoMfUcIoS/kite) `1 day ago`
-- [feat: show progress while kite works, and how long it took](https://github.com/CoMfUcIoS/kite/pull/16) on [CoMfUcIoS/kite](https://github.com/CoMfUcIoS/kite) `1 day ago`
-- [perf: speed up status with the untracked cache and an early review search](https://github.com/CoMfUcIoS/kite/pull/14) on [CoMfUcIoS/kite](https://github.com/CoMfUcIoS/kite) `1 day ago`
+- [Nightly E2E test — 36845879569](https://github.com/Upmate/pullminder-e2e-test/pull/169) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `1 day ago`
+- [feat: page long output through less, like git](https://github.com/CoMfUcIoS/kite/pull/26) on [CoMfUcIoS/kite](https://github.com/CoMfUcIoS/kite) `2 days ago`
+- [feat: fit the status table to the terminal width](https://github.com/CoMfUcIoS/kite/pull/24) on [CoMfUcIoS/kite](https://github.com/CoMfUcIoS/kite) `2 days ago`
+- [feat: add createdAt to stash --json](https://github.com/CoMfUcIoS/kite/pull/23) on [CoMfUcIoS/kite](https://github.com/CoMfUcIoS/kite) `2 days ago`
+- [fix: explain the --json shape and the CI &#43;N suffix in --help](https://github.com/CoMfUcIoS/kite/pull/21) on [CoMfUcIoS/kite](https://github.com/CoMfUcIoS/kite) `2 days ago`
+- [docs: add a legend for every glyph and --json value to --help](https://github.com/CoMfUcIoS/kite/pull/20) on [CoMfUcIoS/kite](https://github.com/CoMfUcIoS/kite) `2 days ago`
+- [feat: show which directories prune would remove](https://github.com/CoMfUcIoS/kite/pull/19) on [CoMfUcIoS/kite](https://github.com/CoMfUcIoS/kite) `2 days ago`
+- [fix: mark PR sub-rows with ↳ so they don&#39;t look like worktrees](https://github.com/CoMfUcIoS/kite/pull/17) on [CoMfUcIoS/kite](https://github.com/CoMfUcIoS/kite) `2 days ago`
+- [feat: show progress while kite works, and how long it took](https://github.com/CoMfUcIoS/kite/pull/16) on [CoMfUcIoS/kite](https://github.com/CoMfUcIoS/kite) `2 days ago`
+- [perf: speed up status with the untracked cache and an early review search](https://github.com/CoMfUcIoS/kite/pull/14) on [CoMfUcIoS/kite](https://github.com/CoMfUcIoS/kite) `2 days ago`
 
 ---
 
