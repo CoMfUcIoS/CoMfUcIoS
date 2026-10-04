@@ -104,8 +104,8 @@ I build APIs, services, database-backed applications, integrations, and infrastr
 ## Current work
 
 
-- [CoMfUcIoS/neovim](https://github.com/CoMfUcIoS/neovim) — My configuration of Neovim. `1 day ago`
-- [CoMfUcIoS/kite](https://github.com/CoMfUcIoS/kite) — A bird-eye view of every git repo in a directory `3 days ago`
+- [CoMfUcIoS/neovim](https://github.com/CoMfUcIoS/neovim) — My configuration of Neovim. `2 days ago`
+- [CoMfUcIoS/kite](https://github.com/CoMfUcIoS/kite) — A bird-eye view of every git repo in a directory `4 days ago`
 - [pullminder/registry](https://github.com/pullminder/registry) — Official Pullminder rule pack registry — detection and policy packs for automated PR review `3 months ago`
 - [CoMfUcIoS/vw](https://github.com/CoMfUcIoS/vw) — opinionated command-line interface for Bitwarden and Vaultwarden `3 months ago`
 - [pullminder/.github](https://github.com/pullminder/.github) —  `3 months ago`
@@ -120,7 +120,7 @@ I build APIs, services, database-backed applications, integrations, and infrastr
 ## Latest releases I’ve contributed to
 
 
-- [CoMfUcIoS/kite](https://github.com/CoMfUcIoS/kite) — [v0.11.0](https://github.com/CoMfUcIoS/kite/releases/tag/v0.11.0), `3 days ago`  
+- [CoMfUcIoS/kite](https://github.com/CoMfUcIoS/kite) — [v0.11.0](https://github.com/CoMfUcIoS/kite/releases/tag/v0.11.0), `4 days ago`  
   A bird-eye view of every git repo in a directory
 - [pullminder/registry](https://github.com/pullminder/registry) — [v10](https://github.com/pullminder/registry/releases/tag/v10), `3 months ago`  
   Official Pullminder rule pack registry — detection and policy packs for automated PR review
@@ -144,16 +144,16 @@ I build APIs, services, database-backed applications, integrations, and infrastr
 ## Recent pull requests
 
 
-- [Nightly E2E test — 37111543753](https://github.com/Upmate/pullminder-e2e-test/pull/171) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `today`
-- [Nightly E2E test — 36990357165](https://github.com/Upmate/pullminder-e2e-test/pull/170) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `1 day ago`
-- [Nightly E2E test — 36845879569](https://github.com/Upmate/pullminder-e2e-test/pull/169) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `2 days ago`
-- [feat: page long output through less, like git](https://github.com/CoMfUcIoS/kite/pull/26) on [CoMfUcIoS/kite](https://github.com/CoMfUcIoS/kite) `3 days ago`
-- [feat: fit the status table to the terminal width](https://github.com/CoMfUcIoS/kite/pull/24) on [CoMfUcIoS/kite](https://github.com/CoMfUcIoS/kite) `3 days ago`
-- [feat: add createdAt to stash --json](https://github.com/CoMfUcIoS/kite/pull/23) on [CoMfUcIoS/kite](https://github.com/CoMfUcIoS/kite) `3 days ago`
-- [fix: explain the --json shape and the CI &#43;N suffix in --help](https://github.com/CoMfUcIoS/kite/pull/21) on [CoMfUcIoS/kite](https://github.com/CoMfUcIoS/kite) `3 days ago`
-- [docs: add a legend for every glyph and --json value to --help](https://github.com/CoMfUcIoS/kite/pull/20) on [CoMfUcIoS/kite](https://github.com/CoMfUcIoS/kite) `3 days ago`
-- [feat: show which directories prune would remove](https://github.com/CoMfUcIoS/kite/pull/19) on [CoMfUcIoS/kite](https://github.com/CoMfUcIoS/kite) `3 days ago`
-- [fix: mark PR sub-rows with ↳ so they don&#39;t look like worktrees](https://github.com/CoMfUcIoS/kite/pull/17) on [CoMfUcIoS/kite](https://github.com/CoMfUcIoS/kite) `3 days ago`
+- [Nightly E2E test — 37111543753](https://github.com/Upmate/pullminder-e2e-test/pull/171) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `1 day ago`
+- [Nightly E2E test — 36990357165](https://github.com/Upmate/pullminder-e2e-test/pull/170) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `2 days ago`
+- [Nightly E2E test — 36845879569](https://github.com/Upmate/pullminder-e2e-test/pull/169) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `3 days ago`
+- [feat: page long output through less, like git](https://github.com/CoMfUcIoS/kite/pull/26) on [CoMfUcIoS/kite](https://github.com/CoMfUcIoS/kite) `4 days ago`
+- [feat: fit the status table to the terminal width](https://github.com/CoMfUcIoS/kite/pull/24) on [CoMfUcIoS/kite](https://github.com/CoMfUcIoS/kite) `4 days ago`
+- [feat: add createdAt to stash --json](https://github.com/CoMfUcIoS/kite/pull/23) on [CoMfUcIoS/kite](https://github.com/CoMfUcIoS/kite) `4 days ago`
+- [fix: explain the --json shape and the CI &#43;N suffix in --help](https://github.com/CoMfUcIoS/kite/pull/21) on [CoMfUcIoS/kite](https://github.com/CoMfUcIoS/kite) `4 days ago`
+- [docs: add a legend for every glyph and --json value to --help](https://github.com/CoMfUcIoS/kite/pull/20) on [CoMfUcIoS/kite](https://github.com/CoMfUcIoS/kite) `4 days ago`
+- [feat: show which directories prune would remove](https://github.com/CoMfUcIoS/kite/pull/19) on [CoMfUcIoS/kite](https://github.com/CoMfUcIoS/kite) `4 days ago`
+- [fix: mark PR sub-rows with ↳ so they don&#39;t look like worktrees](https://github.com/CoMfUcIoS/kite/pull/17) on [CoMfUcIoS/kite](https://github.com/CoMfUcIoS/kite) `4 days ago`
 
 ---
 
