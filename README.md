@@ -144,6 +144,7 @@ I build APIs, services, database-backed applications, integrations, and infrastr
 ## Recent pull requests
 
 
+- [Nightly E2E test — 37446483002](https://github.com/Upmate/pullminder-e2e-test/pull/174) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `today`
 - [feat(prune): name what keeps a finished worktree, and add --ignored](https://github.com/CoMfUcIoS/kite/pull/28) on [CoMfUcIoS/kite](https://github.com/CoMfUcIoS/kite) `1 day ago`
 - [Nightly E2E test — 37295072783](https://github.com/Upmate/pullminder-e2e-test/pull/173) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `1 day ago`
 - [Nightly E2E test — 37192407244](https://github.com/Upmate/pullminder-e2e-test/pull/172) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `2 days ago`
@@ -153,7 +154,6 @@ I build APIs, services, database-backed applications, integrations, and infrastr
 - [feat: page long output through less, like git](https://github.com/CoMfUcIoS/kite/pull/26) on [CoMfUcIoS/kite](https://github.com/CoMfUcIoS/kite) `6 days ago`
 - [feat: fit the status table to the terminal width](https://github.com/CoMfUcIoS/kite/pull/24) on [CoMfUcIoS/kite](https://github.com/CoMfUcIoS/kite) `6 days ago`
 - [feat: add createdAt to stash --json](https://github.com/CoMfUcIoS/kite/pull/23) on [CoMfUcIoS/kite](https://github.com/CoMfUcIoS/kite) `6 days ago`
-- [fix: explain the --json shape and the CI &#43;N suffix in --help](https://github.com/CoMfUcIoS/kite/pull/21) on [CoMfUcIoS/kite](https://github.com/CoMfUcIoS/kite) `6 days ago`
 
 ---
 
