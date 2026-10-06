@@ -106,8 +106,8 @@ I build APIs, services, database-backed applications, integrations, and infrastr
 
 - [CoMfUcIoS/kite](https://github.com/CoMfUcIoS/kite) — A bird-eye view of every git repo in a directory `1 day ago`
 - [CoMfUcIoS/neovim](https://github.com/CoMfUcIoS/neovim) — My configuration of Neovim. `4 days ago`
-- [pullminder/registry](https://github.com/pullminder/registry) — Official Pullminder rule pack registry — detection and policy packs for automated PR review `3 months ago`
 - [CoMfUcIoS/vw](https://github.com/CoMfUcIoS/vw) — opinionated command-line interface for Bitwarden and Vaultwarden `3 months ago`
+- [pullminder/registry](https://github.com/pullminder/registry) — Official Pullminder rule pack registry — detection and policy packs for automated PR review `3 months ago`
 - [pullminder/.github](https://github.com/pullminder/.github) —  `3 months ago`
 - [pullminder/cli](https://github.com/pullminder/cli) — Pullminder CLI releases `3 months ago`
 - [pullminder/npm](https://github.com/pullminder/npm) — npm wrapper for Pullminder CLI `3 months ago`
