@@ -104,7 +104,7 @@ I build APIs, services, database-backed applications, integrations, and infrastr
 ## Current work
 
 
-- [CoMfUcIoS/kite](https://github.com/CoMfUcIoS/kite) — A bird-eye view of every git repo in a directory `4 days ago`
+- [CoMfUcIoS/kite](https://github.com/CoMfUcIoS/kite) — A bird-eye view of every git repo in a directory `5 days ago`
 - [CoMfUcIoS/neovim](https://github.com/CoMfUcIoS/neovim) — My configuration of Neovim. `1 week ago`
 - [CoMfUcIoS/vw](https://github.com/CoMfUcIoS/vw) — opinionated command-line interface for Bitwarden and Vaultwarden `3 months ago`
 - [pullminder/registry](https://github.com/pullminder/registry) — Official Pullminder rule pack registry — detection and policy packs for automated PR review `3 months ago`
@@ -120,7 +120,7 @@ I build APIs, services, database-backed applications, integrations, and infrastr
 ## Latest releases I’ve contributed to
 
 
-- [CoMfUcIoS/kite](https://github.com/CoMfUcIoS/kite) — [v0.12.0](https://github.com/CoMfUcIoS/kite/releases/tag/v0.12.0), `4 days ago`  
+- [CoMfUcIoS/kite](https://github.com/CoMfUcIoS/kite) — [v0.12.0](https://github.com/CoMfUcIoS/kite/releases/tag/v0.12.0), `5 days ago`  
   A bird-eye view of every git repo in a directory
 - [pullminder/registry](https://github.com/pullminder/registry) — [v10](https://github.com/pullminder/registry/releases/tag/v10), `3 months ago`  
   Official Pullminder rule pack registry — detection and policy packs for automated PR review
@@ -134,9 +134,9 @@ I build APIs, services, database-backed applications, integrations, and infrastr
   A performant, modern Chrome DevTools extension for inspecting &amp; mocking GraphQL traffic
 - [CoMfUcIoS/second-brain-mcp](https://github.com/CoMfUcIoS/second-brain-mcp) — [v0.2.1](https://github.com/CoMfUcIoS/second-brain-mcp/releases/tag/v0.2.1), `5 months ago`  
   An MCP (Model Context Protocol) server that provides intelligent read-only access to your Obsidian vault, enabling it to function as a &#34;second brain&#34; for LLMs.
-- [CoMfUcIoS/console-inline.nvim](https://github.com/CoMfUcIoS/console-inline.nvim) — [console-inline.nvim-v3.1.0](https://github.com/CoMfUcIoS/console-inline.nvim/releases/tag/console-inline.nvim-v3.1.0), `9 months ago`  
+- [CoMfUcIoS/console-inline.nvim](https://github.com/CoMfUcIoS/console-inline.nvim) — [console-inline.nvim-v3.1.0](https://github.com/CoMfUcIoS/console-inline.nvim/releases/tag/console-inline.nvim-v3.1.0), `10 months ago`  
   Zero-config Neovim plugin for inline console logs
-- [CoMfUcIoS/ConventionalComments-ext](https://github.com/CoMfUcIoS/ConventionalComments-ext) — [v2.3.0](https://github.com/CoMfUcIoS/ConventionalComments-ext/releases/tag/v2.3.0), `9 months ago`  
+- [CoMfUcIoS/ConventionalComments-ext](https://github.com/CoMfUcIoS/ConventionalComments-ext) — [v2.3.0](https://github.com/CoMfUcIoS/ConventionalComments-ext/releases/tag/v2.3.0), `10 months ago`  
   An easy way to help you be kind and insert Conventional comments in GH comments
 
 ---
@@ -144,14 +144,14 @@ I build APIs, services, database-backed applications, integrations, and infrastr
 ## Recent pull requests
 
 
-- [Nightly E2E test — 37916594532](https://github.com/Upmate/pullminder-e2e-test/pull/177) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `today`
-- [Nightly E2E test — 37762291863](https://github.com/Upmate/pullminder-e2e-test/pull/176) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `1 day ago`
-- [Nightly E2E test — 37604700857](https://github.com/Upmate/pullminder-e2e-test/pull/175) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `2 days ago`
-- [Nightly E2E test — 37446483002](https://github.com/Upmate/pullminder-e2e-test/pull/174) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `3 days ago`
-- [feat(prune): name what keeps a finished worktree, and add --ignored](https://github.com/CoMfUcIoS/kite/pull/28) on [CoMfUcIoS/kite](https://github.com/CoMfUcIoS/kite) `4 days ago`
-- [Nightly E2E test — 37295072783](https://github.com/Upmate/pullminder-e2e-test/pull/173) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `4 days ago`
-- [Nightly E2E test — 37192407244](https://github.com/Upmate/pullminder-e2e-test/pull/172) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `5 days ago`
-- [Nightly E2E test — 37111543753](https://github.com/Upmate/pullminder-e2e-test/pull/171) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `6 days ago`
+- [Nightly E2E test — 37916594532](https://github.com/Upmate/pullminder-e2e-test/pull/177) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `1 day ago`
+- [Nightly E2E test — 37762291863](https://github.com/Upmate/pullminder-e2e-test/pull/176) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `2 days ago`
+- [Nightly E2E test — 37604700857](https://github.com/Upmate/pullminder-e2e-test/pull/175) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `3 days ago`
+- [Nightly E2E test — 37446483002](https://github.com/Upmate/pullminder-e2e-test/pull/174) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `4 days ago`
+- [feat(prune): name what keeps a finished worktree, and add --ignored](https://github.com/CoMfUcIoS/kite/pull/28) on [CoMfUcIoS/kite](https://github.com/CoMfUcIoS/kite) `5 days ago`
+- [Nightly E2E test — 37295072783](https://github.com/Upmate/pullminder-e2e-test/pull/173) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `5 days ago`
+- [Nightly E2E test — 37192407244](https://github.com/Upmate/pullminder-e2e-test/pull/172) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `6 days ago`
+- [Nightly E2E test — 37111543753](https://github.com/Upmate/pullminder-e2e-test/pull/171) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `1 week ago`
 - [Nightly E2E test — 36990357165](https://github.com/Upmate/pullminder-e2e-test/pull/170) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `1 week ago`
 - [Nightly E2E test — 36845879569](https://github.com/Upmate/pullminder-e2e-test/pull/169) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `1 week ago`
 
