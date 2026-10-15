@@ -124,7 +124,7 @@ I build APIs, services, database-backed applications, integrations, and infrastr
   A bird-eye view of every git repo in a directory
 - [pullminder/registry](https://github.com/pullminder/registry) — [v10](https://github.com/pullminder/registry/releases/tag/v10), `3 months ago`  
   Official Pullminder rule pack registry — detection and policy packs for automated PR review
-- [pullminder/cli](https://github.com/pullminder/cli) — [v0.1.26](https://github.com/pullminder/cli/releases/tag/v0.1.26), `3 months ago`  
+- [pullminder/cli](https://github.com/pullminder/cli) — [v0.1.26](https://github.com/pullminder/cli/releases/tag/v0.1.26), `4 months ago`  
   Pullminder CLI releases
 - [pullminder/action](https://github.com/pullminder/action) — [v1.0.3](https://github.com/pullminder/action/releases/tag/v1.0.3), `4 months ago`  
   GitHub Action for Pullminder registry validation
@@ -144,13 +144,13 @@ I build APIs, services, database-backed applications, integrations, and infrastr
 ## Recent pull requests
 
 
-- [Nightly E2E test — 38535755205](https://github.com/Upmate/pullminder-e2e-test/pull/182) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `today`
-- [Nightly E2E test — 38382566601](https://github.com/Upmate/pullminder-e2e-test/pull/181) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `1 day ago`
-- [Nightly E2E test — 38236709874](https://github.com/Upmate/pullminder-e2e-test/pull/180) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `2 days ago`
-- [Nightly E2E test — 38129743652](https://github.com/Upmate/pullminder-e2e-test/pull/179) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `3 days ago`
-- [Nightly E2E test — 38042011570](https://github.com/Upmate/pullminder-e2e-test/pull/178) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `4 days ago`
-- [Nightly E2E test — 37916594532](https://github.com/Upmate/pullminder-e2e-test/pull/177) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `5 days ago`
-- [Nightly E2E test — 37762291863](https://github.com/Upmate/pullminder-e2e-test/pull/176) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `6 days ago`
+- [Nightly E2E test — 38535755205](https://github.com/Upmate/pullminder-e2e-test/pull/182) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `1 day ago`
+- [Nightly E2E test — 38382566601](https://github.com/Upmate/pullminder-e2e-test/pull/181) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `2 days ago`
+- [Nightly E2E test — 38236709874](https://github.com/Upmate/pullminder-e2e-test/pull/180) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `3 days ago`
+- [Nightly E2E test — 38129743652](https://github.com/Upmate/pullminder-e2e-test/pull/179) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `4 days ago`
+- [Nightly E2E test — 38042011570](https://github.com/Upmate/pullminder-e2e-test/pull/178) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `5 days ago`
+- [Nightly E2E test — 37916594532](https://github.com/Upmate/pullminder-e2e-test/pull/177) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `6 days ago`
+- [Nightly E2E test — 37762291863](https://github.com/Upmate/pullminder-e2e-test/pull/176) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `1 week ago`
 - [Nightly E2E test — 37604700857](https://github.com/Upmate/pullminder-e2e-test/pull/175) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `1 week ago`
 - [Nightly E2E test — 37446483002](https://github.com/Upmate/pullminder-e2e-test/pull/174) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `1 week ago`
 - [feat(prune): name what keeps a finished worktree, and add --ignored](https://github.com/CoMfUcIoS/kite/pull/28) on [CoMfUcIoS/kite](https://github.com/CoMfUcIoS/kite) `1 week ago`
