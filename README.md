@@ -106,11 +106,11 @@ I build APIs, services, database-backed applications, integrations, and infrastr
 
 - [CoMfUcIoS/kite](https://github.com/CoMfUcIoS/kite) — A bird-eye view of every git repo in a directory `1 week ago`
 - [CoMfUcIoS/neovim](https://github.com/CoMfUcIoS/neovim) — My configuration of Neovim. `2 weeks ago`
-- [CoMfUcIoS/vw](https://github.com/CoMfUcIoS/vw) — opinionated command-line interface for Bitwarden and Vaultwarden `3 months ago`
 - [pullminder/registry](https://github.com/pullminder/registry) — Official Pullminder rule pack registry — detection and policy packs for automated PR review `3 months ago`
+- [CoMfUcIoS/vw](https://github.com/CoMfUcIoS/vw) — opinionated command-line interface for Bitwarden and Vaultwarden `3 months ago`
 - [pullminder/.github](https://github.com/pullminder/.github) —  `4 months ago`
-- [pullminder/npm](https://github.com/pullminder/npm) — npm wrapper for Pullminder CLI `4 months ago`
 - [pullminder/cli](https://github.com/pullminder/cli) — Pullminder CLI releases `4 months ago`
+- [pullminder/npm](https://github.com/pullminder/npm) — npm wrapper for Pullminder CLI `4 months ago`
 - [pullminder/action](https://github.com/pullminder/action) — GitHub Action for Pullminder registry validation `4 months ago`
 - [pullminder/homebrew-tap](https://github.com/pullminder/homebrew-tap) — Homebrew tap for Pullminder CLI `4 months ago`
 - [CoMfUcIoS/second-brain-mcp](https://github.com/CoMfUcIoS/second-brain-mcp) — An MCP (Model Context Protocol) server that provides intelligent read-only access to your Obsidian vault, enabling it to function as a &#34;second brain&#34; for LLMs. `4 months ago`
