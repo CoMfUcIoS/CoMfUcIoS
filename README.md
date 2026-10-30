@@ -109,8 +109,8 @@ I build APIs, services, database-backed applications, integrations, and infrastr
 - [CoMfUcIoS/vw](https://github.com/CoMfUcIoS/vw) — opinionated command-line interface for Bitwarden and Vaultwarden `4 months ago`
 - [pullminder/registry](https://github.com/pullminder/registry) — Official Pullminder rule pack registry — detection and policy packs for automated PR review `4 months ago`
 - [pullminder/.github](https://github.com/pullminder/.github) —  `4 months ago`
-- [pullminder/npm](https://github.com/pullminder/npm) — npm wrapper for Pullminder CLI `4 months ago`
 - [pullminder/cli](https://github.com/pullminder/cli) — Pullminder CLI releases `4 months ago`
+- [pullminder/npm](https://github.com/pullminder/npm) — npm wrapper for Pullminder CLI `4 months ago`
 - [pullminder/action](https://github.com/pullminder/action) — GitHub Action for Pullminder registry validation `4 months ago`
 - [pullminder/homebrew-tap](https://github.com/pullminder/homebrew-tap) — Homebrew tap for Pullminder CLI `4 months ago`
 - [CoMfUcIoS/second-brain-mcp](https://github.com/CoMfUcIoS/second-brain-mcp) — An MCP (Model Context Protocol) server that provides intelligent read-only access to your Obsidian vault, enabling it to function as a &#34;second brain&#34; for LLMs. `5 months ago`
@@ -160,6 +160,7 @@ I build APIs, services, database-backed applications, integrations, and infrastr
 ## Recent writing
 
 
+- [Lost Your Phone? Make an Account Recovery Plan Before You Need One](https://www.strongpasswordmeter.com/en/blog/backup-codes-account-recovery-plan) `today`
 - [Gmail Has 48 Million Usernames and Passwords Exposed: What This Really Means (And What To Do Now)](https://www.strongpasswordmeter.com/en/blog/gmail-has-48000000-usernames-and-passwords-exposed) `9 months ago`
 - [25 Strong Password Examples You Can Actually Remember (2025 Guide)](https://www.strongpasswordmeter.com/en/blog/25-strong-password-examples-2025) `1 year ago`
 - [Password Notebook Reality Check: The Surprising Return of Analog Security (And How to Do It Properly)](https://www.strongpasswordmeter.com/en/blog/password-notebook-reality-check-the-surprising-return-of-analog-security) `2 years ago`
@@ -169,7 +170,6 @@ I build APIs, services, database-backed applications, integrations, and infrastr
 - [From Passwords to Passkeys: The Future of Authentication](https://www.strongpasswordmeter.com/en/blog/from-passwords-to-passkeys) `2 years ago`
 - [Why Length Trumps Complexity: The New Rules of Password Security](https://www.strongpasswordmeter.com/en/blog/why-length-trumps-complexity) `2 years ago`
 - [The Complete Guide to Password Managers in 2025](https://www.strongpasswordmeter.com/en/blog/the-complete-guide-to-password-managers-in-2025) `2 years ago`
-- [Brute Force Attacks Are Back: How to Protect Your Accounts in 2025](https://www.strongpasswordmeter.com/en/blog/brute-force-attacks-are-back) `2 years ago`
 
 
 - [Google Cloud Shell, my new home](https://comfucios.github.io/posts/google-cloud-shell-my-new-home/) `4 years ago`
