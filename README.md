@@ -112,7 +112,7 @@ I build APIs, services, database-backed applications, integrations, and infrastr
 - [pullminder/cli](https://github.com/pullminder/cli) — Pullminder CLI releases `4 months ago`
 - [pullminder/npm](https://github.com/pullminder/npm) — npm wrapper for Pullminder CLI `4 months ago`
 - [pullminder/action](https://github.com/pullminder/action) — GitHub Action for Pullminder registry validation `4 months ago`
-- [pullminder/homebrew-tap](https://github.com/pullminder/homebrew-tap) — Homebrew tap for Pullminder CLI `4 months ago`
+- [pullminder/homebrew-tap](https://github.com/pullminder/homebrew-tap) — Homebrew tap for Pullminder CLI `5 months ago`
 - [CoMfUcIoS/second-brain-mcp](https://github.com/CoMfUcIoS/second-brain-mcp) — An MCP (Model Context Protocol) server that provides intelligent read-only access to your Obsidian vault, enabling it to function as a &#34;second brain&#34; for LLMs. `5 months ago`
 
 ---
@@ -144,13 +144,13 @@ I build APIs, services, database-backed applications, integrations, and infrastr
 ## Recent pull requests
 
 
-- [Nightly E2E test — 42011948018](https://github.com/Upmate/pullminder-e2e-test/pull/204) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `today`
-- [Nightly E2E test — 41815773222](https://github.com/Upmate/pullminder-e2e-test/pull/203) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `1 day ago`
-- [Nightly E2E test — 41620917348](https://github.com/Upmate/pullminder-e2e-test/pull/202) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `2 days ago`
-- [Nightly E2E test — 41431443647](https://github.com/Upmate/pullminder-e2e-test/pull/201) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `3 days ago`
-- [Nightly E2E test — 41296680103](https://github.com/Upmate/pullminder-e2e-test/pull/200) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `4 days ago`
-- [Nightly E2E test — 41188701338](https://github.com/Upmate/pullminder-e2e-test/pull/199) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `5 days ago`
-- [Nightly E2E test — 41035879389](https://github.com/Upmate/pullminder-e2e-test/pull/198) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `6 days ago`
+- [Nightly E2E test — 42011948018](https://github.com/Upmate/pullminder-e2e-test/pull/204) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `1 day ago`
+- [Nightly E2E test — 41815773222](https://github.com/Upmate/pullminder-e2e-test/pull/203) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `2 days ago`
+- [Nightly E2E test — 41620917348](https://github.com/Upmate/pullminder-e2e-test/pull/202) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `3 days ago`
+- [Nightly E2E test — 41431443647](https://github.com/Upmate/pullminder-e2e-test/pull/201) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `4 days ago`
+- [Nightly E2E test — 41296680103](https://github.com/Upmate/pullminder-e2e-test/pull/200) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `5 days ago`
+- [Nightly E2E test — 41188701338](https://github.com/Upmate/pullminder-e2e-test/pull/199) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `6 days ago`
+- [Nightly E2E test — 41035879389](https://github.com/Upmate/pullminder-e2e-test/pull/198) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `1 week ago`
 - [Nightly E2E test — 40851503302](https://github.com/Upmate/pullminder-e2e-test/pull/197) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `1 week ago`
 - [Nightly E2E test — 40664412668](https://github.com/Upmate/pullminder-e2e-test/pull/196) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `1 week ago`
 - [Nightly E2E test — 40476024580](https://github.com/Upmate/pullminder-e2e-test/pull/195) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `1 week ago`
@@ -160,8 +160,8 @@ I build APIs, services, database-backed applications, integrations, and infrastr
 ## Recent writing
 
 
-- [Microsoft Authenticator&#39;s Android token flaw: update first, don&#39;t panic](https://www.strongpasswordmeter.com/en/blog/microsoft-authenticator-android-token-flaw) `3 days ago`
-- [Lost Your Phone? Make an Account Recovery Plan Before You Need One](https://www.strongpasswordmeter.com/en/blog/backup-codes-account-recovery-plan) `6 days ago`
+- [Microsoft Authenticator&#39;s Android token flaw: update first, don&#39;t panic](https://www.strongpasswordmeter.com/en/blog/microsoft-authenticator-android-token-flaw) `4 days ago`
+- [Lost Your Phone? Make an Account Recovery Plan Before You Need One](https://www.strongpasswordmeter.com/en/blog/backup-codes-account-recovery-plan) `1 week ago`
 - [Gmail Has 48 Million Usernames and Passwords Exposed: What This Really Means (And What To Do Now)](https://www.strongpasswordmeter.com/en/blog/gmail-has-48000000-usernames-and-passwords-exposed) `9 months ago`
 - [25 Strong Password Examples You Can Actually Remember (2025 Guide)](https://www.strongpasswordmeter.com/en/blog/25-strong-password-examples-2025) `1 year ago`
 - [Password Notebook Reality Check: The Surprising Return of Analog Security (And How to Do It Properly)](https://www.strongpasswordmeter.com/en/blog/password-notebook-reality-check-the-surprising-return-of-analog-security) `2 years ago`
