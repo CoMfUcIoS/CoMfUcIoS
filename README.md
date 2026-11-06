@@ -160,6 +160,7 @@ I build APIs, services, database-backed applications, integrations, and infrastr
 ## Recent writing
 
 
+- [mSecure&#39;s cloud vault warning: which passwords should you change first?](https://www.strongpasswordmeter.com/en/blog/msecure-cloud-vault-warning) `today`
 - [Microsoft Authenticator&#39;s Android token flaw: update first, don&#39;t panic](https://www.strongpasswordmeter.com/en/blog/microsoft-authenticator-android-token-flaw) `4 days ago`
 - [Lost Your Phone? Make an Account Recovery Plan Before You Need One](https://www.strongpasswordmeter.com/en/blog/backup-codes-account-recovery-plan) `1 week ago`
 - [Gmail Has 48 Million Usernames and Passwords Exposed: What This Really Means (And What To Do Now)](https://www.strongpasswordmeter.com/en/blog/gmail-has-48000000-usernames-and-passwords-exposed) `9 months ago`
@@ -169,7 +170,6 @@ I build APIs, services, database-backed applications, integrations, and infrastr
 - [The Rise of Quantum Computing and Its Impact on Password Security](https://www.strongpasswordmeter.com/en/blog/quantum-computing-password-security-threat) `2 years ago`
 - [The 20M OpenAI Credential Leak: What You Need to Know](https://www.strongpasswordmeter.com/en/blog/openai-20m-credential-leak) `2 years ago`
 - [From Passwords to Passkeys: The Future of Authentication](https://www.strongpasswordmeter.com/en/blog/from-passwords-to-passkeys) `2 years ago`
-- [Why Length Trumps Complexity: The New Rules of Password Security](https://www.strongpasswordmeter.com/en/blog/why-length-trumps-complexity) `2 years ago`
 
 
 - [Google Cloud Shell, my new home](https://comfucios.github.io/posts/google-cloud-shell-my-new-home/) `4 years ago`
