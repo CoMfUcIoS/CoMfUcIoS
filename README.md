@@ -106,8 +106,8 @@ I build APIs, services, database-backed applications, integrations, and infrastr
 
 - [CoMfUcIoS/kite](https://github.com/CoMfUcIoS/kite) — A bird-eye view of every git repo in a directory `1 month ago`
 - [CoMfUcIoS/neovim](https://github.com/CoMfUcIoS/neovim) — My configuration of Neovim. `1 month ago`
-- [pullminder/registry](https://github.com/pullminder/registry) — Official Pullminder rule pack registry — detection and policy packs for automated PR review `4 months ago`
 - [CoMfUcIoS/vw](https://github.com/CoMfUcIoS/vw) — opinionated command-line interface for Bitwarden and Vaultwarden `4 months ago`
+- [pullminder/registry](https://github.com/pullminder/registry) — Official Pullminder rule pack registry — detection and policy packs for automated PR review `4 months ago`
 - [pullminder/.github](https://github.com/pullminder/.github) —  `4 months ago`
 - [pullminder/cli](https://github.com/pullminder/cli) — Pullminder CLI releases `5 months ago`
 - [pullminder/npm](https://github.com/pullminder/npm) — npm wrapper for Pullminder CLI `5 months ago`
@@ -144,6 +144,7 @@ I build APIs, services, database-backed applications, integrations, and infrastr
 ## Recent pull requests
 
 
+- [Nightly E2E test — 42606734672](https://github.com/Upmate/pullminder-e2e-test/pull/208) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `today`
 - [Nightly E2E test — 42469561625](https://github.com/Upmate/pullminder-e2e-test/pull/207) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `1 day ago`
 - [Nightly E2E test — 42361257619](https://github.com/Upmate/pullminder-e2e-test/pull/206) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `2 days ago`
 - [Nightly E2E test — 42204065561](https://github.com/Upmate/pullminder-e2e-test/pull/205) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `3 days ago`
@@ -153,13 +154,13 @@ I build APIs, services, database-backed applications, integrations, and infrastr
 - [Nightly E2E test — 41431443647](https://github.com/Upmate/pullminder-e2e-test/pull/201) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `1 week ago`
 - [Nightly E2E test — 41296680103](https://github.com/Upmate/pullminder-e2e-test/pull/200) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `1 week ago`
 - [Nightly E2E test — 41188701338](https://github.com/Upmate/pullminder-e2e-test/pull/199) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `1 week ago`
-- [Nightly E2E test — 41035879389](https://github.com/Upmate/pullminder-e2e-test/pull/198) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `1 week ago`
 
 ---
 
 ## Recent writing
 
 
+- [Chainalysis breach: reset passwords and API keys in the right order](https://www.strongpasswordmeter.com/en/blog/chainalysis-credential-exposure-response) `today`
 - [mSecure&#39;s cloud vault warning: which passwords should you change first?](https://www.strongpasswordmeter.com/en/blog/msecure-cloud-vault-warning) `3 days ago`
 - [Microsoft Authenticator&#39;s Android token flaw: update first, don&#39;t panic](https://www.strongpasswordmeter.com/en/blog/microsoft-authenticator-android-token-flaw) `1 week ago`
 - [Lost Your Phone? Make an Account Recovery Plan Before You Need One](https://www.strongpasswordmeter.com/en/blog/backup-codes-account-recovery-plan) `1 week ago`
@@ -169,7 +170,6 @@ I build APIs, services, database-backed applications, integrations, and infrastr
 - [The Psychology Behind Password Creation: Why We Choose Weak Passwords (And How to Break the Habit)](https://www.strongpasswordmeter.com/en/blog/the-psychology-behind-password-creation) `2 years ago`
 - [The Rise of Quantum Computing and Its Impact on Password Security](https://www.strongpasswordmeter.com/en/blog/quantum-computing-password-security-threat) `2 years ago`
 - [The 20M OpenAI Credential Leak: What You Need to Know](https://www.strongpasswordmeter.com/en/blog/openai-20m-credential-leak) `2 years ago`
-- [From Passwords to Passkeys: The Future of Authentication](https://www.strongpasswordmeter.com/en/blog/from-passwords-to-passkeys) `2 years ago`
 
 
 - [Google Cloud Shell, my new home](https://comfucios.github.io/posts/google-cloud-shell-my-new-home/) `4 years ago`
