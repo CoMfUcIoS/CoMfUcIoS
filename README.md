@@ -1,91 +1,42 @@
+# Ioannis Karasavvaidis
 
+Principal-level engineer in Belfast, building software professionally since 2000: backend, frontend, data, cloud and security. These days I'm a software engineer at **Upwind Security**, working on CloudScanner.
 
-<div align="center">
+[greekdev.io](https://www.greekdev.io) · [LinkedIn](https://linkedin.com/in/johnkarasavvaidis) · the@greekdev.io
 
-# Hello, I’m Ioannis Karasavvaidis 👋
+## Now
 
-### Full-stack Developer · Product Builder · Automation Enthusiast
+- **Upwind Security**: small skunkworks team on CloudScanner, Upwind's agentless scanner for workloads on AWS, Azure, GCP and OCI.
+- **Studio110**: my product engineering studio. With [Upmate](https://github.com/Upmate) we build and run e-commerce platforms, and I build products of my own.
 
-I build practical web products, developer tools, dashboards, APIs, automations, and scalable systems.
+## Before
 
-<img src="https://komarev.com/ghpvc/?username=comfucios&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+**Puppet / Perforce, 2017–2026.** Principal engineer and tech lead. Founding engineer on Puppet Comply and Puppet CloudOps, a multi-cloud FinOps platform where p95 queries went from ~20s to sub-second. Created the [Puppet Installation Manager](https://www.puppet.com/downloads/puppet-installation-manager), a guided Go TUI for installing Puppet Enterprise. Grew the team from 5 to 18.
 
-</div>
+## Products
 
----
+- **[Pullminder](https://pullminder.com)**: risk scores, policy gates and a reviewer brief for every pull request. GitHub App, [CLI](https://github.com/pullminder/cli), CI Action and a public [rule registry](https://github.com/pullminder/registry).
+- **[TTYper](https://ttyper.com)**: typing practice and races over SSH. Try `ssh ttyper.com`.
 
-## About me
+## Open source
 
-I’m a full-stack developer based in the UK with a strong interest in building clean, reliable, and useful software.  
-I enjoy working across the full product lifecycle, from idea and architecture to deployment, monitoring, and continuous improvement.
+- [second-brain-mcp](https://github.com/CoMfUcIoS/second-brain-mcp): MCP server that gives LLMs read-only access to an Obsidian vault. ![stars](https://img.shields.io/github/stars/CoMfUcIoS/second-brain-mcp?style=flat&label=%E2%98%85)
+- [kite](https://github.com/CoMfUcIoS/kite): one terminal view of every git repo in a directory: branches, dirty state, PRs, CI. ![stars](https://img.shields.io/github/stars/CoMfUcIoS/kite?style=flat&label=%E2%98%85)
+- [vw](https://github.com/CoMfUcIoS/vw): friendlier CLI for Bitwarden and Vaultwarden, on top of the official `bw`.
+- [codex-mcp-server](https://github.com/CoMfUcIoS/codex-mcp-server): extended fork of [tuannvm/codex-mcp-server](https://github.com/tuannvm/codex-mcp-server) with streaming, paging and sessions, published as `@comfucios/codex-mcp-server`.
+- [GraphQLens](https://github.com/CoMfUcIoS/GraphQLens): Chrome DevTools extension for inspecting and mocking GraphQL traffic.
+- [console-inline.nvim](https://github.com/CoMfUcIoS/console-inline.nvim): Neovim plugin that shows console output inline, next to the code that logged it.
+- [socket.io-pouch](https://github.com/CoMfUcIoS/socket.io-pouch): PouchDB and CouchDB replication over Socket.io. ![stars](https://img.shields.io/github/stars/CoMfUcIoS/socket.io-pouch?style=flat&label=%E2%98%85)
 
-My work usually sits at the intersection of:
+## Stack
 
-- Web applications and SaaS products
-- Backend systems and APIs
-- Automation and productivity tools
-- Developer experience
-- Infrastructure, CI/CD, and deployment workflows
-- Security-conscious product development
-
-```yaml
-name: Ioannis Karasavvaidis
-github: comfucios
-location: United Kingdom
-role: Full-stack Developer
-focus:
-  - Full-stack web development
-  - Automation
-  - Developer tools
-  - SaaS products
-  - Scalable backend systems
-principles:
-  - Keep solutions simple and maintainable
-  - Automate repetitive work
-  - Build for real users
-  - Write code that future-me can understand
-```
-
----
-
-## What I do
-
-<table>
-<tr>
-<td width="50%">
-
-### Product engineering
-
-I design and build web applications, dashboards, APIs, admin systems, and internal tools with a focus on usability, maintainability, and long-term value.
-
-</td>
-<td width="50%">
-
-### Systems and automation
-
-I enjoy connecting services, improving workflows, setting up reliable deployments, and automating the repetitive parts of development and operations.
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### Frontend development
-
-I work with modern frontend stacks to create clean, responsive, and accessible user interfaces.
-
-</td>
-<td width="50%">
-
-### Backend development
-
-I build APIs, services, database-backed applications, integrations, and infrastructure-aware backend systems.
-
-</td>
-</tr>
-</table>
-
----
+- **Languages:** Go · TypeScript · JavaScript · Python · Ruby · PHP · SQL · Bash
+- **Frontend:** React · TanStack Start / Router / Query · Astro · Vite · Tailwind CSS · Apollo Client
+- **Backend:** Go microservices · Node.js · GraphQL (Apollo Federation, gqlgen) · REST · gRPC · WebSockets · Bubble Tea TUIs
+- **Data:** PostgreSQL · ClickHouse · MySQL / Galera · Redis · Kafka · AWS SQS · Meilisearch · Solr
+- **Cloud & infra:** AWS · GCP · Azure · OCI · Cloudflare Workers · Kubernetes · KEDA · Helm · Docker · Terraform · Puppet · Bolt · GitHub Actions
+- **Observability:** Prometheus · Grafana · OpenTelemetry · ELK / OpenSearch
+- **AI engineering:** Claude Code · MCP servers · agentic SDLC
 
 ## GitHub activity
 
@@ -96,180 +47,5 @@ I build APIs, services, database-backed applications, integrations, and infrastr
 <br />
 
 <img src="profile-3d-contrib/profile-gitblock.svg" alt="3D contribution calendar" />
-
-</div>
-
----
-
-## Current work
-
-
-- [CoMfUcIoS/kite](https://github.com/CoMfUcIoS/kite) — A bird-eye view of every git repo in a directory `1 month ago`
-- [CoMfUcIoS/neovim](https://github.com/CoMfUcIoS/neovim) — My configuration of Neovim. `1 month ago`
-- [pullminder/registry](https://github.com/pullminder/registry) — Official Pullminder rule pack registry — detection and policy packs for automated PR review `4 months ago`
-- [CoMfUcIoS/vw](https://github.com/CoMfUcIoS/vw) — opinionated command-line interface for Bitwarden and Vaultwarden `4 months ago`
-- [pullminder/.github](https://github.com/pullminder/.github) —  `4 months ago`
-- [pullminder/cli](https://github.com/pullminder/cli) — Pullminder CLI releases `5 months ago`
-- [pullminder/npm](https://github.com/pullminder/npm) — npm wrapper for Pullminder CLI `5 months ago`
-- [pullminder/action](https://github.com/pullminder/action) — GitHub Action for Pullminder registry validation `5 months ago`
-- [pullminder/homebrew-tap](https://github.com/pullminder/homebrew-tap) — Homebrew tap for Pullminder CLI `5 months ago`
-- [CoMfUcIoS/second-brain-mcp](https://github.com/CoMfUcIoS/second-brain-mcp) — An MCP (Model Context Protocol) server that provides intelligent read-only access to your Obsidian vault, enabling it to function as a &#34;second brain&#34; for LLMs. `5 months ago`
-
----
-
-## Latest releases I’ve contributed to
-
-
-- [CoMfUcIoS/kite](https://github.com/CoMfUcIoS/kite) — [v0.12.0](https://github.com/CoMfUcIoS/kite/releases/tag/v0.12.0), `1 month ago`  
-  A bird-eye view of every git repo in a directory
-- [pullminder/registry](https://github.com/pullminder/registry) — [v10](https://github.com/pullminder/registry/releases/tag/v10), `4 months ago`  
-  Official Pullminder rule pack registry — detection and policy packs for automated PR review
-- [pullminder/cli](https://github.com/pullminder/cli) — [v0.1.26](https://github.com/pullminder/cli/releases/tag/v0.1.26), `4 months ago`  
-  Pullminder CLI releases
-- [pullminder/action](https://github.com/pullminder/action) — [v1.0.3](https://github.com/pullminder/action/releases/tag/v1.0.3), `5 months ago`  
-  GitHub Action for Pullminder registry validation
-- [CoMfUcIoS/vw](https://github.com/CoMfUcIoS/vw) — [v0.2.0](https://github.com/CoMfUcIoS/vw/releases/tag/v0.2.0), `5 months ago`  
-  opinionated command-line interface for Bitwarden and Vaultwarden
-- [CoMfUcIoS/GraphQLens](https://github.com/CoMfUcIoS/GraphQLens) — [v1.0.3](https://github.com/CoMfUcIoS/GraphQLens/releases/tag/v1.0.3), `6 months ago`  
-  A performant, modern Chrome DevTools extension for inspecting &amp; mocking GraphQL traffic
-- [CoMfUcIoS/second-brain-mcp](https://github.com/CoMfUcIoS/second-brain-mcp) — [v0.2.1](https://github.com/CoMfUcIoS/second-brain-mcp/releases/tag/v0.2.1), `6 months ago`  
-  An MCP (Model Context Protocol) server that provides intelligent read-only access to your Obsidian vault, enabling it to function as a &#34;second brain&#34; for LLMs.
-- [CoMfUcIoS/console-inline.nvim](https://github.com/CoMfUcIoS/console-inline.nvim) — [console-inline.nvim-v3.1.0](https://github.com/CoMfUcIoS/console-inline.nvim/releases/tag/console-inline.nvim-v3.1.0), `11 months ago`  
-  Zero-config Neovim plugin for inline console logs
-- [CoMfUcIoS/ConventionalComments-ext](https://github.com/CoMfUcIoS/ConventionalComments-ext) — [v2.3.0](https://github.com/CoMfUcIoS/ConventionalComments-ext/releases/tag/v2.3.0), `11 months ago`  
-  An easy way to help you be kind and insert Conventional comments in GH comments
-
----
-
-## Recent pull requests
-
-
-- [Nightly E2E test — 42802996494](https://github.com/Upmate/pullminder-e2e-test/pull/209) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `1 day ago`
-- [Nightly E2E test — 42606734672](https://github.com/Upmate/pullminder-e2e-test/pull/208) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `2 days ago`
-- [Nightly E2E test — 42469561625](https://github.com/Upmate/pullminder-e2e-test/pull/207) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `3 days ago`
-- [Nightly E2E test — 42361257619](https://github.com/Upmate/pullminder-e2e-test/pull/206) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `4 days ago`
-- [Nightly E2E test — 42204065561](https://github.com/Upmate/pullminder-e2e-test/pull/205) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `5 days ago`
-- [Nightly E2E test — 42011948018](https://github.com/Upmate/pullminder-e2e-test/pull/204) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `6 days ago`
-- [Nightly E2E test — 41815773222](https://github.com/Upmate/pullminder-e2e-test/pull/203) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `1 week ago`
-- [Nightly E2E test — 41620917348](https://github.com/Upmate/pullminder-e2e-test/pull/202) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `1 week ago`
-- [Nightly E2E test — 41431443647](https://github.com/Upmate/pullminder-e2e-test/pull/201) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `1 week ago`
-- [Nightly E2E test — 41296680103](https://github.com/Upmate/pullminder-e2e-test/pull/200) on [Upmate/pullminder-e2e-test](https://github.com/Upmate/pullminder-e2e-test) `1 week ago`
-
----
-
-## Recent writing
-
-
-- [Chainalysis breach: reset passwords and API keys in the right order](https://www.strongpasswordmeter.com/en/blog/chainalysis-credential-exposure-response) `2 days ago`
-- [mSecure&#39;s cloud vault warning: which passwords should you change first?](https://www.strongpasswordmeter.com/en/blog/msecure-cloud-vault-warning) `5 days ago`
-- [Microsoft Authenticator&#39;s Android token flaw: update first, don&#39;t panic](https://www.strongpasswordmeter.com/en/blog/microsoft-authenticator-android-token-flaw) `1 week ago`
-- [Lost Your Phone? Make an Account Recovery Plan Before You Need One](https://www.strongpasswordmeter.com/en/blog/backup-codes-account-recovery-plan) `1 week ago`
-- [Gmail Has 48 Million Usernames and Passwords Exposed: What This Really Means (And What To Do Now)](https://www.strongpasswordmeter.com/en/blog/gmail-has-48000000-usernames-and-passwords-exposed) `9 months ago`
-- [25 Strong Password Examples You Can Actually Remember (2025 Guide)](https://www.strongpasswordmeter.com/en/blog/25-strong-password-examples-2025) `1 year ago`
-- [Password Notebook Reality Check: The Surprising Return of Analog Security (And How to Do It Properly)](https://www.strongpasswordmeter.com/en/blog/password-notebook-reality-check-the-surprising-return-of-analog-security) `2 years ago`
-- [The Psychology Behind Password Creation: Why We Choose Weak Passwords (And How to Break the Habit)](https://www.strongpasswordmeter.com/en/blog/the-psychology-behind-password-creation) `2 years ago`
-- [The Rise of Quantum Computing and Its Impact on Password Security](https://www.strongpasswordmeter.com/en/blog/quantum-computing-password-security-threat) `2 years ago`
-- [The 20M OpenAI Credential Leak: What You Need to Know](https://www.strongpasswordmeter.com/en/blog/openai-20m-credential-leak) `2 years ago`
-
-
-- [Google Cloud Shell, my new home](https://comfucios.github.io/posts/google-cloud-shell-my-new-home/) `4 years ago`
-- [The `Cloud` is upon us](https://comfucios.github.io/posts/the-cloud-is-upon-us/) `4 years ago`
-- [Blog&#39;s story](https://comfucios.github.io/posts/blogs-story/) `5 years ago`
-
----
-
-## Recent followers
-
-
-- [dioptx](https://github.com/dioptx)
-- [Jo-Lillie](https://github.com/Jo-Lillie)
-- [vine77](https://github.com/vine77)
-- [Aaronoftheages](https://github.com/Aaronoftheages)
-- [AkashChikanep4](https://github.com/AkashChikanep4)
-
----
-
-## Technical toolkit
-
-### Core stack
-
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,nextjs,vue,php,laravel,python,django,go,rust" alt="Core stack" />
-</p>
-
-### Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,webpack,babel,redux,figma" alt="Frontend tools" />
-</p>
-
-### Backend, databases and APIs
-
-<p>
-  <img src="https://skillicons.dev/icons?i=express,mongodb,mysql,postgres,sqlite,redis,firebase,graphql,nginx" alt="Backend and databases" />
-</p>
-
-### DevOps, cloud and workflow
-
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,gcp,linux,bash,git,github,githubactions,jenkins" alt="DevOps tools" />
-</p>
-
-### Testing, mobile and additional tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=jest,cypress,selenium,postman,tensorflow,flutter,electron,android,arduino" alt="Testing and additional tools" />
-</p>
-
-<details>
-<summary><strong>Additional technologies I have worked with</strong></summary>
-
-<br />
-
-Android · Appwrite · Arduino · Babel · Bash · Blender · CanvasJS · Chart.js · CircleCI · Clojure · CodeIgniter · CouchDB · Cypress · D3.js · Django · Docker · Elasticsearch · Electron · Ember · Express · Figma · Firebase · Flask · Flutter · Gatsby · Google Cloud · Git · Go · Grafana · GraphQL · Gulp · HTML5 · Hugo · IFTTT · InVision · Ionic · Jasmine · Java · JavaScript · Jekyll · Jenkins · Jest · Kibana · Kubernetes · Laravel · Linux · MariaDB · Materialize · Mocha · MongoDB · MSSQL · MySQL · Next.js · Nginx · Node.js · Pandas · Photoshop · PHP · PostgreSQL · Postman · Python · RabbitMQ · React · React Native · Redis · Redux · Ruby · Rust · Sass · Selenium · Sketch · Solr · SQLite · Tailwind CSS · TensorFlow · Travis CI · TypeScript · Vagrant · Vue.js · Webpack
-
-</details>
-
----
-
-## Professional interests
-
-- Building polished, production-ready web applications
-- Improving developer workflows and internal tools
-- Creating secure and practical digital products
-- Reducing manual work through automation
-- Designing systems that are easy to maintain and extend
-- Exploring AI-assisted development and productivity workflows
-
----
-
-## Connect with me
-
-<p>
-  <a href="https://twitter.com/comfucios" target="_blank">
-    <img src="https://img.shields.io/badge/X%20%2F%20Twitter-@comfucios-111111?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter" />
-  </a>
-  <a href="https://linkedin.com/in/johnkarasavvaidis" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Ioannis%20Karasavvaidis-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://fb.com/comfucios" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-comfucios-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
-  <a href="https://instagram.com/comfucios" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-comfucios-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-</p>
-
-You can also reach me by email:
-
-**the@GreekDev.io**
-
----
-
-<div align="center">
-
-### Thanks for visiting
-
-Explore my repositories, check out what I’m building, or reach out if you want to collaborate on something useful.
 
 </div>
