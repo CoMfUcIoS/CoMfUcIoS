@@ -28,6 +28,13 @@ Principal-level engineer in Belfast, building software professionally since 2000
 - [console-inline.nvim](https://github.com/CoMfUcIoS/console-inline.nvim): Neovim plugin that shows console output inline, next to the code that logged it.
 - [socket.io-pouch](https://github.com/CoMfUcIoS/socket.io-pouch): PouchDB and CouchDB replication over Socket.io. ![stars](https://img.shields.io/github/stars/CoMfUcIoS/socket.io-pouch?style=flat&label=%E2%98%85)
 
+## Writing
+
+Latest from the [Strong Password Meter blog](https://www.strongpasswordmeter.com/en/blog):
+{{range rss "https://www.strongpasswordmeter.com/feed.xml" 5}}
+- [{{.Title}}]({{.URL}}) `{{humanize .PublishedAt}}`
+{{- end}}
+
 ## Stack
 
 - **Languages:** Go · TypeScript · JavaScript · Python · Ruby · PHP · SQL · Bash
