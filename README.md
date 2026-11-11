@@ -28,6 +28,16 @@ Principal-level engineer in Belfast, building software professionally since 2000
 - [console-inline.nvim](https://github.com/CoMfUcIoS/console-inline.nvim): Neovim plugin that shows console output inline, next to the code that logged it.
 - [socket.io-pouch](https://github.com/CoMfUcIoS/socket.io-pouch): PouchDB and CouchDB replication over Socket.io. ![stars](https://img.shields.io/github/stars/CoMfUcIoS/socket.io-pouch?style=flat&label=%E2%98%85)
 
+## Writing
+
+Latest from the [Strong Password Meter blog](https://www.strongpasswordmeter.com/en/blog):
+
+- [Chainalysis breach: reset passwords and API keys in the right order](https://www.strongpasswordmeter.com/en/blog/chainalysis-credential-exposure-response) `2 days ago`
+- [mSecure&#39;s cloud vault warning: which passwords should you change first?](https://www.strongpasswordmeter.com/en/blog/msecure-cloud-vault-warning) `5 days ago`
+- [Microsoft Authenticator&#39;s Android token flaw: update first, don&#39;t panic](https://www.strongpasswordmeter.com/en/blog/microsoft-authenticator-android-token-flaw) `1 week ago`
+- [Lost Your Phone? Make an Account Recovery Plan Before You Need One](https://www.strongpasswordmeter.com/en/blog/backup-codes-account-recovery-plan) `1 week ago`
+- [Gmail Has 48 Million Usernames and Passwords Exposed: What This Really Means (And What To Do Now)](https://www.strongpasswordmeter.com/en/blog/gmail-has-48000000-usernames-and-passwords-exposed) `9 months ago`
+
 ## Stack
 
 - **Languages:** Go · TypeScript · JavaScript · Python · Ruby · PHP · SQL · Bash
