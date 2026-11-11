@@ -19,27 +19,14 @@ Principal-level engineer in Belfast, building software professionally since 2000
 - **[TTYper](https://ttyper.com)**: typing practice and races over SSH. Try `ssh ttyper.com`.
 
 ## Open source
-{{with repo "CoMfUcIoS" "second-brain-mcp"}}
-- [{{.Name}}]({{.URL}}): MCP server that gives LLMs read-only access to an Obsidian vault. ★{{.Stargazers}}
-{{- end}}
-{{- with repo "CoMfUcIoS" "kite"}}
-- [{{.Name}}]({{.URL}}): one terminal view of every git repo in a directory: branches, dirty state, PRs, CI. ★{{.Stargazers}}
-{{- end}}
-{{- with repo "CoMfUcIoS" "vw"}}
-- [{{.Name}}]({{.URL}}): friendlier CLI for Bitwarden and Vaultwarden, on top of the official `bw`.
-{{- end}}
-{{- with repo "CoMfUcIoS" "codex-mcp-server"}}
-- [{{.Name}}]({{.URL}}): extended fork of [tuannvm/codex-mcp-server](https://github.com/tuannvm/codex-mcp-server) with streaming, paging and sessions, published as `@comfucios/codex-mcp-server`.
-{{- end}}
-{{- with repo "CoMfUcIoS" "GraphQLens"}}
-- [{{.Name}}]({{.URL}}): Chrome DevTools extension for inspecting and mocking GraphQL traffic.
-{{- end}}
-{{- with repo "CoMfUcIoS" "console-inline.nvim"}}
-- [{{.Name}}]({{.URL}}): Neovim plugin that shows console output inline, next to the code that logged it.
-{{- end}}
-{{- with repo "CoMfUcIoS" "socket.io-pouch"}}
-- [{{.Name}}]({{.URL}}): PouchDB and CouchDB replication over Socket.io. ★{{.Stargazers}}
-{{- end}}
+
+- [second-brain-mcp](https://github.com/CoMfUcIoS/second-brain-mcp): MCP server that gives LLMs read-only access to an Obsidian vault. ![stars](https://img.shields.io/github/stars/CoMfUcIoS/second-brain-mcp?style=flat&label=%E2%98%85)
+- [kite](https://github.com/CoMfUcIoS/kite): one terminal view of every git repo in a directory: branches, dirty state, PRs, CI. ![stars](https://img.shields.io/github/stars/CoMfUcIoS/kite?style=flat&label=%E2%98%85)
+- [vw](https://github.com/CoMfUcIoS/vw): friendlier CLI for Bitwarden and Vaultwarden, on top of the official `bw`.
+- [codex-mcp-server](https://github.com/CoMfUcIoS/codex-mcp-server): extended fork of [tuannvm/codex-mcp-server](https://github.com/tuannvm/codex-mcp-server) with streaming, paging and sessions, published as `@comfucios/codex-mcp-server`.
+- [GraphQLens](https://github.com/CoMfUcIoS/GraphQLens): Chrome DevTools extension for inspecting and mocking GraphQL traffic.
+- [console-inline.nvim](https://github.com/CoMfUcIoS/console-inline.nvim): Neovim plugin that shows console output inline, next to the code that logged it.
+- [socket.io-pouch](https://github.com/CoMfUcIoS/socket.io-pouch): PouchDB and CouchDB replication over Socket.io. ![stars](https://img.shields.io/github/stars/CoMfUcIoS/socket.io-pouch?style=flat&label=%E2%98%85)
 
 ## Stack
 
