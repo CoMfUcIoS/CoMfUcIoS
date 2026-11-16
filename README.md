@@ -32,10 +32,10 @@ Principal-level engineer in Belfast, building software professionally since 2000
 
 Latest from the [Strong Password Meter blog](https://www.strongpasswordmeter.com/en/blog):
 
-- [Railway&#39;s stolen API keys: rotate secrets without breaking your app](https://www.strongpasswordmeter.com/en/blog/railway-api-keys-secret-rotation) `3 days ago`
-- [Chainalysis breach: reset passwords and API keys in the right order](https://www.strongpasswordmeter.com/en/blog/chainalysis-credential-exposure-response) `6 days ago`
+- [Railway&#39;s stolen API keys: rotate secrets without breaking your app](https://www.strongpasswordmeter.com/en/blog/railway-api-keys-secret-rotation) `4 days ago`
+- [Chainalysis breach: reset passwords and API keys in the right order](https://www.strongpasswordmeter.com/en/blog/chainalysis-credential-exposure-response) `1 week ago`
 - [mSecure&#39;s cloud vault warning: which passwords should you change first?](https://www.strongpasswordmeter.com/en/blog/msecure-cloud-vault-warning) `1 week ago`
-- [Microsoft Authenticator&#39;s Android token flaw: update first, don&#39;t panic](https://www.strongpasswordmeter.com/en/blog/microsoft-authenticator-android-token-flaw) `1 week ago`
+- [Microsoft Authenticator&#39;s Android token flaw: update first, don&#39;t panic](https://www.strongpasswordmeter.com/en/blog/microsoft-authenticator-android-token-flaw) `2 weeks ago`
 - [Lost Your Phone? Make an Account Recovery Plan Before You Need One](https://www.strongpasswordmeter.com/en/blog/backup-codes-account-recovery-plan) `2 weeks ago`
 
 ## Stack
