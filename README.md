@@ -32,8 +32,8 @@ Principal-level engineer in Belfast, building software professionally since 2000
 
 Latest from the [Strong Password Meter blog](https://www.strongpasswordmeter.com/en/blog):
 
-- [1Password&#39;s November breach: watch your inbox, not every password](https://www.strongpasswordmeter.com/en/blog/1password-breach-phishing-vault-safety) `1 day ago`
-- [VMware vCenter login bypass: patch it, then inspect admin access](https://www.strongpasswordmeter.com/en/blog/vmware-vcenter-login-bypass-admin-access) `4 days ago`
+- [1Password&#39;s November breach: watch your inbox, not every password](https://www.strongpasswordmeter.com/en/blog/1password-breach-phishing-vault-safety) `2 days ago`
+- [VMware vCenter login bypass: patch it, then inspect admin access](https://www.strongpasswordmeter.com/en/blog/vmware-vcenter-login-bypass-admin-access) `5 days ago`
 - [Poisoned Microsoft Python package: check these versions before rotating secrets](https://www.strongpasswordmeter.com/en/blog/agent-framework-pypi-credential-stealer) `1 week ago`
 - [Humble Bundle&#39;s missing 2FA: check your account before changing anything](https://www.strongpasswordmeter.com/en/blog/humble-bundle-2fa-redesign-account-check) `1 week ago`
 - [Railway&#39;s stolen API keys: rotate secrets without breaking your app](https://www.strongpasswordmeter.com/en/blog/railway-api-keys-secret-rotation) `2 weeks ago`
